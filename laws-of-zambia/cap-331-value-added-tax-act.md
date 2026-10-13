@@ -841,7 +841,7 @@ and interest on the amount concerned may, in an appropriate case, be recovered a
 
 (3) For the purposes of any provision of this Act or the regulations or rules under this Act relating to the collection or recovery of tax or interest, a reference in any such provision to a registered or taxable supplier shall include a reference to any person from whom tax or any interest is recoverable by virtue of this section.
 
-#### Section 23 — Attachment of debts, etc
+#### Section 23
 
 (1) Where any tax or interest due from a taxable supplier remains unpaid, the Commissioner-General may, by notice in writing, require any other person-
 
@@ -852,6 +852,8 @@ from whom any money is due, or is accruing or may become due, to the supplier;
 (b)
 
 who holds, or may subsequently hold, money on account of some person for or on account of, or for payment to, the supplier; or
+
+Attachment of debts, etc.
 
 (c)
 
@@ -947,7 +949,9 @@ Registration
 
 (6) In this section, "taxable turnover" means that part of the turnover of a business that is attributable to taxable supplies, calculated in a manner, and in respect of a period, prescribed by the Minister by statutory order.
 
-#### Section 29 — Failure to register, etc
+#### Section 29
+
+Failure to register, etc.
 
 A supplier who-
 

@@ -317,9 +317,11 @@ who is an established resident for the purpose of the exercise by the Minister o
 
 APPOINTMENTS AND POWERS
 
-#### Section 4 — Appointment of Chief Immigration Officer, etc
+#### Section 4
 
 (1) There shall be appointed as public officers a Chief Immigration Officer and such immigration officers and immigration assistants as shall be necessary for the proper administration of this Act.
+
+Appointment of Chief Immigration Officer, etc.
 
 (2) The Minister may by order confer all or any of the powers and impose all or any of the duties of an immigration officer under this Act upon any public officer or class of public officers.
 
@@ -431,11 +433,13 @@ being the holder of a visiting permit issued under section fifteen;
 
 to appear before an immigration officer at such place and within such time as may be specified in the notice.
 
-#### Section 12 — Security may be required from entrants
+#### Section 12
 
 (1) The Chief Immigration Officer may require in respect of any person entering Zambia, as a condition of his remaining therein, the deposit of a sum of money or the furnishing of such guarantee as the Chief Immigration Officer may accept in lieu of such deposit.
 
 (2) The Chief Immigration Officer shall specify-
+
+Security may be required from entrants
 
 (a)
 
@@ -907,9 +911,11 @@ The Chief Immigration Officer shall issue to any established resident who makes 
 
 Any written notice required under this Act to be served in person on any person may, if such person cannot be found, be published in the Gazette and shall be deemed to have been duly and properly served on the commencement of the day following the day of such publication.
 
-#### Section 35 — Reasons to be given for arrests or detention
+#### Section 35
 
 (1) Every person arrested or detained under the provisions of this Act shall be informed as soon as reasonably practicable in a language that he understands of the reason for his arrest or detention.
+
+Reasons to be given for arrests or detention
 
 (2) Notwithstanding the provisions of subsection (1), no person shall be entitled to be informed as to the grounds on which the Minister has made any decision under section twenty-two or twenty-six relating to him.
 

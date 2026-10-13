@@ -237,7 +237,7 @@ shall be guilty of an offence and liable on conviction to imprisonment for a ter
 
 (2) In a prosecution for a contravention of subsection (1) it shall be no defence for the accused person to prove that when he communicated the matter he did not know and could not reasonably have known that it was classified matter. (As amended by Act No. 17 of 1973)
 
-### Section 6 — Unauthorised use of uniforms, passes, etc
+### Section 6
 
 (1) Any person who, for the purpose of gaining or assisting any other person to gain admission to a protected place or for any other purpose prejudicial to the safety or interests of the Republic-
 
@@ -303,9 +303,11 @@ having harboured or concealed any such person or permitted any such persons to m
 
 shall be guilty of an offence and liable on conviction to imprisonment for a term of not less than fifteen years but not exceeding twenty-five years. (As amended by Act No. 17 of 1973)
 
-### Section 9 — Attempts, etc
+### Section 9
 
 Any person who attempts to commit any offence under this Act, or solicits or incites or endeavours to persuade another person to commit any such offence, or aids or abets or does any act preparatory to the commission of such an offence, shall be guilty of an offence and liable on conviction to the same penalties as if he had been convicted of that offence.
+
+Attempts, etc
 
 ### Section 10 — Presumptions
 

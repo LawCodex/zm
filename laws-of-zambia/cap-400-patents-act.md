@@ -517,9 +517,11 @@ Establishment of Patent Office
 
 Appointment of officers
 
-#### Section 5 — Seal
+#### Section 5
 
 There shall be a seal of the Patent Office, and impressions thereof shall be judicially noticed.
+
+Seal
 
 #### Section 6 — Register of patents
 
@@ -1311,7 +1313,7 @@ Patents of addition
 
 (5) An appeal shall lie from any decision of the Registrar under this section.
 
-#### Section 34 — Protective provisions to be inserted in order for restoration of patent
+#### Section 34
 
 In every order restoring a lapsed patent made under section thirty-three, there shall be inserted for the protection of persons who may have availed themselves of the subject-matter of the patent after a lapse of a period of three months from the date on which the renewal fee was due, the following provisions, namely, that the patentee shall not commence or prosecute any action or other proceedings or recover damages:
 
@@ -1322,6 +1324,8 @@ in respect of any infringement of the patent which has taken place after the lap
 (b)
 
 in respect of any use of the subject-matter of the patent at any time after the date of the order by the employment of any means or composition of matter actually made within or imported into Zambia, or in respect of any process put into operation in Zambia in infringement of the patent after the lapse of the said period and before the date of the order, or in respect of the sale, purchase or use of any article which is the product of the use of the said means, composition of matter or process:
+
+Protective provisions to be inserted in order for restoration of patent
 
 Provided that the employment of the said means, composition of matter or process shall be limited to the person by or for whom the said means, composition of matter or process was so made, imported or put into operation, his legal representative, his successors or assigns, or his vendees, as the case may be;
 
@@ -1927,9 +1931,11 @@ such damages, if any, as he has sustained thereby.
 
 (4) The defendant in any such action as aforesaid may apply, by way of counter-claim in the action, for any relief to which he would be entitled in a separate action in respect of any infringement by the plaintiff of the patent to which the threats relate. (As amended by G.N. No. 185 of 1964)
 
-#### Section 57 — Power of Court to make declaration as to non-infringement
+#### Section 57
 
 (1) A declaration that the use by any person of any process, or the making or use or sale by any person of any article, does not or would not constitute an infringement of a claim of a patent may be made by the Court in proceedings between that person and the patentee or the holder of an exclusive licence under the patent, notwithstanding that no assertion to the contrary has been made by the patentee or licensee, if it is shown-
+
+Power of Court to make declaration as to non-infringement
 
 (a)
 
@@ -2039,9 +2045,11 @@ Cap. 41
 
 (As amended by G.N. No. 185 of 1964)
 
-#### Section 66 — Advertisements to be approved by Registrar
+#### Section 66
 
 No advertisement or notice, other than a notice issued under the authority of the President or the Minister, shall be published by any person under the provisions of this Act unless it is in the prescribed form and the Registrar has approved the contents of such advertisement or notice, and no advertisement or notice which has not been so approved shall have any force or effect for the purposes of this Act.
+
+Advertisements to be approved by Registrar
 
 (As amended by G.N. No. 185 of 1964)
 

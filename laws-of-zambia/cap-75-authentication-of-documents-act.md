@@ -61,7 +61,7 @@ In this Act, unless the context otherwise requires-
 
 "document" means any deed, contract, power of attorney, affidavit, or other writing, but does not include an affidavit sworn before a Commissioner of the High Court. (As amended by S.I. No. 72 of 1964)
 
-### Section 3 — How documents executed outside Zambia are to be authenticated
+### Section 3
 
 Any document executed outside Zambia shall be deemed to be sufficiently authenticated for the purpose of use in Zambia if(a)
 

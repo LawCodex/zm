@@ -2891,7 +2891,7 @@ Abstract
 
 (b) Upon such rescission the Vendor shall return the deposit but without interest and the Purchaser shall return the Abstract and all papers belonging to the Vendor and shall have no claim against the Vendor for costs, compensation or otherwise. Leaseholds
 
-#### Section 8 — Council certificate of title to be conclusive evidence of interest in land
+#### Section 8
 
 (a) The title to leasehold property shall commence with the lease or underlease creating the term or interest sold.
 
@@ -2903,7 +2903,7 @@ Abstract
 
 (e) The Purchaser shall give to the reversioner at his own expense any notice required to be given after completion. Acknowledgment for production
 
-#### Section 9 — Registered encumbrances to be noted on council certificate
+#### Section 9
 
 The Purchaser shall not object to the absence or insufficiency of any covenant or acknowledgment or undertaking for the production of documents. Diagrams and beacons
 
@@ -2935,7 +2935,7 @@ Vacant possession
 
 Except as otherwise stated in the particulars or the special conditions vacant possession of the property will be given upon completion. Subdivision
 
-#### Section 13 — When documents deemed to be registered
+#### Section 13
 
 Where the property is a subdivision of a piece of land owned by the Vendor(a)
 
@@ -3165,7 +3165,7 @@ Column One
 
 Column Two executors, administrators, successors or assigns, shall on payment of all arrears under these presents, with lawful costs and charges in that behalf, at any time before any judgment in the premises recovered or within such time as by the practice of the High Court relief therein could be obtained, be relieved from the consequence of non-payment of so much of the money secured by these presents, or mentioned, or intended so to be as may not then have become payable by reason of lapse of time.
 
-#### Section 17 — Registrar may refuse to register document
+#### Section 17
 
 Provided that until default of payment the mortgagor shall have quiet possession of the said lands.
 

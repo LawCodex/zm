@@ -763,7 +763,7 @@ Repayment of benefit improperly received
 
 (2) Any person liable to repay any benefits received under subsection (1) shall repay the benefits and the Authority shall recover by deducting from any payment or benefit to which the person referred to in subsection (1) is entitled.
 
-#### Section 38 — Benefits to be inalienable
+#### Section 38
 
 Every assignment or charge on benefits and every agreement to assign or charge any benefit shall be void, and on the bankruptcy of a beneficiary the benefit shall not pass to any trustee or other person acting on behalf of creditors.
 
@@ -893,9 +893,11 @@ Action on actuarial report
 
 On the appointed date, there shall vest in, and be owned by the Authority without further assurance, all property, rights, liabilities and obligations which immediately before the appointed date, were the property, rights, liabilities and obligations of the existing fund.
 
-#### Section 47 — Registration of property to be transferred
+#### Section 47
 
 (1) All property, rights, liabilities or obligations of the existing fund shall be transferred to the Authority and where any written law provides for registration, the Authority shall make an application in writing to the proper officer or the appropriate registration authority for the registration of the transfer.
+
+Registration of property to be transferred
 
 (2) The proper officer referred to in subsection (1) shall make such entries in the appropriate register as shall give effect to the transfer and, where appropriate, issue the transferee concerned with a certificate to the register, as the case may be, and shall make endorsements on the deeds relating to the title, right or obligation concerned.
 

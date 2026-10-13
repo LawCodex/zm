@@ -271,11 +271,13 @@ Members of the Council and of its committees shall not receive any remuneration 
 
 (5) No stamp duty, transfer duty or other duty shall be payable in respect of any transfer of property to the Council. (No. 3 of 1970)
 
-### Section 12 — Discoveries and inventions to be vested in Council
+### Section 12
 
 (1) All rights in all discoveries, inventions and in all improvements in respect of processes, apparatus and machines made by persons in the employment of the Council or persons holding bursaries awarded by the Government or any other body in consultation with the Government shall be vested in the Council.
 
 (2) Discoveries, inventions and improvements mentioned in subsection (1) shall be made available by the Council for use in the public interest subject to such conditions and the payment of such fees or royalties as the Council may determine.
+
+Discoveries and inventions to be vested in Council
 
 (3) The Council may apply for letters patent in respect of any discovery, invention or improvement referred to in subsection (1) and shall, for that purpose, be regarded as the assignee of the discoverer or inventor. (No. 3 of 1970)
 

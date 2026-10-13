@@ -205,7 +205,7 @@ Cap. 184
 
 ### PART II — COMMON LEASEHOLD SCHEME
 
-#### Section 3 — Land may be subdivided by registering a common leasehold scheme
+#### Section 3
 
 (1) A parcel of land registered in the Lands Register together with the buildings on it, or proposed to be built on it, may be divided into units by registering a common leasehold scheme in the manner provided by this Act.
 
@@ -559,9 +559,11 @@ the extent to which the contribution has been paid by the unit-holder.
 
 By-laws of the body corporate
 
-#### Section 12 — Body corporate may enforce certain by-laws directly on occupiers of units
+#### Section 12
 
 Where a by-law under a common leasehold scheme places restrictions on the manner of use or enjoyment of units or of the common property, and the occupier or a unit fails to comply with the by-law, the body corporate shall have power to enforce the by-law directly against the occupier as if he were the unit-holder.
+
+Body corporate may enforce certain by-laws directly on occupiers of units
 
 #### Section 13 — Creation of easements and covenants
 

@@ -373,9 +373,11 @@ shall be guilty of an offence against this Act.
 
 No act or thing done or omitted to be done by any authorised officer or other person shall, if the act or omission was done or omitted bona fide while acting in the execution of his duty under this Act, subject him personally to any liability, action, claim or demand whatsoever.
 
-### Section 18 — Manner of publishing rules, orders, etc
+### Section 18
 
 (1) Save as provided in this section or any other law, rules, orders or directions under this Act may be published in such manner as the authority making the same considers appropriate in order to bring the same to the notice of the persons to whom they apply or who are affected thereby, and shall not be required to be published in the Gazette.
+
+Manner of publishing rules, orders, etc.
 
 (2) Any order or direction made or given under this Act which is applied or directed to a particular person shall, if in writing, be served on, or if not in writing, be given to, that person personally.
 

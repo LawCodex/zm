@@ -109,11 +109,13 @@ In this Act, unless the context otherwise requires-
 
 (2) Certificates shall be issued only to such persons as may be prescribed by regulations made under the provisions of this Act. (As amended by G.N. No. 315 of 1964)
 
-### Section 4 — Purpose for which money may be used
+### Section 4
 
 (1) From the total amount paid for the issue of Certificates under the provisions of this Act, the Postmaster-General shall retain such portion thereof as will in his estimation be necessary as a working balance to meet applications for repayment of Certificates, and shall thereafter remit the remainder of such amount to the Permanent Secretary who shall invest it and any interest earned thereon in such public stock, funds or debentures issued by the Government of Zambia or of any part of the Commonwealth as the Minister may from time to time authorise.
 
 (2) Any sum of money that may from time to time be required for the repayment of any Certificate may be raised by the sale of the whole or a part of the stock, funds or debentures purchased by the Permanent Secretary under the provisions of subsection (1):
+
+Purpose for which money may be used
 
 Provided that any sum of money which may be required for the purposes of such repayment may, with the approval of the Minister, be advanced to the Postmaster-General by the Permanent Secretary out of the general revenues of the Republic until it can be raised by the sale of such stock, funds or debentures. (As amended by G.N. No. 315 of 1964 and S.I. No. 159 of 1965)
 
@@ -149,13 +151,17 @@ The annual accounts of Certificates issued and Certificates repaid shall, after 
 
 (2) All documents and correspondence relating to Certificates passing between the Postmaster-General and any other person shall be transmitted by post within Zambia free of postage.
 
-### Section 11 — Name of purchaser of Certificate not to be disclosed
+### Section 11
 
 Neither the Postmaster-General, nor any person appointed to assist him in carrying out the provisions of this Act, shall disclose the name of any purchaser of a Certificate except in due course of law or to any person or persons appointed as aforesaid to assist in carrying out the provisions of this Act. Any person contravening the provisions of this section shall be guilty of an offence and on conviction shall be liable to a fine not exceeding three thousand penalty units. (As amended by Act No. 13 of 1994)
 
-### Section 12 — Non-liability of Government, Postmaster-General, etc
+Name of purchaser of Certificate not to be disclosed
+
+### Section 12
 
 When any payment is made or act done by the Postmaster-General, or any person acting under his authority in accordance with this Act and any regulations made thereunder, the Government, the Postmaster-General and such person shall not be liable in respect of any claim on the part of any person in connection with such payment or act, but any person may nevertheless recover any sum lawfully due to him from the person to whom the Postmaster-General has paid the same:
+
+Non-liability of Government, Postmaster-General, etc.
 
 Provided that-
 

@@ -79,6 +79,8 @@ Sums borrowed and interest and other charges and premium, if any, charged on and
 
 (2) The Minister shall repay out of the general revenues and assets of the Republic, which are hereby appropriated for the purpose, such sum or sums as may be necessary for meeting the obligation assumed under section three. (As amended by S.I. No. 159 of 1965)
 
-### Section 5 — Power to issue instruments, including bonds
+### Section 5
 
 Notwithstanding anything contained in any other written law, the Government is hereby authorised to issue such instruments, including bonds, as may be necessary for the purpose of any agreement which may have been entered into or may after the commencement of this Act be entered into by the Government with the International Bank for Reconstruction and Development in respect of the obligation assumed under section three.
+
+Power to issue instruments, including bonds

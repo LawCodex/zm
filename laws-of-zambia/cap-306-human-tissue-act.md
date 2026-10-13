@@ -111,7 +111,7 @@ Further provision with respect to the giving of an authority for the examination
 
 (3) In the case of a body lying in a hospital, nursing home or other institution, any authority under section two may be given on behalf of the person having the control and management thereof by any officer or person designated for that purpose by the first-mentioned person. (As amended by G.N. No. 360 of 1963)
 
-### Section 4 — Examination of bodies and removal of parts to be undertaken under medical
+### Section 4
 
 (1) No examination of, or of a part of, a body in accordance with an authority given under section two shall be carried out otherwise than by or in accordance with the instructions of a medical practitioner, who must have satisfied himself by a personal examination of the body that life is extinct.
 

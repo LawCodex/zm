@@ -215,7 +215,7 @@ for prescribing any matter which under this Part is to be prescribed.
 
 (2) Rules made for the purposes of this Part shall be expressed to have, and shall have, effect subject to any such provisions contained in orders made under section three as are declared by the said orders to be necessary for giving effect to agreements made between the Government and foreign countries, in relation to matters with respect to which there is power to make rules of court for the purposes of this Part. (As amended by No. 41 of 1960, G.N. No. 303 of 1964 and S.I. No. 152 of 1965)
 
-#### Section 6 — Cases in which registered judgments must, or may, be set aside
+#### Section 6
 
 (1) On an application in that behalf duly made by any party against whom a registered judgment may be enforced, the registration of the judgment-
 
@@ -305,9 +305,11 @@ if the judgment debtor, being a defendant in the original proceedings, was a per
 
 (3) Where the registration of a judgment is set aside solely for the reason that the judgment, notwithstanding that it had at the date of the application for registration been partly satisfied, was registered for the whole sum payable thereunder, the registering court shall, on the application of the judgment creditor, order judgment to be registered for the balance remaining payable at that date.
 
-#### Section 8 — Foreign judgments which can be registered not to be enforceable otherwise
+#### Section 8
 
 No proceedings for the recovery of a sum payable under a foreign judgment, being a judgment to which this Part applies, other than proceedings by way of registration of the judgment, shall be entertained by any court in the Republic.
+
+Foreign judgments which can be registered not to be enforceable otherwise
 
 #### Section 9 — Power to apply Part II to British dominions, protectorates and mandated
 

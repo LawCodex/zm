@@ -591,9 +591,11 @@ Offence to delay or obstruct officers
 
 Nothing in this Act shall operate to relieve any employer or employee of any duty or liability imposed on him by any other written law or to limit any powers conferred upon any public officer by any such law.
 
-#### Section 10 — Labour officers to be provided with and to produce certificates of appointment
+#### Section 10
 
 (1) The Labour Commissioner shall issue to every labour officer such certificate of his appointment or authority so to act as may be prescribed, and when so acting, such labour officer shall, if so required by any person affected, produce the certificate.
+
+Labour officers to be provided with and to produce certificates of appointment
 
 (2) If any person forges or unlawfully alters any certificate of appointment referred to in subsection (1) he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding twenty thousand penalty units or to imprisonment for a period not exceeding two years, or to both.
 
@@ -771,9 +773,11 @@ Provided that where by virtue of any agreement or custom it is normal for an emp
 
 The provisions of this Part shall apply to oral contracts.
 
-#### Section 17 — Contracts not required to be in writing
+#### Section 17
 
 All contracts of service, other than contracts which are required by this Act or any other law to be made in writing, may be made orally.
+
+Contracts not required to be in writing
 
 #### Section 18 — Presumptions as to periods of oral contracts
 
@@ -1019,7 +1023,7 @@ an employee who has been offered alternative employment and who has unreasonably
 
 ### PART V — WRITTEN CONTRACTS OF SERVICE
 
-#### Section 28 — Contracts required to be in writing
+#### Section 28
 
 (1) When a contract of service-
 
@@ -1030,6 +1034,8 @@ is made for a period of or exceeding six months or for a number of working days 
 (b)
 
 is a contract of foreign service; or
+
+Contracts required to be in writing
 
 (c)
 
@@ -1287,7 +1293,7 @@ provide an employee with medical attention and medicines and where necessary, tr
 
 ### PART VII — PROTECTION OF WAGES
 
-#### Section 44 — Wages to be paid to employee in currency of Republic
+#### Section 44
 
 (1) In all contracts of service the wages of an employee shall be payable in the currency of the Republic and shall be paid direct to the employee:
 
@@ -1413,9 +1419,11 @@ Provided that the provisions of this subsection shall be subject to the right of
 
 (2) Nothing in this Part shall prevent an employer, otherwise lawfully entitled so to do, from establishing a shop for the sale of provisions generally to his employees, but no employee shall be compelled by any contract, collective agreement or order, written or oral, to purchase provisions at such shop.
 
-#### Section 50 — Record of wage payments to be kept by employer
+#### Section 50
 
 Every employer shall keep a record of the wages paid to each of his employees or causal employees and of every deduction from such wages and the reason therefor, which record shall be kept at the place of employment or at such other place as the Minister may in any particular case approve and shall, at all reasonable hours, be available for inspection by a proper officer.
+
+Record of wage payments to be kept by employer
 
 (As amended by No. 28 of 1971)
 
@@ -1423,9 +1431,11 @@ Every employer shall keep a record of the wages paid to each of his employees or
 
 Every employer shall, before an employee commences employment or when changes in the nature of such employment take place, cause to be explained to such employee the rate of wages and conditions relating to such payment.
 
-#### Section 52 — Provisions to be displayed
+#### Section 52
 
 Every employer shall display at a conspicuous place readily accessible to all his employees such details of the provisions of this Part as may be prescribed.
+
+Provisions to be displayed
 
 #### Section 53 — Wages not to accrue during imprisonment
 
@@ -1467,13 +1477,15 @@ shall be guilty of an offence. (As amended by No. 28 of 1971)
 
 ### PART VIII — EMPLOYMENT AGENCIES
 
-#### Section 56 — Employment agencies to be licensed
+#### Section 56
 
 (1) A person shall not operate or cause to be operated any employment agency except under licence from the Labour Commissioner.
 
+Employment agencies to be licensed
+
 (2) An application for the grant or renewal of a licence shall be made to the Labour Commissioner in such form as may be prescribed and the Labour Commissioner may, on receipt of such application, grant or renew a licence subject to such terms and conditions as he may consider necessary.
 
-#### Section 57 — Labour Commissioner may refuse licence
+#### Section 57
 
 (1) On receipt of an application to grant or renew a licence, the Labour Commissioner may, in his discretion, either grant or renew or refuse to grant or renew the licence and may suspend or cancel any licence issued under this section:
 
@@ -1547,9 +1559,11 @@ Any person who engages in or assists a person engaged in recruiting persons as a
 
 ### PART IX — DISPUTES AND BREACHES OF CONTRACT
 
-#### Section 64 — Disputes to be referred to a labour officer
+#### Section 64
 
 (1) Subject to the provisions of subsection (2), whenever an employer or employee neglects or refuses to comply with the terms of any contract of service, or whenever any question, difference or dispute arises as to the rights or liabilities of any party to such contract or as to any misconduct, neglect or ill-treatment of any such party, or concerning any injury to the person or property of such party, the party aggrieved may report the matter to a labour officer, who shall thereupon take such steps as may seem to him to be expedient to effect a settlement between the parties and, in particular, shall encourage the use of collective bargaining facilities where applicable.
+
+Disputes to be referred to a labour officer
 
 (2) The provisions of this section shall not apply where, by or under any law, the matters referred to in subsection (1) may or are required to be settled in the manner provided in such law. (As amended by Act No. 15 of 1997)
 
@@ -1559,9 +1573,11 @@ sixty-four, a labour officer considers that a breach of the provisions of this A
 
 Powers of labour officer in respect of offences
 
-#### Section 66 — Personal attendance at court may be dispensed with
+#### Section 66
 
 In any civil proceedings by or against any person under the provisions of this Act, the court may, by order on the application of any party, dispense with the attendance before it to give evidence of any party or witness to such proceedings if the court is satisfied that such proceedings can be properly heard and determined without the presence of such party or witness, and for such purpose the court may receive the sworn statement of any such party or witness:
+
+Personal attendance at court may be dispensed with
 
 Provided that a court shall not make an order dispensing with the attendance of a witness where it appears to the court that any party bona fide desires the attendance of such witness for cross-examination and that such witness can be produced.
 
@@ -1569,9 +1585,11 @@ Provided that a court shall not make an order dispensing with the attendance of 
 
 If, at the time of the making of any complaint in respect of an offence under this Act, or at any time thereafter, a Court is satisfied by evidence on oath that the party complained against is likely to abscond, the Court may cause such party to be arrested and detained in custody until the hearing of the proceedings or until such party finds security to appear and answer the complaint.
 
-#### Section 68 — Procedure to be applied to proceedings under this Act
+#### Section 68
 
 Save as is otherwise provided in this Act, the provisions of the law for the time being in force relating to procedure in criminal cases respecting appeals and references, and the levying of moneys ordered to be paid, shall apply to all proceedings and all orders for the payment of money under this Act.
+
+Procedure to be applied to proceedings under this Act
 
 #### Section 69 — Determination of age
 
@@ -1617,7 +1635,7 @@ to order reinstatement or re-employment.
 
 (2) Any security required under the provisions of this section shall be given by a written acknowledgment in or under the direction of the court of the undertaking or condition by which, and the sums for which, the person giving such security is bound, and such security may be forfeited and enforced in the manner provided for the forfeiture and enforcement of bonds under the law for the time being in force. (As amended by Act No. 15 of 1997)
 
-#### Section 71 — Court may order payment of compensation
+#### Section 71
 
 Where any person is convicted of an offence under this Act and it appears from the evidence that any employer or employee has suffered material loss or personal injury in consequence of the offence committed, the court may, in addition to any other lawful punishment imposed by it, order such person to pay to such employer or employee, as the case may be, such compensation in respect of such material loss or personal injury as it may deem fair and reasonable in every respect as if it were compensation ordered to be paid under section one hundred and seventy-five of the Criminal Procedure Code.
 
@@ -1631,7 +1649,7 @@ If any employer or employee prefers any groundless charge against the other or i
 
 No employee who has not attained the age of sixteen years shall be subject to any of the penal provisions of this Act.
 
-#### Section 74 — Assessment of wages, etc
+#### Section 74
 
 If, in any legal proceedings, it does not clearly appear what rate of wages or benefits was agreed upon between an employer and an employee, the court shall fix the rate of wages or benefits at that usually paid or given for the type of service concerned in the area in which the contract of service was to be performed.
 

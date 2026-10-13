@@ -651,7 +651,7 @@ Cap. 425
 
 (2) Where an application is made under subsection (1) and the land has been demarcated for the purpose applied for and such land has not been allocated to any other person, body or authority, the authority responsible for the allocation of land shall, upon payment, by the investor, of the prescribed fees, charges, or rates, allocate the land to the investor and the officer responsible for the registration of such land shall make such entries in the appropriate register and shall issue to the investor a certificate of title in respect of the said land.
 
-#### Section 33 — Water, electricity, transport, etc
+#### Section 33
 
 The Centre shall assist an investor in obtaining water, electric power, transport and communication services and facilities required for the investment.
 

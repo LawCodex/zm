@@ -420,7 +420,7 @@ def structure(lines, lang="en"):
             if m and not m.group(2).strip() and j < n and 2 < len(lines[j]) <= 100 and lines[j][:1].isupper() \
                     and not lines[j].endswith((".", ";", ",", ":", "-", "—", "–")) and not EN_SEC.match(lines[j]) and not _div(lines[j], levels) \
                     and lines[j].count("(") <= lines[j].count(")") and not re.search(  # TITLE_STOP2
-                        r"\b(the|of|as|in|this|by|to|and|or|a|an|for|from|with|under|that|which|its)$|\b(is|are|shall|may|be)\b", lines[j]):
+                        r"\b(the|of|as|in|this|by|to|and|or|a|an|for|from|with|under|that|which|its)$|\b(is|are|shall|may|be|cited|amended)\b|^(This|The \w+ is)\b", lines[j]):
                 out.append("#" * art_level + " Section " + lab + " — " + lines[j])
                 out.append("")
                 i = j + 1
@@ -431,7 +431,7 @@ def structure(lines, lang="en"):
                 k2 += 1
             wrapped = k2 < n and lines[k2][:1].islower()
             wrapped = wrapped or t2.count("(") > t2.count(")") or bool(re.search(  # TITLE_STOP
-                r"\b(the|of|as|in|this|by|to|and|or|a|an|for|from|with|under|that|which|its)$|\b(is|are|shall|may|be)\b", t2))
+                r"\b(the|of|as|in|this|by|to|and|or|a|an|for|from|with|under|that|which|its)$|\b(is|are|shall|may|be|cited|amended)\b|^(This|The \w+ is)\b", t2))
             if not wrapped and t2 and len(t2) <= 120 and t2[:1].isupper() and not t2.endswith((".", ";", ",", ":", "-", "—", "–")) \
                     and " shall " not in t2:  # SAME_LINE_TITLE: "12. Marginal title"
                 out.append("#" * art_level + " Section " + lab + " — " + t2)

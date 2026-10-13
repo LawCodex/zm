@@ -425,9 +425,11 @@ All British Acts declared by any Act to extend or apply to Zambia shall be in fo
 
 (As amended by S.I. No. 63 of 1964)
 
-#### Section 15 — Law and equity to be concurrently administered
+#### Section 15
 
 In every civil cause or matter which shall come in dependence in a Subordinate Court, law and equity shall be administered concurrently; and a Subordinate Court, in the exercise of the jurisdiction vested in it by this Act, shall have power to grant, and shall grant, either absolutely or on such reasonable terms and conditions as shall seem just, all such remedies or reliefs whatsoever, interlocutory or final, as any of the parties thereto may appear to be entitled to, in respect of any and every legal or equitable claim or defence properly brought forward by them respectively, or which shall appear in such cause or matter; so that, as far as possible, all matters in controversy between the said parties respectively may be completely and finally determined, and all multiplicity of legal proceedings concerning any of such matters avoided; and, in all matters in which there is any conflict or variance between the rules of equity and the rules of the common law with reference to the same matter, the rules of equity shall prevail.
+
+Law and equity to be concurrently administered
 
 #### Section 16 — Application of African customary law
 
@@ -567,9 +569,11 @@ Marriage
 
 (As amended by No. 58 of 1966, 11 of 1990 and 41 of 1994)
 
-#### Section 23 — Where question of title to land is in issue
+#### Section 23
 
 If, in any civil cause or matter before a Subordinate Court, the title to any land is disputed, or the question of the ownership thereto arises, the court may adjudicate thereon, if all parties interested consent; but, if they do not all consent, the presiding magistrate shall apply to the High Court to transfer such cause or matter to itself.
+
+Where question of title to land is in issue
 
 #### Section 24 — Extension of jurisdiction
 
@@ -639,9 +643,11 @@ Division of opinion between Judges
 
 The High Court shall not grant a new trial or reverse any judgment, by reason of the ruling of any Subordinate Court that the stamp upon any document is sufficient, or that the document does not require a stamp.
 
-#### Section 30 — Power to reserve question of law for opinion of High Court
+#### Section 30
 
 In addition and without prejudice to the right of appeal conferred by this Act, a Subordinate Court may reserve for consideration by the High Court, on a case to be stated by it, any question of law which may arise on the trial of any suit or matter, and may give any judgment or decision, subject to the opinion of the High Court, and the High Court shall have power to determine, with or without hearing argument, every such question.
+
+Power to reserve question of law for opinion of High Court
 
 #### Section 31 — Conditions precedent to appeal
 
@@ -715,19 +721,25 @@ reasonable notice of the time and place at which he is required to attend, after
 
 Compelling attendance-Penalty on non-attendance
 
-#### Section 43 — Refusal to be sworn or to give evidence
+#### Section 43
 
 If, in any suit or matter, any person, whether appearing in obedience to a summons or brought up under warrant, being required to give evidence, refuses to take an oath, or to answer any question lawfully put to him, or to produce any document in his possession or power, and does not excuse his refusal to the satisfaction of a Subordinate Court, he shall, independently of any other liability, be guilty of a contempt of court, and the court may, by warrant, commit him to prison, without hard labour, there to remain for not more than one month, unless he, in the meantime, consents to take an oath, or to answer duly, or to produce any such document, as the case may be; and he shall also be liable to a fine not exceeding seven hundred and fifty penalty units.
 
+Refusal to be sworn or to give evidence
+
 (As amended by Act No. 13 of 1994)
 
-#### Section 44 — Bystander may be required to give evidence
+#### Section 44
 
 Any person present in court, whether a party or not in a cause or matter, may be compelled by a Subordinate Court to give evidence, or produce any document in his possession or in his power, in the same manner and subject to the same rules as if he had been summoned to attend and give evidence, or to produce such document, and may be punished in like manner for any refusal to obey the order of the court.
 
-#### Section 45 — Prisoner may be brought up by warrant to give evidence
+Bystander may be required to give evidence
+
+#### Section 45
 
 A magistrate may issue a warrant under his hand to bring up any person confined as a prisoner under any sentence or otherwise, to be examined as a witness in any suit or matter depending in any Subordinate Court, and the gaoler, or person in whose custody such prisoner shall be, shall obey such warrant, by bringing such prisoner in custody and delivering him to an officer of the court.
+
+Prisoner may be brought up by warrant to give evidence
 
 #### Section 46 — Allowances to witnesses
 

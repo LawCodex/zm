@@ -137,9 +137,11 @@ The Minister may, by Gazette notice, appoint such persons as he may deem fit to 
 
 The Board shall, for the purposes of this Act, cause a register to be kept wherein shall be entered the particulars referred to in subsection (4) of section eight as well as particulars of any amendment or deletion of any entry made under this Act.
 
-### Section 5 — Application for registration of names, etc
+### Section 5
 
 Any association or institution may make application to the Board for the registration of-
+
+Application for registration of names, etc.
 
 (a)
 

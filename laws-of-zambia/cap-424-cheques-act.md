@@ -73,9 +73,11 @@ This Act may be cited as the Cheques Act.
 
 (As amended by G.N. No. 441 of 1963)
 
-### Section 2 — Protection of bankers paying unendorsed or irregularly endorsed cheques, etc
+### Section 2
 
 (1) Where a banker in good faith and in the ordinary course of business pays a cheque drawn on him which is not endorsed or is irregularly endorsed, he does not, in doing so, incur any liability by reason only of the absence of, or irregularity in, endorsement and he is deemed to have paid it in due course.
+
+Protection of bankers paying unendorsed or irregularly endorsed cheques, etc.
 
 (2) Where a banker in good faith and in the ordinary course of business pays any such instrument as the following, namely:
 
@@ -99,9 +101,11 @@ two applies which appears to have been paid by the banker on whom it is drawn is
 
 Unendorsed cheques as evidence of payment
 
-### Section 5 — Protection of bankers collecting payment of cheques, etc
+### Section 5
 
 (1) Where a banker, in good faith and without negligence-
+
+Protection of bankers collecting payment of cheques, etc.
 
 (a)
 
@@ -135,9 +139,11 @@ Application of certain provisions of Bills of Exchange Act, 1882, to instruments
 
 (As amended by G.N. No. 441 of 1963)
 
-### Section 7 — Government to be regarded as a customer of banker
+### Section 7
 
 If the Government has an account with a banker, the Government shall, for the purposes of this Act and the Bills of Exchange Act, 1882, of the United Kingdom, in so far as it is in force in the Republic, be regarded as a customer of that banker.
+
+Government to be regarded as a customer of banker
 
 (S.I. No. 159 of 1965)
 

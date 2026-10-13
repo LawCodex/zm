@@ -257,9 +257,11 @@ should any person appear, claim and establish his right to any gold so forfeited
 
 No person who, by the order in writing of any court, shall sell any gold seized or forfeited under this Act, shall be liable in respect of such sale to any of the penalties provided for in this Act.
 
-#### Section 14 — Disposal of fines, etc
+#### Section 14
 
 All fines recovered and the proceeds of all gold forfeited and sold under the provisions of this Act shall be paid into the general revenues of the Republic.
+
+Disposal of fines, etc.
 
 (As amended by S.I. No. 5 of 1965)
 
@@ -347,7 +349,7 @@ Permits to buy or sell gold
 
 (As amended by No. 20 of 1950 and Act No. 13 of 1994)
 
-#### Section 23 — Production of licence, permit, etc
+#### Section 23
 
 Every licensed gold dealer and every holder of a permit shall be bound to exhibit his licence or permit to any police officer of or above the rank of Sub Inspector or the Chief Inspector of Mines, the Assistant Chief Inspector of Mines, Senior Inspectors of Mines, or any Inspector of Mines or other official thereto duly authorised by the President, and every such licensed person or persons holding a permit who shall refuse or neglect to produce the licence or permit to such authorised person when called upon to do so shall for the first offence be liable to a penalty not exceeding three thousand penalty units and for a subsequent offence a penalty not exceeding nine thousand penalty units and shall, in addition, be liable to forfeit any licence or permit held by him or any renewal of the same for such period as the court shall order. (As amended by No. 20 of 1950, No. 9 of 1951, No. 2 of 1956, S.I. No. 10 of 1964 and No. 13 of 1994)
 

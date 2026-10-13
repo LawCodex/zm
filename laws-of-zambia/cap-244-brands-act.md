@@ -129,7 +129,7 @@ Deputy Registrars for certain districts or groups of districts who shall be subo
 
 (2) The place or places at which the offices of the Registrar or Deputy Registrars shall be situate shall be as determined from time to time.
 
-### Section 4 — Registers to be kept
+### Section 4
 
 The Registrar shall keep separate registers for the registration of brands of-
 

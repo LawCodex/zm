@@ -71,9 +71,11 @@ In this Act, unless the context otherwise requires-
 
 "Mediobanca" means Mediobanca-Banca di Credito Finanziario S.P.A.
 
-### Section 3 — Power to borrow from Mediobanca-Banca di Credito Finanziario S.P.A
+### Section 3
 
 (1) The Minister may, in such manner and on such terms and subject to such conditions as he thinks fit, and in the name of Zambia, borrow from Mediobanca such sums in sterling or in foreign currency or in both, as may be required for the purpose set out in the Schedule.
+
+Power to borrow from Mediobanca-Banca di Credito Finanziario S.P.A.
 
 (2) For the purpose of exercising the powers conferred by subsection (1), the Minister, or any person authorised by him in writing, may sign and execute agreements with Mediobanca and may execute such other instruments, including bonds, as may be required in connection with the borrowing of any sum under this Act.
 

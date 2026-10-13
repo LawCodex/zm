@@ -167,9 +167,11 @@ such jurisdiction shall only be exercised where it is proved to the satisfaction
 
 Proof of the means of the person making default may be given in such manner as the court thinks just; and for the purposes of such proof the debtor and any witnesses may be summoned and examined on oath, according to the prescribed rules.
 
-### Section 6 — Jurisdiction of High Court may be exercised in chambers
+### Section 6
 
 The jurisdiction of the High Court under section four may be exercised by a Judge sitting in chambers or otherwise in the prescribed manner.
+
+Jurisdiction of High Court may be exercised in chambers
 
 ### Section 7 — Payment by instalments
 
@@ -237,8 +239,10 @@ any order made by a subordinate court of the second or third class shall be repo
 
 (2) Any person who maliciously and unreasonably obtains the issue of a warrant under the provisions of this section shall be liable to the judgment debtor for any damage suffered by the latter in consequence of the issue of such warrant. (No. 8 of 1962)
 
-### Section 12 — This Act to apply to civil proceedings by the State
+### Section 12
 
 State.
 
 The provisions of this Act shall apply in the case of civil proceedings by the (No. 27 of 1965)
+
+This Act to apply to civil proceedings by the State

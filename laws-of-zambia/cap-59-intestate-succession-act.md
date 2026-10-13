@@ -363,7 +363,7 @@ Cap. 60
 
 (2) In respect of a minor, the mother, father or guardian shall hold his share of the estate in trust until he ceases to be a minor.
 
-#### Section 6 — Distribution where intestate survived by no spouse, etc
+#### Section 6
 
 Where an intestate leaves-
 
@@ -387,7 +387,7 @@ no spouse, children, parents, or dependants, the estate shall be distributed to 
 
 no spouse, children, parents, dependants or near relatives, the estate shall be bona vacantia and shall devolve upon the State;
 
-#### Section 7 — Distribution where intestate survived by spouse, etc
+#### Section 7
 
 Where an intestate leaves-
 
@@ -425,9 +425,11 @@ Notwithstanding section five where the intestate in the case of a monogamous mar
 
 Devolution of personal chattels in monogamous marriages
 
-#### Section 9 — Surviving spouse or child or both to be entitled to house
+#### Section 9
 
 (1) Notwithstanding section five where the estate includes a house the surviving spouse or child or both, shall be entitled to that house:
+
+Surviving spouse or child or both to be entitled to house
 
 Provided that(a)
 
@@ -649,9 +651,11 @@ Revocation of grants and removal
 
 provide for the vesting in the successor of any property belonging to the estate.
 
-#### Section 30 — Payment of or to administrators whose grants are revoked
+#### Section 30
 
 (1) Where letters of administration are revoked, all payments made in good faith to any administrator under the letters of administration before the revocation of those letters shall, notwithstanding the revocation, be a legal discharge to the person making the payment.
+
+Payment of or to administrators whose grants are revoked
 
 (2) An administrator who has acted under any revoked letters of administration may retain and reimburse himself out of the assets of the deceased in respect of any expenses incurred by him or fees paid out by him which any person to whom letters of administration are afterwards granted could have lawfully incurred or paid.
 

@@ -739,9 +739,11 @@ a receipt from the Association acknowledging the payment of the fee prescribed b
 
 shall enter upon the Roll the name of the person admitted.
 
-#### Section 16 — Attorney-General to be appointed State Counsel for Zambia
+#### Section 16
 
 Upon the appointment of any person to the office of the Attorney-General, the rank and dignity of a State Counsel for Zambia may be conferred upon him by the President.
+
+Attorney-General to be appointed State Counsel for Zambia
 
 #### Section 17 — Power of the President to appoint a State Counsel for Zambia and procedure
 
@@ -859,7 +861,7 @@ the Disciplinary Committee shall have power to make any such order as to payment
 
 Cap. 87
 
-#### Section 24 — Powers of Court under sections 22, 25, 27 and 28 to be exercised by two
+#### Section 24
 
 (1) The powers conferred upon the Court by sections twenty-two, twenty-five, twenty-seven and twenty-eight shall be exercised by not less than two of the Judges of the Court.
 
@@ -901,9 +903,11 @@ Disciplinary powers of Court or Judge apart from inquiry by Disciplinary Committ
 
 Where an order has been made by the Court upon an application to remove from, or strike off, the Roll the name of a practitioner, or to require a practitioner to answer allegations contained in an affidavit, and has not been drawn up by the applicant within one week after it was made, the Registrar may cause the order to be drawn up, and all future proceedings thereon shall be taken as if the application had been made by the Registrar.
 
-#### Section 31 — Orders of Court to be noted on Roll
+#### Section 31
 
 Where, in proceedings under or by virtue of this Act, any practitioner is admonished, or an order is made as to removing or striking his name from the Roll, as to suspending him from practice, or as to payment by him of a fine or costs, the Registrar shall cause a note of the effect of such admonition or order to be entered against the name of the practitioner on the Roll, and, where the order so directs, shall remove, or strike off, the name.
+
+Orders of Court to be noted on Roll
 
 #### Section 32 — Limitation of time for certain applications to strike names off Roll
 
@@ -1067,7 +1071,7 @@ Provided that every practising certificate issued between the 1st January and th
 
 (3) It shall be the duty of the Association to enter upon the register kept under the provisions of subsection (2) of section thirty-six a note of the date of issue to any practitioner of a practising certificate.
 
-#### Section 39 — List published by Association to be prima facie evidence of practitioner holding
+#### Section 39
 
 (1) Any list purporting to be published by authority of the Association and to contain the names of practitioners who have obtained practising certificates for the current year before the 1st February in that year shall, until the contrary is proved, be evidence that the persons named therein as practitioners holding such certificates as aforesaid for the current year are practitioners holding such certificates.
 
@@ -1137,9 +1141,11 @@ the person to whom the grant is made, or, in the event of his death or insolvenc
 
 (2) If any person contravenes the provisions of this section, he shall be guilty of an offence against this Act and of contempt of the court in which the action, suit, cause, matter or proceeding in relation to which he so acts is brought or taken and may be punished accordingly, and shall be incapable of maintaining any action for any costs in respect of anything done by him in the course of so acting, and shall, in addition to any other penalty or forfeiture and any disability to which he may be subject, be liable to a fine not exceeding two thousand penalty units or a period of imprisonment not exceeding six months. (As amended by Act No. 13 of 1994)
 
-#### Section 43 — Penalty for pretending to be an advocate
+#### Section 43
 
 Any unqualified person who wilfully pretends to be, or takes or uses any name, title, addition or description implying that he is qualified or recognised by law as qualified to act as an advocate, or a Notary Public, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding three thousand penalty units or to a term of imprisonment not exceeding two years, or to both.
+
+Penalty for pretending to be an advocate
 
 (As amended by Act No. 13 of 1994)
 
@@ -1187,15 +1193,19 @@ a transfer of stock containing no trust or limitation thereof;
 
 this section shall not extend to any public officer drawing or preparing any document in the course of his public duty. (As amended by Act No. 13 of 1994)
 
-#### Section 45 — Instrument to be endorsed with name and address of drawer
+#### Section 45
 
 Every person who draws or prepares any written document referred to in the last preceding section shall endorse or cause to be endorsed thereon his name and address; and any such person omitting so to do or falsely endorsing or causing to be endorsed any of the said requirements shall be liable to a fine not exceeding two hundred penalty units; and it shall not be lawful for the Registrar, the Registrar of Lands and Deeds or any other registering authority to accept or recognise any such instrument unless it purports to bear the name of the person who prepared it endorsed thereon:
 
+Instrument to be endorsed with name and address of drawer
+
 Provided that this section shall not apply to any public officer drawing or preparing any written document in the course of his public duty. (As amended by Act No. 13 of 1994)
 
-#### Section 46 — Penalty on unqualified person acting in preparation of papers for probate, etc
+#### Section 46
 
 Any unqualified person who, unless he proves that the act was not done for or in expectation of any fee, gain or reward, either directly or indirectly, or as an agent of any person other than a practitioner, takes instructions for or draws or prepares any papers on which to found or oppose a grant of probate or of letters of administration shall, without prejudice to any liability or disability to which he may be subject under any other section of this Act, or any other Act, be guilty of an offence and shall be liable on conviction to a fine not exceeding three thousand penalty units or to a term of imprisonment not exceeding two years, or to both.
+
+Penalty on unqualified person acting in preparation of papers for probate, etc.
 
 (As amended by Act No. 13 of 1994)
 
@@ -1219,9 +1229,11 @@ No costs in respect of anything done by any unqualified person who acts as an ad
 
 (3) If any practitioner acts in contravention of the provisions of this section or of the conditions subject to which any permission has been given thereunder, his name shall be struck off the Roll or he shall be suspended from practice for such period as the Court thinks fit.
 
-#### Section 50 — Penalty on failure to disclose fact of having been struck off, etc
+#### Section 50
 
 (1) Any person who, whilst he is disqualified from practising by reason of the fact that he has been struck off the Roll, otherwise than at his own request, or is suspended from practising, seeks or accepts employment by a practitioner in connection with the latter's practice without previously informing him that he is so disqualified as aforesaid, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding three thousand penalty units or to term of imprisonment not exceeding two years, or to both.
+
+Penalty on failure to disclose fact of having been struck off, etc.
 
 (2) Proceedings under this section may be commenced at any time before the expiration of six months after the first discovery of the offence by the prosecutor, but no such proceedings shall be commenced except by, or with the consent of, the Attorney-General. (As amended by Act No. 13 of 1994)
 
@@ -1311,11 +1323,13 @@ on all occasions when the unqualified person signs any written document or lette
 
 the practitioner shall send to the Court and to the magistrate of the District wherein he practises the names of all unqualified persons who are authorised to do any such work on his behalf as is mentioned in this section.
 
-#### Section 55 — Restriction upon right to employ qualified persons who are not practitioners
+#### Section 55
 
 No practitioner shall at any one time employ in his office in the capacity of an advocate more than two qualified persons who are not practitioners:
 
 Saving as to employment of unqualified persons by qualified persons
+
+Restriction upon right to employ qualified persons who are not practitioners
 
 Provided that a firm of practitioners, of which not less than two of the principals are practitioners of not less than five years' standing, may so employ not more than four qualified persons who are not practitioners.
 
@@ -1339,15 +1353,17 @@ the moneys received from or on account of and the moneys paid to or on account o
 
 the moneys received and the moneys paid on his own account.
 
-#### Section 58 — Client's money to be paid into bank or building society
+#### Section 58
 
 Every practitioner who holds or receives money on account of a client (save money hereinafter expressly exempted from the application of this section), shall without undue delay pay such money into a current or deposit account at a bank or into a deposit account at a building society, to be kept in the name of the practitioner in the title of which the word "client" shall appear (hereinafter referred to as "a client account"). Any practitioner may keep one client account or as many such accounts as he thinks fit:
 
 Practitioner's accounts
 
+Client's money to be paid into bank or building society
+
 Provided that, when a practitioner receives a cheque or draft representing in part money belonging to the client and in part money due to the practitioner, he may, where practicable, divide the amount of the cheque or draft and pay to the client account that part only which represents money belonging to the client. In any other case he shall pay the whole of such cheque or draft into the client account.
 
-#### Section 59 — What money to be paid into client account
+#### Section 59
 
 No money shall be paid into a client account other than-
 
@@ -1387,7 +1403,7 @@ What money to be paid into client account
 
 Withdrawing of money from client account
 
-#### Section 61 — What money need not be paid into client account
+#### Section 61
 
 Sections fifty-eight, fifty-nine and sixty shall not apply to money which-
 
@@ -1453,7 +1469,7 @@ Provided that nothing in this subsection contained shall relieve a bank from any
 
 Provided that nothing in this subsection contained shall deprive a bank of any right existing at the commencement of this Act.
 
-#### Section 68 — Association may require production of practitioner's books
+#### Section 68
 
 (1) In order to ascertain whether the provisions of this Part have been complied with, the Association, acting either on its own motion or on written complaint lodged with it, may require any practitioner to produce at a time and place fixed by the Association and place his books of account, bank pass books, statements of account, vouchers and any other necessary documents for the inspection of any person appointed by the Association.
 
@@ -1623,9 +1639,11 @@ Provided that if on any taxation of costs the agreement is relied on by the prac
 
 (5) This section shall be read subject to the provisions of section fifty-two.
 
-#### Section 75 — Remuneration of practitioner who is a mortgagee
+#### Section 75
 
 (1) If a mortgage is made to a practitioner, either alone or jointly with any other person, he, or the firm of which he is a member, shall be entitled to recover from the mortgagor in respect of all business transacted and acts done by him or them in negotiating the loan, deducing and investigating the title to the property, and preparing and completing the mortgage, such usual costs as he or they would have been entitled to receive if the mortgage had been made to a person who was not a practitioner and that person had retained and employed him or them to transact the said business and do the said acts.
+
+Remuneration of practitioner who is a mortgagee
 
 (2) If, whether before or after the commencement of this Act, a mortgage has been made to, or has become vested by transfer or transmission in a practitioner, either alone or jointly with any other person, and if after the commencement of this Act any business is transacted or acts are done by that practitioner, or by the firm of which he is a member, in relation to that mortgage, or the security thereby created or the property comprised thereunder, then he or they shall be entitled to recover from the person on whose behalf the business was transacted or the acts were done, and to charge against the security, such usual costs as he or they would have been entitled to receive if the mortgage had been made to and had remained vested in a person who was not a practitioner and that person had retained and employed him or them to transact the said business and do the said acts.
 
@@ -1675,7 +1693,7 @@ in any case, may make such orders as to the costs of the application as it think
 
 Miscellaneous provisions as to agreements with respect to costs of contentious business
 
-#### Section 78 — In certain circumstances taxing officer may reduce amount payable under
+#### Section 78
 
 (1) If the business covered by any such agreement is business done, or to be done, in any action, the amount payable under the agreement shall not be received by the practitioner until the agreement has been examined and allowed by a taxing officer of the Court, and if the taxing officer is of opinion that the agreement is unfair or unreasonable, he may require the opinion of the Remuneration Committee to be taken thereon and may, on receipt of such opinion, reduce the amount payable thereunder, or order the agreement to be cancelled and the costs recovered thereby to be taxed as if the agreement had never been made.
 
@@ -1687,7 +1705,7 @@ In certain circumstances taxing officer may reduce amount payable under agreemen
 
 (4) Any such client as is mentioned in subsection (3) who pays the whole or any part of the amount payable under the agreement without the agreement having been allowed by the officer or by the Court, shall be liable at any time to account to the person whose property is charged with the whole or any part of the amount so paid for the sum so charged, and the practitioner who accepts the payment may be ordered by the Court to refund the amount received by him.
 
-#### Section 79 — Death, incapability or change of practitioner, etc
+#### Section 79
 
 (1) If, after some business has been done under an agreement made in pursuance of the provisions of section seventy-six but before the practitioner has wholly performed it, the practitioner dies or becomes incapable of acting, then any party to, or the representative of any party to, the agreement, may apply to the Court and the Court shall have the same jurisdiction as to enforcing the agreement so far as it has been performed, or setting it aside, as it would have had if the practitioner had not died or become incapable of acting:
 
@@ -1759,9 +1777,11 @@ Provided that no order shall be made if the right to recover the costs is barred
 
 ### PART X — MISCELLANEOUS
 
-#### Section 85 — Practitioners to be officers of the Court
+#### Section 85
 
 Any person duly admitted as a practitioner shall be an officer of the Court and shall be subject to the jurisdiction thereof.
+
+Practitioners to be officers of the Court
 
 #### Section 86 — Onus of proof
 

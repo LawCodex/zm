@@ -369,9 +369,11 @@ ADMINISTRATION AND ENFORCEMENT
 
 (2) The register shall be kept in such form as the Chief Justice approves and shall be made available for inspection by members of the public at all reasonable times.
 
-#### Section 12 — Declarations deemed to be statutory declarations
+#### Section 12
 
 A declaration made for the purposes of section six or ten shall be deemed to be a statutory declaration.
+
+Declarations deemed to be statutory declarations
 
 #### Section 13 — Complaints of breaches of Part II
 
@@ -445,11 +447,13 @@ MISCELLANEOUS
 
 A person who makes an allegation under section thirteen or sixteen knowing it to be false, shall be guilty of an offence and shall be liable on conviction to a term of imprisonment not exceeding one year.
 
-#### Section 18 — This Act does not prevent Member or Minister from resigning
+#### Section 18
 
 Nothing in this Act shall have the effect of limiting the right of a Minister to resign as Minister, or of a Member to resign as a Member.
 
-#### Section 19 — This Act does not derogate from other Acts
+This Act does not prevent Member or Minister from resigning
+
+#### Section 19
 
 Nothing in this Act shall have the effect of limiting or derogating from the Corrupt Practices Act or any other written law.
 

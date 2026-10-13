@@ -77,9 +77,11 @@ An Act to provide for the form and commencement of Acts; to provide for the proc
 
 This Act may be cited as the Acts of Parliament Act.
 
-### Section 2 — Enactments to be styled "Acts"
+### Section 2
 
 All laws made by Parliament shall be styled "Acts".
+
+Enactments to be styled "Acts"
 
 ### Section 3 — Words of enactment
 

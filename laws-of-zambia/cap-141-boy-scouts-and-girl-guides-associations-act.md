@@ -85,7 +85,7 @@ Cap. 87
 
 Restriction on use of uniforms, etc., of Boy Scouts and Girl Guides Associations
 
-### Section 4 — Prohibition of the formation, etc., of bodies claiming without authority to be
+### Section 4
 
 It shall not be lawful for any person to form, organise or work in connection with, or to be concerned in forming, organising, or working in connection with(a)
 
@@ -99,9 +99,11 @@ Prohibition of the formation, etc., of bodies claiming without authority to be c
 
 (As amended by No. 30 of 1949)
 
-### Section 5 — Penalty in case of Boy Scouts pretending to be public officers
+### Section 5
 
 (1) It shall not be lawful for any Boy Scout, not being otherwise thereunto lawfully entitled and authorised, to pretend to be, or to pass himself off as, or to arrogate to himself the authority, position or powers of, or to claim to be or to act as a person employed in the public service.
+
+Penalty in case of Boy Scouts pretending to be public officers
 
 (2) No Boy Scout or Girl Guide shall seek or attempt by virtue of his or her wearing any uniform, badge, token or emblem of the Boy Scouts Association or Girl Guides Association respectively, or uniform, badge, token or emblem purporting or appearing to be such, to enforce or exercise authority or act otherwise than in accordance with and as authorised by the by-laws or rules of the said Associations respectively. (As amended by No. 30 of 1949)
 

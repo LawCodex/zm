@@ -1027,9 +1027,11 @@ Requirements before registration
 
 (4) The word "limited" shall be the last word in the name of every society and, except as otherwise provided in this Act, the word "co-operative" shall form part of the name of every society.
 
-#### Section 13 — Societies to be bodies corporate
+#### Section 13
 
 The registration of a society shall render it a body corporate by the name under which it is registered, with perpetual succession and a common seal and with limited liability, and with power to hold property, to enter into contracts, to institute and defend suits and other legal proceedings, and to do all things necessary to achieve its objects in the exercise of the powers available to it under the provisions of this Act, the rules and its by-laws.
+
+Societies to be bodies corporate
 
 #### Section 14 — Conversion of a company into a society
 
@@ -1097,9 +1099,11 @@ in all bills, invoices, receipts and letters of credit of the society.
 
 Notwithstanding the other provisions of this Act, a group of persons who desire to associate themselves together in trade or business primarily for gain, without provision for the distribution of profits amongst customers in proportion to patronage, shall not be registered as a society.
 
-#### Section 18 — Registrar may require societies to form or join a co-operative union
+#### Section 18
 
 Where the Registrar, after investigation, considers it to be in the interests of the members of a society or necessary to achieve the objects of a society, he may, by notice in writing served on the societies or society, as the case may be-
+
+Registrar may require societies to form or join a co-operative union
 
 (a)
 
@@ -1131,9 +1135,11 @@ Provided, however, that as soon as possible thereafter copies of the resolution 
 
 (5) After approval by the Registrar, a copy of every amendment, certified under the hand of the Registrar as approved and registered, shall be returned by him to the society.
 
-#### Section 22 — Copy of Act, rules and by-laws to be open to inspection
+#### Section 22
 
 Every society shall keep a copy of this Act, the rules, its by-laws and a list of its members open to inspection, free of charge, at all reasonable times at the registered office of the society.
+
+Copy of Act, rules and by-laws to be open to inspection
 
 #### Section 23 — Reserve fund and distribution of net surplus
 
@@ -1153,9 +1159,11 @@ SOCIETIES FOR RURAL DEVELOPMENT
 
 A society may be registered primarily to undertake and carry on all kinds of business operations connected with the marketing, collecting, receiving, taking delivery of, buying, handling, feeding, fattening, finishing, slaughtering, preserving, harvesting, drying, processing, manufacturing, canning, cleaning, grading, storing, transporting, selling, or otherwise disposing of or utilising any agricultural product produced or delivered to it by its members or non-member patrons, or connected with the manufacturing or buying, selling or marketing of the by-products thereof.
 
-#### Section 26 — Distribution of agricultural requisites, etc
+#### Section 26
 
 A society may be registered primarily to undertake and carry on all kinds of business operations connected with the purchasing, procuring, processing, manufacturing, exchanging, hiring, dealing in and distributing agricultural requisites, consumer goods and household necessities for sale at retail to its members or non-member patrons:
+
+Distribution of agricultural requisites, etc.
 
 Provided that where the society is a co-operative union or a federation, it may sell such agricultural requisites, consumer goods and household necessities at wholesale to its member societies.
 
@@ -1391,7 +1399,7 @@ officers of the society responsible for the supervision of credit and loans have
 
 Registration of by-laws for the provision of agricultural credit
 
-#### Section 38 — A society may combine thrift services with the provision of credit
+#### Section 38
 
 A society with authority to provide and administer agricultural credit in accordance with section thirty-five may, by its by-laws, be authorised to accept interest-bearing savings deposits in accordance with section thirty-three.
 
@@ -1413,7 +1421,7 @@ storing, marketing or otherwise utilising agricultural products produced by memb
 
 handling agricultural requisites for the production of agricultural products produced by members with the assistance of services provided by the society under paragraph (a).
 
-#### Section 40 — Assistance to livestock, dairy and poultry producers, etc
+#### Section 40
 
 A society may be registered to assist producers of livestock of various kinds, including dairy cattle and poultry, with one or more of the following principal objects and purposes:
 
@@ -2181,9 +2189,11 @@ MEMBERSHIP
 
 Subject to the provisions of this Act, membership of a society shall be governed by its by-laws, but in no case shall a society fix any limit to the number of its members.
 
-#### Section 94 — Who may be members
+#### Section 94
 
 (1) Each applicant for the registration of a new society who has subscribed for one share in the society or who has paid the membership fee, if any, shall be deemed to have agreed to become a member of the society, and his name shall, upon its registration, be entered in the register of members.
+
+Who may be members
 
 (2) No person, other than those mentioned in subsection (1), shall become a member of a society until his written application for membership has been approved by resolution of the board of directors and recorded in the minutes.
 
@@ -2387,9 +2397,11 @@ The term of office of the directors shall be prescribed in the by-laws.
 
 Officers
 
-#### Section 116 — Directors must be members
+#### Section 116
 
 No person other than a member of a society or delegate of a member society shall be eligible to be elected or appointed as a director of the society, except as provided in sections one hundred and sixty-one and one hundred and sixty-two.
+
+Directors must be members
 
 #### Section 117 — Vacancy on board of directors
 
@@ -2471,9 +2483,11 @@ MEETINGS
 
 (3) No business other than that specified in the notice shall be transacted at a special meeting unless all members of and delegates to the society are present at the meeting and unanimously agree to discuss other business.
 
-#### Section 125 — Registrar may prescribe manner of calling meetings
+#### Section 125
 
 If at any time it is impracticable to call a general or special meeting of the society in the manner provided by this Act, or the by-laws, the Registrar may, on application to him for the purpose, prescribe the manner of calling the meeting.
+
+Registrar may prescribe manner of calling meetings
 
 #### Section 126 — Quorum
 
@@ -2671,9 +2685,11 @@ whether, in his opinion, all the transactions of the society which have come to 
 
 (5) The auditor shall disclose to the Registrar any matter or circumstance which has come to his knowledge or attention during the course of his audit which will, in his opinion, assist the Registrar with the administration of this Act, and the Registrar may enlarge or extend the scope of the audit and direct that any further or particular examination be made or any other procedure for the audit be adopted.
 
-#### Section 142 — Power of Registrar to inspect societies' books, etc
+#### Section 142
 
 The Registrar, or any person authorised by general or special order in writing by the Registrar, shall at all reasonable times have access to all the books, accounts, papers and securities of a society, and shall be entitled to inspect the cash in hand, and every officer of the society shall furnish such information in regard to the transactions and operations of the society as the person making the inspection may require.
+
+Power of Registrar to inspect societies' books, etc.
 
 #### Section 143 — Yearly and other returns
 
@@ -3079,7 +3095,7 @@ ORGANISATION AND SUPERVISION
 
 (3) Where a federation has been registered under Part XII with objects which include the provision of education and advisory work relating to co-operative enterprises and development, the Registrar may request such federation to furnish information regarding co-operative principles, practices and organisation required pursuant to subsection (1), or carry on such educational and advisory work as will assist in determining the feasibility of organising a society under the conditions mentioned in subsection (2).
 
-#### Section 158 — Inspection and advisory services by Registrar, etc
+#### Section 158
 
 (1) The Registrar, or any person authorised to act for him, shall provide, or cause to be provided, such inspection, examination, and technical or other information and advice regarding the affairs of a society as may be necessary to assist its officers and members in the due observance of and compliance with this Act, and in the achievement of the objects and the purposes of the society on a co-operative basis.
 
@@ -3087,9 +3103,13 @@ ORGANISATION AND SUPERVISION
 
 (3) Subject to instructions from the Minister, the Director of Co-operative Societies may arrange with the proper officers of any department or agency of the Government that such department or agency undertake to provide such technical or other information and advice regarding the operations of a society as may be necessary to assist its officers and members in the achievement of its objects and purposes, and, where appropriate, to provide to the society other services designed to facilitate inspection and examination of its affairs in accordance with this section.
 
-#### Section 159 — Registrar may supply by-laws
+Inspection and advisory services by Registrar, etc.
+
+#### Section 159
 
 The Registrar may, upon request and upon an indication of the proposed objects or purposes, prepare such by-laws as may be required for any society, or proposed society.
+
+Registrar may supply by-laws
 
 #### Section 160 — Inspection of records
 

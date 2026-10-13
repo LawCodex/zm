@@ -269,9 +269,11 @@ Functions of Board
 
 (2) A member of any committee appointed under this section who is not a member of the Board or a public officer shall be paid such remuneration and allowances, if any, as the Minister may, in his case, fix.
 
-### Section 14 — Disclosure of interest in agreements, etc
+### Section 14
 
 (1) Any member of the Board or of any committee appointed by the Board who, otherwise than as such member, is directly or indirectly interested in any arrangement or agreement made or entered into, or proposed to be made or entered into, by the Board on behalf of the Republic or in any approval granted or proposed to be granted by the Board, shall, as soon as possible after the relevant facts have come to his knowledge, disclose the nature of his interest at a meeting of the Board.
+
+Disclosure of interest in agreements, etc.
 
 (2) A disclosure under this section shall be recorded in the minutes of the Board, and the member-
 

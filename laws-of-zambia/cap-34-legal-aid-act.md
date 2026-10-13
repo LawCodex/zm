@@ -373,7 +373,7 @@ be eligible for legal aid under this section; and
 
 be ignorant of his right to apply for legal aid.
 
-#### Section 13 — Legal aid in civil actions where the State is a party
+#### Section 13
 
 (1) A court may at any time issue a special aid certificate to any person who is a party in any civil proceedings, whether at first instance or at appeal, in which the State is also a party if the court considers that-
 
@@ -384,6 +384,8 @@ the person satisfies the conditions under which legal aid may be granted to him 
 (b)
 
 it is in the interests of justice that the person should be represented by a practitioner other than the Director.
+
+Legal aid in civil actions where the State is a party
 
 (2) The powers of a court under subsection (1) shall be exercisable whether or not legal aid has been applied for or granted under any other provision of this Act.
 
@@ -415,7 +417,7 @@ Applications for legal aid in appeals
 
 and in the case where application is made to a legal aid committee, the committee shall, if it considers the applicant eligible to be granted legal aid under this section, recommend to the Director that legal aid be granted accordingly.
 
-#### Section 15 — Director may grant legal aid for appeals
+#### Section 15
 
 The Director may grant legal aid to an applicant under section fourteen if he satisfied that(a)
 
@@ -431,9 +433,11 @@ it is in the interests of justice that the applicant should be represented in th
 
 Director may grant legal aid for appeals
 
-#### Section 16 — Courts may direct the grant of legal aid for appeals
+#### Section 16
 
 Where, in any appeal before the High Court or the Supreme Court, any party to the appeal is unrepresented and the court considers that a point of law of public importance is likely to arise in the appeal, the court may issue a legal aid certificate and the Director shall thereupon grant legal aid to that party for the purposes of the appeal.
+
+Courts may direct the grant of legal aid for appeals
 
 ### PART VI — FINANCIAL CONSIDERATIONS OF LEGAL AID
 
@@ -493,7 +497,7 @@ Provided that, in the case of legal aid granted under section thirteen, he shall
 
 For the purpose of the granting of legal aid under this Act, an application for legal aid which is properly made by any person on behalf of any other person shall be deemed to have been made by that other person.
 
-#### Section 24 — Administrator-General may be administrator ad litem in certain cases
+#### Section 24
 
 (1) Where legal aid has been granted under any of the provisions of this Act for the purpose of bringing or defending proceedings for the benefit of the estate of a deceased person or for the purpose of bringing proceedings under the Fatal Accidents Acts, 1846 to 1908, of the Parliament of the United Kingdom for the benefit of any dependant of a deceased person, and where it appears to the Director that there is no person able and willing to take probate or letters of administration, as the case may be, or to be appointed administrator under the provisions of section thirty-six of the Local Courts Act, then he may request the Administrator-General to apply to the court for a grant of administration for the limited purposes of bringing or defending such proceedings and, upon such application being made, it shall be lawful for the court in its discretion to appoint the Administrator-General to be an administrator for such limited purpose.
 
@@ -513,13 +517,15 @@ to limit the power of the Administrator-General to apply for a grant of probate 
 
 to render the Administrator-General personally liable in any way for any act done by him in pursuance of his duties as an administrator appointed under this section.
 
-#### Section 24A — Person may refuse or dispense with legal aid
+#### Section 24A
 
 (1) Notwithstanding anything to the contrary contained in this Act-
 
 (a)
 
 an accused person may (should he so decide) refuse legal aid which would otherwise be granted to him in furtherance of a legal aid certificate issued or to be issued under Part III;
+
+Person may refuse or dispense with legal aid
 
 (b)
 

@@ -117,9 +117,11 @@ for any reference to any other officer of the Credit Bank not being a party ther
 
 (3) Subject to subsection (2), documents, other than those referred to in that subsection, which refer specifically or generally to the Credit Bank shall be construed in accordance with that subsection as far as applicable.
 
-### Section 5 — Registration of property to be transferred by Credit Bank
+### Section 5
 
 (1) Whenever in pursuance of this Act, any property, rights, liabilities and obligations of the Credit Bank are deemed transferred in respect of which transfer any written law provides for registration, the Credit Bank shall make an application in writing to the proper officer of the appropriate registration authority for the registration of such transfer.
+
+Registration of property to be transferred by Credit Bank
 
 (2) The officer to whom an application is made under subsection (1) shall make such entries in the appropriate register as shall give effect to the transfer and, where appropriate, issue to the transferee concerned a certificate of title in respect of the said property or make necessary amendments to the register, as the case may be, and if presented therefor, make endorsement on the deeds relating to the title, right or obligation concerned and no registration fees, stamp duty or other duties shall be payable in respect thereof.
 

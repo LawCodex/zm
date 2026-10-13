@@ -151,7 +151,7 @@ Application to High Court to invoke penalties
 
 (4) For the purposes of winding up the affairs of an organisation under the provisions of this section, the Registrar shall have all the powers vested in the Official Receiver for the purpose of discovering the property of a debtor and the realisation thereof.
 
-### Section 8 — Recovery of amount ordered to be paid
+### Section 8
 
 Any amount ordered to be paid under the provisions of paragraph (b) of subsection (2) of section six shall be recoverable in every respect as if it were compensation ordered to be paid under section one hundred and seventy-five of the Criminal Procedure Code.
 

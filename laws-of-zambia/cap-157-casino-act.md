@@ -215,7 +215,7 @@ the sale on the licensed premises to any person at any time, during the playing 
 
 the carrying on by the licensee in the licensed premises of any trade or business specified in the licence.
 
-### Section 5 — Conditions under which licences shall be granted
+### Section 5
 
 (1) The Minister shall not grant a casino licence under section three to any person unless-
 
@@ -417,7 +417,7 @@ Cap. 393
 
 Cap. 393
 
-### Section 14 — Tax to be recovered as a civil debt
+### Section 14
 
 Without prejudice to any other remedy, any tax, penalty or other sum payable under this Act shall be a debt due to the Government and may be recovered as a civil debt by a suit in the name of the Attorney-General.
 

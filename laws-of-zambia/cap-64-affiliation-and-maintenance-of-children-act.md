@@ -327,7 +327,7 @@ The court may, on the application of a single woman who has been delivered of a 
 
 The court may, on the application of a non-marital child made through the child's next friend, make an affiliation order, subject to the limitations contained in section three.
 
-#### Section 6 — Evidence to be given and corroborated
+#### Section 6
 
 (1) On the hearing of an application for an affiliation order, the court shall hear-
 
@@ -471,7 +471,7 @@ there are special circumstances which justify the making of an order notwithstan
 
 (2) In exercising its power under this section, the court shall take into account the same matters as it is required to take into account when it makes a maintenance order.
 
-#### Section 14 — Persons to whom payments to be made
+#### Section 14
 
 (1) Subject to the other provisions of this Act, the person entitled to any payment to be made under a maintenance order shall be the child's mother, father or custodian.
 
@@ -595,9 +595,11 @@ the court shall, unless it is satisfied that it is undesirable to do so, order t
 
 (3) Where, by virtue of the provisions of this section or any order made under this section, payments under a maintenance order cease or become payable through or to any officer or person, the person liable to make the payments shall, until he is given the prescribed notice to that effect, be deemed to comply with the maintenance order if he makes payments in accordance with the maintenance order and any order under this section of which he has received such notice.
 
-#### Section 21 — Registration not to be duplicated
+#### Section 21
 
 An order which is for the time being registered in any court shall not be registered in any other court.
+
+Registration not to be duplicated
 
 #### Section 22 — Enforcement of registered order
 
@@ -773,9 +775,11 @@ if it thinks fit, where the defendant appears at the hearing of the application 
 
 (4) In this section "the appropriate variation order" means an order varying the attachment of earnings order in question by reducing the normal deduction rate specified thereby so as to ensure that the rate (or, in the case mentioned in paragraph (b) of subsection (1), the aggregate of the rates therein mentioned) is the same as the rate of payments required by the maintenance order or is such lower rate as the court thinks just, having regard to the amount of the excess mentioned in paragraph (a) of subsection (1).
 
-#### Section 30 — Notice to be given of variation
+#### Section 30
 
 An order varying an attachment of earnings order shall not come into force until the expiration of seven days from the date when a copy thereof is served on the person to whom the attachment of earnings order is directed.
+
+Notice to be given of variation
 
 #### Section 31 — Discharge of order on cancellation of registration of related maintenance order
 
@@ -831,7 +835,7 @@ deal with any later order as if the earnings to which it relates were the residu
 
 (5) A person to whom an attachment of earnings order is directed shall, where the defendant ceases thereafter to be employed by him, within fourteen days of such cessation give notice thereof to the court that make the order.
 
-#### Section 34 — Powers of court to obtain statements of earnings etc
+#### Section 34
 
 (1) Where proceedings relating to an attachment of earnings order are brought in any court, the court may, either before or at the hearing-
 
@@ -857,7 +861,7 @@ order any person appearing to the court to be an employer of the defendant to gi
 
 (2) A document purporting to be a statement of the kind mentioned in subsection (1) shall, in any proceedings mentioned in that subsection, be received in evidence and be deemed to be such a statement without further proof, unless the contrary is shown.
 
-#### Section 35 — Powers of courts to determine whether payments are earnings
+#### Section 35
 
 (1) The court by which an attachment of earnings order has been made shall, on the application of the person to whom the order is directed, or of the defendant, or of the person in whose favour the order was made, determine whether payments to the defendant, or a particular class or description of such payments, specified by the application are earnings for the purposes of that order; and the person to whom the order is directed shall be entitled to give effect to any determination for the time being in force under this subsection.
 

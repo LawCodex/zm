@@ -189,7 +189,7 @@ prescribe measures to be taken for the eradication of plants, to which regulatio
 
 Power to control production, sale, etc., of drugs to which Part II applies
 
-#### Section 7 — Penalisation of permitting premises to be used for smoking cannabis, etc
+#### Section 7
 
 If a person-
 
@@ -200,6 +200,8 @@ being the occupier of any premises, permits those premises to be used for the pu
 (b)
 
 is concerned in the management of any premises used for any such purpose as aforesaid;
+
+Penalisation of permitting premises to be used for smoking cannabis, etc.
 
 he shall be guilty of an offence against this Act.
 

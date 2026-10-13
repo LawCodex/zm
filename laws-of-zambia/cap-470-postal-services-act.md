@@ -533,7 +533,7 @@ The Corporation may make and enter into contracts and arrangements for the conve
 
 (3) The Corporation shall be liable for the amount of any postal order, money order or other warrant or order only if a claim is made within three years after the date of issue.
 
-#### Section 23 — Such order, etc., to be security
+#### Section 23
 
 (1) A money order, postal order or other warrant or order issued under this Act shall be deemed to be an order for payment of money and a valuable security within the meaning of any law relating to forgery or theft.
 
@@ -779,9 +779,11 @@ Transmission of dangerous substances and endangerment of post office or telegrap
 
 Any person who unlawfully opens or tampers with or conceals any postal article shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding seven years.
 
-#### Section 37 — Unauthorised notices as to reception of letters, etc
+#### Section 37
 
 Any person who, without the authority of the Corporation, places or maintains in or on any building, wall, box, pillar or other place any words, letters or symbols which signify, or imply, or are likely to be taken to signify or imply, that any house or place is a post office or a place where things in the exclusive privilege of the Corporation may be done shall be guilty of an offence and shall be liable on conviction to a fine not exceeding two thousand penalty units or to imprisonment for a term not exceeding twelve months, or to both.
+
+Unauthorised notices as to reception of letters, etc.
 
 (As amended by Act No. 13 of 1994)
 
@@ -805,7 +807,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (2) Any person who contravenes this section and who, on being required to leave a post office or telegraph office by a postal officer, fails to leave the place within a reasonable time may be removed by the officer with such force as may be reasonably necessary in the circumstances. (As amended by Act No. 13 of 1994)
 
-#### Section 39 — Offences relating to money orders, postal orders, etc
+#### Section 39
 
 Any person who, with intent to defraud-
 
@@ -816,6 +818,8 @@ issues, reissues, utters or passes off, or presents to any other person or at an
 (b)
 
 sends by post any letter, telegram or other communication or message concerning anything referred to in paragraph (a);
+
+Offences relating to money orders, postal orders, etc.
 
 shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding seven years.
 
@@ -877,9 +881,11 @@ No action or other proceedings shall lie or be instituted against the Postmaster
 
 Immunity to officers
 
-#### Section 45 — Revenue for money orders, postal orders, etc
+#### Section 45
 
 The principal moneys received in respect of money orders and postal orders, or any other warrant or order for remitting money by post, shall not form part of the postal revenue unless, in the case of money orders and postal orders, their period of currency has lapsed.
+
+Revenue for money orders, postal orders, etc.
 
 #### Section 46 — Delivery of postal articles to public prosecutor
 

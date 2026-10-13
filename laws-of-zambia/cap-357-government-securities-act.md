@@ -83,7 +83,7 @@ mate court hearing the appeal.
 
 A certificate specifying the sum paid under order of any such court as aforesaid to satisfy any such final judgment, decree, rule or order and issued by the agent in the United Kingdom of the Government of Zambia authorised to make such payment shall be sufficient authority to the Auditor-General or other officer having the auditing of the accounts of such agent for passing such sum without further appropriation.
 
-### Section 5 — Certain subsequent legislation to be agreed with the United Kingdom
+### Section 5
 
 Legislation which appears to Her Majesty's Government in the United Kingdom to alter any of the provisions affecting Zambia Government securities to the injury of the holders thereof or to involve a departure from the original contract in regard to those securities shall not become law except after agreement with Her Majesty's Government in the United Kingdom, and if attention is drawn to such legislation after the passing thereof, the Government of Zambia will take the necessary steps to ensure such amendment as may be requested by Her Majesty's Government in the United Kingdom.
 

@@ -469,7 +469,7 @@ Cap. 122
 
 (3) The President may, by directions in writing and subject to such conditions as he thinks fit, delegate any of his functions under subsection (2) to any person.
 
-#### Section 7 — Liability to be called up for the Service
+#### Section 7
 
 (1) Subject to the provisions of this Act, every citizen, male or female, who has attained the age of eighteen years and has not attained an age above thirty-five years and is a member of the class specified in the Second Schedule shall be liable to have his name entered in the national service register and to be called upon to serve in the Service in accordance with the provisions of this Act.
 
@@ -478,6 +478,8 @@ Cap. 122
 (3) Notwithstanding the provisions of subsection (1), a citizen who is a member of the class specified in the Second Schedule shall not be liable to be called upon to serve in the Service so long as he is a student engaged in studies:
 
 Provided that, for the purpose of this section, a student shall be deemed to be not engaged in studies during any vacation period and he may be called up for service during any such vacation period.
+
+Liability to be called up for the Service
 
 (4) For the purpose of this section and the Second Schedule, a student means a full-time student.
 
@@ -679,9 +681,11 @@ Cap. 106
 
 (3) Where any part of the Service is, in pursuance of an order made under this section, serving with the Defence Force or otherwise in the defence of the Republic, the President shall make rules declaring which rank of the Service corresponds to which rank in the Defence Force and may make rules relating to the command of such part by members of the Defence Force.
 
-#### Section 26 — President may send Servicemen to friendly neighbouring States
+#### Section 26
 
 (1) The President may, at any time, order such part or members of the Service as he may think fit to proceed for service to a friendly neighbouring State.
+
+President may send Servicemen to friendly neighbouring States
 
 (2) For the purpose of this section, "friendly neighbouring State" means any State having a common border and friendly relations with the Republic and any such other State as the President may declare to be a friendly neighbouring State.
 
@@ -1017,13 +1021,15 @@ Punishments
 
 (4) In every case in which an appeal is lodged, the punishment shall be suspended during the hearing of the appeal.
 
-#### Section 34 — Fines to be recovered by stoppage of allowance
+#### Section 34
 
 (1) All fines imposed on a defaulter in respect of offences against discipline under this Part may be recovered by stoppage of the defaulter's allowance due at the time of committing such offences and thereafter accruing due.
 
 (2) The amount of stoppage in respect of any punishment authorised by this Part shall be in the discretion of the appropriate tribunal by whom the punishment was imposed or subject to the discretion of the Commandant, but shall in no case exceed one-half of the monthly allowance of the defaulter and, whenever more than one order of stoppage is in force against the same Serviceman, so much only of his allowance shall be stopped as shall leave him a residue of at least one-half of his allowance.
 
 (3) Where more than one order of stoppage is made upon the same Serviceman, the orders later in date shall if necessary be postponed as to their enforcement until the earlier orders have been discharged.
+
+Fines to be recovered by stoppage of allowance
 
 #### Section 35 — Suspension of Serviceman
 
@@ -1115,9 +1121,11 @@ induces or attempts to induce, or does any act calculated to induce, any member 
 
 shall be guilty of an offence and shall be liable upon conviction to a fine not exceeding five thousand penalty units or to imprisonment for a term not exceeding two years, or to both. (As amended by Act No. 13 of 1994)
 
-#### Section 42 — Offences relating to arms, ammunition, accoutrements, etc
+#### Section 42
 
 (1) When a member of the Service ceases to belong to the Service, all powers and authority vested in him by or under this Act shall immediately cease and determine and he shall forthwith deliver up to the person appointed by the Commandant for that purpose all arms, ammunition, accoutrements, clothing, uniforms and other appointments which have been supplied to him or entrusted to his care and which are the property of the Republic.
+
+Offences relating to arms, ammunition, accoutrements, etc.
 
 (2) Any member of the Service who, having ceased to belong to the Service, fails to deliver up any arms, ammunition, accoutrements, clothing, uniforms or other appointments as required by this section shall be guilty of an offence and shall be liable upon conviction to a fine not exceeding two thousand penalty units or to imprisonment for a term not exceeding three months, or to both.
 
@@ -1231,7 +1239,7 @@ Cap. 260
 
 MISCELLANEOUS PROVISIONS
 
-#### Section 49 — Member deemed to be a workman
+#### Section 49
 
 Notwithstanding anything contained in any other written law, a member when on duty shall be deemed to be a workman, and the Government shall be deemed to be the employer of such member for the purposes of the Workers' Compensation Act.
 
@@ -1347,9 +1355,11 @@ all subsisting and future liabilities or obligations arising out of any deed, co
 
 Vesting of lands and personal property in, and transfer of contractual and other rights and libilities to, the Government
 
-#### Section 54 — Registration of property to be transferred by the Board
+#### Section 54
 
 Whenever in pursuance of the provisions of this Part, any property, rights, liabilities or obligations of the Board are transferred by it in respect of the transfer of which any written law provides for registration, it shall be the duty of the Board to make an application in writing to the proper officer of the appropriate registration authority for the registration of such transfer and it shall be the duty of such officer to make such entries in the appropriate register as shall give effect to such transfer and, where appropriate, to issue to the transferee concerned a Certificate of Title in respect of the said property or to make necessary amendments to the appropriate register, as the case may be, and if presented therefor, to make endorsements on the deeds relating to the title, right or obligation concerned; and no registration fees, stamp duty or other duties shall be payable in respect thereof.
+
+Registration of property to be transferred by the Board
 
 #### Section 55 — Completion of acts
 

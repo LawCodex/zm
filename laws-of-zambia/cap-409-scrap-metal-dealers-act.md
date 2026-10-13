@@ -291,7 +291,7 @@ shall be guilty of an offence.
 
 (10) In this section, "processing", in relation to scrap metal, includes heating, burning, annealing, melting down and any other process whereby the material ceases to be scrap metal, but does not include dismantling or breaking up, and "processed" shall be construed accordingly. (No. 28 of 1968)
 
-### Section 8 — Restrictions on acquisition of scrap metal, and employment of young persons,
+### Section 8
 
 (1) A scrap metal dealer shall not, by himself or by any other person, purchase or otherwise acquire or dispose of any scrap metal-
 
@@ -341,9 +341,11 @@ shall immediately inform a member of the Zambia Police Force accordingly and sha
 
 (2) Any person who contravenes any provision of subsection (1) shall be guilty of an offence. (As amended by No. 28 of 1968)
 
-### Section 11 — Scrap metal to be kept for seven days
+### Section 11
 
 (1) Every scrap metal dealer shall retain and keep all scrap metal purchased or received by him without heating, burning, annealing, curing or defacing the scrap metal or in any manner changing the appearance or form in which the scrap metal was purchased or received for a period of seven days after the scrap metal has been so purchased or received:
+
+Scrap metal to be kept for seven days
 
 Provided that in any particular case a police officer may, by authority in writing and subject to such conditions as he may think necessary, exempt a scrap metal dealer from all or any of the restrictions imposed by this subsection.
 

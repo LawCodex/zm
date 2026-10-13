@@ -1031,9 +1031,11 @@ Sections thirty-one and thirty-two shall not apply in respect of the first finan
 
 If in any financial year the revenues of the Authority, together with any surplus revenue brought forward from any preceding financial year, are found to be insufficient to meet fully any lawful current indebtedness of the Authority or any lawful expenditure incurred by the Authority, the amount of the insufficiency so arising may be met by way of loan or grant made by the Minister out of moneys appropriated for the purpose by Parliament.
 
-#### Section 35 — Additional capital may be provided by Government
+#### Section 35
 
 In the event of the Authority seeking a capital contribution from the Government, the amount sought to be contributed shall be determined by the Minister, with the concurrence of the Minister responsible for finance, and shall be paid out of moneys appropriated for the purpose by Parliament.
+
+Additional capital may be provided by Government
 
 #### Section 36 — Establishment and operation of general reserve, capital reserve and other
 

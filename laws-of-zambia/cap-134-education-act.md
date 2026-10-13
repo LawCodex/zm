@@ -2065,7 +2065,7 @@ School calendar
 
 (4) The school calendar prepared in accordance with this regulation shall be observed at all schools except to such extent as the Minister may, either generally or in any particular case, authorise.
 
-#### Section 17 — Minister's determination to be final
+#### Section 17
 
 (1) Instruction shall be provided at all primary schools in the following subjects, that is to say: Art and Crafts; English; Environmental Science; Extra-curricula Activities; Handwriting; Homecraft; Mathematics; Music; Physical Education; Practical Skills; Reading; Religious Education; Social Studies; Zambian Languages.
 

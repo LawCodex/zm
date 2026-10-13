@@ -683,11 +683,13 @@ prescribing the powers and duties of levy assessment officers and assistant levy
 
 prescribing the practice and procedure for hearing appeals by levy assessment appeals committees.
 
-#### Section 25 — This Act not to bind the Republic
+#### Section 25
 
 (1) This Act shall not bind the Republic.
 
 Regulations
+
+This Act not to bind the Republic
 
 (2) Notwithstanding the foregoing provision, the Government may deduct from wages or salary payable by the Government to its servants the amount of levy certified under the provisions of section eleven to be due and payable to a levy authority by such servants. (No. 23 of 1964)
 

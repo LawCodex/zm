@@ -391,7 +391,7 @@ it is stated in the declared result of such referendum that the provisions of th
 
 the question or questions raised by any referendum petition or, if more than one, by all referendum petitions presented to the High Court in respect of such referendum within the time limited by section fifteen would not, if decided in favour of the petitioner or petitioners, as the case may be, lead to a declaration by the Commission under section twenty-three showing that the votes of a majority of the persons entitled to vote in such referendum did not support the provisions of the said Act.
 
-#### Section 13 — Persons who may present referendum petitions
+#### Section 13
 
 A referendum petition may be presented to the High Court by one or more of the following persons:
 

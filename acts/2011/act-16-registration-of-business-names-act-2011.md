@@ -312,7 +312,7 @@ No. 16 (4) of The 2011]Registrar may, Registration where the ofRegistrar Busines
 
 The Agency shall publish the names of all the individuals and firms registered under this Act in a daily newspaper of general circulation in Zambia.
 
-### Section 22 — Firms and persons to be registered
+### Section 22
 
 (1) A person who is aggrieved with the decision of the Publication of registered Registrar under this Act may appeal to the Minister within thirty individuals days of the Registrar’s decision. and firms Appeal
 

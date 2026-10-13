@@ -789,11 +789,13 @@ if the member is retired under section twenty-seven, at the rate of K28.00 for e
 
 if the member retires or is retired under section twenty-six, twenty-eight or twenty-nine, at the rate laid down for his age at the date of his retirement in the appropriate Schedules.
 
-#### Section 26 — Retirement due to age, etc
+#### Section 26
 
 (1) A member-
 
 Retirement benefit
+
+Retirement due to age, etc.
 
 (a)
 
@@ -833,7 +835,7 @@ was occasioned by his own default, he shall be granted a lump sum in accordance 
 
 Provided that, if such practitioners cannot reach agreement, they may appoint a third medical practitioner to act with them as a third member of the board, or, failing such appointment within a reasonable time, the Committee may appoint a medical practitioner to act as such third member, and, in either such case, a report of the majority of the members of the board shall be deemed to be the report of the board.
 
-#### Section 28 — Retirement due to reorganisation, etc
+#### Section 28
 
 (1) If the employment of a member who has had at least ten years' continuous service is discontinued, through no fault of such member, owing to a reduction in, or reorganisation of, the staff of his employer, or to the abolition of his office or post, or in order to facilitate improvements in efficiency or organisation, or to retrenchment generally-
 
@@ -1265,7 +1267,7 @@ This Act shall apply notwithstanding any contract to the contrary, whether made 
 
 (2) If a member is indebted to the associated authority which employs or employed him, the Committee shall, at the request of such authority, pay such debt to such authority by deduction from any benefit payable to such member or his dependants.
 
-#### Section 46 — Information to be furnished by or in respect of eligible employees and members
+#### Section 46
 
 (1) Every eligible employee shall, within six months of the date upon which he commenced paying contributions to the Fund, submit to the Committee, at no expense to the Fund, such evidence as it may require-
 

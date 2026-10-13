@@ -439,9 +439,11 @@ does not intend to appeal or to apply for leave to appeal; or
 
 has abandoned his appeal or his application for leave to appeal.
 
-#### Section 19 — Right of appellant to be present
+#### Section 19
 
 (1) An appellant shall be entitled to be present, if he so desires, at the hearing of his appeal or any application to the Court.
+
+Right of appellant to be present
 
 (2) An appellant who does not appear at the hearing of his appeal by a practitioner may present his case and argument in writing, and any case or argument so presented shall be considered by the Court.
 

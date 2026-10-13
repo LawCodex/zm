@@ -239,9 +239,11 @@ All moneys and investments, from time to time forming part of the Fund, shall be
 
 The Board shall have the power to appoint a secretary or clerk to assist in its work and to record the minutes of its meetings, and to pay him reasonable remuneration and expenses from the Fund, and to dismiss him if and when necessary. It shall be lawful for the secretary or clerk to make such small disbursements of cash from the Fund as may from time to time be reasonably necessary for the conduct of the business and correspondence of the Board.
 
-### Section 13 — Opinion of majority of the trustees to be binding on the minority
+### Section 13
 
 In case the trustees shall not be unanimous upon any matter arising in or out of the business of the Board, the decision of the majority of the trustees present and voting, in the case of a matter to be decided at any meeting or in any other case, the decision of the majority of all the trustees shall bind the dissenting minority, and the acts of the majority in execution of the powers hereby given to and reposed in the Board shall be as valid as if they had acted in such matter unanimously.
+
+Opinion of majority of the trustees to be binding on the minority
 
 ### Section 14 — Annulment of Trust Deed and validation of acts
 

@@ -321,7 +321,7 @@ the inquiry would be unnecessary, improper or fruitless.
 
 (3) The Commission shall, in any case in which it decides not to conduct an investigation, or decides to discontinue an investigation, inform the complainant in writing accordingly but shall not be bound to give any reasons therefor.
 
-#### Section 11 — Commission to act notwithstanding finality, etc
+#### Section 11
 
 Subject to the provisions of this Act, the Jurisdiction and powers conferred on the Commission may be exercised notwithstanding any provision in any written law to the effect that an act or omission shall be final, or that no appeal shall lie in respect thereof, or that no proceeding or decision shall be challenged, reviewed, quashed or called in question.
 
@@ -375,7 +375,7 @@ might involve the disclosure of the deliberations of the Cabinet or any sub-comm
 
 the Commission shall not enter upon or inspect any such premises.
 
-#### Section 16 — Inquiries to be in camera
+#### Section 16
 
 Every investigation shall be conducted in camera.
 
@@ -403,7 +403,7 @@ Provided that where the Commission proposes to conduct an investigation pursuant
 
 A person summoned as a witness under this Act may, on the order of the Commission, be paid from moneys appropriated by Parliament for the purpose of such allowances as may be prescribed by the Commission.
 
-#### Section 19 — Offenses relating to witnesses, etc
+#### Section 19
 
 (1) If any person-
 

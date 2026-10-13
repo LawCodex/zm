@@ -323,7 +323,7 @@ In these Regulations, unless the context otherwise requires-
 
 "veterinary district" means one of the districts, set out in the First Schedule, into which Zambia is divided for the purposes of these Regulations.
 
-### Section 3 — Notice of disease or suspected disease to be given
+### Section 3
 
 (1) For the purposes of these Regulations, Zambia shall be divided into the veterinary districts described in the First Schedule.
 
@@ -333,7 +333,7 @@ Veterinary districts
 
 (3) Any person who contravenes or fails to comply with the provisions of sub-regulation (2) shall be guilty of an offence.
 
-### Section 4 — Power to quarantine stock, etc
+### Section 4
 
 (1) The areas described in the Second Schedule shall be quarantine stations into or out of which no stock shall be moved without a permit issued by an authorised officer.
 
@@ -341,7 +341,7 @@ Quarantine stations
 
 (2) If any person moves into or out of any quarantine station any stock without a permit issued by an authorised officer, he shall be guilty of an offence.
 
-### Section 5 — Power to order seizure of stock, etc
+### Section 5 — Power to order seizure
 
 (1) No person shall introduce or cause to be introduced into Zambia any stock, carcass, article or other matter specified in the Third Schedule without a permit issued by the Director or an officer authorised by the Director. Such permit may be refused at the discretion of the Director without any reason being assigned.
 
@@ -829,7 +829,7 @@ That portion of Trust Land bounded as follows:
 
 Starting at the point in the Chikonkomene Hills at the junction of the north-west boundary of the Luano-Lala Reserve, No. XIV, and the south-eastern corner of the Kabwe Urban District; thence eastwards along the northern boundary of the Luano-Lala Reserve, No. XIV, to the point where it meets the Mulungushi River; thence northwards along the Mulungushi River and along the west bank of the Mulungushi Dam and again northwards along the Mulungushi River to its junction with the Mkushi Road; thence following this road in a south-westerly direction for a distance of approximately 12.8 kilometres to a point where it crosses the eastern boundary of Forest Reserve No. 31: Kabwe; thence south-eastwards and south-westwards along the boundary of the said Forest Reserve to Beacon T.221, the south-eastern corner beacon of Farm No. 1019, Mayimba Extension; thence along the southern boundary of that farm to Beacon T.219, its south-westerly corner beacon; thence westwards following the southern boundary of Forest Reserve No. 31: Kabwe, for a distance of approximately 3840.48 metres; thence in a southerly direction along the watershed between the Munyama and Mutenga streams to the point of starting in the Chikonkomene Hills. 9. North Choma Intensive Conservation Area. Mwomboshi Intensive Conservation Area. East Lusaka Intensive Conservation Area. North Lusaka Intensive Conservation Area. 10. Starting at a point on the Mashi River due south of Shangombo Village, the boundary proceeds northwards on a true bearing of 39 degrees for a distance of 16 kilometres; thence south-eastwards parallel to and at a distance of 16 kilometres from the Mashi River for a distance of 99.2 kilometres; thence south-westwards on a true bearing of 219 degrees to a point on the Mashi River; thence northwards along this river to the point of starting.
 
-### Section 11 — Records to be kept by carriers
+### Section 11 — A railway company carrying any stock by rail or the owner of any vehicle which
 
 The Gwembe District.
 

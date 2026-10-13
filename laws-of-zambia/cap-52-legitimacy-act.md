@@ -247,9 +247,11 @@ Right of illegitimate child and mother of illegitimate child to succeed on intes
 
 (3) This section does not apply to or affect the right of any person to take by purchase or descent any entailed interest in real or personal property.
 
-### Section 14 — High Court may make orders as to custody of illegitimate children
+### Section 14
 
 (1) The High Court may, upon the application of either parent of an illegitimate infant, make such order as it may think fit relating to the custody of such infant and the right of access thereto of either parent.
+
+High Court may make orders as to custody of illegitimate children
 
 (2) Where, upon the hearing of an application under this section, the custody of an illegitimate infant is in question, the Court, in deciding that question, shall regard the welfare of such infant as the first and paramount consideration and shall not take into consideration whether from any other point of view the claim of the father in respect of such custody is superior to that of the mother, or the claim of the mother is superior to that of the father.
 

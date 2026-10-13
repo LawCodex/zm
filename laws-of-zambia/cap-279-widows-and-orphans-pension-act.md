@@ -285,9 +285,11 @@ any other service which may have been determined to be public service for the pu
 
 (2) When the marriage of any contributor has been annulled or dissolved by the decree of any competent court, the wife, party to such marriage, shall for all purposes of this Act be deemed to have died and the contributor to have become a widower at the date of such decree. (As amended by No. 1 of 1946, No. 35 of 1961, No. 28 of 1962, No. 32 of 1963, G.N. No. 341 of 1964, S.I. No. 144 of 1965 and No. 43 of 1969)
 
-### Section 3 — Who shall become contributors
+### Section 3
 
 (1) Subject to the exceptions mentioned in sections six and eight, every European officer appointed to a post in the service of the Governments after the commencement of this Act shall become a contributor under the provisions of this Act from the date on which he commences to draw any of the salary of the post.
+
+Who shall become contributors
 
 (2) If a European officer who is already a contributor under the scheme is transferred to the service of the Governments from other East African service after the commencement of this Act, he shall contribute under this Act.
 
@@ -305,9 +307,11 @@ Contributors to Oversea Superannuation Scheme
 
 (3) As from the date upon which any claim for exemption made under the provisions of subsection (1) shall take effect, the officer by whom the claim was made shall be deemed, in respect of all rights arising from his contributions made under the provisions of this Act prior to such date, to be subject to the provisions of section thirty-eight to the same extent as if he had left the service of the Governments on such date. (No. 32 of 1955 as amended by S.I. No. 144 of 1965 and No. 43 of 1969)
 
-### Section 5 — Contributor appointed before 1st August, 1964, ceasing to be contributor
+### Section 5
 
 (1) Any contributor appointed before the 1st August, 1964, serving under a written agreement expressed to continue for a specified period or periods may elect not to continue as a contributor subject to and in accordance with the provisions of this section.
+
+Contributor appointed before 1st August, 1964, ceasing to be contributor
 
 (2) An election as aforesaid shall be by written notice addressed to the Permanent Secretary, Ministry of Finance, or to the Crown Agents.
 
@@ -329,9 +333,11 @@ the provisions of section thirty-four shall apply to him as if he had left the E
 
 (6) If the person on ceasing to be a contributor as aforesaid is married or is a widower with children of pensionable age, the provisions of section forty-one shall apply to him as if he had left the East African service on the date on which he ceased to be a contributor. (No. 50 of 1964 as amended by S.I. No. 144 of 1965)
 
-### Section 6 — Who shall not be contributors
+### Section 6
 
 (1) The following shall not be eligible to be contributors:
+
+Who shall not be contributors
 
 (a)
 
@@ -649,11 +655,13 @@ Provided that any such election shall be void if the full payment of the lump su
 
 ### Section 12 — Repealed by Act No. 22 of 1979
 
-### Section 13 — Registers of contributors to be kept
+### Section 13
 
 Registers shall be kept by the Crown Agents in which shall be entered the date of the birth of every contributor and, if he be married, the dates of the births of his wife and children (if any), particulars of his contributions, and all other dates and particulars respecting contributors and their families material to be recorded for the purposes of this Act.
 
-### Section 14 — Information to be furnished by contributors
+Registers of contributors to be kept
+
+### Section 14
 
 (1) Every contributor shall within three months of his first becoming a contributor under the scheme notify to the Crown Agents in writing-
 
@@ -664,6 +672,8 @@ the date of his birth; and
 (b)
 
 if he is a married man, or a widower with children of a pensionable age, the dates of his marriage and of the births of his wife and children (if any).
+
+Information to be furnished by contributors
 
 (2) Every contributor who marries while a contributor shall within three months after his marriage notify the same to the Crown Agents in writing and state the date of the birth of his wife.
 
@@ -987,9 +997,11 @@ In all cases where under this Act the parties entitled to pensions are minors, s
 
 Provided that the Crown Agents shall not pay such pensions to a person or persons other than the parties entitled to such pensions without the concurrence of the appropriate Commission. (As amended by G.N. No. 341 of 1964 and S.I. No. 144 of 1965)
 
-### Section 31 — Proof of title may be required before payment of pension
+### Section 31
 
 The Crown Agents may require such proof as they deem desirable that any person claiming to be entitled to pension or on behalf of whom such claim is made, is alive and entitled to pension, and the payment of any pension may be refused until such proof is furnished to the satisfaction of the appropriate Commission.
+
+Proof of title may be required before payment of pension
 
 Proof of title may be required before payment of pension (As amended by G.N. No. 341 of 1964 and S.I. No. 144 of 1965)
 
@@ -997,9 +1009,11 @@ Proof of title may be required before payment of pension (As amended by G.N. No.
 
 Increases of contributions shall rank for the purpose of calculating pensions as if they were fresh entrances at the respective ages of husband and wife when the increase takes place.
 
-### Section 33 — Contributions may continue in full if salary reduced
+### Section 33
 
 If the salary, determined in accordance with the provisions of section ten, of a contributor be reduced so that he comes under a lower scale of contribution under section nine, he may upon giving notice in writing to the Crown Agents of his desire to do so continue to contribute at the rate formerly paid, in which case his widow or children shall be entitled to pension accordingly, but if his rate of contribution be reduced any pension to his widow or children shall be reduced in the same proportion as it would have been increased had his rate of contribution been raised instead of lowered.
+
+Contributions may continue in full if salary reduced
 
 (As amended by No. 50 of 1964)
 
@@ -1219,7 +1233,7 @@ The Pension Tables may be revised from time to time after an investigation by an
 
 (G.N. No. 341 of 1964 as amended by No. 50 of 1964)
 
-### Section 43 — Questions and disputes to be decided by appropriate Commission or authority
+### Section 43
 
 All questions and disputes as to who is entitled to be deemed a contributor, or as to the right of a widow or child to a pension, or as to the amount of such pension, or as to the rights and liabilities of any person under this Act shall be referred by the Crown Agents in the case of the contributors concerned serving or having last served(a)
 
@@ -1228,6 +1242,8 @@ in Zambia, to the appropriate Commission; and
 (b)
 
 in any other territory, to the appropriate authority therein; and the decision of the appropriate Commission, or the appropriate authority, as the case may be, shall be binding and conclusive on all parties, and shall be final to all intents and purposes and, save as otherwise provided by the constitutional instruments, shall not be subject to appeal or to be questioned or revised by any court of justice. (No. 43 of 1969)
+
+Questions and disputes to be decided by appropriate Commission or authority
 
 ### Section 44 — Cost of management of scheme
 
@@ -1283,9 +1299,11 @@ and any such direction shall have the force of law.
 
 Cap. 266
 
-### Section 49 — Officers from Palestine may become contributors
+### Section 49
 
 Notwithstanding any of the foregoing provisions of this Act, any officer who was a contributor under the Palestine Widows' and Orphans' Pensions Ordinance, 1944, immediately before the termination of His Britannic Majesty's jurisdiction in Palestine, and who is appointed to the service of the Governments, may become a contributor if, not later than three months after such appointment or after the commencement of Act No. 12 of 1950, whichever is the later, such officer makes a lump sum payment under the provisions of this Act, equal to the accumulated contributions he has paid under such Palestine Ordinance, and he shall lthen be deemed to have been a contributor, from the date he would have become a contributor, had such lump sum been contributed by way of annual contributions under the provisions of this Act.
+
+Officers from Palestine may become contributors
 
 (No. 12 of 1950 as amended by S.I. No. 144 of 1965)
 

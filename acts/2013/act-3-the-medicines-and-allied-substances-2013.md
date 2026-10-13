@@ -840,7 +840,7 @@ Medicines and Allied Substances
 
 instrument.
 
-### Section 44 — Sale of medicine, etc
+### Section 44
 
 (1) A person shall not sell by retail or otherwise supply medicine in a place other than a pharmacy, health facility or an animal health facility, except with the written approval of the Authority.
 

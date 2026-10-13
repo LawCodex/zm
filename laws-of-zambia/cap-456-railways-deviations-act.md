@@ -153,7 +153,7 @@ Provided that if the parties do not concur in the appointment of a sole arbitrat
 
 Arbitration and appointment of arbitrator. Cap. 740
 
-### Section 8 — Provision when the owner is a person under disability
+### Section 8
 
 As often as any person interested or concerned in any arbitration under this Act shall be a person who is absent from Zambia or cannot after diligent inquiry be found in Zambia and who has no known agent or representative therein or shall be an infant, lunatic or person of unsound mind, the following provisions shall apply:
 

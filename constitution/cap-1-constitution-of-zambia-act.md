@@ -243,7 +243,7 @@ and official language
 
 #### Section 2 — Public seal
 
-#### Section 3 — Has had its effect
+#### Section 3
 
 National Anthem, National Flag, National Emblem and National Motto
 

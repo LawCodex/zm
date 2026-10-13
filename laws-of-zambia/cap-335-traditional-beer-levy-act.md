@@ -135,9 +135,11 @@ honey beer; and
 
 such other intoxicating liquor as the Minister may, by statutory notice, prescribe. (As amended by No. 25 of 1969)
 
-### Section 3 — Minister may prescribe establishment
+### Section 3
 
 The Minister may, by statutory notice, declare any establishment used for the retail sale of traditional beer to be a beer hall for the purposes of this Act.
+
+Minister may prescribe establishment
 
 (As amended by No. 25 of 1969)
 
@@ -199,7 +201,7 @@ Cap. 388
 
 in any other case, the proprietor. (As amended by No. 69 of 1965)
 
-### Section 7 — Books to be kept and returns to be rendered
+### Section 7
 
 (1) The proper officer shall, in respect of each beer hall for which he is proper officer-
 

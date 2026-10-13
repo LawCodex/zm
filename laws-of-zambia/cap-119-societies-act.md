@@ -269,9 +269,11 @@ the
 
 No suit shall lie against any public officer for anything done or omitted to be done by him in good faith without negligence and intended exercise of any power of performance of any duty conferred or imposed upon him by any of the provisions of this Act.
 
-#### Section 5 — Associations deemed to be established in Zambia
+#### Section 5
 
 An association shall be deemed to be established in Zambia although it is organised and has its headquarters or chief place of business outside Zambia, if any of its office-bearers or members reside in Zambia or is present therein, or if any person in Zambia manages or assists in the management of such association or solicits or collects money or subscriptions in its behalf:
+
+Associations deemed to be established in Zambia
 
 Provided that no association shall be deemed to be so established if and so long as-
 
@@ -371,11 +373,13 @@ Cases where Registrar must refuse registration or exemption
 
 (3) Any document purporting to be an extract of any entry in the register kept under the provisions of subsection (1) and to be certified under the hand of the Registrar shall be received in evidence as to the matters stated therein in any proceedings under the provisions of this Act. (As amended by No. 26 of 1960)
 
-#### Section 11 — Exemption from registration to be entered in register
+#### Section 11
 
 (1) When a society is exempted from registration under the provisions of section seven, the Registrar shall enter in a register kept for the purpose the name of such society together with the date of such exemption.
 
 (2) Upon payment of such fee as may be prescribed, the register kept under the provisions of subsection (1) may be searched and examined by any person during the usual office hours upon application being made to the Registrar in that behalf. (No. 7 of 1962)
+
+Exemption from registration to be entered in register
 
 #### Section 12 — Rescission of exemption
 
@@ -463,7 +467,9 @@ Prohibition of certain acts after society has become unlawful
 
 Provided that nothing herein shall preclude the Minister from making a further order or further orders with or without variations if it appears to him to be in the public interest to do so. (No. 46 of 1958 as amended by G.N. No. 314 of 1964 and Act No. 13 of 1994)
 
-#### Section 15 — Publication of registration, etc
+#### Section 15
+
+Publication of registration, etc.
 
 The Registrar shall, by Gazette notice, notify-
 
@@ -533,7 +539,7 @@ without notification in writing to the Registrar within one month thereof, and i
 
 (2) If any exempted society fails to comply with the provisions of subsection (1), such society and every office-bearer thereof shall be guilty of an offence and liable to a fine not exceeding three thousand penalty units. (As amended by Act No. 13 of 1994)
 
-#### Section 19 — Information to be furnished by registered societies
+#### Section 19
 
 (1) An authorised officer may, at any time by notice under his hand, order any registered society to furnish him with-
 
@@ -559,9 +565,11 @@ Provided that the authorised officer may, in his discretion, on application bein
 
 (4) Every office-bearer and every person managing or assisting in the management of a society in respect of which a notice under subsection (3) has been served shall supply to the authorised officer or the person authorised by him such information relating to the accounts of the society and other matter incidental thereto as an authorised officer or such authorised person may require, and when the inspection is undertaken by a person authorised by the authorised officer, such person shall make a report to the authorised officer with such recommendation as he may deem fit to include. (As amended by No. 46 of 1958, No. 26 of 1960 and G.N. No. 314 of 1964)
 
-#### Section 20 — Authorised officer may call for audited accounts
+#### Section 20
 
 (1) An authorised officer may, at any time by notice under his hand, order any registered society to furnish him, within a time not being less than twenty-eight days to be stated in such order, with duly audited accounts of such society.
+
+Authorised officer may call for audited accounts
 
 (2) For the purposes of this section, "duly audited" means audited by an auditor approved by an authorised officer and such approval may be given either generally or for any particular audit. (As amended by No. 26 of 1960)
 
@@ -699,7 +707,7 @@ GENERAL
 
 (2) The Minister may, by statutory order, declare that this subsection shall apply to any area of Zambia, and in any area to which this subsection has been so applied it shall be lawful for any authorised officer to enter, with or without assistance and using force for that purpose if necessary, into any place in which he may have reasonable grounds to believe that a meeting of an unlawful society or of persons who are members of an unlawful society is being held, or that books, accounts, writings, lists of members, banners, seals, insignia, firearms, weapons or other articles belonging to an unlawful society are concealed, kept or deposited and to arrest or cause to be arrested all persons found in or escaping from such place and seize or cause to be seized all books, accounts, writings, lists of members, banners, seals, insignia, firearms, weapons or other articles which he may have reasonable cause to believe belong to any unlawful society or to be in any way connected therewith. (As amended by G.N. No. 314 of 1964 and Act No. 9 of 1974)
 
-#### Section 31 — Supplementary provisions as to search warrants, etc
+#### Section 31
 
 (1) The provisions of subsections (1) and (3) of section one hundred and two, and sections one hundred and four, one hundred and six, one hundred and nineteen, one hundred and twenty and one hundred and twenty-one of the Criminal Procedure Code shall apply to search warrants issued under the provisions of section twenty-nine, and any magistrate issuing a search warrant under section twenty-nine shall, for the purposes thereof, be deemed to have jurisdiction throughout Zambia.
 
@@ -743,17 +751,21 @@ fails to give notice to the Registrar of any change in its postal address;
 
 then such society and every office-bearer thereof shall be guilty of an offence and shall be liable to a fine not exceeding thirty penalty units for every day during which such society so operates or fails to give notice. (As amended by Act No. 13 of 1994)
 
-#### Section 35 — Power to reject information, etc
+#### Section 35
 
 (1) Where the Registrar is of opinion that doubt exists as to the qualifications or good faith of any person applying for the registration or exemption from registration of a society, or supplying information under any of the provisions of this Act, he may order such person to show cause why such application or such information should be accepted from such person.
 
 (2) An order given under the provisions of subsection (1) shall specify the time, not being less than twenty-one days from the date of such order, within which the person concerned shall comply therewith.
 
+Power to reject information, etc.
+
 (3) Where any person ordered to show cause under the provisions of subsection (1) fails to comply with such order within the specified time or fails to satisfy the Registrar as to his qualifications or good faith, the Registrar may, subject to the confirmation of the Minister, refuse to accept the application or information concerned and may accept any application or information in the same matter made or given by any other person who, in the opinion of the Registrar, is entitled to make the same. (No. 26 of 1960 as amended by G.N. No. 314 of 1964)
 
-#### Section 36 — Service of summons, etc
+#### Section 36
 
 (1) Every order, notice, summons or other document issued under the provisions of this Act or any rule made thereunder shall be deemed to have been validly and effectively served on the person to whom it is addressed if it is personally served upon him, or is left with him, or is sent by prepaid registered post addressed to him at the registered office of the society with which he is concerned:
+
+Service of summons, etc.
 
 Provided that, where it is not possible to effect service of any such document in any of the modes hereinbefore mentioned, service thereof shall be deemed to have been validly effected if such document is securely affixed to the door of the house or other building in which the person to whom such document is addressed is usually resident.
 

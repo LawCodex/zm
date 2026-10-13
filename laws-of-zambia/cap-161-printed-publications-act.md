@@ -111,9 +111,11 @@ Imprint on books printed and published in Zambia
 
 (2) Any person who contravenes the provisions of this section shall be guilty of an offence and liable to a fine not exceeding three thousand penalty units. (As amended by No.13 of 1956, G.N. No.110 of 1964, No. 44 of 1969 and Act No. 13 of 1994)
 
-### Section 6 — Certified extracts from register to be received in evidence
+### Section 6
 
 (1) It shall be the duty of the Director to keep a register in which shall be entered the particulars mentioned in the last preceding section.
+
+Certified extracts from register to be received in evidence
 
 (2) Any person wishing to obtain an extract from such register, signed by the Director, showing the particulars therein contained in regard to any newspaper, shall be entitled to obtain the same on application to the Director and on payment of a fee of four fee units for every such extract.
 

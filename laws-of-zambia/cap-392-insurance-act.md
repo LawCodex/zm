@@ -599,9 +599,11 @@ Registration of insurers
 
 (4) The Registrar shall cause notice of every registration of an insurer to be published in the Gazette.
 
-#### Section 7 — Registered insurers to be licensed
+#### Section 7
 
 (1) Subject to the provisions of this section, no person shall transact any class of insurance business in Zambia as an insurer unless he is a registered insurer holding a valid licence to transact that class of insurance business.
+
+Registered insurers to be licensed
 
 (2) Where an insurer's licence to transact a class of insurance business has been suspended or cancelled, the provisions of subsection (1) shall not apply to business relating to policies in that class of insurance which were issued by him before that suspension or cancellation.
 
@@ -835,9 +837,11 @@ Statement in case of amalgamation or transfer of business
 
 Life insurers carrying on business other than life insurance business
 
-#### Section 18 — Periodical investigations to be made into financial position of life insurers
+#### Section 18
 
 (1) A life insurer shall, once in every three years, cause an investigation to be made into his financial position by an actuary approved by the Registrar.
+
+Periodical investigations to be made into financial position of life insurers
 
 (2) An investigation into the financial position of a life insurer made in terms of subsection (1) shall include-
 
@@ -889,7 +893,7 @@ Registration of brokers
 
 (4) The Registrar shall cause notice of every registration of a broker to be published in the Gazette.
 
-#### Section 21 — Registered broker to be licensed
+#### Section 21
 
 (1) No person shall act in Zambia as a broker unless he is a registered broker holding a valid broker's licence.
 
@@ -983,9 +987,11 @@ Audit of the accounts of a registered broker
 
 ### PART IV — PROVISIONS RELATING TO INSURANCE AGENTS
 
-#### Section 27 — Insurance agents to be licensed
+#### Section 27
 
 (1) No person shall act in Zambia as an insurance agent save under a valid licence granted under this Part.
+
+Insurance agents to be licensed
 
 (2) Subject to the provisions of this Act and regulations made thereunder, the Registrar shall grant an insurance agent's licence to any person who-
 
@@ -1039,9 +1045,11 @@ paid by the insurer under a life policy and with other moneys, exceed in amount 
 
 Value of certain assets
 
-#### Section 30 — Minor may insure his life
+#### Section 30
 
 (1) A minor who has attained the age of eighteen years may, without the consent of his guardian, effect a life policy upon his own life and pay any premium due under the policy with any money at his disposal.
+
+Minor may insure his life
 
 (2) Subject to the provisions of subsection (3), a minor who has effected a life policy upon his own life as in subsection (1) is provided shall be as competent in all respects to be the owner of such policy and to have and to exercise all the powers and privileges of such owner in relation to the policy as if he were of full age.
 
@@ -1249,7 +1257,7 @@ Protection afforded in respect of life policy inuring to wife
 
 (2) and (3) of section thirty-four shall, mutatis mutandis, apply to a life policy referred to in subsection (1) or moneys due or paid thereunder by the insurer or any assets acquired with those moneys or with those moneys and other moneys.
 
-#### Section 36 — Certain provisions in life insurance policies to be of no force or effect
+#### Section 36
 
 (1) A provision in a life policy issued on or after the 27th November, 1959-
 
@@ -1260,6 +1268,8 @@ in which a person is named as a beneficiary; or
 (b)
 
 which confers on a person, other than the person effecting the policy or his estate, a benefit provided for in the policy;
+
+Certain provisions in life insurance policies to be of no force or effect
 
 shall not, subject to the provisions of subsection (2), be of force or effect.
 
@@ -1277,7 +1287,7 @@ a life policy effected for the benefit of a wife to which the provisions of sect
 
 the cession of a benefit provided for in a life policy.
 
-#### Section 37 — Selection for realisation of life policies in respect of which protection is afforded
+#### Section 37
 
 If-
 
@@ -1325,7 +1335,7 @@ an amount which bears the same ratio to the full sum insured under the old polic
 
 Partial realisation and partial conversion of life policies
 
-#### Section 39 — Provisions in case where life policy ceded or trust policy cannot be kept up
+#### Section 39
 
 If a person who-
 
@@ -1336,6 +1346,8 @@ has effected or ceded a life policy for the benefit of his spouse, and, addition
 (b)
 
 holds a life policy in trust for any other person and is obliged to pay the premiums on the policy;
+
+Provisions in case where life policy ceded or trust policy cannot be kept up
 
 is or has been unable to pay the premiums, that person may, with the consent of each person who has an interest in the policy or, if any such person is a minor, with the consent of his guardian or the Registrar of the High Court, agree with the insurer liable under the policy(i)
 
@@ -1411,7 +1423,7 @@ take the place of the policy lost or destroyed; and
 
 be the sole evidence of the contract made by the policy.
 
-#### Section 45 — Life policy may include disability benefits
+#### Section 45
 
 (1) If a registered insurer by notice in writing-
 
@@ -1581,9 +1593,11 @@ has not been paid within the period specified in subsection (1) or, as the case 
 
 (7) If on or after the commencement of this Act a local life policy under which at least three years' premiums have been paid is dealt with as in subsection (4) is provided and the owner informs the Registrar within thirty days of the date on which he is notified by the insurer liable under the policy that the policy has been so dealt with or, if he is not so notified, within six months of the date on which the policy has been so dealt with that he received no written notice from the insurer a reasonable time beforehand to the effect that the policy was due to be so dealt with, the Registrar may, unless the insurer satisfies him that the notice was duly despatched to the owner at his last known residence or place of work a reasonable time before the policy was due to be so dealt with, require the insurer to revive the policy on payment of the premium required within a period to be fixed by the Registrar. A policy shall be revived in terms of this subsection without any alterations in its conditions with effect from the date of the payment of the premium required.
 
-#### Section 51 — Owner may cancel life policy within limited period without penalty
+#### Section 51
 
 Any life policy issued after the commencement of this Act may be cancelled by the proposer or the owner within a period of three months from the date on which the proposal form has been signed or within thirty days of the receipt of the policy by the owner, whichever is the later. In the event of such cancellation, all premium payments made by the proposer or owner shall be refunded to him but the insurer is entitled to deduct an amount of four kwacha in respect of expenses and the amount of any medical fees incurred.
+
+Owner may cancel life policy within limited period without penalty
 
 #### Section 52 — Days of grace, paid-up policies and non-forfeiture provisions: funeral policies
 
@@ -1719,15 +1733,19 @@ such other public officers as may be necessary to assist the Registrar in the pe
 
 The Registrar shall, within nine months of the 31st December each year, submit to the Minister a report relating to insurance business in Zambia during the twelve months immediately preceding that date and the Minister shall, as soon as may be, lay that report before the National Assembly.
 
-#### Section 62 — Business information to be supplied by insurers and brokers
+#### Section 62
 
 (1) A registered insurer or registered broker or an applicant for registration as an insurer or broker shall supply the Registrar with any documents or information relating to any matter connected with his business or transactions, whether insurance business or transactions or otherwise, which the Registrar requests him to supply.
 
+Business information to be supplied by insurers and brokers
+
 (2) A registered insurer shall, on the request of the Registrar, supply him with such particulars of reinsurance contracts or other arrangements entered into with another insurer or reinsurer as the Registrar may specify.
 
-#### Section 63 — Documents to be signed and copies supplied
+#### Section 63
 
 (1) Every document furnished to the Registrar by an insurer or broker in pursuance of any provision of this Act or regulations made thereunder relating to the
+
+Documents to be signed and copies supplied
 
 (a)
 
@@ -1757,9 +1775,11 @@ in the case of a copy of a document, be certified by the insurer or broker to be
 
 The Registrar may require any person who furnishes him in terms of this Act with any statement, certificate, document or other information whatsoever in a language other than the English language to provide a translation thereof in the English language at that person's expense.
 
-#### Section 65 — Inspection of documents, etc
+#### Section 65
 
 (1) Any person may, on payment to the Registrar of the appropriate prescribed fee, inspect and copy any document furnished to the Registrar in compliance with section twelve, eighteen or twenty-five.
+
+Inspection of documents, etc.
 
 (2) The Registrar shall, on payment of the prescribed fee, furnish any person with a certified copy of or abstract from any document furnished to the Registrar in compliance with section twelve, eighteen or twenty-five.
 
@@ -1845,9 +1865,11 @@ A policy issued to any person before, on or after the commencement of this Act s
 
 (3) No registered insurer, registered broker or insurance agent shall use any form prohibited by the Registrar under subsection (2).
 
-#### Section 74 — Policies to be printed in clearly legible form
+#### Section 74
 
 No person shall issue a local policy containing printed provisions of any nature which are not in clear type face with letters of a size not less than eight point.
+
+Policies to be printed in clearly legible form
 
 #### Section 75 — Change of name of insurers and brokers
 
@@ -1855,11 +1877,13 @@ No person shall issue a local policy containing printed provisions of any nature
 
 (2) The Registrar shall cause notice of a change in the name of any registered insurer or registered broker to be published in the Gazette.
 
-#### Section 76 — Registrar may re-classify insurance business
+#### Section 76
 
 (1) At the request of an insurer the Registrar may, subject to the provisions of subsection (2) and to such conditions and limitations as the Registrar may fix, determine that any insurance business of any particular class which the insurer carries on or intends to carry on shall be treated for the purposes of this Act as insurance business of another class.
 
 (2) The Registrar shall not accede to a request made under subsection (1) unless he is satisfied that his determination will not be detrimental to the interest of any person and will not defeat the objects and purposes of this Act.
+
+Registrar may re-classify insurance business
 
 #### Section 77 — Preferred creditors of an insurer
 

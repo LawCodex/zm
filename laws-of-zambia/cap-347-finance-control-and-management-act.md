@@ -1501,11 +1501,9 @@ Except in the case of the sub-head "personal emoluments", there shall be shown i
 
 Form of estimates Cap. 1
 
-#### Section 7 — Gross revenues to be paid into bank accounts
+#### Section 7 — Draft estimates
 
 The submission of draft recurrent estimates will be called for in an annual estimates circular issued by the Secretary to the Treasury. Controlling officers will frame their draft estimates in the form in which they are to be rendered, including supporting schedules and other details required in the circular.
-
-Draft estimates
 
 #### Section 8 — Establishment of funds and working accounts
 
@@ -1557,11 +1555,9 @@ When the expenditure is of a nature which was not envisaged when the estimates w
 
 Supplementary expenditure
 
-#### Section 16 — Functions of Auditor-General in respect of statutory corporations, etc
+#### Section 16 — Transfer of savings
 
 If the excess expenditure on one item can be met from savings on another item within the same sub-head, an application for Treasury Authority will be submitted for approval to the Secretary to the Treasury.
-
-Transfer of savings
 
 #### Section 17 — Unauthorised use of public moneys or public stores
 
@@ -4875,7 +4871,7 @@ When the necessary authority has been received to write off deficient or unservi
 
 Write-off of tools or equipment
 
-#### Section 88 — Auditor-General to be informed
+#### Section 88
 
 (1) Where an officer is required to hand over tools or equipment in his charge to another officer prior to proceeding on leave, transfer or termination of appointment, as the case may be, all tools and equipment in the custody and charge of the outgoing officer shall be checked and a list of the tools and equipment handed over shall be signed by both officers and handed to the Control Officer.
 
@@ -5135,7 +5131,7 @@ Report on Storage Accommodation (Misc. Form No. 40).
 
 Forms to be used
 
-#### Section 110 — Receipts to be issued
+#### Section 110
 
 The officer in direct charge of the stores under survey shall personally be present while the Board is being held and shall give every facility to members of the Board.
 
@@ -5249,7 +5245,7 @@ an officer not below the rank of Senior Superintendent of Police from the Minist
 
 an officer not below the rank of Senior Mechanical Inspector from the Mechanical Services Department.
 
-#### Section 122 — Revenue not to be credited to suspense account
+#### Section 122
 
 (1) The Chairman of the Standing Board of Survey shall forward all the copies of the Board's report, duly signed and stamped with the official stamp, to the Secretary to the Treasury.
 
@@ -5655,7 +5651,7 @@ Minimum amounts to be claimed
 
 (2) Where a claim is for less than K10, the Stock Discrepancy Report (Accounts Form 152) countersigned by the senior officer of the department at the receiving station shall constitute authority to strike the missing or damaged articles off charge and shall be used to support the Stores Demand, Issue and Receipt Voucher Allocated/Unallocated (Accounts Form 154).
 
-#### Section 141 — Suppliers' invoices to be attached
+#### Section 141
 
 (1) Details of all discrepancies or damaged articles in consignments received shall be entered into a Claims Register (Accounts Form 173) in which shall be recorded the action taken, details of the settlement of the claim and all other relevant information.
 
@@ -5825,7 +5821,7 @@ Security of contents of unoccupied quarters
 
 Distribution and control of furniture, etc.
 
-#### Section 154 — Responsibility of officers signing warrants, etc
+#### Section 154
 
 All items of furniture belonging to the Government must be clearly marked with the distinguishing letters "GRZ" on an inconspicuous part of the object to identify it as Government property.
 
@@ -5931,13 +5927,13 @@ an annual return of staff and office furniture holdings is submitted on or befor
 
 Internal control of office furniture
 
-#### Section 160 — Salaries and wages not to be paid in advance
+#### Section 160
 
 Air-conditioning units are normally supplied only to Ministers, Deputy Ministers, Permanent Secretaries and officers holding equivalent ranks. Authority for the installation of units in common-user office buildings shall be obtained from the Ministry responsible for works and supply which is responsible for the maintenance of common-user office buildings.
 
 Supply of air-conditioning units
 
-#### Section 161 — Adjustment of salary or other moneys due to death, etc
+#### Section 161
 
 (1) The Ministry of Finance shall be responsible for the supply of safes, strong boxes, cash boxes and strongroom doors and all requisitions for supplies of these items shall be submitted to that Ministry.
 
@@ -5999,7 +5995,7 @@ Control of office furniture
 
 ### PART XVII — HANDING OVER OF PUBLIC STORES
 
-#### Section 168 — Gross salary and deductions to be charged
+#### Section 168
 
 (1) On every occasion when it is necessary for public stores to be handed over from the charge of one officer to another, a physical count of the public stores in hand shall be made and the actual balances shown in the stores ledgers.
 

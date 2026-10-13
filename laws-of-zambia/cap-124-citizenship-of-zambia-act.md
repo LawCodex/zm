@@ -345,11 +345,13 @@ any application for registration as a citizen under the provisions of the Consti
 
 any other matter relating to citizenship in accordance with the provisions of this Act.
 
-#### Section 9 — Decisions of Board to be final
+#### Section 9
 
 The Board shall not be required to assign any reason for the grant or rejection of any application under this Act, and the decision of the Board made under and in accordance with the provisions of this Act shall be final and shall not be subject to appeal or review in any court:
 
 Functions of Board Cap. 1 Cap. 1
+
+Decisions of Board to be final
 
 Provided that the Board may, in the special circumstances of any case or in the light of any new facts coming to its knowledge, review its own decision.
 
@@ -385,9 +387,11 @@ CITIZENSHIP BY REGISTRATION
 
 (2) When the Board is satisfied that any person not of full age has associations by way of descent, residence or otherwise with Zambia which would justify his registration as a citizen, the Board may cause such person to be registered as a citizen.
 
-#### Section 13 — President's power to cause persons to be registered as citizens
+#### Section 13
 
 (1) The President may as a token of honour cause to be registered as a citizen any person who in his opinion has done signal honour or rendered distinguished service to Zambia.
+
+President's power to cause persons to be registered as citizens
 
 (2) The President may cause to be registered as a citizen any person not otherwise entitled to or eligible for citizenship of Zambia with respect to whom special circumstances exist which, in the opinion of the President, warrant such registration.
 
@@ -395,7 +399,7 @@ CITIZENSHIP BY REGISTRATION
 
 #### Section 15 — Obsolete
 
-#### Section 16 — Persons entitled to be registered as citizens
+#### Section 16
 
 (1) A person to whom the provisions of Article 6 of the constitution apply may make an application to the Board for registration as a citizen in such manner as may be prescribed.
 
@@ -633,9 +637,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (3) The liability of any person in relation to any offence shall not be affected by any cesser, renunciation or deprivation of his citizenship of Zambia after the commission of the offence. (As amended by Act No. 13 of 1994)
 
-#### Section 28 — Communications of Board to be privileged
+#### Section 28
 
 Notwithstanding anything to the contrary contained in any other written law, no person shall in any legal proceedings be permitted or compelled to produce or disclose any communication, either written or oral, which has taken place between the Board and any member thereof, or between any member of the Board and the secretary in the performance of any of the functions of the Board, unless the Chairman consents in writing to such production or disclosure.
+
+Communications of Board to be privileged
 
 #### Section 29 — Prohibition of publication and disclosure of information to unauthorised persons
 

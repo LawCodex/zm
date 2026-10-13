@@ -221,9 +221,11 @@ Eradications of noxious weeds at public expense
 
 (2) An inspector referred to in paragraph (a) of subsection (1) shall have the same powers as an inspector referred to in subsection (1) of section eight. (As amended by No. 35 of 1963 and G.N. No. 277 of 64)
 
-### Section 10 — Local authorities may incur expenditure
+### Section 10
 
 Notwithstanding the provisions of any other written law, a local authority is hereby empowered to incur such expenditure as may be necessary for the purpose of eradicating any noxious weed which such local authority, as the occupier of the land within the boundaries of which it is growing, is required by or under this Act to eradicate.
+
+Local authorities may incur expenditure
 
 (As amended by No. 35 of 1963)
 

@@ -85,9 +85,11 @@ A Commissioner for Oaths may administer any oath or take any affidavit or declar
 
 Provided that a Commissioner for Oaths shall not exercise any of the powers given to him by this section in any proceeding in which he is solicitor to any of the parties to the proceeding, or clerk to any such solicitor, or in which he is interested. (No. 51 of 1951)
 
-### Section 6 — Particulars to be stated in jurat or attestation clause
+### Section 6
 
 Every Commissioner for Oaths before whom any oath or affidavit is taken or made under this Act shall state truly in the jurat or attestation at what place and on what date the oath or affidavit is taken or made.
+
+Particulars to be stated in jurat or attestation clause
 
 ### Section 7 — Offences and penalties
 

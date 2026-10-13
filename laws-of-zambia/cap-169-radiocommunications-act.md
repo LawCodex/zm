@@ -261,7 +261,7 @@ FUNCTIONS OF COMMUNICATIONS AUTHORITY
 
 (2) The Authority is hereby authorised to undertake and carry on any works or activities that, for persons other than the Authority, would by virtue of this Act require a licence.
 
-#### Section 5 — Approval of sites, allocations of frequencies, etc
+#### Section 5
 
 (1) Subject to subsection (3), the Minister, on the advice of the Authority, shall by statutory instrument-
 
@@ -445,7 +445,7 @@ radiocommunication services established by the Authority or a licensee after the
 
 MISCELLANEOUS
 
-#### Section 14 — Notice to be given of certain works
+#### Section 14
 
 (1) A person who desires to construct a railway or works for the supply of light, heat or power by means of electricity shall-
 

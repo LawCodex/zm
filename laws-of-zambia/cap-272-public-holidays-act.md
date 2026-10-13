@@ -49,9 +49,11 @@ Acts No. 14 of 1964 59 of1965 23 of1967 50 of1967 33 of1968 14 of1975 12 of 1983
 
 This Act may be cited as the Public Holidays Act.
 
-### Section 2 — Days in the Schedule to be public holidays
+### Section 2
 
 (1) The days mentioned in the Schedule shall be observed throughout Zambia as public holidays.
+
+Days in the Schedule to be public holidays
 
 (2) Whenever any of the days mentioned in the Schedule falls on a Sunday, the following Monday shall be observed as a public holiday.
 

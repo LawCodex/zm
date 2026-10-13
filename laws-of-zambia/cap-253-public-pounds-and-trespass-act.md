@@ -467,9 +467,11 @@ and such District Secretary may dismiss any such poundmaster or pound assesor.
 
 (3) In case any horses or cattle suffering from any contagious disease shall be sent to the pound, such horses or cattle shall be kept separate from all other impounded stock, and the poundmaster may, subject to the provisions of section thirteen, cause the same to be destroyed.
 
-#### Section 7 — Receipts to be given for animals impounded
+#### Section 7
 
 The poundmaster, or someone acting on his behalf, shall give to the person delivering animals into his charge a written receipt, setting forth the number and description of the animals so delivered, and specifying the trespass for which the said animals are reported to be impounded.
+
+Receipts to be given for animals impounded
 
 #### Section 8 — Separate enclosures of pound
 
@@ -497,9 +499,11 @@ Any poundmaster who shall ride or otherwise work or use any impounded animal sha
 
 In case of the death or injury of any impounded animal, the poundmaster shall enter in his pound book a description of such animal, and the cause of its death or injury; and the absence of any such entry, or its falsity in any material respect, shall be held to be prima facie proof of the fact that the death or injury in question was due to the default of the poundmaster.
 
-#### Section 13 — Destruction of impounded animals when diseased, etc
+#### Section 13
 
 Any poundmaster may destroy, subject to the exceptions hereinafter stated, any impounded animal suffering from a contagious disease, or likely to prove dangerous to human life, or destructive to other animals impounded:
+
+Destruction of impounded animals when diseased, etc.
 
 Provided that(i)
 
@@ -549,7 +553,7 @@ impounded in his pound shall forthwith send through the post, or otherwise, a wr
 
 Notice to owners of impounded animals
 
-#### Section 18 — Duties of poundmaster when impounded animals are branded
+#### Section 18
 
 (1) Upon the establishment of a pound, the Registrar of Brands shall furnish the poundmaster thereof with a copy of the Brand Directory which shall have been last compiled under the provisions of section nine of the Brands Act and shall furnish such poundmaster with a copy of every Brand Directory thereafter compiled.
 
@@ -559,13 +563,15 @@ Duties of poundmaster when impounded animals are branded. Cap. 244
 
 (3) For every letter so sent the poundmaster shall be entitled to a fee of ten ngwee, plus postage (if any) paid thereon.
 
-#### Section 19 — Brand Directory and scale of fees, etc., to be exhibited
+#### Section 19
 
 (1) Every poundmaster shall have and preserve at or near his pound a copy of this Act and of the last Brand Directory received by him, and the same shall at all reasonable times be open for reference to the public.
 
+Brand Directory and scale of fees, etc., to be exhibited
+
 (2) Every poundmaster shall erect and maintain at or near the pound a board upon which shall be printed, painted or written in legible characters the rates of fees and damages fixed by the First, Second, Third, Fourth, Fifth and Sixth Schedules, or such other rates as the District Secretary may authorise in their place.
 
-#### Section 20 — Pound book and details to be entered therein
+#### Section 20
 
 (1) Every poundmaster shall keep a pound book, and the following particulars shall be legibly entered by every poundmaster in his pound book:
 
@@ -576,6 +582,8 @@ the date when and the cause for which all animals received by him are impounded;
 (b)
 
 the number and description of such animals, including any brands or marks thereon;
+
+Pound book and details to be entered therein
 
 (c)
 
@@ -593,7 +601,7 @@ any other matters which he may be directed by the District Secretary to ascertai
 
 (3) Generally, in regard to the forms in which entries in the pound book are to be made, the poundmaster shall follow such directions as he may receive from the District Secretary.
 
-#### Section 21 — Pound book to be open for inspection
+#### Section 21
 
 (1) Every pound book shall be kept at the residence of the poundmaster, and shall at all reasonable times be open for inspection, free of charge, by-
 
@@ -619,9 +627,11 @@ and shall be similarly open to every other person upon payment of a fee of five 
 
 (2) Every poundmaster shall grant extracts, signed by himself, from his pound book to any person demanding the same, upon payment of ten ngwee for every such extract not exceeding one hundred words and five ngwee for every subsequent hundred or part of one hundred words. (As amended by No. 47 of 1963)
 
-#### Section 22 — Copies of entries to be forwarded to District Secretary
+#### Section 22
 
 (1) Every poundmaster shall, within a fortnight after the date of each pound sale, forward to the District Secretary a copy of all entries in his pound book made since the date of the preceding transmission.
+
+Copies of entries to be forwarded to District Secretary
 
 (2) The District Secretary shall preserve all such copies in his office for the inspection of any person desirous of seeing them.
 
@@ -663,9 +673,11 @@ wilfully deliver to the District Secretary aforesaid a false copy or extract fro
 
 shall be liable to the penalty prescribed by section seventy-eight.
 
-#### Section 25 — Pound book to be available for inspection at sales
+#### Section 25
 
 Every poundmaster shall take his pound book with him to every sale of animals impounded in his pound, and such book shall be open, at the place of sale, free of charge, to all persons desirous of inspecting it.
+
+Pound book to be available for inspection at sales
 
 ### PART III — TRESPASS
 
@@ -711,7 +723,7 @@ The owner of any dog, or any person having a dog in his possession or under his 
 
 (3) If the said tender be refused, the person complaining of trespass shall pay the cost of all legal proceedings which the owner may thereafter institute in respect of the detention of the animals after the date of the tender, and shall be liable for all damages sustained by the owner by reason of such detention, unless the tender is found to be insufficient by a competent court, or unless in the opinion of such court the tender was refused by the complainant, or person in charge of the animals, in the bona fide belief that the person making the tender was not the owner or the duly authorised agent of the owner.
 
-#### Section 29 — Wrongful use or conversion of animals trespassing, etc
+#### Section 29
 
 No person shall-
 
@@ -723,13 +735,17 @@ use or retain possession of or sell or otherwise dispose of any animal found ast
 
 sell or dispose of any animal found trespassing upon his property;
 
+Wrongful use or conversion of animals trespassing, etc.
+
 under the penalty prescribed by section seventy-eight:
 
 Provided that the recovery of any such penalty shall be no bar to any prosecution for theft, or to the recovery from such person of the value of the animal and damage for its illegal detention or sale.
 
-#### Section 30 — Food and water to be supplied to animals confined
+#### Section 30
 
 No person who has seized animals for the purpose of being impounded shall tie them up or cause them to be confined in any stable, kraal or other enclosure without food or water for a longer period than six hours during the day-time.
+
+Food and water to be supplied to animals confined
 
 #### Section 31 — Duties of landowners in connection with stray animals
 
@@ -865,9 +881,11 @@ Every such award shall be handed to the complainant, who shall send a true copy 
 
 (3) Any person who shall wilfully drive any sheep or goats infected with scab into or upon the property of another person, upon which property there are at the time any sheep or goats not infected with the said disease, shall, in addition to any damage or trespass money payable under this Act or otherwise, be liable, on conviction, to be imprisoned, with or without hard labour, for any period not exceeding six months.
 
-#### Section 42 — Infection of one animal to be deemed infection of whole flock
+#### Section 42
 
 For the purposes of this Act, if any sheep or goat found trespassing is infected with scab as in the last preceding section mentioned, then all sheep or goats in the same flock, and found trespassing at the same time, shall be deemed to be similarly infected, and if any sheep or goat in any flock with which any other flock has become mixed is so infected, then the entire mixed flock shall be deemed to be similarly infected.
+
+Infection of one animal to be deemed infection of whole flock
 
 #### Section 43 — Claim for damages in respect of infected sheep or goats
 
@@ -877,7 +895,7 @@ If damages are claimed for the trespass of any sheep or goats alleged to be infe
 
 The owner of any sheep or goats alleged to be infected with scab and with respect to the trepass of which trespass money is claimed under this Act may, upon depositing with the poundmaster the sum of two kwacha and twenty-five ngwee, demand that the question whether the said sheep or goats are so infected be submitted for decision to the award of a pound assessor and two arbitrators; and thereupon the provisions of section thirty-eight shall apply to every such case.
 
-#### Section 45 — Trespass by stallions, etc
+#### Section 45
 
 The owner of any stallion, bull, sheep-ram or goatram, which shall be found trespassing upon the property of another person, and found to be in company with any mare, cow, heifer or ewe, respectively, belonging to the owner of such property or being thereon with the consent of the owner of such property, shall be liable to pay to him in addition to all other pound fees or charges, a penalty calculated upon the following scale:
 
@@ -897,9 +915,11 @@ Trespass by stallions, etc.
 
 (As amended by No. 36 of 1933 and Act No. 13 of 1994)
 
-#### Section 46 — Saving as to young stallions, etc
+#### Section 46
 
 The provisions of the last preceding section shall not apply to any stallion under the age of two years, to any bull under the age of one year, and to any sheep-ram or goat-ram under the age of nine months, and the trespass money payable in respect of any stallion, bull, sheep-ram or goat-ram, found trespassing, but not under the circumstances detailed in the last preceding section, shall be the same amount that would have been payable in respect of a similar trespass by a gelding, ox or wether, as the case may be.
+
+Saving as to young stallions, etc.
 
 #### Section 47 — Reference to assessors
 
@@ -973,9 +993,11 @@ years, every sheep-ram, goat-ram or boar above the age of nine months, and every
 
 Fees for animals separately herded
 
-#### Section 59 — Fees to be a charge on the animals
+#### Section 59
 
 The fees mentioned in the last three preceding sections shall be paid to the poundmaster for his own use by the owner of the animals impounded; and the said fees, together with the mileage paid by the poundmaster, in terms of this Act, shall be a charge upon such animals; and such animals may be detained by the poundmaster in security of the said fees and mileage:
+
+Fees to be a charge on the animals
 
 Provided that(i)
 
@@ -1003,21 +1025,27 @@ The District Secretary may from time to time alter the tariff of fees and rates 
 
 Every such alteration or amendment of any of the Schedules, when published as hereinafter provided, shall be of the same legal force as if it had formed part of the original Schedule, and shall be taken to be included in any reference made in this Act to such Schedule.
 
-#### Section 64 — Altered fees to be gazetted
+#### Section 64
 
 No such altered tariff shall take effect until it has been published in the Gazette and in some newspaper circulating in the District.
 
-#### Section 65 — Copies to be furnished to poundmasters
+Altered fees to be gazetted
+
+#### Section 65
 
 As soon as the District Secretary shall have framed and published an altered or amended Schedule as hereinbefore provided, each poundmaster in the District shall be furnished by the District Secretary with a copy thereof.
+
+Copies to be furnished to poundmasters
 
 #### Section 66 — Sale of impounded stock
 
 Whenever any impounded animals shall not be released within ten days from the date of their impoundment, the poundmaster shall forward to the District Secretary an advertisement setting forth the species, marks, brands and distinguishing peculiarities (if any) of such animals, and, in regard to horses and cattle, their colour also. Such advertisement shall notify that the animals therein mentioned will be sold at the next sale of impounded cattle, and shall set forth the time and place of such sale.
 
-#### Section 67 — Notice of sale to be published in newspaper
+#### Section 67
 
 Every advertisement or notice of the sale of impounded animals shall be published at least twice in succession in such paper or papers as the District Secretary may direct, and the expense of such publication shall be borne by the Government.
+
+Notice of sale to be published in newspaper
 
 #### Section 68 — Posting of notice
 
@@ -1039,9 +1067,11 @@ all District Secretaries shall transmit to the Minister for insertion in the Gaz
 
 At every sale of impounded stock the poundmaster shall act as auctioneer. No auctioneer's licence shall be necessary in order to enable a poundmaster so to act. No poundmaster shall be directly or indirectly interested in any purchase at any sale so held by himself.
 
-#### Section 71 — Animals to be impounded for at least three weeks before sale
+#### Section 71
 
 No animal shall be put up at any such sale unless it has been impounded for at least three weeks, except with the consent of the owner.
+
+Animals to be impounded for at least three weeks before sale
 
 #### Section 72 — Manner of conducting sale
 
@@ -1073,9 +1103,11 @@ Any person who illegally impounds any animal shall be liable to make good to the
 
 Provided that nothing herein contained shall be deemed or held to prevent or bar any action for damages competent to such owner or any criminal prosecution.
 
-#### Section 75 — Rates at which fees payable when more than one pound is concerned
+#### Section 75
 
 In case any property trespassed upon is situated in a different District from that in which the pound proper for the receipt of trespassing animals is situated, and in case the rates of mileage and trespass money in the two Districts shall be different, then mileage and trespass money shall be payable according to the rate for the District in which the property trespassed upon is situated; but all rates payable upon the delivery of such animals to the poundmaster, and for herding, grazing and feeding the same, shall be payable according to the rate for the District in which the pound is situated.
+
+Rates at which fees payable when more than one pound is concerned
 
 ### PART V — GENERAL
 
@@ -1125,9 +1157,11 @@ for every contravention by any person, including a poundmaster, of the sections 
 
 in default of payment of the penalty imposed, to imprisonment with or without hard labour for a period not exceeding three months. (As amended by Act No. 13 of 1994)
 
-#### Section 79 — Impounding of animals alleged to have been stolen, etc
+#### Section 79
 
 (1) Any District Secretary may send to any pound in the District within his jurisdiction any animals alleged or proved to have been stolen, or to have been taken possession of, or sold, or disposed of, in contravention of section twenty-nine, and may remove or authorise the removal of the same at his discretion.
+
+Impounding of animals alleged to have been stolen, etc.
 
 (2) It shall be the duty of the poundmaster to receive any animals so sent to his pound. Such animals shall not be subject to the usual pound regulations for the sale of impounded animals, but shall be dealt with in such manner as the District Secretary may direct.
 

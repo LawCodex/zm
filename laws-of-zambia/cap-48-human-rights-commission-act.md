@@ -373,11 +373,13 @@ Complaints
 
 (6) The Commission may in any inquiry make such orders and give such directions as it may consider necessary for the purpose of conducting any investigation.
 
-#### Section 12 — Sittings of the Commission to be public
+#### Section 12
 
 (a)
 
 The Commission shall-
+
+Sittings of the Commission to be public
 
 conduct all its sittings in public:
 

@@ -727,7 +727,7 @@ roll, the date of commencement of the rate period within which the supplementary
 
 Effective date where date of commencement of rate period within which supplementary roll is approved is earlier than event giving rise to inclusion of a rateable property in supplementary roll
 
-#### Section 13 — Leaseholder of shorter term deemed to be leaseholder of property
+#### Section 13
 
 Where two or more of the items held by a leasee, subleasee or underleasee exist contemporaneously in respect of the same property and both or all of which were originally granted for a term of thirty years or more, the person in whom the shorter, or the shortest of such terms is vested shall be deemed to be the leaseholder of that property.
 

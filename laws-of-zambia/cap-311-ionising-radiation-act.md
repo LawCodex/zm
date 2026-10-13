@@ -331,19 +331,25 @@ is convicted of an offence under any written law and sentenced therefor to impri
 
 (2) Where any item of the agenda is deemed to be of significance to any Ministry not represented on the Board, the secretary shall notify and invite the Permanent Secretary of that Ministry or his representative to attend that meeting, who shall participate in the meeting in all respects as if he were a member of the Board.
 
-#### Section 10 — Minutes of Board meetings to be kept
+#### Section 10
 
 The Secretary shall cause details of all business transacted at any meeting of the Board to be entered regularly in a minute book kept for that purpose and the minutes of the proceedings of each meeting shall be submitted to the Board for confirmation at a subsequent meeting of the Board and, if passed as correct, shall be confirmed by the signature of the chairman and when so confirmed shall be prima facie evidence in any court as an accurate record of the proceedings.
 
-#### Section 11 — Chairman may act for Board in certain cases
+Minutes of Board meetings to be kept
+
+#### Section 11
 
 The chairman may, in consultation with the advocate referred to in section six
 
 (1) (c) and the Chief Radiation Protection Officer, act for and in lieu of the Board in any matter of urgency but any such action shall be referred to the Board at its next meeting for its information and approval.
 
-#### Section 12 — Recommendations to be made by Board to Minister
+Chairman may act for Board in certain cases
+
+#### Section 12
 
 Subject to the provisions of this Act, the Board shall make recommendations to the Minister on all matters concerning-
+
+Recommendations to be made by Board to Minister
 
 (a)
 
@@ -479,7 +485,7 @@ on the request of four members of the Committee if any urgent matter arises for 
 
 (4) The chairman of the Committee may invite an expert, other than a member of the Committee, to attend and participate in the discussion on any matter in which in the opinion of the chairman such expert may make a useful contribution, having regard to his expertise in that matter.
 
-#### Section 17 — Minutes of Committee meetings to be kept
+#### Section 17
 
 The secretary shall cause details of all business transacted at any meeting of the Committee to be entered regularly in a minute book kept for that purpose and the minutes of the proceedings of each meeting shall be submitted to the Committee and, if passed as correct, shall be confirmed by the signature of the chairman and when so confirmed shall be prima facie evidence in any court as an accurate record of the proceedings.
 

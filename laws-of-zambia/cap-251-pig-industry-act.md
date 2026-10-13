@@ -277,7 +277,7 @@ The costs payable by the Minister in an action referred to in section nine shall
 
 ### PART III — DEVELOPMENT OF THE PIG INDUSTRY IN ZAMBIA
 
-#### Section 11 — Certain pig carcasses to be graded throughout Zambia
+#### Section 11
 
 The carcasses of all pigs slaughtered in Zambia for-
 
@@ -289,11 +289,15 @@ export or sale as carcasses; or
 
 making into bacon, ham or other products for human consumption;
 
+Certain pig carcasses to be graded throughout Zambia
+
 shall be graded immediately after slaughter in accordance with the provisions of this Act. (As amended by No. 15 of 1960 and G.N. No. 89 of 1964)
 
-#### Section 12 — Minister may define areas in Zambia within which all carcasses to be graded
+#### Section 12
 
 The Minister may, by statutory notice, define areas in Zambia within which the carcasses of all pigs slaughtered for sale or export in any form whatsoever shall be graded immediately after slaughter in accordance with the provisions of this Act.
+
+Minister may define areas in Zambia within which all carcasses to be graded
 
 (As amended by No. 15 of 1960, Act No. 9 of 1964, G.N. No. 89 of 1964 and S.I. No. 176 of 1965)
 
@@ -309,7 +313,7 @@ examine the quality of each pig carcass liable to be graded in accordance with t
 
 grade the pig carcass and mark the grade on the carcass in the prescribed manner.
 
-#### Section 14 — Bacon factories to be licensed
+#### Section 14
 
 (1) No person shall use premises as a bacon factory-
 
@@ -320,6 +324,8 @@ unless he holds a licence to use those premises as a bacon factory issued by the
 (b)
 
 otherwise than in accordance with the conditions, if any, contained in the licence.
+
+Bacon factories to be licensed
 
 (2) A person who contravenes the provisions of subsection (1) shall be guilty of an offence and all pig carcasses found on the premises shall be forfeited.
 

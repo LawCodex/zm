@@ -135,15 +135,19 @@ the person who supplied the information recorded in the statement in question is
 
 (2) For the purpose of deciding whether or not a statement is admissible as evidence by virtue of this section, the court may draw any reasonable inference from the form or content of the document in which the statement is contained, and may, in deciding whether or not a person is fit to attend as a witness, act on a certificate purporting to be a certificate of a fully registered medical practitioner. (No. 3 of 1968)
 
-### Section 5 — Weight to be attached to evidence
+### Section 5
 
 (1) In estimating the weight, if any, to be attached to a statement admissible as evidence by virtue of this Act, regard shall be had to all the circumstances from which any inference can reasonably be drawn as to the accuracy or otherwise of the statement, and in particular to the question whether or not the person who supplied the information contained or recorded in the statement did so contemporaneously with the occurrence or existence of the facts stated, and to the question whether or not that person, or any person concerned with making or keeping the record containing the statement, had any incentive to conceal or misrepresent the facts.
 
+Weight to be attached to evidence
+
 (2) For the purpose of any rule of law or practice requiring evidence to be corroborated or regulating the manner in which uncorroborated evidence is to be treated, a statement rendered admissible as evidence by this Act shall not be treated as corroboration of evidence given by the maker of the statement. (As amended by No. 3 of 1968)
 
-### Section 6 — Proof of instrument to validity of which attestation is necessary
+### Section 6
 
 Subject as hereinafter provided, in any proceedings, whether civil or criminal, an instrument to the validity of which attestation is requisite may, instead of being proved by an attesting witness, be proved in the manner in which it might be proved if no attesting witness were alive:
+
+Proof of instrument to validity of which attestation is necessary
 
 Provided that nothing in this section shall apply to the proof of wills or other testamentary documents.
 

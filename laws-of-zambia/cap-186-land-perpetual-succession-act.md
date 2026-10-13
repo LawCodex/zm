@@ -85,7 +85,7 @@ LAND (PERPETUAL SUCCESSION) An Act to provide for perpetual succession to land; 
 
 This Act may be cited as the Land (Perpetual Succession) Act.
 
-### Section 2 — Upon application of trustees Minister may grant certificate of registration as a
+### Section 2
 
 Trustees or a trustee may be appointed by any community of persons bound together by custom, religion, kinship or nationality or by any body or association of persons established for any religious, educational, literary, scientific, social or charitable purpose, or for any purpose which, in the opinion of the Minister, is for the benefit or welfare of the inhabitants of Zambia or any part thereof, and such trustees or trustee may apply in manner hereinafter mentioned, to the Minister for a certificate of registration of the trustees or trustee of such community, body or association of persons as a corporate body; and if the Minister, having regard to the extent, nature and objects and other circumstances of such community, body or association of persons, shall consider such incorporation expedient, he may grant such certificate accordingly, subject to such conditions or directions generally as he shall think fit to insert in such certificate, and particularly relating to the qualifications and number of the trustees, their tenure and avoidance of office, the mode of appointing new trustees, the custody and use of the common seal, the amount of land which such trustees may hold, and the purposes for which such land may be held and used; and the trustees or trustee shall thereupon become a body corporate by the name described in the certificate, and shall have perpetual succession and a common seal, and power to sue and be sued in such corporate name, and, subject to the conditions and directions contained in the said certificate, to hold and acquire, and by instruments under such common seal to convey, assign and demise, any land or any interest therein now or hereafter belonging to, or held for the benefit of, such community, body or association of persons, in such and the like manner, and subject to such restrictions and provisions as such trustees or trustee might, without such incorporation, hold or acquire, convey or assign, or demise the same for the purposes of such community, body or association of persons.
 
@@ -113,13 +113,17 @@ Before a certificate of incorporation shall be granted, the said trustees or tru
 
 (As amended by G.N. No. 274 of 1964)
 
-### Section 6 — Certificate to be evidence of compliance with requisitions
+### Section 6
 
 A certificate of incorporation so granted shall be conclusive evidence that all the preliminary requisitions herein contained and required in respect of such incorporation have been complied with, and the date of incorporation mentioned in such certificate shall be deemed to be the date at which incorporation has taken place.
 
-### Section 7 — Record of applications and documents to be kept and may be inspected
+Certificate to be evidence of compliance with requisitions
+
+### Section 7
 
 The Minister shall, in such manner as he shall think fit, direct a record to be kept of all such applications for and certificates of incorporation, and shall in like manner direct all documents sent to him under the provisions of this Act to be preserved, and any person may require a copy or extract of any such document to be certified under the hand of such person as shall be appointed for that purpose by the Minister, and there shall be paid for such certified copy or extract such fee as may be prescribed by the Minister.
+
+Record of applications and documents to be kept and may be inspected
 
 (As amended by G.N. No. 274 of 1964)
 
@@ -137,9 +141,11 @@ The common seal of the corporate body shall have such device as may be approved 
 
 (As amended by G.N. No. 274 of 1964)
 
-### Section 11 — Petition to decide question whether person is a member of a corporate body
+### Section 11
 
 When any question arises as to whether any person is a member of any such corporate body as aforesaid, any person interested in such question may apply by petition to the High Court for its opinion on such question. Notice of the hearing shall be given to such persons and in such manner as the Court shall think fit, and any opinion given by the Court on an application under this section shall be deemed to have the force of a declaratory decree.
+
+Petition to decide question whether person is a member of a corporate body
 
 ### Section 12 — Change of name
 

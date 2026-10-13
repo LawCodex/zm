@@ -2047,7 +2047,7 @@ Fish and crustaceans, molluscs and other aquatic invertebrates.
 
 Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included.
 
-#### Section 5 — The Commissioner-General may station an officer on any ship or train
+#### Section 5
 
 Produces of animal origin, not elsewhere specified or included.
 
@@ -2069,7 +2069,7 @@ Edible fruit and nuts; peel of citrus fruit or melons.
 
 Coffee, tea, mate and spices.
 
-#### Section 10 — An officer may at any time take, without payment, samples of any
+#### Section 10
 
 Cereals.
 
@@ -2103,7 +2103,7 @@ aquatic invertebrates.
 
 Sugars and sugar confectionary.
 
-#### Section 18 — No charges shall be made by the owner or operator of a customs area
+#### Section 18
 
 Cocoa and cocoa preparations.
 
@@ -2137,7 +2137,7 @@ SECTION V MINERAL PRODUCTS
 
 Salt; sulphur; earths and stone; plastering materials, line and cement.
 
-#### Section 26 — If a report required in terms of section twenty-one, twenty-two,
+#### Section 26
 
 Ores, slag and ash.
 
@@ -2221,7 +2221,7 @@ SECTION IX WOOD AND ARTICLES OF WOOD; WOOD CHARCOAL; CORK AND ARTICLES OF CORK; 
 
 Wood and articles of wood; wood charcoal.
 
-#### Section 45 — Repealed by Act No. 4 of 1999
+#### Section 45
 
 Cork and articles of cork.
 
@@ -2297,11 +2297,11 @@ Articles of apparel and clothing accessories, not knitted or croacheted.
 
 textile articles; rags. SECTION XII FOOTWEAR, HEADGEAR, UMBRELLAS, SUN UMBRELLAS WALKING-STICKS, SEAT-STICKS, WHIPS, RIDING-CROPS AND PARTS THEREOF; PREPARED FEATHERS AND ARTICLES MADE THEREWITH; ARTIFICIAL FLOWERS; ARTICLES OF HUMAN HAIR
 
-#### Section 64 — The owner of any goods warehoused may transfer such ownership to
+#### Section 64
 
 Footwear, gaiters and the like; parts of such articles.
 
-#### Section 65 — The Commissioner-General may cause any bonded warehouse to be
+#### Section 65
 
 Headgear and parts thereof.
 
@@ -2317,7 +2317,7 @@ Prepared feathers and down and articles made of feathers or of down; artificial 
 
 materials.
 
-#### Section 69 — Where any goods are to be removed from a warehouse for the purpose
+#### Section 69
 
 Ceramic products.
 
@@ -2347,7 +2347,7 @@ Copper and articles thereof.
 
 Nickel and articles thereof.
 
-#### Section 76 — There shall be charged, levied, collected, and paid in respect of goods
+#### Section 76
 
 Aluminium and articles thereof.
 
@@ -2373,7 +2373,7 @@ Tin and articles thereof.
 
 Other base metals; cermets; articles thereof.
 
-#### Section 82 — The Minister may, by statutory instrument, make regulations in
+#### Section 82
 
 Tools, implements, cutlery, spoons and forks, of base metals; parts thereof of base metal.
 
@@ -2385,7 +2385,7 @@ SECTION XVI
 
 MACHINERY AND MECHANICAL APPLIANCES; ELECTRICAL EQUIPMENT; PARTS THEREOF; SOUND RECORDERS AND REPRODUCERS, TELEVISION IMAGE AND SOUND RECORDERS AND REPRODUCERS, AND PARTS AND ACCESSORIES OF SUCH ARTICLES Section Notes
 
-#### Section 84 — President may enter into customs agreements
+#### Section 84 — Repealed by Act No. 4 of 1999
 
 Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof.
 
@@ -2411,11 +2411,11 @@ Ships, boats and floating structures.
 
 SECTION XVIII OPTICAL, PHOTOGRAPHIC, CINEMATOGRAPHIC, MEASURING, CHECKING, PRECISION, MEDICAL OR SURGICAL INSTRUMENTS AND APPARATUS; CLOCKS AND WATCHES; MUSICAL INSTRUMENTS; PARTS AND ACCESSORIES THEREOF
 
-#### Section 90 — When any claim is made for exemption from or drawback, rebate,
+#### Section 90
 
 Optical, photographic, cinematographic, measuring, checking, precision, medical or surgical instruments and apparatus; parts and accessories thereof.
 
-#### Section 91 — A rebate, remission, or refund of any duty shall be granted on goods
+#### Section 91
 
 Clocks and watches and parts thereof.
 

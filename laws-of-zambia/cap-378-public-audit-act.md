@@ -189,7 +189,7 @@ Contract audit
 
 (3) Every contractor or supplier under a contract for construction work or for the supply of equipment, machinery or materials involving the expenditure of public funds in excess of fifty thousand kwacha to which the Government, public company or statutory corporation is a party, shall maintain separate books of account showing appropriate subsidiary accounts, together with relevant supporting documents relating to such contract.
 
-### Section 9 — Duties of Auditors of statutory corporations, etc
+### Section 9
 
 (1) Where under any written law establishing a statutory corporation or public company provision is made for the appointment of an auditor, it shall be the duty of the auditor appointed pursuant to such provision to furnish the Auditor-General with copies of such certificates, reports, documents and other relevant information in respect of the accounts of such statutory corporation or public company as the Auditor-General may require.
 
@@ -229,7 +229,7 @@ he may make a solemn affirmation in the form set out in the Schedule by substitu
 
 No action or other proceeding shall lie against the Auditor-General or any public officer, agent or specialist consultant authorised by him for or in respect of the findings of any audit examination or inspection carried out by him in the exercise or purported exercise of his functions under this Act.
 
-### Section 13 — Penalty for obstracting Auditor-General, etc
+### Section 13
 
 Any person who obstructs or resists the Auditor-General or any public officer, agent or specialist consultant authorised by him in the exercise of his power of access, or power to call for relevant information, under this Act, shall be guilty of an offence and shall be liable, upon conviction, to a term of imprisonment not exceeding one year or to a fine not exceeding five thousand penalty units, or to both.
 

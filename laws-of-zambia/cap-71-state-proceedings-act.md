@@ -239,7 +239,7 @@ Provided that no proceedings shall lie against the State by virtue of paragraph 
 
 (5) No proceedings shall lie against the State by virtue of this section in respect of anything done or omitted to be done by any person while discharging or purporting to discharge any responsibilities of a judicial nature vested in him, or any responsibilities which he has in connection with the execution of judicial process.
 
-#### Section 4A — Restriction on orders against State
+#### Section 4A
 
 Notwithstanding the provisions of this Act, no court of law shall make an order for damages or compensation against the State in respect of anything done under or in the execution of any restriction or detention order signed by the President:
 
@@ -399,7 +399,7 @@ in any proceedings against the State for the recovery of land or other property,
 
 (2) The court shall not in any civil proceedings grant any injunction or make any order against a public officer if the effect of granting the injunction or making the order would be to give any relief against the State which could not have been obtained in proceedings against the State.
 
-#### Section 17 — Costs in civil proceedings to which State is a party
+#### Section 17
 
 In any civil proceedings or arbitration to which the State is a party, the costs of and incidental to the proceedings shall be awarded in the same manner and on the same principles as in cases between subjects, and the court or arbitrator shall have power to make an order for the payment of costs by or to the State accordingly:
 
@@ -410,6 +410,8 @@ in the case of proceedings to which by reason of any written law or otherwise th
 (ii)
 
 nothing in this section shall affect the power of the court or arbitrator to order, or any written law providing for, the payment of costs out of any particular fund or property, or any written law expressly relieving any Government department or public officer of the liability to pay costs.
+
+Costs in civil proceedings to which State is a party
 
 #### Section 18 — Appeals and stay of execution
 

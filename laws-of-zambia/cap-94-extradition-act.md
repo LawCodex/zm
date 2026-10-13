@@ -503,13 +503,15 @@ Provisional warrant
 
 (8) The release of any person under subsection (4) or (7) shall not prejudice his re-arrest and extradition if a request for his extradition is afterwards made.
 
-#### Section 10 — Committal or discharge of person whose extradition is requested
+#### Section 10
 
 (1) Where a person claimed is before a magistrate pursuant to section eight or nine and-
 
 (a)
 
 (b)
+
+Committal or discharge of person whose extradition is requested
 
 there is adduced before such magistrate(i)
 
@@ -561,13 +563,17 @@ Extradition to Zambia from Foreign Countries
 
 For the purposes of this Part, "extraditable crime" means an offence (wherever committed) against the law in force in the Republic and punishable under the laws of the Republic, being an offence for which extradition is provided under the terms of an extradition agreement, or for which reciprocal extradition facilities are afforded, between the Republic and the requested country; the requested country being one to which this Part applies by virtue of an order made pursuant to section three.
 
-#### Section 14 — Request to foreign country may be made by Attorney-General
+#### Section 14
 
 Where a person accused or convicted of an extraditable crime is, or is suspected of being, in or on his way to a foreign country to which this Part applies, or of being within the jurisdiction of, or of a part of, such a country, the Attorney-General may make a request to that country for the surrender of the person.
 
-#### Section 15 — Person surrendered may be brought to the Republic
+Request to foreign country may be made by Attorney-General
+
+#### Section 15
 
 Where a person accused or convicted of an extraditable crime is surrendered by a foreign country to which this Part applies, the person may be brought into the Republic to be dealt with according to law.
+
+Person surrendered may be brought to the Republic
 
 ### PART III — EXTRADITION TO AND FROM DECLARED COMMONWEALTH
 
@@ -611,9 +617,11 @@ Extradition to Declared Commonwealth Countries
 
 Extraditable offences under this Part
 
-#### Section 18 — Liability of person claimed to be surrendered and request for his surrender
+#### Section 18
 
 (1) Every person claimed by a declared Commonwealth country is liable, subject to this Part and to Part IV and to any limitations, conditions, exceptions or qualifications to which the application of this Part in relation to that country is subject, to be arrested and surrendered to that country as provided by this Part and is so liable whether the offence to which the request for the surrender of the person claimed relates is alleged to have been committed, or was committed, before or after the commencement of this Act or before or after the time when that country became a declared Commonwealth country.
+
+Liability of person claimed to be surrendered and request for his surrender
 
 (2) Every request for the surrender of a person claimed under this Part shall be made in writing to the Attorney-General by the declared Commonwealth country, which request shall be accompanied by an external warrant for the arrest of the person claimed issued by and in accordance with the law of the requesting declared Commonwealth country.
 
@@ -843,13 +851,17 @@ is described in the First Schedule; or
 
 would be so described if the description concerned contained a reference to any intent or state of mind on the part of the person committing the offence, or to any circumstance of aggravation, necessary to constitute the offence.
 
-#### Section 26 — Request to Commonwealth country to be made by Attorney-General
+#### Section 26
 
 Where a person accused or convicted of an extraditable crime is, or is suspected of being, in or on his way to a declared Commonwealth country or within the jurisdiction of, or of a part of, such a country, the Attorney-General may make a request to that country for the surrender of the person.
 
-#### Section 27 — Person surrendered may be brought to the Republic
+Request to Commonwealth country to be made by Attorney-General
+
+#### Section 27
 
 Where a person accused or convicted of an extraditable crime is surrendered by a declared Commonwealth country, the person may be brought into the Republic and delivered to the proper authorities to be dealt with according to law.
+
+Person surrendered may be brought to the Republic
 
 ### PART IV — GENERAL PROVISIONS ON EXTRADITION
 

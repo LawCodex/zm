@@ -201,9 +201,11 @@ Deceiving or imposing by means of witchcraft
 
 Every person professing to be able to control by non-natural means the course of nature or using any subtle craft, means or device by means of witchcraft, charms or otherwise to deceive or impose upon any other person shall be liable upon conviction to a fine not exceeding two hundred penalty units or to imprisonment with or without hard labour for any term not exceeding one year, or to both. (As amended by No. 31 of 1952, No. 26 of 1993 and Act No. 13 of 1994)
 
-### Section 11 — Possessing charms, etc
+### Section 11
 
 (1) Any person who collects, makes, sells or uses or assists or takes part in collecting, selling, marking or using any charm or poison or thing which he intends for use either by himself or by some other person for the purpose of any act punishable by this Act shall be liable upon conviction to a fine not exceeding two hundred penalty units or to imprisonment with or without hard labour for any term not exceeding one year, or to both.
+
+Possessing charms, etc.
 
 (2) Any person who has in his possession any charm or poison or thing which he intends for use either by himself or by some other person for the purpose of any act punishable by this Act shall be liable upon conviction to a fine of not more than one hundred penalty units or to imprisonment with or without hard labour for any term not exceeding six months, or to both.
 

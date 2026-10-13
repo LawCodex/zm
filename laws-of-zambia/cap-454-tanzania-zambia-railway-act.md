@@ -935,19 +935,23 @@ Provided that provision shall be made for the carriage of a specified amount of 
 
 determine the different classes of accommodation available to passengers on trains of the Authority.
 
-#### Section 25 — General right of persons to be carried as passengers
+#### Section 25
 
 Subject to the other provisions of this Act, any person who has tendered to an authorised employee the proper fare for the ticket he desires shall be entitled to obtain such ticket and to be carried as a passenger by the Authority in accordance with the conditions subject to which such ticket is issued.
+
+General right of persons to be carried as passengers
 
 #### Section 26 — General conditions for issue of tickets
 
 Every ticket and free pass shall be issued by the Authority subject to the other provisions of this Act and to the conditions specified in the Tariff Book.
 
-#### Section 27 — Travelling without valid ticket, etc
+#### Section 27
 
 Notwithstanding section twenty-eight, no person shall travel on any train of the Authority without the permission of the Authority, and any person found on any such train without such permission may, without prejudice to any other action which may be taken against him, be required by any authorised employee to leave the train and, if he does not do so, may be removed therefrom.
 
-#### Section 28 — Fares payable by person travelling without valid ticket, etc
+Travelling without valid ticket, etc.
+
+#### Section 28
 
 (1) Any person who(a)
 
@@ -956,6 +960,8 @@ travels on any train of the Authority without a valid ticket or free pass; or
 (b)
 
 being in, or having come from, any such train, does not present his ticket or free pass for examination or does not deliver up his ticket or free pass in accordance with the conditions on which the ticket or free pass is issued;
+
+Fares payable by person travelling without valid ticket, etc.
 
 shall be liable to pay, on demand by an authorised employee, the fare for the distance he has travelled or proposes to travel and, in addition, such excess charges as may be specified in the Tariff Book; and for the purpose of ascertaining such fare it shall be presumed that such person has travelled from the station-
 
@@ -1025,7 +1031,7 @@ facilities for dealing with the goods tendered for carriage are not available at
 
 the person tendering such goods for carriage shall not be entitled to have such goods carried by the Authority unless such goods are accepted for carriage in accordance with any special provisions dealing with the carriage of such goods.
 
-#### Section 31 — Description etc., of goods to be delivered
+#### Section 31
 
 (1) The consignor of, or the person tendering any goods to the Authority for carriage or warehousing, and on request by an authorised employee, the consignee of, or person receiving, any goods which have been carried or warehoused by the Authority shall deliver to an authorised employee an account in writing signed by such consignor, person or consignee, as the case may be, containing such a description of the goods as may be sufficient to enable such employee to determine the value of those goods and the rates and charges payable for carriage or warehousing by the Authority.
 
@@ -1037,15 +1043,19 @@ the person tendering such goods for carriage shall not be entitled to have such 
 
 in respect of goods which are tendered to the Authority for carriage or warehousing, refuse to accept the goods for carriage or warehousing unless a rate or charge not exceeding the highest rate or charge payable for that class of goods is paid; or
 
+Description etc., of goods to be delivered
+
 (b)
 
 in respect of goods which have been carried by the Authority, refuse to deliver such goods unless a rate or charge not exceeding such highest rate or charge as is referred to in paragraph (a) is paid.
 
 (4) If, in respect of goods which have been carried or warehoused by the Authority, an account delivered under subsection (1) is found to be false in any material particular with respect to the description of any goods to which it purports to relate, an authorised employee may refuse to deliver such goods unless, in respect of the carriage or warehousing of the goods, a rate or charge not exceeding double the highest rate or charge payable for that class of goods is paid.
 
-#### Section 32 — Goods to be sold to pay charges, rates, etc
+#### Section 32
 
 (1) Where any person fails to pay, on demand made by an authorised employee, any rate or charge due from him in respect of any goods, the Authority may detain the whole or any part of such goods or if the value of the goods is, in the opinion of the authorised employee, insufficient to pay for such rate or charge due, or if such goods have been removed from the possession of the Authority, may detain any other goods of such person which may be in, or may thereafter come into, the possession of the Authority.
+
+Goods to be sold to pay charges, rates, etc.
 
 (2) Where any goods have been detained under subsection (1), the Authority may, if the rate or charge due is not sooner paid, sell by public auction such quantity of the goods to recover the rate or charge so owing as well as the expenses of such detention and sale and in the case of-
 
@@ -1087,7 +1097,7 @@ the Authority may, after a period of not less than three months (except in the c
 
 Provided that no imported goods shall be sold under this section until they have been cleared in accordance with the provisions of any customs law in force.
 
-#### Section 34 — Indemnity where goods claimed by two persons, etc
+#### Section 34
 
 Where-
 
@@ -1099,9 +1109,11 @@ any goods, or the proceeds of the sale of any goods, are in the possession of th
 
 any person claiming any goods in the possession of the Authority does not produce valid documents showing that he is entitled to take delivery thereof;
 
+Indemnity where goods claimed by two persons, etc.
+
 the Authority may withhold delivery of such goods or proceeds until the person appearing to the Managing Director to be entitled thereto has given an indemnity to his satisfaction against the claim of any other person with respect to such goods or proceeds.
 
-#### Section 35 — Dangerous or offensive goods etc
+#### Section 35
 
 (1) This section applies to goods which by their physical nature or chemical composition are likely to cause damage to persons or property.
 
@@ -1143,7 +1155,7 @@ apply to any goods carried by any member of any military force established for t
 
 (5) Where any authorised employee has reason to believe that any goods to which this section applies are being carried or warehoused, or have been accepted for carriage or warehousing, in contravention of subsection (2) or (3), he may examine such goods and if, on examination, they are found to be goods to which this section applies, he may order their removal from any train or vehicle of, or from premises occupied by, the Authority.
 
-#### Section 36 — Tariff Book, time-tables, etc
+#### Section 36
 
 (1) The Authority shall prepare and publish in such manner as the Board may direct-
 
@@ -1405,7 +1417,7 @@ Powers of inspectors of railways
 
 (2) No action or other legal proceeding shall be instituted against an inspector of railways in respect of any act done or omitted to be done by him in good faith in the exercise or purported exercise of his functions under this Act.
 
-#### Section 48 — Means of entry and information to be provided to inspectors of railways
+#### Section 48
 
 It shall be the duty of the Authority to give an inspector of railways such assistance as may be required for the efficient performance of his functions under this Act, and to provide such information to him as he may require for the purpose of, or in connection with, the exercise of his functions under this Act.
 
@@ -1497,7 +1509,7 @@ the use of the rolling stock specified in the direction, be discontinued or the 
 
 (3) Any direction given by the Minister under subsection (1) shall state the grounds on which such direction is based.
 
-#### Section 56 — Re-opening of closed railway, etc
+#### Section 56
 
 (1) When a railway has been closed under the provisions of section fifty-five, it shall not be re-opened for the public carriage of passengers or goods until-
 
@@ -1508,6 +1520,8 @@ an inspector of railways has made a report to the Minister; and
 (b)
 
 the Minister has approved, in writing, the re-opening thereof.
+
+Re-opening of closed railway, etc.
 
 (2) When the Minister has directed under section fifty-five that the use of rolling stock specified in the direction be discontinued, the Authority shall not put into service the specified rolling stock until-
 
@@ -1583,13 +1597,15 @@ RAILWAY UNDER CONSTRUCTION
 
 (2) Any compensation which becomes payable to the occupier of any land acquired pursuant to subsection (1) shall be payable by the Authority in such manner as the Government may direct.
 
-#### Section 61 — Entry on land for survey, excavation, construction, etc
+#### Section 61
 
 (1) Subject to any other law, any authorised employee may, for the purposes of the Authority, enter upon-
 
 (a)
 
 any land and survey such land or any portion thereof;
+
+Entry on land for survey, excavation, construction, etc.
 
 (b)
 
@@ -1611,7 +1627,7 @@ cut, take away and use any timber on any such land;
 
 (3) Where a person does not, within thirty days of the notice referred to in subsection (2), demolish or modify the building, structure or works, the Authority shall demolish or modify or cause to be demolished or modified, the building, structure or works and such person shall pay for the costs of such demolition or modification.
 
-#### Section 63 — Entry on land to prevent accidents, etc
+#### Section 63
 
 (1) Subject to any other law, any authorised employee may, for the purpose of safe operation of any rail transport services provided by the Authority or repairing any damage caused by any accident, enter upon any land and-
 
@@ -1629,9 +1645,11 @@ Entry on land to prevent accidents, etc.
 
 Provided that no such compensation shall be payable if the tree or other obstruction cut down or removed, as the case may be, came into existence subsequent to the construction of the railway.
 
-#### Section 64 — Entry on land to alter position of pipes, etc
+#### Section 64
 
 (1) Subject to any other law, any authorised employee may, for the purposes of the Authority, enter upon any land and alter the position of any pipe for the supply of gas, oil, water or compressed air, or the position of any electric, telephone or telegraphic wire or the position of any drain.
+
+Entry on land to alter position of pipes, etc.
 
 (2) Where the Authority exercises any power under subsection (1), it shall give reasonable notice of its intention so to do to the Authority or person having control of the pipe, wire or drain and-
 
@@ -1887,7 +1905,7 @@ shall be guilty of an offence and liable, upon conviction, to a fine not exceedi
 
 (2) Where any fare or excess charge is recovered under this section the amount so recovered shall be paid to the Authority.
 
-#### Section 73 — Failure to obey lawful instructions, obstructing, etc
+#### Section 73
 
 Any person on any train of the Authority who-
 
@@ -1931,7 +1949,7 @@ Any person who contravenes section thirty-five shall be guilty of an offence and
 
 Any employee who, with intent to defraud, demands, solicits or receives from any passenger, or from any person delivering goods to the Authority for carriage or warehousing or from any person making use of the facilities provided by the Authority, any greater or lesser amount than he should demand or receive, shall be guilty of an offence and shall be liable, upon conviction, to a fine not exceeding ten thousand penalty units or to imprisonment for a term not exceeding twelve months, or to both.
 
-#### Section 78 — Drunkness while on locomotive, guard's van, etc
+#### Section 78
 
 Any employee who while-
 
@@ -1957,7 +1975,7 @@ is found having consumed alcohol as ascertained from a breath test taken under s
 
 (3) Any employee who fails to submit himself to a breath test under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding ten thousand penalty units or to imprisonment for a term not exceeding twelve months, or to both.
 
-#### Section 80 — Offences which are offences under other laws
+#### Section 80
 
 Any person who commits an offence under this Act, which is also an offence under the Penal Code or under any other written law, may be proceeded against under this Act or under the Penal Code or under such other written law and section seventy-two shall apply in respect of the recovery of any fare or excess charge.
 
@@ -1977,9 +1995,11 @@ refrain from arresting such employee until he is so relieved and shall, until he
 
 (2) When any request is made to a superior officer under this section, it shall be his duty to relieve the employee in respect of whom the request is made with the least possible delay.
 
-#### Section 82 — Particulars of offences and penalties to be exhibited
+#### Section 82
 
 The Authority shall publish brief particulars of every offence for which any penalty is imposed by this Act and of the amount of fine or the term of imprisonment for every such offence, and shall cause such particulars to be exhibited at every booking office or such other places as the Board may direct and such particulars shall be renewed as often as the same or any part thereof is obliterated or destroyed:
+
+Particulars of offences and penalties to be exhibited
 
 Provided that the failure to publish such brief particulars of any such offence or penalty or the failure to exhibit them shall not be a defence to a charge in respect of any offence.
 

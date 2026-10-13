@@ -227,13 +227,15 @@ the Board has granted him written authority to make application for re-registrat
 
 the High Court has, on appeal, reversed the direction of the Board that his name be struck out of the Register. (As amended by Act No 18 of 1975)
 
-### Section 9 — Register to be kept
+### Section 9
 
 (1) The Director shall keep a book called "The Register of Veterinary Surgeons" in which shall be entered the full name, address, qualifications and date of registration of every person who is qualified to be registered as a veterinary surgeon and who applies for registration.
 
 (2) The name, address, qualifications and date of registration of every veterinary surgeon shall upon registration be published in the Gazette.
 
 (3) The Director may make in the Register any necessary alteration in any entry contained therein. (As amended by Act No. 18 of 1975)
+
+Register to be kept
 
 ### Section 10 — Application for registration
 

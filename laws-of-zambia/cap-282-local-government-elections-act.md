@@ -693,7 +693,7 @@ then, the court shall not, by reason only of such corrupt practice or illegal pr
 
 (4) No election shall be declared void by reason only of any act or omission by an election officer in breach of his official duty in connection with an election if it appears to the court that the election was so conducted as to be substantially in accordance with the Act, and that such act or omission did not affect the result of that election.
 
-#### Section 19 — Who may present election petition
+#### Section 19
 
 An election petition may be presented to the court by one or more of the following persons:
 
@@ -713,7 +713,7 @@ a person alleging himself to have been a candidate at the election to which the 
 
 the Attorney-General.
 
-#### Section 20 — Relief which may be claimed in election
+#### Section 20
 
 (1) Any of the following reliefs may be claimed in any petition:
 
@@ -1207,9 +1207,11 @@ MISCELLANEOUS
 
 #### Section 47 — Repealed by Act No. 17 of 1994
 
-#### Section 48 — When incapacity may be removed
+#### Section 48
 
 Whenever a person has become subject to any incapacity under this Act by reason of a conviction or by reason of any declaration or report of any court, and any witness who gave evidence against such person upon the proceeding for such conviction, declaration or report is convicted of perjury in respect of that evidence, such person may apply to the High Court which, if satisfied that the conviction, declaration or report, so far as it concerns that person, was based upon perjured evidence, may order that his incapacity shall from that time cease, and the same shall cease accordingly.
+
+When incapacity may be removed
 
 #### Section 49 — No person required to state how he voted
 

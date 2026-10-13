@@ -415,7 +415,7 @@ any charges, fees or penalties the farmer will be required to pay if the farmer 
 
 Validity of contracts
 
-#### Section 12 — Failing to make full disclosure of cost of inputs or other items and interest, etc
+#### Section 12
 
 Any person who advances inputs or other items required for cultivation to a farmer and fails to fully disclose to the farmer the cost of any input or item, the interest to be paid by the farmer, and any charges, fees or penalties, as required under section eleven, shall be guilty of an offence and shall be liable, on conviction, to a fine not exceeding one thousand penalty units.
 

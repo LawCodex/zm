@@ -685,9 +685,11 @@ the provision of permanent improvements, whether required by or under the preced
 
 (5) A lessee shall use his holding primarily for agricultural purposes, for purposes ancillary thereto and for the personal residence of himself and his family and necessary staff and for no other purpose, save with the prior consent of the President. (As amended by S.I. No 65 of 1965)
 
-#### Section 22 — Compensation, etc
+#### Section 22
 
 (1) On the determination of his lease by effluxion of time or otherwise, but subject to the provisions of sections thirty-three and thirty-four, no compensation shall be payable to a lessee in respect of buildings improvements effected on his holding:
+
+Compensation, etc.
 
 Provided that in any particular case the Minister, on the recommendation of the Board, may authorise an ex gratia payment to a lessee in respect of such buildings or improvements, or, if the lessee has not exercised any right granted under the provisions of subsection (3), there shall be paid to such lessee, not being a lessee who has failed substantially to comply with the provisions of this Part, or any of them, an amount equivalent to the sum received from the disposal of the said holding, less the administration expenses incurred. Nothing in this subsection shall be deemed to require the President to dispose of the said holding.
 
@@ -885,9 +887,11 @@ if the previous lease was one which was not subject to the payment of any consid
 
 (4) The rights conferred upon lessees of agricultural land by this section and by section twenty-seven shall expire on the 13th March, 1977, or upon the thirtieth anniversary of the date of commencement of the lease if that anniversary occurs after the 13th March, 1977. (As amended by S.I. No. 65 of 1965)
 
-#### Section 29 — Existing encumbrances, etc
+#### Section 29
 
 Immediately upon the issue of a State Grant, the land comprised therein shall be subject to all encumbrances, powers, rights and easements of whatsoever kind as are registered against the lease which the State Grant replaces.
+
+Existing encumbrances, etc.
 
 (As amended by S.I. No. 65 of 1965)
 
@@ -973,9 +977,11 @@ not calculated to increase the value of the holding for farming purposes.
 
 (4) If, pending assignment of the lease or during the period the lease is continued on behalf of the estate, the legal representative or the person nominated by him and approved by the Board fails to comply with any requirement of this Act which was applicable to the lessee or fails to fulfil any term or condition of the lease, the provisions of sections thirty-one and thirty-two shall apply. (As amended by S.I. No. 65 of 1965)
 
-#### Section 35 — State Grant to be used for agricultural purposes
+#### Section 35
 
 (1) Any person holding land under a State Grant issued under this Part shall use such land primarily for agricultural purposes, for purposes ancillary thereto and for the personal residence of himself and his family and necessary staff and for no other purpose, save with the prior written consent of the Board.
+
+State Grant to be used for agricultural purposes
 
 (2) If any person fails to comply with the requirements of subsection (1), the Board may, by notice in writing, require such person to cease such other use within such period as may be prescribed in such notice, and, if such person fails to comply with the requirements of such notice within the specified time, he shall be guilty of an offence, and shall be liable to a fine not exceeding three thousand penalty units, and the court by which such person is convicted may, in addition to any penalty imposed, make an order requiring such person to comply with the said notice. (As amended by S.I. No. 65 of 1965 and Act No. 13 of 1994)
 
@@ -1145,7 +1151,7 @@ The Minister may, by statutory instrument, make regulations to give force or eff
 
 (As amended by G.N. No. 227 of 1964)
 
-#### Section 47 — Execution and validity of documents, etc
+#### Section 47
 
 (1) State Leases, tenancies and grants shall be executed on behalf of the President by the Commissioner of Lands or any other public officer thereunto authorised by the Minister.
 

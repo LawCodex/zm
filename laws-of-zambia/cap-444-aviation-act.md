@@ -2009,15 +2009,13 @@ spare electrical fuses for all electrical circuits, the fuses of which can be re
 
 in flying machines designed to manoeuvre on the water, the equipment for making the sound signals specified in regulation 24 of the Aviation (Rules of the Air) Regulations. (As amended by F.G.N. No. 269 of 1957)
 
-#### Section 27 — Power of Company to determine charges, fees, etc
+#### Section 27 — Instruments and equipment: special circumstances
 
 The items specified in this regulation and in regulation 28, in so far as they may not be included in the requirements specified in regulation 26, shall also be carried by flying machines in the cases indicated in this regulation or in regulation 28, whichever may be applicable.
 
 (1)
 
 In flying machines for flights by night-
-
-Instruments and equipment: special circumstances
 
 (a)
 
@@ -2363,11 +2361,11 @@ in the case of flights by landplanes over water beyond 30 minutes' flying distan
 
 in the case of flights by flying boats over water, show the passengers by practical demonstration before the take-off the position of the lifejackets, or equivalents, and the method of their operation. (As amended by F.G.N. Nos. 151 and 269 of 1957)
 
-#### Section 29 — Registration of property to be transfered by GRZ to Company
+#### Section 29 — Instruments and equipment: public transport gliders
 
 In public transport and aerial work glidersThe instruments, equipment and devices required for the issue of a certificate of airworthiness in respect of the particular glider. Such additional instruments and equipment as the Director may, at his discretion, require to be carried in any particular case.
 
-#### Section 30 — Agreements, etc., to be assumed by Company
+#### Section 30 — Instruments and equipment: gliders: special circumstances
 
 The items specified in this regulation shall, in so far as they may not be included in the requirements specified in regulation 29, also be carried by gliders in the cases respectively indicated.
 
@@ -9975,7 +9973,7 @@ exclude from such airspace certain classes of aircraft or any aircraft which can
 
 temporarily suspend, in respect of a particular aerodrome, the application of any or all of the provisions of this Part and shall cause such suspension to be notified and the signal described in sub-regulation (8) of regulation 53 to be displayed by day at such aerodrome. (As amended by G.N. No. 387 of 1963)
 
-#### Section 44 — Weights to be affixed
+#### Section 44
 
 (1) The person in command of an aircraft shall, immediately on arrival at or prior to departure from an aerodrome having an air traffic control unit, ensure that such control unit is notified of the flight which he has just made or which he is about to undertake.
 
@@ -10167,7 +10165,7 @@ Taxying rules
 
 (7) At a land aerodrome notified as having an air traffic control unit, the movements of aeroplanes and vehicles on the manoeuvring area shall be subject to control by such control unit and no aeroplane or vehicle shall proceed on to the manoeuvring area, and, in the case where a runway is in use, on to that runway, until it has been authorised by such control unit to do so.
 
-#### Section 50 — Precautionary action to be taken by person in command
+#### Section 50
 
 (1) Aerodrome traffic shall be controlled by an air traffic control unit either by the use of radiotelephony or by the use of any of the following visual signals directed at the aeroplane or vehicle to which the instruction or authorisation is to be given:
 
@@ -10587,7 +10585,7 @@ Application of Part IX
 
 (3) For the purposes of this Part, when a glider is being towed by an aeroplane or by a vehicle, the combination shall be regarded as a single aircraft or vehicle and the person in command of the aeroplane or vehicle towing shall be the person in charge of the tow and responsible for compliance with these Regulations. When there is more than one aeroplane or vehicle engaged in towing, the person in charge of one of such aeroplanes or vehicles shall, by arrangement with the person or persons in charge of the other aeroplane or vehicle, or the other aeroplanes or vehicles so engaged, be designated as the person in charge of the tow and shall be responsible for compliance with these Regulations and the person or persons in charge of the other towing aeroplane or vehicle, or aeroplanes or vehicles, shall conform to the movements and instructions of the persons in charge of the tow.
 
-#### Section 67 — Persons not to be carried in certain parts of aircraft
+#### Section 67
 
 Except in emergency, a glider shall not be manoeuvred, towed into flight or land at an aerodrome used by other classes of aircraft without the permission of the air traffic control unit or, in the absence of such control unit, of the person in charge of the aerodrome and, if any conditions considered necessary for the safety of aerodrome traffic have been made in granting such permission, without complying with such conditions.
 
@@ -10719,7 +10717,7 @@ Interpretation of terms in Part X
 
 (2) Where, owing to difficulty in producing lamps to meet the requirements of this Part, an overlap of sector lights is unavoidable, the overlap shall be kept as small as possible. There shall be no sector in which no light is visible. (As amended by G.N. No. 387 of 1963)
 
-#### Section 73 — Operating crew to be carried
+#### Section 73
 
 (1) By night a flying machine in flight or on the manoeuvring area of a land aerodrome shall, unless within a suitably marked or lighted parking or marshalling area, display the following lights:
 
@@ -10923,7 +10921,7 @@ a continuous sounding with any sound apparatus.
 
 Distress signals
 
-#### Section 80 — Documents to be carried in aircraft
+#### Section 80
 
 (1) When an aircraft wishes to give notice of difficulties which compel it to land without requiring immediate assistance, before the sending of a message, the following visual signals shall be used, either together or separately:
 

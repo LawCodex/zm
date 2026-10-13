@@ -201,9 +201,11 @@ Every person who is suspected on reasonable grounds of having committed an offen
 
 (As amended by No. 36 of 1933 and No. 47 of 1963)
 
-### Section 11 — Separate charges may be brought in respect of each animal
+### Section 11
 
 Separate charges may be brought against any person or persons in respect of each animal, if more than one is concerned.
+
+Separate charges may be brought in respect of each animal
 
 ### Section 12 — The Director or Deputy Director of Veterinary Services and Tsetse Control
 

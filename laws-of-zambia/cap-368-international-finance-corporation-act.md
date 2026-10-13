@@ -131,7 +131,7 @@ conferring on the Corporation any exemption from taxes or duties which are in fa
 
 (2) This section shall not come into operation until the Corporation Agreement has been signed.
 
-### Section 6 — Bank of Zambia to be depositary and channel of communication
+### Section 6
 
 In pursuance of sections 9 and 10 of Article IV of the Corporation Agreement, the Bank of Zambia is hereby designated as and authorised to be(a)
 

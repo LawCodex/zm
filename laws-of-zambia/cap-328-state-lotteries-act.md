@@ -327,15 +327,19 @@ Funds of Board
 
 Provided that the Stabilisation Fund shall not exceed fifty thousand kwacha, or fall below twenty thousand kwacha, at any one time.
 
-#### Section 14 — Lottery and pool accounts to be kept separately
+#### Section 14
 
 (1) The Board shall keep separate accounts in respect of every State Lottery and pool and shall pay the proceeds from the sale of tickets relating to any State Lottery or from any pool into the account kept in respect thereof.
 
+Lottery and pool accounts to be kept separately
+
 (2) The money for prizes and other payments due in respect of any State Lottery or pool shall be paid out of the account kept in respect of that State Lottery or pool and, after the conclusion of such State Lottery or pool, the balance in the account kept in respect thereof shall be paid into the funds of the Board.
 
-#### Section 15 — Shortfall to be made good
+#### Section 15
 
 If the amount standing to the credit of the account kept under section fourteen in respect of any State Lottery or pool is less than the amount required for prizes or other payments due in respect of such State Lottery or pool, the amount of the deficiency shall be paid into such account out of the Stabilisation Fund.
+
+Shortfall to be made good
 
 #### Section 16 — Borrowing and investment powers
 

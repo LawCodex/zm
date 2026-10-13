@@ -711,7 +711,7 @@ List of charges to be displayed
 
 Notice of classification to be displayed
 
-#### Section 14 — Conditions under which licences shall be granted
+#### Section 14
 
 Bedrooms to be numbered
 

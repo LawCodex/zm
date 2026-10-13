@@ -129,9 +129,11 @@ In this Act, unless the context otherwise requires-
 
 "tick infestation" means ten or more engorged ticks. (As amended by G.N. No. 319 of 1964)
 
-### Section 3 — Owners in any area may petition Minister to apply Act
+### Section 3
 
 The owners of land in any area may petition the Minister in writing to apply the provisions of this Act in such area as may be asked for in the petition. Such petition shall clearly describe the boundaries of the said area and the approximate number of cattle within such area.
+
+Owners in any area may petition Minister to apply Act
 
 (As amended by G.N. No. 319 of 1964)
 
@@ -141,15 +143,19 @@ The Minister shall, on the receipt of a petition as aforesaid, cause notice of t
 
 (As amended by G.N. No. 319 of 1964)
 
-### Section 5 — If objections predominate, Minister shall refuse petition
+### Section 5
 
 The Minister shall, on the expiration of the period fixed for receiving objections, consider the petition and objections thereto, together with such further information (if any) as he may deem necessary to call for or take into consideration in connection therewith and shall thereafter grant or refuse the petition:
 
+If objections predominate, Minister shall refuse petition
+
 Provided however that in no case shall a petition be acceded to if objections are received from the owners of one-third of the land included within such area. (As amended by G.N. No. 319 of 1964)
 
-### Section 6 — If petition granted, notice applying Act and describing area to be published
+### Section 6
 
 Upon the Minister acceding to a petition as aforesaid, he shall, by statutory notice, apply the provisions of this Act, as from such date as may be mentioned therein, to the area the boundaries whereof shall be described in such notice. For the purposes of this Act, such area shall be known as a "declared area."
+
+If petition granted, notice applying Act and describing area to be published
 
 (As amended by G.N. No. 319 of 1964)
 
@@ -183,15 +189,19 @@ thereto in writing may, for considerations of weather, drought or condition of t
 
 Director of Veterinary Services may temporarily exempt owners
 
-### Section 12 — Owners may be required to provide facilities in respect of cattle
+### Section 12
 
 The owners of land on which owners of cattle reside may be required by the Minister to provide facilities, including, if necessary, the erection and maintenance of dipping tanks and the provision of effective tick destroying agents, for the cleaning of such cattle on terms and conditions to be approved of by the Minister. Any owner of land failing to make provision as aforesaid shall be liable, on conviction, to a fine not exceeding one thousand five hundred penalty units or, in default of payment, to imprisonment with or without hard labour for a period not exceeding three months, but the payment of such fine or the undergoing of such imprisonment shall not relieve the said owner of his obligation to provide the said facilities.
 
+Owners may be required to provide facilities in respect of cattle
+
 (As amended by No. 47 of 1963, G.N. No. 319 of 1964 and Act No. 13 of 1994)
 
-### Section 13 — Government may act on behalf of absentee owners
+### Section 13
 
 Should any person own land with cattle thereon, the property of such person, and be absent from or not have a representative or agent in Zambia having authority to carry out the terms of this Act, the Minister may authorise the due performance of the terms of this Act in such manner as he may deem expedient, and any disbursements thereby incurred shall be recoverable by summary sale by auction of sufficient cattle and goods, the property of such person, to repay the said disbursements.
+
+Government may act on behalf of absentee owners
 
 (As amended by G.N. No. 319 of 1964 and S.I. No. 57 of 1965)
 
@@ -199,9 +209,11 @@ Should any person own land with cattle thereon, the property of such person, and
 
 It shall be unlawful for any person to sell or offer for sale as an effective tick destroying agent any article or fluid which does not conform to the standard prescribed under this Act.
 
-### Section 15 — Certificate of analyst to be evidence
+### Section 15
 
 In any proceedings under this Act, a certificate of analysis under the hand of an analyst shall be evidence of the facts therein contained.
+
+Certificate of analyst to be evidence
 
 ### Section 16 — Prohibition on movement of cattle into declared area without permit
 

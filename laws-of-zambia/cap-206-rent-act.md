@@ -605,9 +605,11 @@ that person or landlord shall be guilty of an offence and liable on conviction t
 
 (4) Nothing in this section shall revive any claim which was barred by limitation at the commencement of this Act. (As amended by Act No. 13 of 1994)
 
-### Section 18 — Statement to be supplied as to standard rent
+### Section 18
 
 A landlord of any premises shall, on being so requested in writing by the tenant of the premises, or on being so ordered by the court, supply to the tenant or to the court, as the case may be, a statement in writing as to the amount of the standard rent of the premises and if, without reasonable cause, he fails within fourteen days to do so, or supplies a statement which is false in any material particular, he shall be guilty of an offence and liable on conviction to a fine not exceeding one thousand penalty units or to imprisonment for a term not exceeding three months, or to both:
+
+Statement to be supplied as to standard rent
 
 Provided that this section shall apply only to cases where the premises were let at the prescribed date or where the standard rent has been determined by the court. (As amended by Act No. 13 of 1994)
 

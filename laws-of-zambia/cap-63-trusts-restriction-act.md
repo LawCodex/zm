@@ -177,9 +177,11 @@ Effect of dispositions in contravention of this Act
 
 (2) Where the provisions of subsection (1) apply, the property shall vest in the person or persons in question either solely or as tenants in common, as the case may be, freed from and to the exclusion of any right, title, interest or estate, whether vested or contingent, previously held, or expressed to be held thereafter, in such property by any person who would, apart from this section, have been entitled under such settlement, trust or other disposition in succession or in future.
 
-### Section 6 — Existing settlements, etc
+### Section 6
 
 (1) Where at the commencement of this Act property is held under an existing settlement or trust, or a disposition is in existence whereunder property vests in possession at a future date, such settlement, trust or disposition shall be deemed to have been made after the commencement of this Act and accordingly the provisions of section five shall apply:
+
+Existing settlements, etc.
 
 Provided that in any such case the persons, if any, whose future interests, whether vested or contingent, have been extinguished by virtue of this section shall be entitled to compensation as hereinafter provided.
 

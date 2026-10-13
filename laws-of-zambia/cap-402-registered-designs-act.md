@@ -1933,7 +1933,7 @@ Certificate of registration of design
 
 -
 
-#### Section 10 — Registration of same design in respect of other articles, etc
+#### Section 10 — Designs excluded from registration under section 7 (3)
 
 Request for extension of time within which an application for the registration of a design may be completed
 
@@ -1945,7 +1945,7 @@ Application for extension of copyright in design for a second period of five yea
 
 4
 
-#### Section 12 — Provisions as to confidential disclosure, etc
+#### Section 12 — Registrar's objections
 
 Application for extension of copyright in design for a third period of five years .. .. ..
 

@@ -766,9 +766,11 @@ The purpose of a market inquiry is to determine— Purpose of market
 
 For the purposes of a market inquiry under this Part, the Commission may invite interested parties to submit information to it and may exercise, in relation to any enterprise that it considers to be involved in the matters covered by the inquiry, its powers of investigation under this Act.
 
-### Section 41 — Action to be taken following market inquiry
+### Section 41
 
 (1) The Commission shall, at the conclusion of a market inquiry, publish its findings in a daily newspaper of general circulation in Zambia.
+
+Action to be taken following market inquiry
 
 Protection
 
@@ -956,7 +958,7 @@ Protection
 
 (3) Notwithstanding subsection (2), a contract shall bind the parties if it is capable of being enforced without the unfair term.
 
-### Section 54 — Complaints on unfair contract term or trading practices,
+### Section 54
 
 Any person who alleges that a person or an enterprise—
 

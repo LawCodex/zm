@@ -93,9 +93,11 @@ Cap. 387
 
 Subject to the provisions of this Act, a copy of any entry in a banker's book shall in all legal proceedings be received as prima facie evidence of such entry, and of the matters, transactions and accounts therein recorded.
 
-### Section 4 — Proof that book is a banker's book
+### Section 4
 
 (1) A copy of an entry in a banker's book shall not be received in evidence under this Act unless it be first proved that the book was at the time of the making of the entry one of the ordinary books of the bank, and that the entry was made in the usual and ordinary course of business, and that the book is in the custody or control of the bank.
+
+Proof that book is a banker's book
 
 (2) Such proof may be given by a partner or officer of the bank, and may be given orally or by an affidavit sworn before any commissioner for oaths or person authorised to take affidavits.
 
@@ -105,13 +107,17 @@ Subject to the provisions of this Act, a copy of any entry in a banker's book sh
 
 (2) Such proof shall be given by some person who has examined the copy with the original entry, and may be given either orally or by an affidavit sworn before any commissioner for oaths or person authorised to take affidavits.
 
-### Section 6 — Case in which banker, etc., not compellable to produce book, etc
+### Section 6
 
 A banker or officer of a bank shall not, in any legal proceedings to which the bank is not a party, be compellable to produce any banker's book the contents of which can be proved under this Act, or to appear as a witness to prove the matters, transactions and accounts therein recorded, unless by order of a Judge made for special cause.
 
-### Section 7 — Court may order inspection, etc
+Case in which banker, etc., not compellable to produce book, etc.
+
+### Section 7
 
 (1) On the application of any party to a legal proceeding a court may order that such party be at liberty to inspect and take copies of any entries in a banker's book for any of the purposes of such proceedings.
+
+Court may order inspection, etc.
 
 (2) An order under this section may be made either with or without summoning the bank or any other party, and shall be served on the bank three clear days before the same is to be obeyed, unless the court otherwise directs.
 

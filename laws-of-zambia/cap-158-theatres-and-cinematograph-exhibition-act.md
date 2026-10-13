@@ -121,9 +121,11 @@ The Minister may, by Gazette notice, appoint one or more Film Censorship Boards 
 
 (As amended by G.N. No. 302 of 1964 and S.I. No. 70 of 1964)
 
-#### Section 8 — Description of cinematograph scene to be submitted
+#### Section 8
 
 (1) A descriptive title of every picture or series of pictures intended to be presented at any cinematograph exhibition and copies of all posters advertising the same shall be sent to the Board with an account of the theatre where and the time when the exhibition is intended to be presented.
+
+Description of cinematograph scene to be submitted
 
 (2) The Board may inspect or cause to be inspected any picture or pictures, and no picture or series of pictures shall be presented at any cinematograph exhibition nor shall any posters advertising such exhibition be displayed without a permit from the Board previously had and obtained.
 

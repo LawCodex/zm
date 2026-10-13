@@ -461,9 +461,11 @@ if the court decides to proceed under this paragraph, shall make an order either
 
 (6) An order varying an attachment of earnings order shall not come into force until the expiration of seven days from the date when a copy of the first-mentioned order is served on the person to whom the attachment of earnings order is directed; and where an attachment of earnings order ceases to have effect under subsection (2), or is discharged otherwise than under subsection (3), the said person shall not incur any liability in consequence of his treating the order as still in force at any time before the expiration of seven days from the date when the notice required by subsection (2) or, as the case may be, a copy of the discharging order is served on him.
 
-#### Section 12 — Liabilities of persons to whom attachment of earnings orders are directed
+#### Section 12
 
 (1) A person to whom an attachment of earnings order is directed shall, notwithstanding anything in any other law but subject to the following provisions of this Act, comply with the order or, if the order is subsequently varied under the last foregoing section, with the order as so varied.
+
+Liabilities of persons to whom attachment of earnings orders are directed
 
 (2) Where on any occasion on which earnings fall to be paid to a defendant, there are in force two or more attachment of earnings orders relating to those earnings, then, for the purpose of complying with the Schedule, the employer shall-
 
@@ -481,9 +483,11 @@ deal with any later order as if the earnings to which it relates were the residu
 
 (5) A person to whom an attachment of earnings order is directed shall, where the defendant ceases thereafter to be employed by him, within fourteen days of such cessation give notice thereof to the court which made the order.
 
-#### Section 13 — Powers of courts to obtain statements of earnings, etc
+#### Section 13
 
 (1) Where proceedings relating to an attachment of earnings order are brought in any court, the court may, either before or at the hearing-
+
+Powers of courts to obtain statements of earnings, etc.
 
 (a)
 
@@ -505,9 +509,11 @@ order any person appearing to the court to be an employer of the defendant to gi
 
 (2) A document purporting to be such a statement as is mentioned in subsection (1) shall, in any such proceedings as are so mentioned, be received in evidence and be deemed to be such a statement without further proof unless the contrary is shown.
 
-#### Section 14 — Powers of courts to determine whether payments are earnings
+#### Section 14
 
 (1) The court by which an attachment of earnings order has been made shall, on the application of the person to whom the order is directed or of the defendant or of the person in whose favour the order was made, determine whether payments to the defendant of a particular class or description specified by the application are earnings for the purposes of that order; and the person to whom the order is directed shall be entitled to give effect to any determination for the time being in force under this subsection.
+
+Powers of courts to determine whether payments are earnings
 
 (2) A person to whom an attachment of earnings order is directed who makes an application under subsection (1) shall not incur any liability for failing to comply with the order as respects any payments of the class or description specified by the application which are made by him to the defendant while the application, or any appeal in consequence thereof, is pending:
 
@@ -521,7 +527,7 @@ Provided that this subsection shall not apply as respects such payments if the s
 
 (3) On any occasion on which an employer makes a payment under the Schedule in respect of a defendant, the employer may, notwithstanding anything in any other law, retain for his own use out of any balance of the defendant's earnings remaining after the making of that payment the sum of five ngwee or, if on that occasion the employer makes such payments in pursuance of two or more attachment of earnings orders relating to the defendant, the sum of five ngwee in respect of each such payment.
 
-#### Section 16 — Application to earnings paid by the Government, etc
+#### Section 16
 
 (1) In relation to earnings falling to be paid by the Government, this Act shall have effect subject to the following modifications, that is to say:
 
@@ -532,6 +538,8 @@ the earnings shall be treated as falling to be paid by the chief officer for the
 (b)
 
 section seventeen shall not apply except in relation to a failure by the defendant to comply with an order under section thirteen.
+
+Application to earnings paid by the Government, etc.
 
 (2) If any question arises, in connection with any proceedings relating to an attachment of earnings order, as to what department, office or other body is concerned for the purposes of this section, or as to who for those purposes is the chief officer thereof, that question shall be referred to and determined by the Minister responsible for finance, but the said Minister shall not be under any obligation to consider a reference under this subsection unless it is made by a court.
 

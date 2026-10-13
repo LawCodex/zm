@@ -281,9 +281,11 @@ The Minister may cause to be established a sinking fund for the purpose of redee
 
 Whenever a sinking fund is established under section nine or ten in respect of any loan, the annual rate of contribution to such sinking fund shall be sufficient to provide for the redemption, upon the expiry of the period of such loan, of not less than seventy-five per centum of the principal of such loan.
 
-#### Section 12 — Deficiency in sinking fund to be charged upon general revenues
+#### Section 12
 
 In the event of any sinking fund established under this Act being found, at the time fixed for the repayment of any loan in respect of which it is established, to be insufficient for such redemption, the deficiency shall be a charge upon, and shall be made good out of, the general revenues of the Republic.
+
+Deficiency in sinking fund to be charged upon general revenues
 
 #### Section 13 — Power of Minister to give directions in respect of sinking funds
 
@@ -353,9 +355,11 @@ Provided that the Minister may, by statutory notice, exempt any loan or contract
 
 The Minister may, if it appears to him necessary or expedient in the public interest, indemnify any person, by agreement in writing and subject to such terms and conditions as the Minister may think fit, against any claim directly arising from any act or omission on the part of such person or his servants or agents in the performance by such person or his servants or agents of any agreement between such person and the Government.
 
-#### Section 17 — Guarantees and indemnities to be paid out of general revenues
+#### Section 17
 
 Whenever he is authorised to do so by resolution of the National Assembly, the Minister shall pay out of the general revenues of the Republic any sum required for discharging any liability incurred by the Government under any guarantee or indemnity given under this Act:
+
+Guarantees and indemnities to be paid out of general revenues
 
 Provided that any sum paid to the Government in respect of any such guarantee or indemnity by way of repayment of the sum guaranteed or indemnified or any portion thereof shall be paid into the said general revenues.
 
@@ -369,7 +373,7 @@ is a guarantee or indemnity subsisting at the commencement of this Act; and
 
 is a guarantee or indemnity in respect of which the Government may incur any liability for the payment of money.
 
-#### Section 19 — Information relating to guarantees to be included in financial report
+#### Section 19
 
 There shall be included in the financial report prepared in respect of any financial year pursuant to the Constitution a statement showing the particulars of all guarantees given under this Act, or any other written law, and subsisting at the end of that year.
 
@@ -411,7 +415,7 @@ person prior to the commencement of this Act, other than a loan granted under an
 
 Application of Part VI to loans previously granted
 
-#### Section 23 — Information relating to loans granted by Government to be included in financial
+#### Section 23
 
 There shall be included in the financial report prepared in respect of any financial year pursuant to Article 118 of the Constitution, a statement showing the particulars of any loan granted under this Act or any other written law in respect of which there was a balance outstanding at any time during that year:
 
@@ -435,9 +439,11 @@ Any bonds or stock issued under this Act shall be deemed for all purposes to be 
 
 If, during any period when the National Assembly is not sitting, the Minister considers that there is such an urgent need to raise any loan or to give any guarantee under this Act that it would not be in the public interest to delay the raising of such loan or the giving of such guarantee until the National Assembly next sits, the Minister may, if so authorised by the President, amend any statutory instrument promulgated in terms of section three or fifteen by varying any sum specified in such statutory instrument to the extent necessary to permit the raising of such loan or the giving of such guarantee, as the case may be.
 
-#### Section 27 — Minister may delegate functions to public officer
+#### Section 27
 
 The *(1)Minister may, by statutory order, delegate to such public officer as may be specified in the order the performance of any function conferred upon the Minister under this Act:
+
+Minister may delegate functions to public officer
 
 *Functions delegated to Permanent Secretary, Ministry of Finance, by S.I. No. 363 of 1969.
 

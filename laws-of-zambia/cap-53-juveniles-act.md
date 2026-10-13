@@ -839,9 +839,11 @@ Powers of Commissioner for Juvenile Welfare to board out juveniles
 
 Provided that no juvenile shall be placed in a home or institution outside Zambia without the written authority of the court which made the order committing the juvenile to the care of the Commissioner for Juvenile Welfare as a fit person. (No. 35 of 1959)
 
-#### Section 24 — Juveniles may be boarded out by fit persons
+#### Section 24
 
 A fit person, other than the Commissioner for Juvenile Welfare, may board out juveniles committed to his care for such periods and on such terms as to payment and otherwise as the Commissioner for Juvenile Welfare may approve:
+
+Juveniles may be boarded out by fit persons
 
 Provided that, in selecting the person or institute with whom any juvenile is to be boarded out, care shall be taken to select, if possible, a person or institute of the same religious persuasion as the juvenile, or a person or institute which will give an undertaking that he will be brought up in accordance with that religious persuasion. (As amended by No. 35 of 1959)
 
@@ -851,9 +853,11 @@ The Minister, in any case where it appears to him to be for the benefit of a juv
 
 Provided that the Minister shall not empower such a person to arrange for the emigration of a juvenile unless he is satisfied that the juvenile consents or, being too young to form or express a proper opinion on the matter, is to emigrate in company with a parent, guardian, relative or friend, and also that his parents have been consulted or that it is not practicable to consult them. (As amended by G.N. No. 276 of 1964)
 
-#### Section 26 — Application for order of committal to be varied or revoked
+#### Section 26
 
 (1) An order committing a juvenile to the care of a fit person may, on the application of any person, be varied or revoked by a juvenile court acting for the District or place within which the juvenile is residing, and the court by which any such order is revoked may, upon the application of any person, substitute for that order an order placing the juvenile for a specified period not exceeding three years under the supervision of a probation officer or of some other person appointed by the court for that purpose:
+
+Application for order of committal to be varied or revoked
 
 Provided that an order under this subsection placing a juvenile under supervision as aforesaid shall be of no effect after the time at which the juvenile attains the age of nineteen years.
 
@@ -903,7 +907,7 @@ Custody of Juveniles
 
 (3) If at the time of an application by a parent for an order for the custody of a juvenile, the juvenile is being brought up by a person other than the parent, the court may in its discretion, if it orders the juvenile to be given up to the parent, further order that the parent shall pay to such other person the whole of the cost properly incurred by such person in bringing up the juvenile, or such proportion thereof as shall seem to the court to be just and reasonable having regard to all the circumstances of the case. Receiving Children for Reward
 
-#### Section 32 — Notices to be given by persons receiving children for reward
+#### Section 32
 
 (1) A person who undertakes for reward the care and maintenance of a child apart from his parents, or having no parents, for a longer period than thirty days shall give notice thereof to the juveniles inspector of the area within which the child is to be maintained-
 

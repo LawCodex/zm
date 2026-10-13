@@ -35,7 +35,9 @@ Section
 
 #### Section 2 — Interpretation
 
-#### Section 3 — This Act binds the Republic
+#### Section 3
+
+This Act binds the Republic
 
 ### PART II — ERADICATION AND PREVENTION OF THE SPREAD OF PESTS
 

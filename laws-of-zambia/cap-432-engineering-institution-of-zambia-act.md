@@ -345,7 +345,7 @@ The common seal of the Institution shall be kept in such custody and used in suc
 
 (4) A person making any application under sections ten, eleven, twelve, thirteen or fourteen shall produce such evidence of the facts on which he relies as the Council may require.
 
-#### Section 8 — Member of Institution before commencement of the Act to be member of the
+#### Section 8
 
 Notwithstanding section seven, any person who immediately prior to the commencement of this Act was an Honorary Fellow, Fellow, Member, Associate, Student or Corporate Member of the Institution shall be deemed as from the commencement of this Act to be an Honorary Fellow, Fellow, Member, Associate, Student or Company Member of the Institution respectively under this Act.
 
@@ -927,7 +927,7 @@ charges for professional work, fees other than the scales approved by the Counci
 
 in a report in which his client has interest, fails to disclose or knowingly conceals from such client mis-statements or facts known to himself and the disclosure of which is necessary in order that the report does not mislead; or gives an opinion in a professional capacity without obtaining sufficient information thereof.
 
-#### Section 42 — Penalties to be imposed by Disciplinary Committee
+#### Section 42
 
 (1) Where the Disciplinary Committee, after due inquiry finds an engineer guilty of professional misconduct as a member of the Institution, it may impose one or more of the following penalties-
 

@@ -4943,7 +4943,7 @@ Issues of decision letter
 
 PENALTIES
 
-#### Section 34 — Contents of application and conditions of licence to be prescribed by
+#### Section 34
 
 (1) Any person who-
 

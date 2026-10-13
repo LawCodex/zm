@@ -351,9 +351,11 @@ Obstruction of Police
 
 The Board may at any time and shall, not less frequently than once in every twelve months, require a licensed bookmaker to submit to the Board a properly audited statement of the bookmaker's accounts.
 
-### Section 24 — Licences not to be transferred
+### Section 24
 
 No licence issued under this Act shall be transferable to any person, and any person who shall transfer or purport to transfer a licence shall be guilty of an offence and shall be liable to a fine not exceeding two thousand penalty units.
+
+Licences not to be transferred
 
 (As amended by 30 of 1989 and 13 of 1994)
 

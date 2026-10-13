@@ -683,17 +683,13 @@ Every meeting of the Commission shall be presided over by the Chairman or in the
 
 Presiding at meetings
 
-##### Section 5 — President may give general directions to Judicial Service Commission
+##### Section 5 — Record of meetings
 
 A record shall be kept of the members present and of the business transacted at every meeting of the Commission.
 
-Record of meetings
-
-##### Section 6 — Judicial Service Commission not subject to authority of any persons, etc
+##### Section 6 — Decisions by circulation of papers
 
 Decisions may be made by the Commission without a meeting by circulation of the relevant papers among the members and the expression of their views in writing, but any member shall be entitled to require that any such decision shall be deferred until the subject-matter be considered at a meeting of the Commission.
-
-Decisions by circulation of papers
 
 ##### Section 7 — Additional Commissions and their responsibilities
 
@@ -779,7 +775,7 @@ The Commission, in its discretion shall determine the form of advertisements iss
 
 Advertisements
 
-##### Section 15 — Privileged reports, etc
+##### Section 15 — Any report, statement or other communication or record of any meeting, inquiry
 
 The Commission shall determine the procedure to be followed in dealing with applications for appointment to any judicial office including the proceedings of any selection board appointed by the Chairman to interview candidates. The Commission shall determine the forms to be used in connection with the discharge of its functions.
 
@@ -2035,7 +2031,7 @@ under the provisions of regulation 25 or 28 that an officer other than an office
 
 Further reports
 
-##### Section 30 — Decision in disciplinary proceedings to be communicated to officer concerned
+##### Section 30
 
 (1) Where a public officer is serving on agreement for a specified period of service and the responsible officer of the Ministry in which the officer is employed desires to retain his services for a further tour of service, then, not later than thirty-three months after the officer's first day of resident service or three months before the officer's last day of duty, whichever is the earlier, the responsible officer will invite the officer in writing either, if the officer be so eligible, to apply for admission to the permanent and pensionable establishment or, if the officer is ineligible for admission to the permanent and pensionable establishment, to apply to be engaged for a further period of service. If the officer states either that he does not wish to be admitted to the permanent and pensionable establishment or to be engaged for a further period of service, no further action will be necessary. If the officer duly applies either to be admitted to the permanent and pensionable establishment or to be engaged for a further period of service, the responsible officer will forward to the Permanent Secretary (Establishment Division) the officer's application together with his recommendation and stating also whether the officer has passed his obligatory examinations, if any, the details of which must be given. The Permanent Secretary (Establishment Division) will forward the officer's application and the responsible officer's recommendations with his comments, to the Secretary.
 
@@ -2163,7 +2159,7 @@ a true record of the proceedings of every such court, if available.
 
 (6) Notwithstanding the provisions of regulations 37, 38 and 39, the Commission may consider any disciplinary proceedings instituted against a public officer under this regulation upon perusal of the documents referred to in sub-regulation (5), and may, in like manner, determine whether such public officer is to be dismissed or subjected to some other punishment on account of the offence of which he is convicted. (As amended by No. 250 of 1973)
 
-##### Section 36 — Punishments which the Commission may impose
+##### Section 36
 
 A public officer acquitted of a criminal charge in any court shall not be dismissed or otherwise punished for any charges upon which he has been so acquitted, but nothing in this regulation shall prevent his being dismissed or otherwise punished on any other charges arising out of his conduct in the matter.
 
@@ -2277,7 +2273,7 @@ Provided that the committee shall not make any recommendation as to, or otherwis
 
 (15) It shall be the duty of the disciplinary authority to give notice in writing to the accused office of any punishment imposed on him under this regulation, and such notice shall, except in the case of a severe reprimand or a reprimand or any punishment imposed by the Commission, inform the accused officer of his right to appeal under regulation 42.
 
-##### Section 39 — Production of relevant documents, etc
+##### Section 39
 
 (1) Any disciplinary proceedings instituted against a public officer referred to in paragraph (b) of regulation 37 (2) shall be instituted and determined in accordance with this regulation.
 

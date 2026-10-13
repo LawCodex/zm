@@ -907,11 +907,13 @@ The Board of Appeal shall meet as often as may be necessary, and shall consider 
 
 Provided that the acceptance of any benefit shall not debar a beneficiary from appealing to the Board of Appeal if the appeal is based upon any fact of which the appellant was not aware at the time of such acceptance. (As amended by No. 31 of 1951 and No. 15 of 1955)
 
-#### Section 29 — Records in custody of Bureau to be available for appeals
+#### Section 29
 
 When the Board of Appeal is considering any appeal against a decision of the Bureau, all radiographic, clinical and other records which are in the custody of the Bureau, and which relate to the subject-matter of the appeal, shall be made available to the Board of Appeal.
 
-#### Section 30 — Certified copies of records in custody of Bureau to be admissible as evidence
+Records in custody of Bureau to be available for appeals
+
+#### Section 30
 
 Any microfilmed or photostat copy of any radiographic, clinical or other similar records in the custody of the Bureau purporting to be certified as a true copy of any such record by the Director of the Bureau shall be admissible as evidence of the matters contained therein in all proceedings before a court.
 
@@ -999,7 +1001,7 @@ Provided that when a miner is or is to be presented for examination under sectio
 
 (6) Any person who fails to return a certificate of fitness to the Bureau in accordance with subsection (5) shall be guilty of an offence and liable to a fine of three hundred penalty units. (As amended by No. 31 of 1951, No. 30 of 1962 and Act No. 13 of 1994)
 
-#### Section 37 — Existing, expired or expiring certificates of fitness to be delivered to Bureau at
+#### Section 37
 
 (1) On the occasion of every prescribed examination of a person who is in employment as a miner, the employer having the custody of the miner's certificate of fitness shall cause such certificate to be delivered to the Bureau before the new examination may be performed.
 
@@ -1221,9 +1223,11 @@ Any employer or miner who contravenes or fails without reasonable excuse to comp
 
 Suspect Examinations
 
-#### Section 47 — Miners suspected of compensable disease to be examined
+#### Section 47
 
 When a medical practitioner employed by the owner of a scheduled mine has reason at any time to suspect that any person employed as a miner at such mine may be suffering from pneumoconiosis or tuberculosis, the medical practitioner shall so inform the employer who shall arrange for such miner to be examined by the Bureau. Such examination shall be known for the purposes of this Act as a suspect examination and shall be so described on the prescribed form of application delivered to the Bureau.
+
+Miners suspected of compensable disease to be examined
 
 (As amended by No. 15 of 1955)
 
@@ -1275,7 +1279,7 @@ shall be entitled to be examined by the Bureau once in any calendar year in addi
 
 (2) The Bureau shall arrange and perform all additional examinations. Additional examinations shall be both clinical and radiological. Certificates of Fitness
 
-#### Section 50 — Particulars to be shown on certificates of fitness
+#### Section 50
 
 (1) Every certificate of fitness shall be in the prescribed form and shall show the nature of the certificate, the date of its expiry, and the name and Bureau number of the person in respect of whom it was issued, and such person shall place his signature or thumb-print upon the face of the certificate. No certificate shall be valid unless it bears upon its face the signature or stamped facsimile signature of the Director or Secretary of the Bureau.
 
@@ -1431,13 +1435,15 @@ send the heart and lungs of the deceased to the Bureau accompanied by such repor
 
 (2) Any medical practitioner who fails to comply with the provisions of subsection (1) shall be guilty of an offence and shall be liable to a fine not exceeding seven hundred and fifty penalty units. (As amended by No. 31 of 1951, No. 15 of 1955 and Act No. 13 of 1994)
 
-#### Section 57 — Bureau may direct post-mortem examination
+#### Section 57
 
 (1) Where a miner has died and the Bureau deems it necessary for the proper determination of the cause of death or of the presence or absence of tuberculosis or pneumoconiosis or the stage of the latter if present, the Bureau may direct that a post-mortem examination of the body of the deceased shall be carried out.
 
 (2) Where a miner who has worked as such at a scheduled mine for not less than five years has died within Zambia, and a dependant of such miner transmits to the Bureau a written request for a post-mortem examination, the Bureau may, in its discretion, direct that a post-mortem examination shall be carried out.
 
 (3) A post-mortem examination may, for the purposes of this section, be made by any registered medical practitioner in accordance with arrangements made by the Bureau. (As amended by No 15 of 1955)
+
+Bureau may direct post-mortem examination
 
 ### PART IV — BENEFITS AND OTHER FORMS OF ASSISTANCE
 
@@ -1467,9 +1473,11 @@ Provided that where the earnings of a miner as so assessed are in excess of two 
 
 (7) For the purposes of this section"date of commencement" means the 1st December, 1962; "former pension" means a pension payable under the Act immediately prior to the date of commencement; "the amended Act" means the Act as amended by Act No. 30 of 1962; "the Act" means the Pneumoconiosis Act in force immediately prior to the date of commencement. (No. 30 of 1962 as amended by S.I. No. 124 of 1965)
 
-#### Section 59 — Limitation on the amount of any pension or pensions to be paid
+#### Section 59
 
 (1) Notwithstanding any other provisions contained in this Act, the total monthly amount of any pension or pensions payable under section sixty-one, sixty-two or sixty-eight to a miner or the dependants of a deceased miner shall not exceed the earnings of such miner and, where the pension or pensions assessed under any of the said sections exceed such earnings, the pension or pensions shall be reduced in such manner as the Board may consider necessary to ensure that the provisions of this section are complied with.
+
+Limitation on the amount of any pension or pensions to be paid
 
 (2) For the purposes of this section, the earnings of a miner shall be assessed in the manner set out in subsection (1) of section sixty-nine:
 
@@ -1563,7 +1571,7 @@ When a miner who has been entitled to any benefit has died, or when the Bureau c
 
 (As amended by No. 25 of 1952 and No. 15 of 1955)
 
-#### Section 67 — Certain benefits to be deemed to have accrued before death to a deceased
+#### Section 67
 
 When a miner who has not, during his life, been entitled to any benefit has died after the commencement of this Act, and the Bureau certifies after his death that at the time of his death the deceased miner was suffering from pneumoconiosis in any stage, or from tuberculosis with or without pneumoconiosis, the deceased miner shall be deemed to have become entitled before his death to a benefit in accordance with the provisions of section sixty:
 
@@ -1719,9 +1727,11 @@ at the date of the earliest certification of pneumoconiosis by the Bureau was ei
 
 the Board may, in its discretion, award to the beneficiary or beneficiaries concerned a larger proportion of the benefits provided by Part IV than the fraction or percentage assessed in accordance with subsection (2), and the Board shall, in assessing such larger proportion, take into account any compensation in respect of pneumoconiosis which the miner or dependants concerned may have received or may be entitled to receive from any source other than the Board. (As amended by No. 15 of 1955 and No. 30 of 1962)
 
-#### Section 75 — Pensions not to be duplicated
+#### Section 75
 
 (1) When a miner who is entitled to pension under any provision of this Act becomes entitled to a greater pension under any other provision of this Act, such first-mentioned pension shall lapse.
+
+Pensions not to be duplicated
 
 (2) No person shall be entitled simultaneously to two separate pensions under the provisions of this Act.
 
@@ -2041,11 +2051,13 @@ if the amount of the outstanding liability as thereafter apportioned by the actu
 
 (2) If, in such a case as is mentioned in proviso (i) to subsection (1), the actuary is of the opinion that the amount of the outstanding liability in respect of the mine in question for the current financial year may, when apportioned, exceed the amount of the outstanding liability in respect of such mine for the financial period ending on the prescribed day, where such financial period immediately precedes the current financial year, or for the last financial year for which the actuary has apportioned the outstanding liability, as the case may be, he shall, at the request of the Board, provisionally estimate the possible difference between the two amounts, and the Board may thereupon demand from the owner of such mine that, in addition to paying that liability in accordance with the provisions of such proviso, he shall furnish security, to the satisfaction of the Board, for the payment of a sum equal to the difference as estimated by the actuary, should he become liable for the payment of an additional sum under the provisions of proviso (ii) to subsection (1); and if the Board's demand is not met forthwith the Board may recover from such owner a sum equal to the amount of such estimated excess, in addition to the outstanding liability for the financial period ending on the prescribed day, or the last financial year for which the actuary has apportioned the outstanding liability, as the case may be, but subject to the subsequent application, mutatis mutandis, of proviso (ii) to subsection (1). (As amended by No. 3 of 1959 and G.N. No. 233 of 1964)
 
-#### Section 93 — Board may demand security for outstanding liability or recover payment
+#### Section 93
 
 If the Board is of opinion that it might find it impossible or difficult to recover from the owner of a scheduled mine the whole of his outstanding liability in respect of that mine in the event of the removal of its name or description from the First Schedule, the Board may call upon such owner to furnish the Board with security, to the Board's satisfaction, for the payment of the outstanding liability when it becomes due, and if such owner fails to furnish such security or to make any other arrangement satisfactory to the Board with a view to meeting his outstanding liability when it becomes due, the Board may demand from such owner immediate payment of the outstanding liability in respect of the mine in question, and thereupon the provisions of section ninety-two shall apply, mutatis mutandis, as if the Board's demand were the removal under paragraph (e) of subsection
 
 (2) of section ninety-six of the name or description of the mine in question from the First Schedule:
+
+Board may demand security for outstanding liability or recover payment
 
 Provided that the payment of the sum demanded by the Board shall not exempt the mine owner concerned from the provisions of subsection (3) of section ninety-one in respect of the mine in question while its name or description remains on the First Schedule. (As amended by No. 77 of 1965)
 
@@ -2099,9 +2111,11 @@ subject to any specific provision of this Act, prescribe the fees for any act, m
 
 prescribe any other matter which is required to be prescribed under the provisions of this Act. (As amended by No. 31 of 1951, No. 15 of 1955, No. 30 of 1962 and G.N. No. 233 of 1964)
 
-#### Section 97 — Benefits not to be assigned, charged or attached
+#### Section 97
 
 No benefit paid or payable under the provisions of this Act shall be capable of being assigned or charged nor shall such benefit be attached by the order of any court, and the right to a periodical payment to a beneficiary shall not pass by operation of law to any other person, and no claim shall be set off against an order for such a payment.
+
+Benefits not to be assigned, charged or attached
 
 #### Section 98 — Republic to bear cost of administering this Act
 

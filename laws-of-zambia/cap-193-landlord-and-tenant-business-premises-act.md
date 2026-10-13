@@ -409,11 +409,13 @@ the tenant is willing to accept a tenancy of an economically separable part of t
 
 (2) For the purposes of paragraph (b) of subsection (1), a part of the holding shall be deemed to be an economically separable part if, and only if, the aggregate of the rents which, after the completion of the intended work, would be reasonably obtainable on separate lettings of that part and the remainder of the premises affected by or resulting from the work would not be substantially less than the rent which would then be reasonably obtainable on a letting of those premises as a whole.
 
-### Section 14 — Property to be comprised in new tenancy
+### Section 14
 
 (1) Subject to the provisions of subsection (2), an order under section ten for the grant of a new tenancy shall be an order for the grant of a new tenancy of the holding; and in the absence of agreement between the landlord and the tenant as to the property which constitutes the holding, the court shall in the order designate that property by reference to the circumstances existing at the date of the order.
 
 (2) The provisions of subsection (1) shall not apply in a case where the property comprised in the current tenancy includes other property besides the holding and the landlord requires any new tenancy ordered to be granted under section ten to be a tenancy of the whole of the property comprised in the current tenancy; but in any such case-
+
+Property to be comprised in new tenancy
 
 (a)
 

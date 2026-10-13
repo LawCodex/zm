@@ -249,7 +249,7 @@ Cap. 41
 
 (3) The exhibition in a conspicuous position in the precincts of the Assembly Chamber of a copy, duly authenticated by the Clerk, of any orders made by the Speaker under this section shall be deemed to be sufficient notice to all persons affected thereby.
 
-#### Section 8 — Evidence of proceedings in Assembly or committee not to be given without
+#### Section 8
 
 (1) No member or officer and no person employed to take or transcribe minutes of evidence before the Assembly or any committee shall give evidence elsewhere respecting the contents of such minutes of evidence or of the contents of any document laid before the Assembly or committee, as the case may be, or respecting any proceedings or examination held before the Assembly or committee, as the case may be, without the special leave of the Assembly first had and obtained.
 
@@ -257,7 +257,7 @@ Evidence of proceedings in Assembly or committee not to be given without leave
 
 (2) The special leave referred to in subsection (1) may be given during a recess or adjournment by the Speaker.
 
-#### Section 9 — Civil process not to be served nor members arrested on civil process within
+#### Section 9
 
 Notwithstanding anything to the contrary, no process issued by any court of Zambia or outside Zambia in the exercise of its civil jurisdiction shall be served or executed within the precincts of the Assembly Chamber while the Assembly is sitting, or through the Speaker or any officer of the Assembly, nor shall any member be arrested on civil process, save by the leave of the Speaker first obtained, while he is within the precincts of the Assembly and while the Assembly is sitting.
 
@@ -273,17 +273,21 @@ The Assembly or any authorised committee may, subject to the provisions of secti
 
 (As amended by Act No. 23 of 1976)
 
-#### Section 11 — Attendance to be notified by summons
+#### Section 11
 
 (1) Any order to attend to give evidence or to produce documents before the Assembly or an authorised committee shall be notified to the person required to attend or to produce documents by a summons under the hand of the Clerk issued by the direction of the Speaker.
+
+Attendance to be notified by summons
 
 (2) In every summons under subsection (1) there shall be stated the time when and the place where the person summoned is required to attend and the particular documents which he is required to produce. The summons shall be served on the person mentioned therein either by delivering to him a copy thereof or by leaving a copy thereof at his usual or last known place of abode in Zambia with some adult person; and there shall be paid or tendered to the person so summoned, if he does not reside within eight kilometers of the place of attendance specified in the summons, such sum for his expenses as may be specified by standing order.
 
 (3) A summons under this section may be served by an officer or by a police officer. (As amended by Act No. 23 of 1976)
 
-#### Section 12 — Witnesses may be examined on oath
+#### Section 12
 
 (1) The Assembly or any authorised committee may require that any facts, matters and things relating to the subject of inquiry before the Assembly or such committee be verified or otherwise ascertained by the oral examination of witnesses, and may cause any such witnesses to be examined upon oath.
+
+Witnesses may be examined on oath
 
 (2) An oath required to be taken under the provisions of this section may be administered by the Clerk or by any other person appointed by the Assembly for that purpose, or, in the case of a witness before a committee, by the chairman of the committee or by the member presiding in the absence of the chairman, or by the clerk to the committee.
 
@@ -321,7 +325,7 @@ to give before the Assembly or a committee evidence;
 
 relating to the correspondence of any civil department or to any matter affecting the public service; and secondary evidence shall not be received by or produced before the Assembly or a committee of the contents of any such paper, book, record or document which the President has directed shall not be produced. (As amended by No. 6 of 1970)
 
-#### Section 15 — Certificate issued to witnesses making full disclosure to be a bar to civil or
+#### Section 15
 
 (1) Every witness before the Assembly or an authorised committee who shall answer fully and faithfully any questions put to him by the Assembly or such committee to its satisfaction shall be entitled to receive a certificate stating that such witness was upon his examination so required to answer and did answer any such question.
 
@@ -523,7 +527,7 @@ MISCELLANEOUS
 
 #### Section 29 — Repealed by Act No. 23 of 1976
 
-#### Section 30 — Votes and proceedings printed by order of the Assembly to be admitted as
+#### Section 30
 
 Upon any inquiry touching the privileges, immunities and powers of the Assembly or of any member, any copy of the votes and proceedings or Standing Orders printed or purporting to be printed by the Government Printer, or any copy of the votes and proceedings, or Standing Orders duly authenticated as such under the hand of the Clerk, shall be admitted as evidence of such votes and proceedings or Standing Orders in all courts and places without any further proof being given.
 
@@ -541,7 +545,7 @@ In any civil or criminal proceedings instituted for publishing any extract from 
 
 (As amended by Act No. 23 of 1976)
 
-#### Section 33 — Powers to be supplementary to powers under the Constitution
+#### Section 33
 
 The powers of the Assembly and of the Speaker under this Act shall be supplementary to any powers conferred by theConstitution or Standing Orders. (As amended by G.N. No. 421 of 1962 and S.I. No. 174 of 1965)
 
@@ -555,7 +559,7 @@ Courts not to exercise jurisdiction in respect of acts of the Assembly, Speaker 
 
 (As amended by Act No. 23 of 1976)
 
-#### Section 35 — Absence of the Speaker, etc
+#### Section 35
 
 (1) For the purposes of this section "absent", in relation to the Speaker or the Deputy Speaker, means-
 

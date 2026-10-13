@@ -863,7 +863,7 @@ exceed one per centum of all the shares of that class or series, whether such sh
 
 The Registrar shall, within one hundred and eighty days of the receipt Determination of applications of an application for a licence make a decision whether to grant the licence. (Repealed and replaced by Act No. 18 of 2000 and No. 25 of 2005)
 
-#### Section 6 — Application for licences to be refused in certain cases
+#### Section 6
 
 (1) The Registrar shall not grant a licence if the applicant does not meet the requirements prescribed by the Bank of Zambia
 
@@ -1189,7 +1189,7 @@ restructuring transaction with another bank or financial institution without the
 
 (3) A transaction effected in contravention of this section shall be void. (As amended by Act No. 13 of 1994, Act No. 18 of 2000 and No. 25 of 2005)
 
-#### Section 27 — Consent to corporate restructure, etc
+#### Section 27
 
 (1) An application for any consent of the Bank of Zambia to a corporate restructuring transaction shall include-
 
@@ -1297,7 +1297,7 @@ generally;
 
 (5) Any person acting in contravention of subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a penalty not exceeding one hundred thousand penalty units or to imprisonment for a term not exceeding five years, or to both. (As amended by Act No. 13 of 1994, No. 18 of 2000 and No. 25 of 2005)
 
-#### Section 32 — Directors from outside to be in the majority
+#### Section 32
 
 (1) A majority of the members of the board of directors of a bank or Directors from financial institution shall be persons who are not officers or employees outside to be in the majority of the bank or financial institution.
 

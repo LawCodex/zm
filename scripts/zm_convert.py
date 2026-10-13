@@ -41,6 +41,8 @@ def toc_titles(lines):
             while j < len(lines) and j <= i + 3 and not lines[j]:
                 j += 1
             t = lines[j].strip() if j < len(lines) else ""
+        if re.search(r"\b(is|are|shall|may|be|cited|amended)\b|^(This|The \w+ is)\b|[.;:,]$", t):
+            continue  # body text, not a title from the arrangement of sections
         if t and len(t) < 150 and not re.match(r"^\(?\d", t) and t[:1].isupper() and m.group(1) not in titles:
             titles[m.group(1)] = t.rstrip(".")
     return titles
@@ -109,7 +111,7 @@ def main(repo):
             meta = {"title": title, "identifier": "Cap. 1", "type": "constitution", "volume": "Volume 1",
                     "note": "Laws of Zambia revised edition text (Constitution of 1991 as amended in 1996); "
                             "substantially amended by the Constitution of Zambia (Amendment) Act No. 2 of 2016"}
-        elif it["collection"] == "constitution":
+        elif it["collection"] == "constitution" or k == "4834":
             path = os.path.join(repo, "constitution", "constitution-of-zambia-amendment-act-2016.md")
             meta = {"title": "Constitution of Zambia (Amendment) Act, 2016", "identifier": "Act No. 2 of 2016",
                     "type": "constitution", "year": "2016"}

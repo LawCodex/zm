@@ -441,7 +441,7 @@ by a member of such local court as a member of a council.
 
 Subject to any express provision of any other written law conferring jurisdiction, no local court shall have jurisdiction to try any case in which a person is charged with an offence in consequence of which death is alleged to have occurred or which is punishable by death.
 
-#### Section 12 — Law to be administered
+#### Section 12
 
 (1) Subject to the provisions of this Act, a local court shall administer-
 
@@ -529,9 +529,11 @@ Cap. 388
 
 in the case of any other body corporate, appear in court by the secretary of or the holder of any office in such body corporate or, by leave of the court, by any other person or agent, not being a legal practitioner, authorised by such body corporate to appear on its behalf. (As amended by Act No. 8 of 1991)
 
-#### Section 16 — Copies of records, etc
+#### Section 16
 
 (1) Subject to the provisions of this section and save as may be expressly prescribed, no person shall be entitled as of right, at any time or for any purpose, to inspection of originals or copies of, or to any copy of, any summons, warrant, charge, pleadings, record of evidence, notes by the court, case record, ground of appeal, receipt or other document forming part of the papers in any case before a local court, or of any other record kept by any local court.
+
+Copies of records, etc.
 
 (2) A party to any proceedings before a local court shall, on payment of such fee as may be prescribed, be entitled to a copy of any record of those proceedings made by or on behalf of such court.
 
@@ -671,9 +673,11 @@ Power to order sufficient bail when that first taken is insufficient
 
 Where a surety to a bail bond dies before the bond is forfeited, his estates shall be discharged from all liability in respect of the bond, but the party who gave the bond may be required to find a new surety.
 
-#### Section 28 — Person bound by recognizance absconding may be committed
+#### Section 28
 
 If it is made to appear to a local court, by information on oath, that any person bound by recognizance is about to leave Zambia, the court may cause him to be arrested, and may commit him to prison until the trial, unless the court shall see fit to admit him to bail upon further recognizance.
+
+Person bound by recognizance absconding may be committed
 
 #### Section 29 — Forfeiture of recognizance
 
@@ -1231,9 +1235,11 @@ to permit the release on bail of a person who is in custody by an order made in 
 
 (2) An appeal from a local court shall be dealt with by way of rehearing unless the appellate court, in its discretion, shall see fit to dispense with all, or part, of such rehearing.
 
-#### Section 59 — Effect of entry of appeal on order, sentence, etc
+#### Section 59
 
 (1) The entering of an appeal in any case in which an adverse award has been made or a fine imposed by a local court shall not operate as a stay of execution of proceedings under such award or in respect of such fine except in so far as such court, upon the application of the person against whom such award was made or upon whom such fine was imposed, may order.
+
+Effect of entry of appeal on order, sentence, etc.
 
 (2) After the entering of an appeal by a person who has been sentenced by a local court to a period of imprisonment, the appellate court, or the lower court may, upon the application of such person, order that such person be released on bail with or without sureties pending the hearing of the appeal, and if, upon such hearing, the original sentence is confirmed or some other sentence of imprisonment is substituted therefor, the time during which the appellant has been released on bail shall be excluded in computing the term of imprisonment to which he is finally sentenced.
 
@@ -1255,9 +1261,11 @@ issued or made thereby, shall be varied or declared void on appeal or revision s
 
 Decisions to be in accordance substantial justice
 
-#### Section 63 — Local court justices to be subject to directions of High Court
+#### Section 63
 
 Every president or other local court justice and every proceeding before such president or other local court justice shall be subject to the orders and directions of the High Court.
+
+Local court justices to be subject to directions of High Court
 
 ### PART VII — GENERAL
 

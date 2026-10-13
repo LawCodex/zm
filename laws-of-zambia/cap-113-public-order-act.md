@@ -255,11 +255,13 @@ shall be deemed to be an unauthorised assembly, and all persons taking part in s
 
 (3) Any exemption given under the provisions of this section may be made subject to such conditions as the Minister may impose and may at any time be varied or revoked by the Minister by order in writing. (No. 10 of 1959 as amended by G.N. No. 230 of 1964, S.I. No. 66 of 1965 and No. 10 of 1967)
 
-### Section 9 — National anthem to be played at public meetings
+### Section 9
 
 (1) The official national anthem shall be played or sung at the commencement of the business of every public meeting.
 
 (2) Any person, who convenes, presides at, conducts or addresses any public meeting at which the official national anthem has not been played or sung pursuant to subsection (1) shall be guilty of an offence.
+
+National anthem to be played at public meetings
 
 (3) For the purposes of this section, "at the commencement of business" means the time when such public meeting is called to order, or declared open, as the case may be. (No. 10 of 1967)
 

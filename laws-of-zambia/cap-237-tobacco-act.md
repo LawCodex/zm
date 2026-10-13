@@ -861,9 +861,11 @@ Funds of Board
 
 If, at any time, the funds referred to in section eighteen are not sufficient to meet fully any lawful expenditure incurred by the Board in the exercise of its powers or functions or in the performance of its duties, the amount of such deficiency shall be met by advances made by the Minister out of moneys appropriated for the purpose by Parliament.
 
-#### Section 20 — Statement of revenue and expenditure of Board to be submitted
+#### Section 20
 
 The Board shall, before the commencement of each financial year, submit to the Minister a detailed statement of estimated revenue and expenditure for the following year for approval by the Minister.
+
+Statement of revenue and expenditure of Board to be submitted
 
 #### Section 21 — Accounts of Board
 
@@ -919,7 +921,7 @@ registration periods in respect of classes of tobacco specified in such regulati
 
 the duration of such registrations.
 
-#### Section 26 — Growers to be registered
+#### Section 26
 
 (1) Subject to the provisions of this section, any grower or any person who bona fide intends to grow tobacco shall be registered as a registered grower, which registration may be in respect of the growing of any particular class or classes of tobacco and shall be for the duration prescribed pursuant to paragraph (b) of section (twenty-five).
 
@@ -928,6 +930,8 @@ the duration of such registrations.
 Register of growers
 
 Registration periods and duration of registration
+
+Growers to be registered
 
 (b) Whenever any person is registered as a registered grower pursuant to paragraph (a), the assisted producers therein referred to shall be exempt from registration under this Part.
 
@@ -967,7 +971,7 @@ shall not be registered under this section.
 
 (4) The Board may waive the payment of the fee referred to in subsection (2) if the Board considers that there is a reasonable explanation for the failure of the applicant to make his application within the registration period.
 
-#### Section 28 — Allotment of registered numbers to growers, licensed buyers, etc
+#### Section 28
 
 (1) The Registrar shall allot one and not more than one registered number to each registered grower for each class of tobacco to be grown by that registered grower in each season:
 
@@ -976,6 +980,8 @@ Provided, however, that in the case of a registered grower registered as such un
 (2) Subject to any regulation or rule in that behalf made pursuant to or under this Act, a sales supervisor may, from time to time for the purpose of resale of auctionable tobacco by any licensed buyer or by any holder of an auction floor licenced, allot, in the name of the Registrar, a registered number to such licensed buyer or to such holder of an auction floor licence, as the case may be, and such licensed buyer or such holder of an auction floor licence shall be deemed to be the registered grower for the purposes of such resale.
 
 (3) A registered number allotted pursuant to subsection (1) or (2) shall not be transferable save with the written consent of the registered grower to whom it is allotted and of the Registrar.
+
+Allotment of registered numbers to growers, licensed buyers, etc.
 
 (4) Upon an application in that behalf by any registered grower, the Registrar may, with the approval of the Board, cancel any registered number of such registered grower and may allot to the said registered grower another registered number in lieu thereof, if in the opinion of the Board there is sufficient reason for such change of registered number to be made.
 
@@ -1235,9 +1241,11 @@ Appeal to Minister
 
 Buyer's licence to specify particulars
 
-#### Section 47 — Minister may prescribe conditions of sale at primary level
+#### Section 47
 
 The Minister may by regulation prescribe the conditions under which tobacco may be bought by a licensed buyer at a primary or rural level and the conditions to which any resale of such tobacco shall be subject.
+
+Minister may prescribe conditions of sale at primary level
 
 #### Section 48 — Cancellation and suspension of buyer's licence
 
@@ -1447,9 +1455,11 @@ any sale of non-auctionable tobacco at a primary or rural level to a licensed bu
 
 any sale by the Board of non-auctionable tobacco purchased by the Board.
 
-#### Section 62 — Auctionable tobacco to be delivered to auction floor by registered grower
+#### Section 62
 
 The holder of an auction floor licence shall not sell or permit the sale on his auction floor of auctionable tobacco which was grown in the Republic unless the said tobacco was grown and is delivered to him by or on behalf of a registered grower.
+
+Auctionable tobacco to be delivered to auction floor by registered grower
 
 #### Section 63 — Delivery in excess of delivery quota
 
@@ -1565,11 +1575,13 @@ any charges other than the weighing, selling, commission or re-handling charges 
 
 (2) After completion of sales on his auction floor in any selling season fixed by the Board, the holder of an auction floor licence may grant to registered growers such rebates of any of the charges referred to in paragraph (a) of subsection (1) as he may think fit.
 
-#### Section 70 — Disposal of auctionable tobacco which is left unsold
+#### Section 70
 
 (1) The Board may give notice to an owner or to a registered grower representing the owner of auctionable tobacco which remains unsold on a licensed auction floor after the last day of the selling season to remove the tobacco from the said licensed auction floor within a period fixed by the Board.
 
 (2) Any owner or any registered grower representing an owner of tobacco referred to in subsection (1) to whom notice has been given pursuant to that subsection, who fails to remove the tobacco within a period fixed by the Board in the notice, shall be guilty of an offence.
+
+Disposal of auctionable tobacco which is left unsold
 
 (3) The Board or the holder of the auction floor licence may, after the expiry of the notice referred to in subsection (1), cause any such tobacco to be returned to the owner thereof, or his agent, at the said owner's expense, and the costs and charges of delivery of the said tobacco to the said owner, or his agent, shall constitute a civil debt to the Board or to the holder of the auction floor licence, as the case may be.
 
@@ -1781,9 +1793,11 @@ MISCELLANEOUS AND OFFENCES
 
 Any licence issued by the Board pursuant to this Act shall not be valid after the 31st December in the year in respect of which the licence is issued.
 
-#### Section 91 — Official documents to be produced to inspector
+#### Section 91
 
 Any certificate, licence, permit or authority issued under this Act shall be produced by the holder thereof for inspection by any inspector, or other person thereunto duly authorised in writing by the Board.
+
+Official documents to be produced to inspector
 
 #### Section 92 — Failure to comply with Act, regulations or rules an offence
 
@@ -1845,7 +1859,7 @@ shall be guilty of an offence.
 
 (2) For the purposes of this section, "duly appointed person" means any person to whom duties in connection with the administration of this Act are delegated by the Minister or the Board pursuant to this Act or to any regulation or rule made thereunder.
 
-#### Section 97 — Prohibition against failure to furnish returns, etc
+#### Section 97
 
 Any person who, being a person required by or under this Act to furnish any return or information to the Minister or to the Board(a)
 

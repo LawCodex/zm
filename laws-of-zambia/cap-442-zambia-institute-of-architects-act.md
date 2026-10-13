@@ -403,7 +403,7 @@ A member of the Institute shall be entitled to describe and designate himself as
 
 Designation of members
 
-#### Section 12 — Member of Institute before commencement of Act to be member of Institute in
+#### Section 12
 
 Notwithstanding section five any person who immediately before the commencement of this Act was a corporate member, honorary member, life member, foreign member, or student member, of the Institute, shall be deemed from the commencement of this Act to be a corporate member, honorary member, life member, foreign member or student member, respectively, under this Act.
 
@@ -667,7 +667,7 @@ fails to disclose or knowingly conceals from his client information or facts, wh
 
 gives incorrect or insufficient professional advice.
 
-#### Section 26 — Penalties to be imposed by Disciplinary Committee
+#### Section 26
 
 (1) Where the Disciplinary Committee, after due inquiry finds an architect guilty of professional misconduct, it may impose one or more of the following penalties:
 

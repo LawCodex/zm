@@ -201,15 +201,17 @@ any transfer of property by a shareholder of a company incorporated under the Co
 
 (5) The Minister may, by statutory order, exempt from tax any person, transfer or property, or any class thereof. (As amended by Act No. 11 of 1987)
 
-### Section 7 — Liquidators, receivers, trustees in bankruptcy etc
+### Section 7
 
 (1) Any transfer of property to a person in his capacity as a liquidator shall not be liable to tax.
+
+Liquidators, receivers, trustees in bankruptcy etc.
 
 (2) Where a person in his capacity as a liquidator holds any property belonging to a debtor, any transfer of such property by him to any person other than the debtor shall be liable to tax and the amount of such tax shall be recoverable from the liquidator.
 
 (3) In this section"debtor" includes a bankrupt or other person whose property has been placed in the hands of a liquidator for the purpose of settling the affairs or debts of such debtor, and in the case of a company, for the purpose of winding up such company; "liquidator" includes receiver, trustee in bankruptcy, assignee in bankruptcy or under a deed of arrangement, or any other person acting in a similar capacity.
 
-### Section 8 — Transfer by agents, mortgages etc
+### Section 8
 
 (1) Where a mortgagee transfers any mortgaged property to enforce his rights under a mortgage, the mortgagee shall be deemed to be an agent of the mortgagor and subsection (2) shall apply.
 
@@ -219,7 +221,7 @@ Transfer by agents, mortgagees, etc.
 
 (3) In this section "mortgagee" includes any person entitled to security in any property, or to the benefit of a charge, encumbrance or other similar liability over any property, of another, and "mortgage", "mortgagor" and "mortgaged property" shall be construed accordingly.
 
-### Section 9 — Returns, notices, etc
+### Section 9
 
 (1) Every person who transfers any property, whether such property was transferred on his own behalf or on behalf of another, shall render a provisional return of tax in such form and giving therein such details of the property and the transaction as may be prescribed by the Commissioner-General.
 

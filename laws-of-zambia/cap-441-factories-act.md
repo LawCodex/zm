@@ -5729,7 +5729,7 @@ All fencing must be of substantial construction and be maintained in an efficien
 
 Every steam boiler attendant must be properly instructed in his duties.
 
-#### Section 38 — Precautions in places where dangerous fumes are liable to be present
+#### Section 38
 
 No modification, unless sanctioned by the manufacturer, must be made to any pressure part of any steam boiler or steam receiver until an Inspector has been notified in writing (Sections 54 to 57 and 60).
 

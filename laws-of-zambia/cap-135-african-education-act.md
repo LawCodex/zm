@@ -1645,7 +1645,7 @@ the grant of increments to employees in Divisions I and II;
 
 to discharge such other functions as the Secretary may require. (As amended by No. 315 of 1966)
 
-##### Section 13 — Who may award penalties
+##### Section 13
 
 To facilitate the expedition of business a Regional Committee may be resolution delegate to the chairman or other member or members any of the functions of the Regional Committee except the making of recommendations on the following matters:
 
@@ -2057,7 +2057,7 @@ Notwithstanding the provisions of regulations 17 to 27, the Secretary may, after
 
 Proceedings for retirement in the interests of the Service
 
-##### Section 29 — Service to be unbroken
+##### Section 29
 
 If an employee is adjudged guilty in any court of a criminal charge likely to warrant disciplinary proceedings, the Regional Committee shall forward a copy of the charge and of the judgment, together with a copy of the proceedings if they are available, to the Secretary who shall refer the matter to the Teaching Service Commission which shall advise the Secretary whether it considers that the employee should be dismissed or subjected to some lesser penalty on account of his conviction for the offence of which he has been adjudged guilty, without any of the proceedings prescribed in regulations 24 to 27 inclusive being instituted.
 

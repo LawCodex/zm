@@ -197,9 +197,11 @@ if such person has embarked on an aircraft, require him to leave the aircraft, a
 
 and, in restraining or removing any such person, such police officer or servant of the collection agent may use such force as may be reasonably necessary in the circumstances.
 
-### Section 8 — Inspection of books, etc
+### Section 8
 
 The Auditor-General or any public officer authorised in that behalf by the Minister may enter upon the premises of the collection agent and may require any servant of the collection agent to produce all books, documents and records relating to the collection of the charge and may copy extracts therefrom.
+
+Inspection of books, etc.
 
 ### Section 9 — Obstruction
 

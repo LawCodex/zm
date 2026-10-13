@@ -833,7 +833,7 @@ Any person who is in any way implicated or concerned in the matter under inquiry
 
 Legal representation
 
-#### Section 9 — Contract of supply must be carried out
+#### Section 9 — Except for causes beyond the control of the operator of an undertaking, and
 
 (1) The Minister may direct what remuneration, if any, shall be paid to the members of a board and any assessor and may direct the payment of any other expenses attendant upon the carrying out of the board's functions.
 

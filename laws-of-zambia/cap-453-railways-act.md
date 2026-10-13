@@ -601,7 +601,7 @@ for any reference to any other officer of the Board not being a party thereto an
 
 Registration of property to be transferred by Board
 
-#### Section 6 — Registration of property to be transferred by Board
+#### Section 6
 
 Whenever in pursuance of this Act, any property, rights, liabilities or obligations of the Board are deemed transferred, in respect of the transfer of which any written law provides for registration, the Board shall make an application in writing to the appropriate registration authority for the registration of such transfer, and such authority shall make such entries in the appropriate register as shall give effect to such transfer and, where appropriate issue to the transferee concerned a certificate of title in respect of the said property or make necessary amendments to the register, as the case may be, and, if presented therefor, make endorsement on the deeds relating to the title, right or obligation concerned; and no registration fees, stamp duty or other duties shall be payable in respect thereof.
 
@@ -635,9 +635,11 @@ Cap. 388
 
 RAILWAY PERMITS
 
-#### Section 10 — Rail services to be provided in accordance with railway permit
+#### Section 10
 
 No person shall provide any rail service within, into or out of Zambia otherwise in accordance with the terms and conditions of a railway permit issued by the Minister.
+
+Rail services to be provided in accordance with railway permit
 
 #### Section 11 — An application for a railway permit to provide any rail service or to construct
 
@@ -705,7 +707,7 @@ Power to enter upon land for railway purposes
 
 (3) Where a railway company lawfully exercises any of the powers conferred by this section, such railway company shall be liable to the owner of such land or to any person interested therein to pay compensation only for the materials and timber taken therefrom, or the actual loss or damage caused to any improvements thereon.
 
-#### Section 14 — Power to enter upon land to prevent accidents, etc
+#### Section 14
 
 (1) Any authorised employee or agent of a railway company may, for the purpose of preventing the occurrence of any accident, preserving the safe operation of any transport service provided by such railway company or repairing any damage caused by any accident, enter upon any land and-
 
@@ -717,15 +719,19 @@ cut down or remove any tree or other obstruction, not being a building, which ob
 
 execute such other works as may be necessary to prevent the occurrence of any accident or to repair any damage caused as a result of any accident.
 
+Power to enter upon land to prevent accidents, etc.
+
 (2) Where any tree or other obstruction is cut down or removed under paragraph (a) of subsection (1), the owner or occupier of the land shall be entitled to adequate compensation therefor from such railway company:
 
 Provided that no such compensation shall be payable if the tree or other obstruction cut down or removed came into existence subsequent to the provision of the transport service.
 
 (3) Where any person erects any building which obscures the view of a fixed signal or is likely to cause any obstruction or any danger to any rail or transport service provided by a railway company, such railway company may, unless such person has previously obtained its approval to the erection of such building or has modified it to its satisfaction, apply to the High Court for an order for the demolition or modification of such building or, as the case may require, for the payment to such railway company of the cost incurred in resiting or replacing any signalling equipment or otherwise necessary to prevent such obstruction or danger and the court, in its discretion, may make such order, including matters relating to the payment of compensation and costs, as it deems fit.
 
-#### Section 15 — Power to enter upon land to alter position of pipes, etc
+#### Section 15
 
 (1) Any authorised employee or agent of a railway company may, for the purposes of such railway company, enter upon any land and alter the position of any pipe for the supply of gas, oil, water or compressed air, or of any electric, telephone or telegraphic wire or of any drain.
+
+Power to enter upon land to alter position of pipes, etc.
 
 (2) Before a railway company exercises any power under subsection (1), it shall give reasonable notice of its intention to do so to the authority or person having control of the pipe, wire or drain and-
 
@@ -783,7 +789,7 @@ where it appears to the railway company that the claimant is not entitled to com
 
 (3) Where an offer made in terms of subsection (2) is accepted in writing by the claimant, the amount so offered and accepted shall be deemed adequate compensation for all purposes and shall be recoverable as a civil debt.
 
-#### Section 19 — High Court may determine certain matters
+#### Section 19
 
 (1) Notwithstanding the provisions of section eighteen, any person to whom this part applies may make application to the High Court for the determination of any relevant matter, and in particular-
 
@@ -1073,9 +1079,11 @@ in his opinion, the railway may be opened for the public carriage of passengers 
 
 (2) This section applies to additional lines of railway, deviation lines, sidings, stations, junctions, level crossings, bridges and any alteration or reconstruction materially affecting the structural character of the railway.
 
-#### Section 36 — Accidents, temporary suspension of traffic, temporary diversion, etc
+#### Section 36
 
 (1) When an accident has occurred resulting in temporary suspension of traffic and either the original line and works have been restored to their original standard, or a temporary diversion has been laid for the purpose of restoring communication, before an Inspector of Railways has conducted an inspection of such restoration or diversion, the original line and works so restored or the temporary diversion so laid, as the case may be, may be opened for the public carriage of passengers or goods when the employee in charge of the works undertaken by reason of the accident has certified in writing to the railway company that the opening of the restored line and works, or the temporary diversion, will not in his opinion be attended with danger to passengers or goods carried by rail.
+
+Accidents, temporary suspension of traffic, temporary diversion, etc.
 
 (2) A notice by telegraph of the opening of the line and works or the diversion under the provisions of subsection (1) shall be sent, as soon as practicable, to an Inspector of Railways by such railway company.
 
@@ -1085,7 +1093,7 @@ in his opinion, the railway may be opened for the public carriage of passengers 
 
 (2) Any direction given by the Minister under the provisions of subsection (1) shall state the grounds on which the direction is based.
 
-#### Section 38 — Re-opening of closed railway, etc,
+#### Section 38
 
 (1) When a railway has been closed under the provisions of section thirty-seven it shall not be re-opened for the public carriage of passengers or goods until-
 
@@ -1197,9 +1205,11 @@ determine the different classes of accommodation available to passengers in its 
 
 Provided that such conditions, fares and other charges shall, as soon as practicable after such determination, be published in the Tariff Book.
 
-#### Section 44 — General right of persons to be carried as passengers
+#### Section 44
 
 Subject to the provisions of this Act, any person who has tendered to an authorised employee the proper fare for the ticket he desires shall be entitled to obtain such ticket and to be carried as a passenger by the railway company in accordance with the conditions subject to which such ticket is issued:
+
+General right of persons to be carried as passengers
 
 Provided that if, in the opinion of an authorised employee, a person who applies for a ticket, or a person in possession of a ticket or free pass, appears to be(i)
 
@@ -1215,7 +1225,7 @@ under the influence of alcohol or drugs to such an extent as to be likely to cau
 
 such person shall not be entitled to obtain such ticket or to be carried as a passenger save in accordance with any special provisions dealing with the carriage of any such person.
 
-#### Section 45 — General conditions on which tickets, etc., are to be issued
+#### Section 45
 
 (1) Every ticket and free pass for use on a railway shall be issued subject to the provisions of this Act and, in addition to any other conditions prescribed under this Act, to the condition that-
 
@@ -1251,7 +1261,7 @@ Provided that the provisions of this subsection relating to a refund shall not a
 
 General conditions on which tickets, etc., are to be issued
 
-#### Section 46 — Fares, etc., payable by person travelling without valid ticket, etc
+#### Section 46
 
 (1) Any person who-
 
@@ -1262,6 +1272,8 @@ travels on any train or vehicle without a valid ticket or free pass; or
 (b)
 
 being in, or having come from, any such train or vehicle does not present his ticket or free pass for examination or does not deliver up his ticket or free pass in accordance with the conditions on which the ticket or free pass is issued;
+
+Fares, etc., payable by person travelling without valid ticket, etc.
 
 shall be liable to pay on demand by an authorised employee the fare for the distance he has travelled or proposes to travel and, in addition, such excess charges as may be specified in the Tariff Book; and for the purpose of ascertaining such fare it shall be presumed that such person has travelled from the station(i)
 
@@ -1301,7 +1313,7 @@ unless the luggage is delivered to an employee of the railway company for carria
 
 the provisions of this Act in respect of the carriage of goods shall apply to the carriage of luggage, save in so far as it is otherwise specifically provided.
 
-#### Section 48 — Railway company may determine conditions for carriage of goods, etc
+#### Section 48
 
 (1) A railway company may, subject to the provisions of this Act, determine-
 
@@ -1312,6 +1324,8 @@ the conditions upon which goods shall be carried or warehoused by it and differe
 (b)
 
 the rates and other charges for the carriage or warehousing of goods and for any other service or facility provided by it; and such rates and other charges shall be published in the Tariff Book and shall, subject as aforesaid, have effect from the date of such publication or from such later date as may be specified therein.
+
+Railway company may determine conditions for carriage of goods, etc.
 
 (2) Notwithstanding the provisions of subsection (1), a railway company may, in relation to the special circumstances of any particular case, determine the conditions, rates and other charges applicable to such case for the carriage or warehousing of goods by it or for any other service or facility; and such conditions, rates and other charges shall have immediate effect in relation to such case:
 
@@ -1353,7 +1367,7 @@ facilities for dealing with the goods tendered for carriage are not available at
 
 the person tendering such goods for carriage shall not be entitled to have such goods carried, save when such goods are accepted for carriage in accordance with any special provisions dealing with the carriage of such goods.
 
-#### Section 50 — Description, etc., of goods to be delivered
+#### Section 50
 
 (1) The consignor of, or the person tendering any goods to a railway company for carriage or warehousing and, on request by an authorised employee, the consignee of, or the person receiving, any goods which have been carried or warehoused by the railway company, shall deliver to an authorised employee an account in writing signed by such consignor, person or consignee, as the case may be, containing such description of the goods as may be sufficient to enable such employee to determine the rates and charges payable in respect of the carriage or warehousing thereof.
 
@@ -1373,7 +1387,7 @@ Description, etc., of goods to be delivered
 
 (4) If, in respect of goods which have been carried or warehoused, an account delivered under subsection (1) is found to be false in any material particular with respect to the description of any goods to which it purports to relate, an authorised employee may refuse to deliver such goods unless, in respect of the carriage or warehousing of the goods, a rate or charge not exceeding double the highest rate or charge payable for any class of goods is paid.
 
-#### Section 51 — Goods may be sold to pay fares, rates, etc
+#### Section 51
 
 (1) Where any person fails to pay on demand made by an authorised employee any fare, rate or charge due from him as a passenger or in respect of any goods, a railway company may detain the whole or any part of such goods, including the luggage of the passenger or, if the value of the goods is, in the opinion of such authorised employee, insufficient to pay for such fare, rate or charge due or if such goods have been removed from the possession of the railway company, any other goods of such person which may be in, or may thereafter come into, the possession of the railway company.
 
@@ -1419,7 +1433,7 @@ the railway company may, within a reasonable time, being not less than three mon
 
 Provided that no imported goods shall be sold under this section until they have been entered for home consumption in accordance with the provisions of any customs law in force in the Republic.
 
-#### Section 53 — Indemnity where goods claimed by two persons, etc
+#### Section 53
 
 Where-
 
@@ -1431,9 +1445,11 @@ any goods, or the proceeds of the sale of any goods are in the possession of a r
 
 any person claiming any goods in the possession of a railway company does not produce valid documents showing that he is entitled to take delivery thereof;
 
+Indemnity where goods claimed by two persons, etc.
+
 the railway company may withhold delivery of such goods or proceeds until the person appearing to the railway company to be entitled thereto has given an indemnity to its satisfaction against the claim of any other person with respect to such goods or proceeds.
 
-#### Section 54 — Dangerous or offensive goods, etc
+#### Section 54
 
 (1) No person shall take with him upon any train or vehicle of a railway company or tender to it for carriage or warehousing any goods to which this section applies without giving notice of the nature of such goods-
 
@@ -1444,6 +1460,8 @@ in the case of goods taken by a person, to the employee in charge of the station
 (b)
 
 in the case of goods tendered for carriage or warehousing, to the employee to whom such goods are tendered.
+
+Dangerous or offensive goods, etc.
 
 (2) An authorised employee may-
 
@@ -1493,7 +1511,7 @@ state in such notice that objections by the public to the proposed alterations m
 
 (3) Any objection to a proposed alteration of rates, fares or other charges of which notice is given by a railway company under subsection (2), shall be submitted to, and decided upon, by the Minister, whose decision on the matter shall be final.
 
-#### Section 57 — Preparation of Tariff Book, etc
+#### Section 57
 
 (1) Every railway company shall prepare and publish in such manner as it may think fit-
 
@@ -1504,6 +1522,8 @@ a Tariff Book containing all matters which under this Act are required to be con
 (b)
 
 such other books, time-tables and other documents as are required to be kept under this Act.
+
+Preparation of Tariff Book, etc.
 
 (2) There shall be available for public inspection at every booking office of a railway company-
 
@@ -1519,7 +1539,7 @@ a list specifying the fares for the carriage of passengers by it from the place 
 
 a time-table of the passenger transport services operated by it.
 
-#### Section 58 — Determination of maximum load, etc
+#### Section 58
 
 (1) Every railway company shall determine-
 
@@ -1530,6 +1550,8 @@ the maximum load for each of its wagons and no wagon shall, except with the perm
 (b)
 
 the maximum number of passengers that may be carried in any compartment of a coach of a train, or vehicle of the railway company.
+
+Determination of maximum load, etc.
 
 (2) Every railway company shall cause the maximum load determined under subsection (1) in respect of every wagon to be marked in a conspicuous manner on such wagon.
 
@@ -1981,9 +2003,11 @@ without the permission of an authorised employee, travels in or upon any part of
 
 wilfully obstructs any person acting under the instructions of a railway company in the lawful exercise of its power in setting out or constructing a line of railway, whether originally or for the purpose of any work being done
 
-#### Section 76 — Travelling without valid ticket, etc
+#### Section 76
 
 (1) Any person who-
+
+Travelling without valid ticket, etc.
 
 (a)
 
@@ -2131,7 +2155,7 @@ Provided that, save where there is reason to believe that such person will absco
 
 (4) A person charged with an offence under this Act may be proceeded against, tried and punished in any place in which he may be in custody for that offence as if that offence had been committed in such place; and the offence shall for all purposes be deemed to have been committed in that place.
 
-#### Section 83 — Offences which are offences under other laws
+#### Section 83
 
 Any person who commits an offence under this Act, which is also an offence under the Penal Code or under any other written law, may be proceeded against under this Act or under the Penal Code or under such other written law and the provisions of section eighty-four shall apply to all such proceedings.
 
@@ -2143,9 +2167,11 @@ A court may order any person convicted before it of an offence under this Act to
 
 Recovery of fees and damages Cap. 88
 
-#### Section 85 — Brief particulars of offences and penalties to be exhibited
+#### Section 85
 
 Every railway company shall publish brief particulars of every offence for which any penalty is imposed by this Act affecting persons other than its employees and of the amount of fine or the term of imprisonment for every such offence, and shall cause such particulars to be exhibited at every booking office and such other places as the Minister may direct and such particulars shall be renewed as often as the same or any part thereof is obliterated or destroyed:
+
+Brief particulars of offences and penalties to be exhibited
 
 Provided that the failure to publish such brief particulars of any such offence or penalty or the failure to exhibit them shall not be a defence to a charge in respect of any such offence.
 
@@ -2159,11 +2185,13 @@ An employee of a railway company who, with intent to defraud, demands, solicits 
 
 (As amended by Act No. 13 of 1994)
 
-#### Section 87 — Property of railway company in custody of its employee, etc
+#### Section 87
 
 (1) Where an employee of a railway company dies or leaves the service of the railway company and, at the time of the death or termination of service, any property of such railway company was in his possession or custody or any premises of the railway company were occupied by him, it shall be the duty of such employee, or in the event of his death, of the person in whose possession or custody such property may be or who may be occupying such premises, as soon as practicable, to deliver such property to the railway company or to vacate such premises, as the case may be.
 
 (2) If any property or premises to which subsection (1) refers is not so delivered or vacated, as the case may be, the railway company shall give notice in writing to the person appearing to it most likely to be in possession of such property or in occupation of such premises to deliver to the railway company such property or vacate such premises within such time as may be specified in the notice; and if such property is not so delivered or such premises are not so vacated within such time, the railway company may, without prejudice to any other means of recovery of such property or premises, apply to a magistrate for an order empowering a police officer, if necessary by force, to enter and search any house or building where such property is believed to be and to deliver such property if found to the railway company or, as the case may require, to evict from such premises any person found therein.
+
+Property of railway company in custody of its employee, etc.
 
 #### Section 88 — Dismissal of convicted employees
 

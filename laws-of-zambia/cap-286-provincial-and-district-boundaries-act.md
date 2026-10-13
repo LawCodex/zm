@@ -111,7 +111,7 @@ The Eastern Province
 
 1\. 2.
 
-### Section 3 — Each Province of the Republic of Zambia shall include and consist of the
+### Section 3
 
 4\. 5. 6. 7.
 

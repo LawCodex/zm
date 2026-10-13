@@ -997,9 +997,11 @@ Application to lapse in certain circumstances
 
 (3) Evidence given on an application for the renewal of a licence shall be given on oath.
 
-#### Section 26 — Notification of grounds of refusal, etc
+#### Section 26
 
 A licensing authority shall, at the request of an applicant other than an applicant for a temporary licence, inform such applicant of the grounds on which the grant or renewal of a licence has been refused or conditions have been imposed.
+
+Notification of grounds of refusal, etc.
 
 #### Section 27 — Extension of permitted hours
 
@@ -1135,15 +1137,19 @@ Provided that, where any such estate or interest is vested in two or more person
 
 (3) Any reference in this Act to the registered owner of the premises shall be construed as a reference to any person whose name is for the time being entered in the register under the provisions of this section.
 
-#### Section 34 — Register to be evidence
+#### Section 34
 
 (1) Any register shall be received in evidence of the matters required by this or any other written law to be entered therein.
 
+Register to be evidence
+
 (2) Any document purporting to be certified by a licensing officer or by the secretary to a Board to be a true copy of an entry in a register shall be received as evidence of the matters contained in such entry.
 
-#### Section 35 — Regard to be had to register
+#### Section 35
 
 On any application for the grant, renewal, transfer or removal of a licence, the licensing authority concerned shall have regard to any entries in the register relating to the person by whom or the premises for which the licence is to be held.
+
+Regard to be had to register
 
 #### Section 36 — Inspection of register
 
@@ -1363,7 +1369,7 @@ then, if the drinking is with the privity of the licensee, such licensee shall b
 
 (As amended by Act No. 13 of 1994)
 
-#### Section 45 — Persons under eighteen years not to be employed in bars
+#### Section 45
 
 (1) If any person who is under the age of eighteen years or whose licence has been forfeited under section seventy is employed in any bar of licensed premises at a time when the bar is open for the sale or consumption of intoxicating liquor, the licensee shall be guilty of an offence and shall be liable, on a first conviction, to a fine not exceeding one hundred and fifty penalty units and, on a subsequent conviction, to a fine not exceeding six hundred penalty units.
 
@@ -1372,6 +1378,8 @@ then, if the drinking is with the privity of the licensee, such licensee shall b
 (3) For the purposes of this section, a person shall be deemed to be employed by the person for whom he works notwithstanding that he receives no wages for his work.
 
 (4) Where in any proceedings under the provisions of this section it is alleged that a person was at any time under the age of eighteen years, and he appears to the court then to have been under such age, for the purposes of such proceedings he shall be deemed to have been then under that age unless the contrary be shown. (As amended by No. 17 of 1967 and Act No. 13 of 1994)
+
+Persons under eighteen years not to be employed in bars
 
 #### Section 46 — Restriction on sale, etc., of liquor to children
 
@@ -1483,9 +1491,11 @@ unless the Board of the Province in which such premises are situate has consente
 
 (As amended by Act No. 13 of 1994)
 
-#### Section 51 — Particulars to be affixed to premises, etc
+#### Section 51
 
 (1) Every licensee, other than the holder of a temporary licence, shall-
+
+Particulars to be affixed to premises, etc.
 
 (a)
 
@@ -1501,9 +1511,11 @@ display, or cause to be displayed, his licence in a prominent position in the li
 
 (As amended by Act No. 13 of 1994)
 
-#### Section 52 — Licensee not to permit drunkenness, etc
+#### Section 52
 
 (1) Any licensee who permits drunkenness or any violent, quarrelsome or riotous conduct to take place on the licensed premises shall be guilty of an offence.
+
+Licensee not to permit drunkenness, etc.
 
 (2) If a licensee is charged under subsection (1) with permitting drunkenness, and it is proved that any person was drunk in the licensed premises, the burden of proving that the licensee and the persons employed by him took all reasonable steps for preventing drunkenness in the premises shall lie upon him.
 
@@ -1529,15 +1541,17 @@ display, or cause to be displayed, his licence in a prominent position in the li
 
 (3) Any police officer shall, on the demand of a licence holder or his servant or agent, help to expel from the licensed premises any person liable to be expelled therefrom under the provisions of this section, and may use such force as may be required for such purpose.
 
-#### Section 55 — Permitting licensed premises to be a brothel
+#### Section 55
 
 (1) If a licensee permits the licensed premises to be a brothel, he shall be guilty of an offence and shall be liable to a fine not exceeding six hundred penalty units.
+
+Permitting licensed premises to be a brothel
 
 (2) If a licensee is convicted, whether under this section or under any other enactment, of permitting his premises to be a brothel, he shall forfeit his licence.
 
 (As amended by Act No. 13 of 1994)
 
-#### Section 56 — Permitting licensed premises to be resort of prostitutes
+#### Section 56
 
 (1) A licensee shall not knowingly allow the licensed premises to be the habitual resort or place of meeting of reputed prostitutes, whether the object of their so resorting or meeting is or is not prostitution:
 
@@ -1546,6 +1560,8 @@ Provided that this section shall not prohibit his allowing any such persons to r
 (2) If a licensee contravenes the provisions of this section, he shall be guilty of an offence and shall be liable, on a first conviction, to a fine not exceeding three hundred penalty units and, on a subsequent conviction, to a fine not exceeding six hundred penalty units.
 
 (As amended by Act No. 13 of 1994)
+
+Permitting licensed premises to be resort of prostitutes
 
 #### Section 57 — Gaming on licensed premises
 
@@ -1663,7 +1679,7 @@ to any other person approved by the master between the hours of ten o'clock in t
 
 (3) If any person hinders or prevents any inspecting officer in pursuance of this section from going on board or impedes him in carrying out any inspection under this section, he shall be guilty of an offence and shall be liable, on a first conviction to a fine not exceeding seven hundred and fifty penalty units and, on a subsequent conviction, to a fine not exceeding one thousand five hundred penalty units. (As amended by G.N. No. 502 of 1964, No. 24 of 1977 and Act No. 13 of 1994)
 
-#### Section 68 — Application and modification of sections 20, 28, 30, 41, 45, 47, Part VII,
+#### Section 68
 
 In the application of Lake Kariba of-
 
@@ -1719,9 +1735,11 @@ Application and modification of sections 20, 28, 30, 41, 45, 47, Part VII, secti
 
 (5) Neither an order of forfeiture of a licence under this section nor the grounds for such a forfeiture shall be questioned or be subject to review by any court or licensing authority or the Tribunal in any proceedings or application before it. (No. 17 of 1967)
 
-#### Section 71 — Disposal of stock in hand where a licence is forfeited
+#### Section 71
 
 Where a licence is forfeited under any provision of this Act, the licensing officer of the District in which the licensed premises concerned are situate or, in the case of a passenger vessel licence, the licensing officer of the District in which any port at which the vessel concerned calls is situate, shall, upon the application of the licensee whose licence is forfeited, in writing permit the licensee to dispose of his stock in hand at the date the forfeiture takes effect during the period of one month from that date, and thereupon the provisions of this Act relating to the regulation, government or control of licensees shall, during that period, apply to the person so permitted as they apply to a licensee. (No. 17 of 1967)
+
+Disposal of stock in hand where a licence is forfeited
 
 #### Section 72 — Power to require structural alterations
 
@@ -1747,17 +1765,21 @@ relating to trading licences, the holder of any licence for the sale of liquor f
 
 Sale of tobacco, etc.
 
-#### Section 75 — Proof of licences, etc
+#### Section 75
 
 (1) Any document purporting to be a licence and signed by a licensing officer or by the secretary to a Board shall be received in evidence.
+
+Proof of licences, etc.
 
 (2) Any document purporting to be a copy of a licence certified under the hand of the licensing officer, or the secretary to the Board, issuing the original licence to be a true copy shall be received in evidence on an application for the renewal, transfer or removal of the licence, or on application for a protection order, if the licensing authority to whom the application is made is satisfied by evidence that the original licence is lost or unlawfully withheld.
 
 (3) Any memorandum made under the provisions of sub-section (7) of section thirty shall be received in evidence.
 
-#### Section 76 — Evidence of sale, etc
+#### Section 76
 
 (1) Evidence that a transaction in the nature of a sale of intoxicating liquor took place shall, in any proceedings relating to an offence under the provisions of this Act, be evidence of the sale of such liquor without proof that money passed.
+
+Evidence of sale, etc.
 
 (2) Evidence that consumption of intoxicating liquor was about to take place shall, in any such proceedings as aforesaid, be evidence of the consumption of intoxicating liquor without proof of actual consumption.
 
@@ -1803,9 +1825,11 @@ shall be guilty of an offence and liable to a fine not exceeding one hundred and
 
 (2) Liquor or vessels forfeited under the provisions of this Act shall be sold or otherwise disposed of as the court imposing the forfeiture may direct, and the proceeds shall be applied as if they were a fine.
 
-#### Section 80 — Notice of conviction of licensee to be given to owner
+#### Section 80
 
 (1) Where the conviction of a licensee is entered in a register under the provisions of subsection (2) of section thirty-two, the person making such entry shall serve notice of the conviction on the registered owner of the premises.
+
+Notice of conviction of licensee to be given to owner
 
 (2) A notice served under the provisions of subsection (1) may be served by registered post and in such case shall be deemed to be properly addressed if it is addressed to any place that the owner has specified to the authority keeping such register as his address or, if the owner has not specified any such place, that the person serving the notice believes to be the owner's address.
 

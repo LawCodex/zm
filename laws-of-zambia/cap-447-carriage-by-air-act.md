@@ -89,7 +89,9 @@ Section
 
 OTHER CARRIAGE TO WHICH THIS ACT APPLIES
 
-#### Section 19 — Meaning of "the amended Warsaw Convention" in Part V
+#### Section 19
+
+Meaning of "the amended Warsaw Convention" in Part V
 
 #### Section 20 — Modification of Conventions for purposes of this Part
 

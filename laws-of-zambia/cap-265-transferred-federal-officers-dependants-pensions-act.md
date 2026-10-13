@@ -455,7 +455,7 @@ of making a false statement for the purpose of obtaining a pension, knowing the 
 
 his right to any pension or his pension, as the case may be, shall, in accordance with the directions of the appropriate Service Commission, be suspended, reduced or forfeited, as the case may be.
 
-### Section 12 — Pensions or other benefits not to be assignable
+### Section 12
 
 A pension or other benefit payable under this Act shall not be assignable or transferable except for the purpose of satisfying(a)
 
@@ -464,6 +464,8 @@ a debt due to the Government; or
 (b)
 
 an order of any court for the periodical payment of sums of money towards the maintenance of the wife or former wife or child or beneficiary of the officer to whom the pension or other benefit is payable;
+
+Pensions or other benefits not to be assignable
 
 and shall not be liable to be attached, sequestered or levied upon for or in respect of any debt or claim whatsoever except a debt due to the Government:
 

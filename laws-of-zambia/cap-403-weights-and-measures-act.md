@@ -5645,7 +5645,7 @@ tinned or bottled cream sold by weight.
 
 (4) Where the quantity of milk in terms of measure of capacity sold to a creamery, dairy or factory is to be determined by weighing, the basis of computation shall not exceed 1,080 grams per litre, nor be less than 1,070 grams per litre.
 
-#### Section 21 — Contracts to be made by reference to authorised units
+#### Section 21
 
 (1) A person shall not sell any edible oil which is pre-packed in Zambia otherwise than by measure of capacity and in a quantity specified in the Sixth Schedule.
 

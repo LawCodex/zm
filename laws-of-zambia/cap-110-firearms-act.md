@@ -505,7 +505,7 @@ receives or retains any firearm or ammunition knowing or having reason to believ
 
 otherwise than in accordance with the provisions of this section shall be guilty of an offence and liable on conviction to a fine not exceeding six thousand two hundred and fifty penalty units or to imprisonment for a term not exceeding ten years, or to both. (As amended by Act No. 13 of 1994)
 
-#### Section 6A — Import of firearms or ammunition by public officers
+#### Section 6A
 
 (1) The provisions of section six shall not apply to a public officer who imports one firearm and a reasonable amount of ammunition-
 
@@ -1489,7 +1489,7 @@ Power to prohibit carrying, etc., of firearms
 
 (5) Any person who fails to comply with the provisions of subsection (2) or who interferes with or obstructs any officer acting in accordance with a direction given under this section, or who fails to surrender the whole of his stocks of firearms or ammunition in accordance with such direction, shall be guilty of an offence and liable on conviction to a fine not exceeding one hundred and twelve thousand five hundred penalty units or to imprisonment for a period not exceeding fifteen years, or to both. (As amended by Act No. 13 of 1994)
 
-#### Section 47 — Carrying firearms when drunk, etc
+#### Section 47
 
 (1) Any person who is under the influence of drink, or who behaves in a disorderly manner, while carrying a firearm shall be guilty of an offence and liable on conviction to a fine not exceeding fifteen thousand penalty units or to imprisonment for a term not exceeding two years, or to both.
 
@@ -1627,9 +1627,11 @@ if such holder fails to surrender such licence within fourteen days after the re
 
 Provided that evidence that the loss or destruction of such licence has been reported in accordance with the provisions of subsection (4) of section thirteen shall be a defence to any charge under this subsection. (As amended by Act No. 13 of 1994)
 
-#### Section 55 — Aiding and abetting, etc
+#### Section 55
 
 Any person who aids and abets, or counsels or procures, or attempts to commit any offence under this Act shall be guilty of an offence and liable on conviction to the penalty provided for the offence the commission of which he aided and abetted or counselled or procured or attempted, as the case may be.
+
+Aiding and abetting, etc.
 
 #### Section 56 — Disposal of unclaimed firearms and ammunition
 

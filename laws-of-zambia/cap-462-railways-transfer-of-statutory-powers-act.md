@@ -59,7 +59,7 @@ In this Act, unless the context otherwise requires-
 
 "the undertakings" means the undertakings, railways, lands, works, movable and immovable property, powers, authorities, privileges, exemptions, rights of action and suit, and all other the contractual and other rights and interests to which the Companies are from time to time entitled.
 
-### Section 3 — Power to transfer title, rights, etc
+### Section 3
 
 The Companies are hereby empowered, in any sale, transfer or assignment approved by the President of the undertakings or any portion of such undertakings as part of any scheme for the redemption, conversion or consolidation of the debenture debt of the Companies, to sell, transfer or assign the title, rights, powers and privileges conferred upon the Companies in the enactments set out in the Schedule or such of them as relate to the portion of the undertakings so sold, transferred or assigned, and thereupon the successors or assigns of the Companies shall be vested with the said title, rights, powers and privileges of the Companies in as full and ample a manner as if they had been conferred upon them by the said enactments and shall be subject to the obligations and conditions placed upon the Companies in the said enactments.
 

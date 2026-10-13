@@ -449,15 +449,19 @@ any reference, whether express or implied, to a person related to the adopted pe
 
 (3) Where under any disposition any real or personal property or any interest in any such property is limited, whether subject to any preceding limitation or charge or not, in such a way that it would, apart from this section, devolve as nearly as the law permits, along with a dignity or title of honour, then, whether or not the disposition contains an express reference to the dignity or title of honour, and whether or not the property or some interest in the property may in some event become severed therefrom, nothing in this section shall operate to sever the property or any interest therein from the dignity or title of honour, but the property or interest shall devolve in all respects as if this section had not been enacted.
 
-#### Section 16 — Industrial insurance, etc
+#### Section 16
 
 (1) For the purposes of any enactments for the time being in force relating to friendly societies, collecting societies and industrial insurance companies which enable such societies and companies to insure money to be paid for funeral expenses and which restrict the persons to whom money may be paid on the death of a child under the age of ten, an adopter shall be deemed to be the parent of the infant whom he is authorised to adopt under an adoption order.
 
 (2) Where, before the making of an adoption order in respect of an infant, any such insurance as is mentioned in subsection (1) has been effected by the natural parent of the infant, the rights and liabilities under the policy shall by virtue of the adoption order be transferred to the adopter, and the adopter shall, for the purposes of the enactments mentioned in subsection (1), be treated as the person who took out the policy.
 
-#### Section 17 — Affiliation orders, etc
+Industrial insurance, etc.
+
+#### Section 17
 
 (1) Where an adoption order is made in respect of an infant who is illegitimate, then, subject to the provisions of this section, any affiliation order in force with respect to the infant, and any agreement whereby the father of the infant has undertaken to make payments specifically for the benefit of the infant, shall cease to have effect, but without prejudice to the recovery of any arrears which are due under the order or agreement at the date of the adoption order.
+
+Affiliation orders, etc.
 
 (2) Where an infant to whom any such order or agreement as is mentioned in subsection (1) relates is adopted by his mother, and the mother is a single woman, the order or agreement shall not cease to have effect by virtue of subsection (1) upon the making of the adoption order, but shall cease to have effect if she subsequently marries.
 
@@ -515,11 +519,13 @@ Cap. 53
 
 (5) Where the registration of an adoption society is cancelled by the Commissioner, such society shall, for the purposes of this Part, be deemed to be registered under this Part during the period within which an appeal against the cancellation may be brought under the provisions of this section and, if such an appeal is brought, until the determination or abandonment of such appeal.
 
-#### Section 21 — Inspection of books, etc
+#### Section 21
 
 (1) The Commissioner may at any time give notice to any registered adoption society or to any officer of such society requiring such society or officer to produce to the Commissioner or to any person duly nominated by him in that behalf such books, accounts and other documents relating to the performance by the society of the function of making arrangements for the adoption of infants as the Commissioner may consider necessary for the exercise of the powers conferred upon the Commissioner by subsection
 
 (3) of section nineteen.
+
+Inspection of books, etc.
 
 (2) Any notice given under the provisions of subsection (1) may contain a requirement that any information to be furnished in accordance with such notice shall be verified by statutory declaration.
 
@@ -641,9 +647,11 @@ Duration of application of Part VI
 
 (1) shall be guilty of an offence.
 
-#### Section 27 — Notification of change of residence, etc
+#### Section 27
 
 (1) Where the custodian of an infant in relation to whom this Part has effect changes his residence while the infant is in his care and possession, he shall give to the Commissioner notice of the change at least seven days before doing so:
+
+Notification of change of residence, etc.
 
 Provided that, where an immediate change of residence is necessitated by any sudden emergency, the provisions of this subsection shall be deemed to have been complied with if any notice required thereunder is given at any time within forty-eight hours after the change of residence.
 

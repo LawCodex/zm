@@ -267,7 +267,7 @@ MEMBERS, ENLISTMENT, ATTESTATION, ETC.
 
 (2) All the officers and guardsmen shall be liable to serve in any part of Zambia and, in so far as is herein provided, elsewhere.
 
-#### Section 9 — Members of the Home Guard to be members of the Defence Force
+#### Section 9
 
 Every member of the Home Guard shall, when on duty, and during any period when the President has ordered employment of the whole or any part of the Home Guard under the provisions of section nineteen, be subject to military law and shall be deemed, as far as may be, a member of the Defence Force(a)
 
@@ -276,6 +276,8 @@ if serving as an officer in the Home Guard, as an officer; and
 (b)
 
 otherwise as a soldier:
+
+Members of the Home Guard to be members of the Defence Force
 
 Provided that this section shall not render a member of the Home Guard liable to proceedings for an offence under section seventy-three of the Defence Act (which provides for the punishment under military law of civil offences).
 

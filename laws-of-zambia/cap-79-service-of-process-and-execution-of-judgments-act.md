@@ -321,9 +321,11 @@ Enforcement of a judgment in Zambia
 
 (3) For the purposes of this section, "plaintiff", in relation to a judgment referred to in paragraph (c) of section ten, means the person to whom the sum of money is payable under the judgment, and "defendant" means the person liable to pay such sum of money. (As amended by S.I. No. 169 of 1965)
 
-#### Section 13 — Affidavit of liability to be filed
+#### Section 13
 
 No execution shall be issued or other proceedings taken upon any such certificate unless there is filed in the court out of which it is intended to issue execution or take such other proceedings an affidavit made by the person in whose favour the judgment is given or by some other person cognizant of the facts of the case stating that the amount for which execution is proposed to be issued or other proceedings to be taken is actually due and payable.
+
+Affidavit of liability to be filed
 
 #### Section 14 — Stay of proceedings
 

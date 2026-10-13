@@ -3739,7 +3739,7 @@ Weight per 2.7432 metres length (including socket and spigot)
 
 70
 
-#### Section 15 — Inspection of infected premises and examination of persons suspected to be
+#### Section 15 — Medical inspection of travellers
 
 24
 
@@ -4897,7 +4897,7 @@ Contact with copper or lead prohibited
 
 Sale of unfit or dirty ice or aerated water prohibited
 
-#### Section 16 — Duty of Local Authority to cause premises to be cleansed and disinfected
+#### Section 16 — Disinfection of clothing
 
 Infectious persons not to be employed
 
@@ -5719,7 +5719,7 @@ Height of building
 
 #### Section 32 — Thickness of walls
 
-#### Section 33 — Minister may combine Local Authorities
+#### Section 33 — Powers of entry
 
 Metal work to be approved and protected if required
 
@@ -7855,19 +7855,19 @@ Outside slaughter
 
 #### Section 40 — Seizure of meat brought in unlawfully
 
-#### Section 41 — If adult or child be unfit for vaccination, certificate to be given
+#### Section 41
 
 Meat to be transported in suitable vehicles
 
 #### Section 42 — Vehicles to comply with Sixth Schedule
 
-#### Section 43 — Certificate to be given for successful vaccination
+#### Section 43 — When it appears from the certificate of a Medical officer of Health that the
 
 Owner's name to be shown on vehicle
 
 ### PART V — BUTCHERIES
 
-#### Section 44 — No fee to be charged for a certificate or for vaccination by public vaccinator
+#### Section 44
 
 Butcheries to be approved by Local Authority
 
@@ -8277,7 +8277,7 @@ Every butcher shall without delay inform the Medical Officer of Health of the oc
 
 Occurrence of communicable disease to be reported
 
-#### Section 53 — Special medical officers to inspect railway trains, etc
+#### Section 53
 
 All persons engaged in the handling of meat or meat products shall submit themselves to medical examination by the Medical Officer of Health when called upon to do so by him.
 

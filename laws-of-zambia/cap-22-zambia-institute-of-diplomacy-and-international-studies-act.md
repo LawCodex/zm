@@ -337,9 +337,11 @@ Provided that the person presiding at any meeting of the Board may, for good cau
 
 (2) The Registrar shall be responsible for the day-to-day administration of the institute under the general supervision of the Director.
 
-#### Section 16 — Unauthorised publication or disclosure of documents etc
+#### Section 16
 
 (1) A person shall not, without the consent in writing given by or on behalf of, the Board, publish or disclose to any person otherwise than in the course of his duties, the contents of any document, communication or information whatsoever, which relates to, and which has come to his knowledge in the course of, his duties under this Act.
+
+Unauthorised publication or disclosure of documents etc.
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable upon conviction to a fine not exceeding ten thousand penalty units or to imprisonment for a period not exceeding twelve months, or to both.
 

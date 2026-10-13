@@ -873,7 +873,7 @@ enter into or upon any land through which it may be necessary to pass for the pu
 
 (6) The Commission or any other person authorised by it shall not be liable for anything done, in good faith in the performance of any function under this section.
 
-#### Section 29 — Registry to be notified
+#### Section 29
 
 Whenever any land upon or under which a heritage is situated has been declared or provisionally declared to be, or to form part of, a national monument the Commission shall furnish the Registrar with a copy of the statutory notice made under section twenty-seven together with the particulars of the survey undertaken and a diagram of the area of land.
 
@@ -885,7 +885,7 @@ Registrar to be notified
 
 (2) Where a statutory notice made under section twenty-seven is revoked or amended the Commission shall lodge with the Registrar a copy of the statutory notice and the Registrar shall note the particulars contained in the notice on any relevant record maintained by the Registrar, or on any Certificate of Title or Provisional Certificate of Title.
 
-#### Section 31 — Restriction on alienating, mortgaging subdividing, etc
+#### Section 31
 
 (1) The Commission, except with the written approval of the Minister, shall not sublet, mortgage, charge, sell, transfer, assign or in any manner whatsoever encumber, or part with the possession of, any national monument or relic.
 
@@ -893,9 +893,11 @@ Restriction on alienating, mortgaging subdividing etc.
 
 (2) Any person who owns any land that is the subject of any statutory notice made under section twenty-seven and who wishes to subdivide, sell, transfer, assign, sublet, mortgage, charge or in any manner whatsoever encumber, or part with the possession of, that land, shall forthwith inform the Commission of the name and address of the person in whose favour the transaction is intended to be made.
 
-#### Section 32 — Object to be declared a relic
+#### Section 32
 
 If the Commission considers an object to be of historical, scientific, anthropological, aesthetic or cultural value the Minister, on the recommendation of the Commission may, by statutory notice, declare the object to be a relic notwithstanding that the object may not have been made or used in Zambia before 1st January, 1924.
+
+Object to be declared a relic
 
 #### Section 33 — No alteration, removal, etc. without consent of commission
 

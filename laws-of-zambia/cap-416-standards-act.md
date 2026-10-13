@@ -779,7 +779,7 @@ Acquisition of patent rights, etc.
 
 ### PART VII — MISCELLANEOUS
 
-#### Section 26 — Acquisition of patent rights, etc
+#### Section 26
 
 The Bureau may-
 
@@ -811,7 +811,7 @@ National calibration service
 
 Inspection of commodities, etc.
 
-#### Section 29 — Inspection of commodities, etc
+#### Section 29
 
 (1) Subject to the other provisions of this Act, an inspector whom the Bureau has generally or specifically authorised in writing in that behalf may, at all reasonable times, enter any premises in or upon which he has reason to believe that an export commodity or a commodity which is the subject of a compulsory standard is produced, manufactured, processed, treated, finished or stored and may-
 

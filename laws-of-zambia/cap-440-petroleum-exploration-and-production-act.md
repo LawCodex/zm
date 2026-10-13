@@ -475,9 +475,11 @@ such other information as the Minister may determine.
 
 The Minister shall, on application and upon payment of the prescribed fee, allow inspection of the register at all reasonable times and shall, upon request, give copies or extracts from any entry in such register.
 
-#### Section 16 — Information of contracts to be submitted to Provincial Councils
+#### Section 16
 
 The Minister shall forward, in such form and manner as he may determine, details of every contract and of any instrument transferring, approving or terminating any contract or any interest therein, as may be entered in the register, to the Provincial Council in whose area the contract area in question is situated.
+
+Information of contracts to be submitted to Provincial Councils
 
 ### PART IV — GRANT OF RIGHTS TO CONDUCT PETROLEUM OPERATIONS
 

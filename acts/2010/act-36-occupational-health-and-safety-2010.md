@@ -398,7 +398,7 @@ on the circumstances and future prevention of any injury or illness;
 
 (3) A person who contravenes subsection (1) or (2) commits an offence and is liable, upon conviction, to a fine not exceeding five hundred thousand penalty units or to imprisonment for a period not exceeding five years, or to both.
 
-### Section 17 — Determination of what is reasonably practicable
+### Section 17
 
 (1) An employee shall, at a workplace—
 

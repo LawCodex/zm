@@ -175,7 +175,7 @@ Cap. 412
 
 (2) An order under this section may be revoked at any time. (No. 36 of 1970)
 
-### Section 3 — Licences to be taken out by money-lenders
+### Section 3
 
 (1) Except as hereinafter provided, every money-lender, whether carrying on business alone or as a partner of a firm, shall take out annually in respect of every address at which he carries on his business as such, a licence (in this Act referred to as "a money-lender's licence") which shall expire on the 31st December in every year, and there shall be charged on every money-lender's licence a fee of four hundred and fifty fee units or, if the licence be taken out not more than six months before the expiration thereof, three hundred fee units:
 
@@ -283,7 +283,7 @@ where, by order of a court, some person other than the person convicted is disqu
 
 (3) Where a certificate held by any person is ordered to be suspended or to be forfeited under subsection (1), any money-lender's licences granted to that person, whether in pursuance of that or any other certificate, shall be suspended durining the period for which the certificate is ordered to be suspended or become void, as the case may be. (As amended by G.N. No. 279 of 1964 and Act No. 13 of 1994)
 
-### Section 6 — Names to be stated on documents issued by money-lenders
+### Section 6
 
 (1) Without prejudice to the provisions of the last foregoing section and to the provisions of section eighty-five of the Companies Act and to the provisions of section nineteen of the Registration of Business Names Act, a money-lender shall not, for the purposes of his business as such, issue or publish, or cause to be issued or published, any advertisement, circular, business letter or other similar document which does not show in such manner as to be not less conspicuous than any other name, the authorised name of the money-lender, and any money-lender who acts in contravention of this subsection shall be liable, on conviction by a subordinate court of the first or second class, to a fine not exceeding six hundred penalty units in respect of each offence.
 
@@ -415,7 +415,7 @@ Reopening of transactions of money lenders
 
 (6) Nothing in this section shall be construed as derogating from the existing powers or jurisdiction of any court.
 
-### Section 15 — Interest at a rate exceeding 48 per centum to be deemed harsh and
+### Section 15
 
 (1) Where, in any proceedings in respect of any money lent by a money-lender after the commencement of this Act or in respect of any agreement or security made or taken after the commencement of this Act in respect of money lent either before or after the commencement of this Act, it is found that the interest charged exceeds the rate of forty-eight per centum per annum, or the corresponding rate in respect of any other period, the court shall, unless the contrary is proved, presume for the purposes of section fourteen, that the interest charged is excessive and that the transaction is harsh and unconscionable, but this provision shall be without prejudice to the powers of the court under that section where the court is satisfied that the interest charged, although not exceeding forty-eight per centum per annum, is excessive.
 
@@ -429,11 +429,13 @@ Interest at a rate exceeding 48 per centum to be deemed harsh and unconscionable
 
 (5) The powers of a court under subsection (2) of section fourteen may be exercised notwithstanding that the money-lender's right of action for the recovery of the money lent is barred.
 
-### Section 16 — Courts to which proceedings on money-lending transactions are to be taken
+### Section 16
 
 Subject as hereinafter provided, no action by a money-lender for the recovery of money lent by him or for enforcing any agreement or security relating to any such money shall be brought in any subordinate court other than a subordinate court of the first class:
 
 Provided that the Minister may, with the concurrence of the Chief Justice, by order direct that any subordinate court specified in the order shall have the same jurisdiction as respects such actions as aforesaid as it would have had but for the provisions of this section, and any such order may contain provisions with respect to the making of rules for regulating the procedure to be followed in the case of any such action. (As amended by G.N. No. 279 of 1964)
+
+Courts to which proceedings on money-lending transactions are to be taken
 
 ### Section 17 — Prohibition of charge for expenses on loans by money-lenders
 
@@ -491,7 +493,7 @@ a charge not exceeding ten ngwee in respect of any inspection of the pawnbroker'
 
 (2) Any charge authorised by this section for the preparation of documents relating to a loan, or in respect of stamp duty upon any such document, may be deducted by the pawnbroker from the amount of the loan, and, if so deducted, shall be deemed for the purposes of this Act to be included in the principal.
 
-### Section 20 — Notice and information to be given on assignment of money-lenders' debts
+### Section 20
 
 (1) Where any debt in respect of money lent by a money-lender whether before or after the commencement of this Act or in respect of interest on any such debt or the benefit of any agreement made or security taken in respect of any such debt or interest is assigned to any assignee, the assignor (whether he is the money-lender by whom the money was lent or any person to whom the debt has been previously assigned) shall, before the assignment is made-
 

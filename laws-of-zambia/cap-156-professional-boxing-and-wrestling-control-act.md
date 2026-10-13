@@ -753,17 +753,15 @@ Within fourteen days of the holding of a tournament, the promoter thereof shall 
 
 Balance sheets to be submitted to Board
 
-### Section 13 — Tournaments to be authorised
+### Section 13
 
 In the case of a tournament in respect of which it has been advertised that a percentage of the profits arising therefrom shall be given to charity, or in which the boxers participating therein have boxed on a share basis, the charities, or the boxers concerned, may, upon application in writing to the Board, inspect the balance sheet and statement of account relating to such tournament and the vouchers in support thereof at any time within three months of the date upon which such tournament was held.
 
 Balance sheets in relation to tournaments held for charity, etc.
 
-### Section 14 — Boxers, wrestlers, officials, managers and promoters to be registered
+### Section 14 — Weighing-in and medical examination
 
 (1) Boxers participating in a tournament shall weigh-in on a scale approved by the Board and provided by the promoter on the day of such tournament at ten o'clock in the forenoon, in the case of an afternoon contest, and at two o'clock in the afternoon in the case of an evening contest unless, with the approval of the Board, another time for such weighing-in is mutually agreed between the boxers:
-
-Weighing-in and medical examination
 
 Provided that boxers taking part in championship title bouts shall weigh-in in the nude.
 
@@ -789,7 +787,7 @@ an examination of the hands and forearms of the boxer under examination, an exam
 
 (5) A boxer who is certified unfit by a medical practitioner shall not be permitted to take part in a tournament.
 
-### Section 15 — Boxing or wrestling contests or exhibitions may be stopped or forbidden
+### Section 15
 
 The promoter of any tournament shall, at his own expense, ensure that a registered medical practitioner appointed either by the Board or the promoter is in attendance at or near the ringside throughout each contest for the purpose of rendering medical aid, if required, or for the carrying out of any examination of a boxer at the request of the referee.
 
@@ -1691,7 +1689,7 @@ In the event of a wrestler participating in a contest forming part of a tourname
 
 Wrestlers who are disqualified to forfeit their remuneration
 
-### Section 19 — Boxers who are disqualified to forfeit their remuneration
+### Section 19
 
 (1) All National Championships held in Zambia shall be decided under these Regulations and any rules which may be published under regulation 24.
 
@@ -1833,7 +1831,7 @@ Heavy
 
 Amount to be deposited with Board by challenger seeking championship fight
 
-### Section 22 — Amount to be deposited with Board by challenger seeking championship fight
+### Section 22
 
 The Board shall create and administer a wrestler's benevolent fund, on the executive of which both wrestlers and promoters shall be represented and, for the purpose of creating and maintaining funds for such wrestlers' benevolent fund, the Board may impose a levy not exceeding two and one-half per centum of the amount payable to a wrestler for his services in a tournament.
 

@@ -311,11 +311,13 @@ The Board may, by instrument in writing, delegate to a person for the time being
 
 ### PART III — LICENSING OF CERTAIN UNDERTAKINGS
 
-#### Section 8 — Undertakings to be licensed
+#### Section 8
 
 (1) A person shall not establish or operate an undertaking except in accordance with this Act and under the authority of a licence issued under this Act.
 
 (2) A person who establishes or operates an undertaking in contravention of this section shall be guilty of an offence and shall be liable, upon conviction, to a penalty not exceeding five hundred thousand penalty units.
+
+Undertakings to be licensed
 
 #### Section 9 — Applications for licences
 
@@ -595,9 +597,11 @@ salaries, loans and other costs of the staff of the Board; and
 
 any other expenses incurred by the Board in the performance of the Board's functions.
 
-#### Section 21 — Application of licence fees, etc
+#### Section 21
 
 (1) Amounts payable as fees under this Act shall be paid to the general revenues of the Republic.
+
+Application of licence fees, etc.
 
 (2) Moneys paid to the general revenues under this section shall be applied to the development of the energy sector in Zambia.
 

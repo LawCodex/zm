@@ -217,17 +217,21 @@ Powers of commissioners
 
 (3) No person giving evidence shall be bound to incriminate himself and every witness shall, in respect of evidence given by him before the commissioners, be entitled to the same privileges to which he would be entitled if giving evidence before the High Court.
 
-#### Section 15 — Evidence may be taken by commission
+#### Section 15
 
 (1) If, by reason of the distance at which any person whose evidence is desired, resides from the place where his evidence is required, or if, for any other cause the commissioners deem it advisable, they may issue a commission to any public officer or person therein named, empowering him to take such evidence and report the same to the commissioner.
 
+Evidence may be taken by commission
+
 (2) A public officer or person to whom a commission is issued under subsection (1) shall have the powers of commissioners under subsection (1) of section fourteen, and the provisions of subsections (2) and (3) of section fourteen shall apply, mutatis mutandis, where such powers are exercised.
 
-#### Section 16 — Power to cause investigation to be made before issuing a commission
+#### Section 16
 
 (1) For the purposes of obtaining information to decide whether or not to issue a commission under section two, the President may direct the Attorney-General to cause an investigation to be made into such matters as the President may specify and to convey to him the result of such investigation.
 
 (2) The Attorney-General may, for the purposes of carrying out any investigation directed by the President under subsection (1), in writing under his hand require any public officer (hereinafter in this Act referred to as an "authorised officer") to carry out such investigations as he may direct.
+
+Power to cause investigation to be made before issuing a commission
 
 (3) For the purposes of carrying out any investigation directed by the Attorney-General, an authorised officer shall have all the powers of a police officer conducting a criminal investigation and may in particular-
 

@@ -457,9 +457,11 @@ Where a transfer to the President under this Act is registered in accordance wit
 
 There is hereby established a board, to be known as the Compensation Advisory Board (hereinafter referred to as the Board), to advise and assist the Minister in the assessment of any compensation payable under this Act.
 
-#### Section 22 — Membership of Board, committees, etc
+#### Section 22
 
 (1) The functions of the Board shall be discharged by committees of not less than three persons chosen by the Minister from a panel of persons nominated by the President.
+
+Membership of Board, committees, etc.
 
 (2) The chairman of any committee shall be a public officer qualified to practise as a barrister and solicitor in the Republic.
 
@@ -477,9 +479,11 @@ Nothing in this Part shall be construed as imposing an obligation on the Ministe
 
 ### PART VII — MISCELLANEOUS AND GENERAL
 
-#### Section 25 — President may withdraw from acquisition
+#### Section 25
 
 (1) Nothing in this Act shall be construed as requiring the President to complete the acquisition of any property unless he has taken possession thereof or has failed within one month of the judgment of the Court to inform such Court in writing that he does not intend to proceed with such acquisition:
+
+President may withdraw from acquisition
 
 Provided that where the acquisition of any property is not completed, the Government shall pay to the owner thereof and all persons owning any estate or interest therein all such costs and expenses as may have been incurred by them by reason of or in consequence of the proceedings for acquisition and compensation for any loss or damage which may have been sustained by reason or in consequence of the notice of intended acquisition.
 

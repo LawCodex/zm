@@ -615,9 +615,11 @@ set aside the classification made by the Association and direct the Association 
 
 COFFEEPART III PRODUCTION, CURING, CLASSIFICATION, MARKETING AND EXPORT OF COFFEE
 
-#### Section 17 — Arabica Coffee to be grown in Zambia
+#### Section 17
 
 (1) No coffee other than Arabica Coffee shall be grown in Zambia.
+
+Arabica Coffee to be grown in Zambia
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and liable, upon conviction, to the general penalty imposed under section fifty-five.
 
@@ -785,9 +787,11 @@ the quantity of coffee received.
 
 Any registered coffee grower who is not satisfied with the class in which his coffee has been classified may, within twenty-one days of receipt of the notification given under section twenty-six, appeal in writing against the classification to the Appeals Classification Committee.
 
-#### Section 28 — Coffee to be delivered to Association
+#### Section 28
 
 (1) No registered coffee grower shall sell, deliver for sale or otherwise dispose of any cured coffee to any person other than to the Association.
+
+Coffee to be delivered to Association
 
 (2) No person, other than the Association, shall market any cured coffee processed in Zambia.
 
@@ -917,7 +921,7 @@ the holder shall not carry on any business related to coffee on any premises or 
 
 such other conditions as the Minister may, by statutory order, impose.
 
-#### Section 40 — Register to be kept by licence holder
+#### Section 40
 
 (1) A licence holder shall at all times maintain, on his premises, a register in which shall be recorded, as applicable to his licence-
 

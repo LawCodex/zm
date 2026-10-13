@@ -105,13 +105,17 @@ In this Act, unless the context otherwise requires-
 
 "unregistered club" means a club which requires under this Act to be registered but is not registered or in respect of which the registration has been cancelled or has not been renewed in accordance with subsection (2) of section six. (As amended by No. 7 of 1963 and G.N. No. 304 of 1964)
 
-### Section 3 — Every club where intoxicating liquor is habitually sold, to be registered
+### Section 3
 
 The secretary of every club which occupies a house or part of a house or other premises which are habitually used for the purposes of a club and in which any intoxicating liquor is supplied to members or their guests shall make application to the District Secretary of the District in which the club premises are situate to be registered in accordance with the terms and provisions of this Act. In the case of a club which is open on the commencement of this Act, such application shall be made within six weeks thereafter, and in the case of a new club requiring registration which is about to be opened after the commencement of this Act, such application shall be made before the opening of the club.
 
-### Section 4 — Registration does not constitute club premises licensed premises, etc
+Every club where intoxicating liquor is habitually sold, to be registered
+
+### Section 4
 
 The registration of a club under this Act shall not constitute the club premises "licensed premises" or authorise any sale of intoxicating liquor thereon which would otherwise be illegal under any written law.
+
+Registration does not constitute club premises licensed premises, etc.
 
 ### Section 5 — Application for registration
 

@@ -711,9 +711,11 @@ Premises and amenities to be accessible to persons with a disability Cap. 283
 
 On the appointed date, there shall vest in, and be owned by the Agency without further assurance, all property, rights, liabilities and obligations which immediately before the appointed date, were the property, rights, liabilities and obligations of the Council.
 
-#### Section 28 — Registration of property to be transferred
+#### Section 28
 
 (1) Whenever under this Act any property, right, liabilities or obligations of the Council are transferred to the Agency in respect of which transfer a written law provides for registration, the Agency shall make an application in writing to the proper officer or the appropriate registration authority for the registration of the transfer.
+
+Registration of property to be transferred
 
 (2) The proper officer referred to in subsection (l) shall make such entries in the appropriate register as shall give effect to the transfer and, where appropriate, issue the transferee concerned with a certificate of title in respect of the property or make necessary amendments to the register, as the case may be, and shall make endorsements on the deeds relating to the title, right or obligation concerned.
 

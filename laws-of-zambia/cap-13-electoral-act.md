@@ -1651,7 +1651,7 @@ B.
 
 Appeals, Claims and Objections
 
-#### Section 19 — Who may present election petitions
+#### Section 19
 
 (1) Any person-
 
@@ -1677,7 +1677,7 @@ may appeal against such refusal to a magistrate (hereinafter referred to as "the
 
 (As amended by Act No. 13 of 1994 and S.I. No. 111 of 1996)
 
-#### Section 20 — Relief which may be claimed in election petition
+#### Section 20
 
 (1) On receipt of an appeal under regulation 19, the magistrate shall appoint a day and a place for hearing the appeal and shall cause the appellant, and the Director of Elections, and the registration officer for the polling district in which the appellant made application for registration as a voter, to be notified thereof.
 
@@ -1957,7 +1957,7 @@ Period for carrying out revision
 
 (2) The Commission may, where it appears necessary or expedient having regard to the number of persons making applications in pursuance of regulation 35, 36 or 37 or to the length of time required for the consideration of such applications in any polling district, extend, by Gazette notice, the period specified in sub-regulation (1) in respect of that polling district.
 
-#### Section 34 — When incapacity may be removed
+#### Section 34 — Whenever a person has become subject to any incapacity under this Act by
 
 Subject to the provisions of these Regulations, a revision in any polling district shall be carried out by the registration officer for that polling district or by any assistant registration officer appointed by him under paragraph (c) of regulation 5 (1).
 

@@ -77,9 +77,11 @@ In this Act-
 
 "officer" means an Administrative Officer, a police officer or any person or class of persons prescribed.
 
-### Section 3 — Suicide not to be an offence
+### Section 3
 
 The rule of law whereby it is an offence against the common law for a person to kill himself is hereby abrogated.
+
+Suicide not to be an offence
 
 ### Section 4 — Warrant to issue for person attempting suicide
 

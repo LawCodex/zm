@@ -1859,7 +1859,7 @@ Rules
 
 ### PART IV — POISONS TO BE SUPPLIED ONLY UPON PRESCRIPTION
 
-#### Section 7 — Company may carry on business of pharmacist under certain conditions
+#### Section 7
 
 Certain poisons to be sold only upon prescription
 
@@ -2235,7 +2235,7 @@ Conditions with respect to sale of certain poisons by Part 2 sellers
 
 (F.G.N. No. 223 of 1957 as amended by No. 115 of 1967)
 
-#### Section 11 — The Poisons List to be prepared by the Board and approved by the Minister
+#### Section 11
 
 (1) A licensed seller of Part 2 poisons shall not deliver any poison sold by him to which the provisions of this rule apply until-
 

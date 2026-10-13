@@ -469,9 +469,11 @@ Cap. 213
 
 (6) Until such time as the duties mentioned in subsection (2) of any officer appointed thereunder shall require that the whole of his time shall be devoted to such duties, the Minister may assign to him duties other than those connected with the Registry or a District Registry. (As amended by G.N. No. 274 of 1964, S.I. No. 65 of 1965 and Act No. 38 of 1994)
 
-#### Section 4 — Documents required to be registered
+#### Section 4
 
 (1) Every document purporting to grant, convey or transfer land or any interest in land, or to be a lease or agreement for lease or permit of occupation of land for a longer term than one year, or to create any charge upon land, whether by way of mortgage or otherwise, or which evidences the satisfaction of any mortgage or charge, and all bills of sale of personal property whereof the grantor remains in apparent possession, unless already registered pursuant to the provisions of "The North-Eastern Rhodesia Lands and Deeds Registration Regulations, 1905" or "The North-Western Rhodesia Lands and Deeds Registry Proclamation, 1910", must be registered within the times hereinafter specified in the Registry or in a District Registry if eligible for registration in such District Registry:
+
+Documents required to be registered
 
 Provided that if a document creating a floating charge upon land has been registered under the provisions of section ninety nine of the Companies Act or section thirty-two of the Co-operative Societies Act, it need not be registered under the provisions of this Part unless and until such charge has crystallised or become fixed.
 
@@ -499,9 +501,11 @@ If any person disobeys the order of the Registrar made in pursuance of paragraph
 
 (As amended by No. 5 of 1943, No. 50 of 1951, No. 25 of 1959 and Act No. 38 of 1994)
 
-#### Section 5 — Times within which registration must be effected
+#### Section 5
 
 (1) All bills of sale must be registered within three months of the execution of the same.
+
+Times within which registration must be effected
 
 (2) All other documents, except probate of a will, required to be registered as aforesaid shall be registered-
 
@@ -523,9 +527,11 @@ Cap. 61
 
 (As amended by No. 5 of 1943, S.I. No. 65 of 1965 and No. 47 of 1970)
 
-#### Section 6 — Documents to be void for want of registration
+#### Section 6
 
 Any document required to be registered as aforesaid and not registered within the time specified in the last preceding section shall be null and void:
+
+Documents to be void for want of registration
 
 Provided that(i)
 
@@ -541,13 +547,15 @@ the probate of a will required to be registered as aforesaid, and not registered
 
 (2) The date of registration shall be the date upon which the document shall first be lodged for registration in the Registry or, where registration is permitted in a District Registry, in such District Registry.
 
-#### Section 8 — Optional registration of documents not required to be registered
+#### Section 8
 
 At the option and upon the application of any person interested thereunder, any document affecting land which is not required to be registered pursuant to the provisions of subsection (1) of section four may nevertheless be registered in such manner as the Registrar may direct.
 
-#### Section 9 — Registers to be kept
+#### Section 9
 
 Optional registration of documents not required to be registered
+
+Registers to be kept
 
 The following registers shall be kept:
 
@@ -605,9 +613,11 @@ a lease or agreement for a lease relating to a portion only of a building and cr
 
 The Registrar may, in any case in which he thinks fit so to do, insist that a document which it is desired to register shall be presented for registration either by a person executing or claiming an interest under the same or the representative or agent of such person, and the Registrar may require to be satisfied as to the identity of the person by whom it is brought or, in the case of a representative or agent as to his authority, which authority may be proved by power of attorney, probate or other evidence appearing to the Registrar to be sufficient.
 
-#### Section 14 — Registrar to be satisfied that all duties have been paid
+#### Section 14
 
 Before registering a document under this Part, the Registrar shall satisfy himself that it is an instrument to which this Part applies and that all duties, quit rent or other annual payments thereon have been duly paid.
+
+Registrar to be satisfied that all duties have been paid
 
 #### Section 15 — Registration of notarially certified copies
 
@@ -641,13 +651,17 @@ Details of registration
 
 (3) The registers, and the files relating to the several registers, shall be kept separately. (As amended by Act No. 38 of 1994)
 
-#### Section 17 — Copies to be filed consecutively
+#### Section 17
 
 The Registrar shall, with respect to each Register, number every copy so filed consecutively, entering the day of the month and year when it is registered, and shall file the copies in the order in which the documents came into his hands.
 
-#### Section 18 — Memorandum of registration to be endorsed on original
+Copies to be filed consecutively
+
+#### Section 18
 
 A memorandum signed by the Registrar shall be endorsed on every document registered, containing a sufficient reference to the number and position of the document in the Register, which memorandum shall be proof of the due registration of the document in the absence of sufficient evidence to the contrary.
+
+Memorandum of registration to be endorsed on original
 
 #### Section 19 — Evasion of duty by understatement of consideration
 
@@ -713,9 +727,11 @@ In the event of the loss or destruction of any document registered under this Pa
 
 (As amended by S.I. No. 65 of 1965)
 
-#### Section 26 — Procedure to be adopted when certified copy is tendered in evidence
+#### Section 26
 
 Every certified copy or extract of any registered document purporting to be signed by the Registrar shall be receivable in evidence in any civil or criminal case without further or other proof therof unless it is proved to be a forgery. The party proposing to use it in evidence shall deliver a copy of such certified copy or extract to the opposite party, and such copy or extract shall be recieved in evidence if the Court is of opinion that the copy thereof was delivered in sufficient time before the hearing to enable the opposite party to inspect the original register from which the copy or extract has been taken.
+
+Procedure to be adopted when certified copy is tendered in evidence
 
 *(1)27. Except as in this Part provided, the provisions of the Bills of Sale Acts, 1878 to 1882, of the United Kingdom, shall apply to bills of sale.
 
@@ -735,9 +751,11 @@ PROVISIONAL CERTIFICATES AND CERTIFICATES OF TITLE
 
 As from the 1st May, 1944, no document purporting to grant, convey or transfer land or any interest in land, or to be a State Lease or agreement for a State Lease, or to be a lease or agreement for a lease for a term of not less than fourteen years, or to create any charge upon land, whether by way of mortgage or otherwise, shall be registered under the provisions of Part II unless, prior to such registration, a Certificate of Title or a Provisional Certificate in respect of the land comprised in such document has been issued to the person or persons entitled thereto. *See the Bills of sale (Registration) Act (Cap. 1991).
 
-#### Section 30 — Who may obtain Provisional Certificate or Certificate of Title
+#### Section 30
 
 A Provisional Certificate or a Certificate of Title may be issued only to a holder of land in fee simple or as absolute owner or to the original lessee or subsequent transferee of a State Lease.
+
+Who may obtain Provisional Certificate or Certificate of Title
 
 (As amended by S.I. No. 65 of 1965)
 
@@ -817,7 +835,7 @@ If, at the expiration of the time or times specified in the notices mentioned in
 
 Provided that a Provisional Certificate shall not be issued until the Registrar has stamped or otherwise marked such documents of title, if any, as will, in the opinion of the Registrar, when stamped or otherwise marked, give notice to any purchaser or other person dealing with the land of the issue of a Provisional Certificate.
 
-#### Section 40 — Minister may prescribe different procedure when Registrar is not a barrister or
+#### Section 40
 
 If, and so long as, the person holding the office of Registrar is not a barrister or solicitor, the Minister may, by statutory order, direct that the following procedure shall be substituted for the procedure prescribed in sections thirty-seven, thirty-eight and thirty-nine:
 
@@ -855,9 +873,11 @@ The President upon an original grant of land, whether by way of fee simple or le
 
 (As amended by S.I. No. 65 of 1965)
 
-#### Section 43 — Certificate of Title may be issued six years from Provisional Certificate
+#### Section 43
 
 After the expiration of six years from the issue of a first Provisional Certificate in respect of any land, the Registered Proprietor of such land for the time being may apply to the Registrar for a Certificate of Title to such land and, upon such application, the applicant shall deliver to the Registrar all documents in his possession or under his control constituting or in any way affecting his title.
+
+Certificate of Title may be issued six years from Provisional Certificate
 
 #### Section 44 — Procedure on application for Certificate of Title
 
@@ -877,19 +897,25 @@ Any objection which may have been lodged with the Registrar against the issue of
 
 Leases, mortgages, encumbrances or other estates or interests affecting the estate of the Registered Proprietor at the time of the issue of a Provisional Certificate or a Certificate of Title shall, so far as the same are disclosed upon the application or can otherwise be ascertained, be notified on the Register in such manner as to preserve their priority.
 
-#### Section 48 — Existing encumbrances to be noted on Certificate
+#### Section 48
 
 The Registrar shall note upon every Provisional Certificate and every Certificate of Title, in such manner as to preserve their priority, the memorials of all unsatisified mortgages, leases and other estates and interests, outstanding or otherwise, to which the land is subject at the time of issuing such Certificate, and any documents dealing with such mortgages, leases, other estates or interests; and in the case of a Provisional Certificate or Certificate of Title issued to a minor, or person under other legal disability, the Registrar shall, in such Certificate, state the particulars of such disability so far as he has notice or knowledge thereof.
 
-#### Section 49 — Certificate: how to be dated
+Existing encumbrances to be noted on Certificate
+
+#### Section 49
 
 (1) Every Provisional Certificate or Certificate of Title issued pursuant to any dealing under Parts III to VII shall bear even date with the registration of such dealing.
 
+Certificate: how to be dated
+
 (2) A Provisional Certificate or Certificate of Title issued in the name of a Registered Proprietor in lieu of a cancelled Certificate issued to the same Registered Proprietor in respect of the same estate or interest may be expressed to take effect as from the date of the Certificate originally issued to such Proprietor in respect of such estate or interest.
 
-#### Section 50 — How memorial of easement to be recorded
+#### Section 50
 
 Whenever any easement or incorporeal right, other than an annunity or rent-charge, in or over any land comprised in a Provisional Certificate or a Certificate of Title, is created for the purpose of being annexed to, or used and enjoyed together with, other land, the Registrar shall enter a memorial of the instrument creating such easement or incorporeal right upon such Provisional Certificate or Certificate of Title and also upon any Provisional Certificate or Certificate of Title of such other land, and such memorial shall, as from the date of entry thereof, have the effect of including such easement in such Provisional Certificate or Certificate of Title of such other land as appurtenant to the land therein described.
+
+How memorial of easement to be recorded
 
 #### Section 51 — Joint tenants and tenants in common
 
@@ -899,25 +925,33 @@ Whenever any easement or incorporeal right, other than an annunity or rent-charg
 
 (3) When two or more persons are entitled as tenants in common or joint tenants to undivided shares in any land, only one Provisional Certificate or Certificate of Title shall be issued in respect of that land, and the Certificate shall be handed or delivered to the person whose name first appears as a Registered Proprietor on such Certificate and, on any transfer of any undivided share or interest in such land, the Provisional Certificate or Certificate of Title, as the case may be, shall be cancelled and a new Certificate issued. (As amended by S.I. No. 65 of 1965)
 
-#### Section 52 — Issue of Certificate of Title may be withheld for fourteen days in certain cases
+#### Section 52
 
 The Registrar shall not be bound to issue a Certificate of Title upon any application in respect of which notice is hereby required to be given by advertisement until after the expiration of fourteen days from the time limited in such advertisement.
 
-#### Section 53 — Certificate not to be void though issued in name of person deceased
+Issue of Certificate of Title may be withheld for fourteen days in certain cases
+
+#### Section 53
 
 If any Provisional Certificate or Certificate of Title is issued in the name of a person who has previously died, such Certificate shall not be void, but the land comprised therein shall devolve in like manner as if such Certificate had been issued immediately prior to such death.
 
-#### Section 54 — Certificate to be evidence of proprietorship
+Certificate not to be void though issued in name of person deceased
+
+#### Section 54
 
 Every Provisional Certificate and every Certificate of Title, duly authenticated under the hand and seal of the Registrar, shall be received in all courts of law and equity as evidence of the particulars therein set forth or endorsed thereon, and of their being entered in the Register, and shall, unless the contrary is proved by the production of the Register or a copy thereof certified under the hand and seal of the Registrar, or unless the rectification of a Provisional Certificate is ordered by the Court, be conclusive evidence that the person named in such Provisional Certificate or Certificate of Title, or in any entry thereon, as seised of or as taking estate or interest in the land therein described is seised or possessed of such land for the estate or interest therein specified as from the date of such Certificate or as from the date from which the same is expressed to take effect, and that such Certificate has been duly issued.
 
-#### Section 55 — Proprietor may claim single Certificate in place of several
+Certificate to be evidence of proprietorship
+
+#### Section 55
 
 (1) Upon the application of any Registered Proprietor of land held under separate Provisional Certificates or Certificates of Title, or under one Provisional Certificate or Certificate of Title, the Registrar may issue to such Proprietor a single Certificate for the whole of such land, or several Certificates, each containing a portion of such land, so far as the same may be done consistently with any regulations for the time being in force.
 
+Proprietor may claim single Certificate in place of several
+
 (2) Upon issuing any such Certificate, the Registrar shall cancel the previous Certificate, and shall note thereon a reference to the Certificate issued in lieu thereof.
 
-#### Section 56 — Declaration may be made in case of loss of original Certificate
+#### Section 56
 
 (1) In the event of any Provisional Certificate or Certificate of Title being lost, mislaid or destroyed, the Registered Proprietor, together with other persons (if any) having knowledge of the circumstances, may make a statutory declaration stating the facts of the case, the names and descriptions of the Registered Proprietor, and the particulars of all mortgages, encumbrances or other matters affecting such land and the title thereto, to the best of the declarant's knowledge and belief.
 
@@ -941,9 +975,11 @@ Where a transfer has been lodged for registration without production of the outs
 
 ### PART IV — TRANSFER AND TRANSMISSION OF REGISTERED LAND
 
-#### Section 58 — Purchaser from Registered Proprietor not to be affected by notice
+#### Section 58
 
 Except in the case of fraud, no person contracting or dealing with or taking or proposing to take a transfer or mortgage from the Registered Proprietor of any estate or interest in land in respect of which a Certificate of Title has been issued shall be required or in any manner concerned to inquire into or ascertain the circumstances in or the consideration for which such Registered Proprietor or any previous Registered Proprietor of the estate or interest in question is or was registered, or to see to the application of the purchase money or of any part thereof, or shall be affected by notice, direct or constructive, of any trust or unregistered interest, any rule of law or equity to the contrary notwithstanding, and the knowledge that any such trust or unregistered interest is in existence shall not of itself be imputed as fraud.
+
+Purchaser from Registered Proprietor not to be affected by notice
 
 #### Section 59 — No liability on bona fide purchaser or mortgagee
 
@@ -979,7 +1015,7 @@ Provided that, where the subject-matter of such transfer or assent is land in re
 
 In every transfer of land subject to a mortgage, there shall be implied a covenant on the part of the transferee to and with the transferor to pay the interest or other payments thereafter to become due by virtue of such mortgage at the time and in manner therein specified for payment thereof, and to pay the principal sum when and as the same becomes due, and to keep harmless and indemnified the transferor in respect of such payments, and in respect of all liability on account of the future observance of the covenants and conditions on the part of the transferor in such mortgage expressed or implied.
 
-#### Section 63 — Memorandum of order of court vesting estate or interest to be entered on
+#### Section 63
 
 Whenever any order is made by any court of competent jurisdiction vesting any estate or interest in land in any person, the Registrar, upon being served with an office copy of such order, shall enter a memorandum thereof in the Register and on the outstanding instrument of title and, until such entry is made, the said order shall have no effect in vesting or transferring the said estate or interest.
 
@@ -1015,9 +1051,11 @@ Discharge of mortgage how effected
 
 (5) The consent of the sub-mortgagee to the variation of the terms of a mortgage shall render the instrument making the variation binding on him and on all persons who may subsequently derive from him interest in the mortgage.
 
-#### Section 68 — Persons claiming under transmission may apply to have same registered
+#### Section 68
 
 (1) Any executor, administrator, trustee in bankruptcy or committee of a lunatic claiming to be entitled to any estate or interest in land by virtue of any transmission may make application in writing to the Registrar to have such transmission registered.
+
+Persons claiming under transmission may apply to have same registered
 
 (2) Such application shall be accompanied by the probate, letters of administration, appointment or other authority under which the applicant makes his claim and shall accurately define the estate or interest claimed by such applicant, and state that he verily believes himself to be entitled to the estate or interest in respect of which he applies to be registered as Proprietor, and, if so required by the Registrar, the statements in such application shall be verified by the oath or statutory declaration of the applicant.
 
@@ -1035,9 +1073,11 @@ Cap. 83
 
 Provided that, pending a decision of the Registrar under subsection (1), any receiving order and any appointment of a trustee in bankruptcy affecting any land or interest in land may be noted in the appropriate Register as an encumbrance or outstanding estate or as a document creating an encumbrance or outstanding estate upon production to the Registrar of a certificate of such order or appointment under the hand of the Registrar of the Court. (As amended by S.I. No. 65 of 1965)
 
-#### Section 70 — Caveat may be entered on behalf of beneficiaries under any will or settlement
+#### Section 70
 
 Upon the registration of a transmission under any will or letters of administration, the Registrar may enter a caveat for the protection of the interests of persons appearing by such will or letters of administration to be beneficially interested in the estate or interest the subject of such transmission.
+
+Caveat may be entered on behalf of beneficiaries under any will or settlement
 
 #### Section 71 — Disclaimer of lease on bankruptcy of lessee
 
@@ -1065,9 +1105,11 @@ Cap. 83
 
 TRUSTS
 
-#### Section 74 — No entry of trusts to be made on Register except those specially authorised
+#### Section 74
 
 (1) Except as hereinafter provided in relation to public lands, no entry of any notice of any trust shall be made in the Township Lands Register, in the Lands Register, in any Provisional Certificate or in any Certificate of Title, and any such entry, if made, shall have no effect.
+
+No entry of trusts to be made on Register except those specially authorised
 
 (2) Trusts affecting land may be declared by any deed or instrument, and such deed or instrument may be registered in the Miscellaneous Register.
 
@@ -1099,9 +1141,11 @@ being an intending purchaser or mortgagee of any land;
 
 may at any time lodge with the Registrar a caveat in Form 8 in the Schedule.
 
-#### Section 77 — Particulars to be stated in caveat
+#### Section 77
 
 (1) Every caveat shall be signed by the caveator or by his attorney or agent, and shall state with sufficient certainty the nature of the estate or interest claimed by the caveator, with such other information and evidence as may be required by any regulations under this Act, and shall appoint a place or give an address within 4.83 kilometres of the Registry at or to which notices and proceedings relating to such caveat may be served or addressed.
+
+Particulars to be stated in caveat
 
 (2) Every caveat shall be entered on the Register as of the day and hour of the reception thereof by the Registrar.
 
@@ -1117,9 +1161,11 @@ So long as a caveat in Form 8 remains in force, the Registrar shall not make any
 
 Provided that nothing herein shall prevent the completion of the registration of an instrument which has been accepted for registration before the receipt of the caveat.
 
-#### Section 80 — Notice of caveat to be given to persons affected
+#### Section 80
 
 Upon the receipt of any caveat, the Registrar shall notify the same to the Registered Proprietor or other person against whose title to deal with land or other interest such caveat has been lodged. Such notification may be sent by ordinary prepaid post addressed to the person to be notified at his address as shown in the Register or, if there be no such address, by posting it up in a conspicuous place outside the office of the Registry for not less than seven days.
+
+Notice of caveat to be given to persons affected
 
 #### Section 81 — Procedure for removal of caveat
 
@@ -1133,17 +1179,21 @@ Upon the receipt of any caveat, the Registrar shall notify the same to the Regis
 
 (2) Such compensation shall be recoverable in an action at law by the person who has sustained damage from the person who lodged the caveat.
 
-#### Section 83 — Caveat may be withdrawn
+#### Section 83
 
 Any caveat may be withdrawn by the caveator or by his attorney or agent under a written authority, and either as to the whole or any part of the land affected, or the consent of the caveator may be given for the registration of any particular dealing expressed to be made subject to the rights of the caveator.
+
+Caveat may be withdrawn
 
 ### PART VII — (No. 5 of 1943)
 
 MISCELLANEOUS
 
-#### Section 84 — Registrar may require production of instruments
+#### Section 84
 
 Every Registrar, in addition to the powers hereinbefore vested in him, may exercise all or any of the powers following, that is to say:
+
+Registrar may require production of instruments
 
 (a)
 
@@ -1209,9 +1259,11 @@ Where any land is held on trust to be kept open for use as a street or road or o
 
 If the Registrar refuses to perform any act or duty which he is required or empowered by this Act to perform, or if a Registered Proprietor or other interested person is dissatisfied with the direction or decision of the Registrar in respect of any application, claim, matter or thing under this Act, the person deeming himself aggrieved may appeal to the Court.
 
-#### Section 88 — Registrar may submit special case
+#### Section 88
 
 The Registrar may, by special case, submit for the decision of the Court any question arising under this Act which appears to him to require such decision; and the Court shall give its judgment thereon as if such question had been raised in due form upon an appeal from the decision of a subordinate court
+
+Registrar may submit special case
 
 #### Section 89 — Procedure on appeals
 

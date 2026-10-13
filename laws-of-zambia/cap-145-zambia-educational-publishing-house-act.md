@@ -145,15 +145,19 @@ In this Act, unless the context otherwise requires-
 
 OBJECTS AND POWERS OF THE PUBLISHING HOUSE
 
-#### Section 3 — Establishment of Publishing House
+#### Section 3
 
 There is hereby constituted the Zambia Educational Publishing House which shall by that name be a body corporate with perpetual succession and a common seal capable of suing and being sued and, subject to the provisions of this Act, of doing all such acts as a body corporate may by law perform.
 
+Establishment of Publishing House
+
 (As amended by Act No. 29 of 1992)
 
-#### Section 4 — Composition of Publishing House
+#### Section 4
 
 The Publishing House shall consist of the Minister responsible for education (hereinafter referred to as "the Minister") as Chairman, and three other members who shall be appointed by the President and shall hold office as members at the President's pleasure. (As amended by No. 36 of 1974 and Act No. 29 of 1992)
+
+Composition of Publishing House
 
 The objects of the Publishing House shall be-
 
@@ -169,7 +173,7 @@ Objects of Publishing House
 
 (As amended by Act No. 29 of 1992)
 
-#### Section 6 — Powers of Publishing House
+#### Section 6
 
 The Publishing House shall have power to do anything, and to enter into any transaction, which in its opinion is calculated to facilitate the advancement of its objects under section five or which is incidental or conducive thereto, including, in particular, but without prejudice to the generality of the foregoing, power to(a)
 
@@ -227,7 +231,7 @@ establish and maintain, or assist in the establishment or maintenance of, or giv
 
 provide for scholarships and other financial aid to individuals and institutions, as the case may be.
 
-#### Section 7 — Funds of Publishing House
+#### Section 7
 
 The funds of the Publishing House shall consist of-
 

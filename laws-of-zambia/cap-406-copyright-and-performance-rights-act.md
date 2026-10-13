@@ -573,11 +573,13 @@ the broadcasting of the work or its inclusion in a cable program service (otherw
 
 Subject to section fifty-eight, this Act shall apply in relation to works whether created before or after the commencement of this Act.
 
-#### Section 6 — This Act binds the Republic
+#### Section 6
 
 This Act shall bind the Republic.
 
 Application to all existing works
+
+This Act binds the Republic
 
 ### PART II — COPYRIGHT
 
@@ -917,13 +919,17 @@ of the arrangement.
 
 (7) The doing of an act controlled by the copyright in a work includes the doing of that act in relation to a substantial part of the work.
 
-#### Section 18 — Copyright is infringed by the doing of a controlled act
+#### Section 18
 
 Subject to section twenty-one, copyright in a work is infringed by a person who, without the consent of the owner of the copyright, does, or authorises another person to do, a controlled act in relation to the work.
 
-#### Section 19 — Copyright is infringed by importation, etc. of infringing copies
+Copyright is infringed by the doing of a controlled act
+
+#### Section 19
 
 Subject to section twenty-one, copyright in a work is also infringed by a person who, without the consent of the copyright owner-
+
+Copyright is infringed by importation, etc. of infringing copies
 
 (a)
 
@@ -955,7 +961,7 @@ distributes, otherwise than in the course of trade or business, to such an exten
 
 articles which are infringing copies of the work, unless he satisfies the court that he did not know and had no reasonable grounds for knowing that the articles were infringing copies of the work.
 
-#### Section 20 — Copyright is infringed by making or trading in articles for making infringing
+#### Section 20
 
 (1) Subject to section twenty-one, copyright in a work is also infringed by a person who, without the consent of the owner of the copyright-
 
@@ -1105,9 +1111,11 @@ that the author died fifty years or more before the beginning of the calendar ye
 
 COLLECTING SOCIETIES
 
-#### Section 22 — Collecting societies may be authorised to represent copyright owners
+#### Section 22
 
 (1) For the purposes of this Act"collecting society" means an association, partnership or body corporate whose principal purpose, or one of whose principal purposes, is the representation of copyright owners in the negotiation and administration of collective copyright agreements;
+
+Collecting societies may be authorised to represent copyright owners
 
 "collective copyright agreement" means an agreement between a group of owners of copyrights and another person licensing the person to use material subject to any of the copyrights.
 
@@ -1853,11 +1861,13 @@ shall not, for the purposes of sub-section (1), be treated as fair dealing.
 
 (3) For the purposes of this section, "sufficient acknowledgement" means an acknowledgement identifying the performer.
 
-#### Section 51 — Infringement of performer's right is actionable
+#### Section 51
 
 (1) An infringement of performer's right shall be actionable in the court at the suit of the performer or his successor in title.
 
 (2) An infringement of recording right shall be actionable in the court at the suit of the holder of the recording right.
+
+Infringement of performer's right is actionable
 
 (3) In an action under this section, all such relief by way of damages, injunctions, accounts or otherwise shall be available to the plaintiff as is available in respect of the infringement of any other property right.
 
@@ -1909,9 +1919,11 @@ Registrar of copyright Cap. 259
 
 Cap. 259
 
-#### Section 55 — Registrar may authorise translation and reproduction of works in certain cases
+#### Section 55
 
 (1) The Registrar may, subject to Articles II, III and IV of the Appendix to the Convention (reproduction in the Schedule), grant licences under this section for persons to translate or reproduce certain works.
+
+Registrar may authorise translation and reproduction of works in certain cases
 
 (2) Where-
 

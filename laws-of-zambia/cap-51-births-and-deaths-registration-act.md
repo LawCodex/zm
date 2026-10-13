@@ -141,9 +141,11 @@ In this Act, unless the context otherwise requires-
 
 The Minister may from time to time by statutory instrument divide Zambia into districts for the purposes of this Act or alter such districts.
 
-#### Section 4 — Appointment of Registrar-General and Registrars, etc
+#### Section 4
 
 There shall be appointed a Registrar-General of Births and Deaths for Zambia, and a Registrar of Births and Deaths for each district, and, if the Minister so considers necessary, a Deputy Registrar-General of Births and Deaths and an Assistant Registrar-General of Births and Deaths, who shall all be public officers:
+
+Appointment of Registrar-General and Registrars, etc.
 
 Provided that in any district in which there is for the time being no Registrar, the Minister may be statutory instrument confer the powers and duties of a Registrar of Births and Deaths under this Act on any person, whether he is a public officer or not.
 
@@ -185,9 +187,11 @@ for having failed to give notice of the birth of any child or the death of any p
 
 where, having regard to the education, knowledge and understanding of the person and to the social environment of the locality in which he resides, he could not reasonably be expected to have sufficient knowledge of his obligations under this Act. (As amended by Act No. 13 of 1994)
 
-#### Section 10 — Registers may be inspected
+#### Section 10
 
 Any register in the custody of the Registrar-General shall, upon payment of such fee as may be prescribed, be open to inspection.
+
+Registers may be inspected
 
 #### Section 11 — Certified copies of entries
 
@@ -199,9 +203,11 @@ The copy of any entry in any register certified under the hand of the Registrar-
 
 Evidence of certified copies
 
-#### Section 13 — Clerical errors in registers may be corrected
+#### Section 13
 
 The Registrar-General may, subject to any rules made under this Act, correct any error in any register, but corrections shall be made without erasing the original entry and shall be authenticated by the signature of the Registrar-General.
+
+Clerical errors in registers may be corrected
 
 #### Section 14 — Responsibility for giving notice
 
@@ -245,7 +251,7 @@ If any new-born living child is found exposed after the commencement of this Act
 
 When the birth of a child has been registered before it has received a name or the name by which it was registered is altered, the parent or guardian of such child may, within two years of the registration on payment of the prescribed fee and on providing such evidence as the Registrar-General may think necessary, register the name or altered name that has been given to the child.
 
-#### Section 18 — Who is to give notice of death
+#### Section 18
 
 (1) In the case of every person dying after the commencement of this Act, it shall be the duty of every relative present at the death of or in attendance during the last illness of such person, and, if there be no such relatives, of every relative dwelling within the district in which such person died, and, if there be no such relatives, then of each person present at the death and of the occupier and every inmate of the house in which to his knowledge the death took place, and of any person who has buried or caused to be buried the body of any person so dying, to give notice of the death of such person in the prescribed form or forms containing the prescribed particulars to the Registrar of the district in which such person died within one calendar month of such death, or, if the Registrar is satisfied that such notice could not be given within the said period and that no undue delay has taken place, within three months after the death.
 

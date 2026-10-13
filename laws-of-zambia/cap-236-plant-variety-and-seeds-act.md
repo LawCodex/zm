@@ -651,9 +651,11 @@ he may cancel the registration of such registered seed importer or registered se
 
 Provided that nothing shall be construed to oblige or impose a duty on the said Certifying Authority at any time to exercise the powers by this section conferred upon it. (As amended by Act No. 21 of 1995)
 
-#### Section 12 — Reasons for refusal to register or for cancellation: when to be furnished
+#### Section 12
 
 (1) Any aggrieved party may, within twenty-one days after such refusal, imposition of condition upon, or cancellation of any registration under this Part, in writing request the Certifying Authority to furnish his reasons for refusing to register the applicant or for imposing conditions upon or cancelling such registration.
+
+Reasons for refusal to register or for cancellation: when to be furnished
 
 (2) Within fourteen days after the receipt of such request, the Certifying Authority shall furnish in writing to the aggrieved party the reasons-
 
@@ -1063,11 +1065,13 @@ Right of former licensee under expired or revoked licence to apply for new licen
 
 PRESCRIBED SEED
 
-#### Section 35 — Power of Minister to declare seed to be prescribed seed
+#### Section 35
 
 (1) The Minister may from time to time by regulation prescribe any seed, including seed potatoes, to be seed to which this Act shall apply, and may from time to time by regulation revoke any such regulation.
 
 (2) In this Act, "prescribed seed" means seed which is, by virtue of a regulation made by the Minister under this section, for the time being prescribed seed for the purposes of this Act.
+
+Power of Minister to declare seed to be prescribed seed
 
 #### Section 36 — Treating and cleaning of prescribed seed
 
@@ -1539,9 +1543,11 @@ the Certifying Authority shall forthwith cancel the registration of the said reg
 
 (b) of subsection (2), the successor in interest to the said registered seed producer may apply under this Part for registration as a registered seed producer in respect of the crop in course of production at the time of such cancellation. (As amended by Act No. 21 of 1995)
 
-#### Section 56 — Reasons for refusal to register or for cancellation: when to be furnished
+#### Section 56
 
 (1) Any seed producer whose application for registration as a registered seed producer has been refused or made subject to any condition or limitation by the Certifying Authority, or any registered seed producer whose registration has been cancelled, may, within twenty-one days after such refusal, imposition of conditions or cancellation, in writing request the Certifying Authority to furnish his reasons for refusing to register the applicant or for imposing conditions or limitations upon or cancelling any registration under this Part.
+
+Reasons for refusal to register or for cancellation: when to be furnished
 
 (2) Within fourteen days after the receipt of such request, the Controller of Seeds shall furnish in writing to the applicant the reasons-
 
@@ -1625,13 +1631,15 @@ the Minister may certify such seed as Zambia certified seed.
 
 (2) Upon certification by the Minister of any such seed as Zambia certified seed, the Certifying Authority shall issue to the registered seed producer a certificate in the prescribed form in respect of such seed, and shall cause the prescribed particulars of such certification to be entered as prescribed in the register of seed producers. (As amended by Act No. 21 of 1995)
 
-#### Section 60 — Zambia certified seed to be produced from approved seed
+#### Section 60
 
 No registered seed producer shall use for the production of Zambia certified seed any certified seed which has not been approved for such purpose by the Certifying Authority, nor any other prescribed seed which has not been approved by the Minister under section fifty-eight.
 
+Zambia certified seed to be produced from approved seed
+
 (As amended by Act No. 21 of 1995)
 
-#### Section 61 — Certificate to be produced on sale of Zambia certified seed by registered seed
+#### Section 61
 
 (1) Upon any sale of Zambia certified seed, as Zambia certified seed, by any registered seed producer, he shall, at the time of such sale-
 
@@ -1791,7 +1799,7 @@ shall be guilty of an offence. (As amended by Act No. 21 of 1995)
 
 Prohibition against tampering with samples
 
-#### Section 73 — Prohibition against altering, defacing or removing official records, etc
+#### Section 73
 
 Any person who, without lawful authority, alters, defaces or removes-
 
@@ -1802,6 +1810,8 @@ any register, roll, index or other such official record maintained in pursuance 
 (b)
 
 any entry appearing in any such register, roll, index or other such official record;
+
+Prohibition against altering, defacing or removing official records, etc.
 
 shall be guilty of an offence.
 

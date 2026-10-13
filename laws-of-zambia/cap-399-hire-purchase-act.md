@@ -283,7 +283,7 @@ Provided that if, in any action arising out of the agreement, the court is satis
 
 (2) Any person who is guilty of an offence under the provisions of subsection (1) shall be liable to a fine not exceeding one thousand five hundred penalty units or, in default of payment, to imprisonment for a period not exceeding thirty days. (As amended by Act No. 13 of 1994)
 
-#### Section 7 — Provisions to be included in agreements
+#### Section 7
 
 (1) Every agreement shall set out-
 
@@ -515,15 +515,19 @@ write clearly at the top of the first page of such agreement the words "A negoti
 
 (4) Any seller who fails to comply with the provisions of subsection (2) shall be guilty of an offence and liable to a fine not exceeding one thousand five hundred penalty units or, in default of payment, to imprisonment for a period not exceeding thirty days. (As amended by Act No. 13 of 1994)
 
-#### Section 15 — Right of purchaser to be reinstated after return of goods to seller
+#### Section 15
 
 (1) If the seller has, as a result of the failure of the purchaser to pay any instalment of the purchase price due under any agreement, recovered possession, otherwise than by an order of a court, of any goods to which the agreement relates, the purchaser shall, unless he himself has terminated the agreement, be entitled, if he pays all arrear instalments of the purchase price due under the agreement within a period of twenty-one days after the seller recovered possession of the goods, to the return of the goods at the seller's place of business or, if he has no place of business or if the purchaser so requests, at the premises in which the goods are kept, and to be reinstated in his rights under the agreement.
 
 (2) The seller shall, after the return of the goods under subsection (1), be entitled to recover the reasonable expenses incurred by him in the taking and storing of such goods.
 
-#### Section 16 — Right of purchaser to pay outstanding balance of purchase price
+Right of purchaser to be reinstated after return of goods to seller
+
+#### Section 16
 
 A purchaser shall at all times be entitled to pay any instalment of the purchase price before it is due and shall, if he pays the whole of the purchase price remaining unpaid in one amount, be entitled to the reduction of each instalment not due at the said date of payment by an amount calculated at the rate of five per centum per annum on such instalment in respect of the period by which the payment of such instalment is accelerated.
+
+Right of purchaser to pay outstanding balance of purchase price
 
 #### Section 17 — Passing of ownership
 

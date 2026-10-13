@@ -795,9 +795,11 @@ owing to the outbreak of epidemic disease within a prison or for any other reaso
 
 (3) Every officer in charge shall be responsible for the safe custody of arms, accoutrements, ammunition, clothing and all other public stores and foodstuffs issued and delivered for the use of the prison, the prison officers and the prisoners under his control, and all public money for which he may be held accountable, and also, subject to the provisions of this Act and of any rules made thereunder, for all valuables, money, articles of clothing and other property entrusted to his keeping as being the property of prisoners, and shall account for the same in the event of their being lost or damaged otherwise than by unavoidable accident, theft, robbery or lawful use.
 
-#### Section 6 — Police officers may act as prison officers
+#### Section 6
 
 (1) Where in any prison the number of prison officers detailed for duty therein is insufficient to secure the good management and government thereof, it shall be lawful for the officer in charge of such prison, with the consent of the Commissioner of Police, to employ temporarily such number of police officers as he may consider necessary to secure the good management and government of the prison.
+
+Police officers may act as prison officers
 
 (2) A police officer temporarily employed in pursuance of the provisions of subsection (1) shall exercise and perform in the prison concerned the functions of a prison officer of the rank specified by the officer in charge and shall, for the purposes of this Act, be deemed to be a prison officer of that rank:
 
@@ -853,7 +855,7 @@ estate by way of salary, refund of pension contributions, pension or any other b
 
 Payments due to prison officers and other persons employed in prisons leaving the prison service may be set off
 
-#### Section 15 — Minister may appoint committee of inquiry
+#### Section 15
 
 (1) The Minister may, whenever he deems it necessary or desirable, appoint a committee of two or more persons of whom-
 
@@ -864,6 +866,8 @@ one shall be the Commissioner or the Deputy Commissioner or an Assistant Commiss
 (b)
 
 the other or others shall be an officer or officers of the public service;
+
+Minister may appoint committee of inquiry
 
 to inquire into and report to him on the conduct, management or administration of any prison or any matter connected therewith or incidental thereto.
 
@@ -905,9 +909,11 @@ The medical officer shall observe the mental condition of all prisoners under se
 
 The medical officer shall ensure that every prisoner under sentence of death, or charged with a capital offence, or in separate confinement, or in hospital in prison, is medically examined every day on which the medical officer visits the prison.
 
-#### Section 21 — Powers of officer in charge to order prisoners to be examined
+#### Section 21
 
 An officer in charge may order a prisoner to submit himself to medical examination and treatment as often as such officer thinks necessary.
+
+Powers of officer in charge to order prisoners to be examined
 
 #### Section 22 — Death of prisoner
 
@@ -1125,7 +1131,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (3) Any prison officer or person who contravenes the provisions of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding one thousand and five hundred penalty units or to imprisonment for a period not exceeding six months, or to both. (As amended by Act No. 13 of 1994)
 
-#### Section 39 — Prison officers not to be members of trade unions
+#### Section 39
 
 (1) It shall not be lawful for any prison officer to be or to become a member of-
 
@@ -1641,9 +1647,11 @@ Provided that no witness shall be asked or be obliged to answer any question whi
 
 (As amended by Act No. 13 of 1994)
 
-#### Section 51 — Offence against discipline may be tried by subordinate court
+#### Section 51
 
 (1) In any case where it appears to the Commissioner, the senior officer or the officer in charge who is inquiring into an alleged offence against discipline that the offence alleged to have been committed would not, by reason of its gravity or by reason of previous offences or for any other reason, be adequately punished by any of the punishments provided in section forty-five or forty-six, the Commissioner or senior officer or officer in charge, as the case may be, shall, without recording a finding, stay the proceedings and, in the case of an inquiry being held by a senior officer or an officer in charge, that officer shall transmit the proceedings to the Commissioner.
+
+Offence against discipline may be tried by subordinate court
 
 (2) Where under subsection (1) any proceedings have been stayed by the Commissioner or by a senior officer or an officer in charge, the Commissioner may order the accused to be taken before a subordinate court.
 
@@ -1725,9 +1733,11 @@ Subject to such conditions as may be specified by the Commissioner, the infant c
 
 Provided that, when the child has attained the age of four years, the officer in charge, on being satisfied that there are relatives or friends of the child able and willing to support it, shall cause the child to be handed over to the relatives or friends, or, if he is not satisfied, shall, subject to any other written law, hand the child over to the care of such welfare authority as may be approved for the purpose by the Commissioner.
 
-#### Section 57 — Particulars of prisoner to be recorded
+#### Section 57
 
 Upon the admission to prison of any person, the officer in charge shall cause to be recorded such particulars regarding that person as may be prescribed.
+
+Particulars of prisoner to be recorded
 
 #### Section 58 — Search of prisoners
 
@@ -1795,9 +1805,11 @@ and, as far as the prison accommodation renders it practicable, each such class 
 
 (3) A prisoner who is being removed or transferred from a prison to another prison or to any other place shall, while outside the prison, be kept in the custody of the prison officer or police officer or probation officer authorised under this Act or any other written law to remove or convey him and shall, subject to the provisions of this Act or any other written law, be deemed to be in the lawful custody of the officer in charge of the prison from which such prisoner is being removed or transferred.
 
-#### Section 62 — Probation officer may have custody of prisoner
+#### Section 62
 
 A probation officer may be authorised by a court to remove from prison any prisoner on remand in the prison, for the purpose of making inquiries at the direction of the court, and it shall be lawful for a prison officer to hand over custody of any such remand prisoner to a probation officer so authorised to remove him.
+
+Probation officer may have custody of prisoner
 
 #### Section 63 — Removal of juvenile to reformatory
 
@@ -1833,17 +1845,21 @@ Cap. 53
 
 (2) If the officer in charge of a prison is satisfied that a prisoner is willing to be interviewed by police officers out of the sight and hearing of a prison officer, then the officer in charge may permit that prisoner to be interviewed by not less than two police officers within the prison and out of the sight and hearing of a prison officer.
 
-#### Section 67 — Release of prisoners for investigations, etc
+#### Section 67
 
 An officer in charge may deliver a prisoner into police custody in the interests of justice or in connection with the investigation of a crime on the production of an order in writing which shall, in the case of an unconvicted prisoner, be signed by a police officer in charge of a police station or a police officer of or above the rank of Sub-Inspector, and, in the case of a convicted prisoner, by a police officer of or above the rank of Chief Inspector.
+
+Release of prisoners for investigations, etc.
 
 #### Section 68 — Removal of prisoners from one prison to another
 
 The Commissioner may, by any general or special order, direct that any prisoner shall be removed to any prison other than that in which he is confined or to which he had been committed.
 
-#### Section 69 — Certain prisoners may be restrained
+#### Section 69
 
 Whenever an officer in charge considers it necessary for the safe custody of a prisoner that he should be confined by means of mechanical restraint, he may cause him to be so confined in accordance with rules made under this Act.
+
+Certain prisoners may be restrained
 
 #### Section 70 — Mentally disordered or defective prisoners
 
@@ -1887,7 +1903,7 @@ Provided that nothing shall be done under the authority of this section which, i
 
 (2) If a prisoner shall escape during such time as he is in a hospital, mental hospital or leprosarium, no prison officer shall be held answerable therefor unless the prisoner was at the time of the escape in the personal custody of that officer, and no medical officer, person in charge of a leprosarium or other person shall be held answerable therefor unless it is shown that he helped such prisoner to escape.
 
-#### Section 74 — Serving sentence while in hospital, etc
+#### Section 74
 
 The period during which a prisoner is detained in any hospital, leprosarium or institution under section seventy, seventy-one or seventy-two shall be reckoned as part of his period of imprisonment.
 
@@ -2039,9 +2055,11 @@ Any person harbouring or employing a prisoner whom he knows to be unlawfully at 
 
 (3) Any person convicted of an offence under this section shall be liable on conviction to a fine not exceeding one thousand and five hundred penalty units or to imprisonment for a period not exceeding six months, or to both. (As amended by Act No. 13 of 1994)
 
-#### Section 86 — Notice to be displayed stating offences in respect of prisons and prisoners
+#### Section 86
 
 The officer in charge shall cause to be affixed in a conspicuous place outside the prison a notice setting forth the acts prohibited under sections seventy-seven, eighty and eighty-two and the penalties which may be incurred by their commission.
+
+Notice to be displayed stating offences in respect of prisons and prisoners
 
 ### PART XII — CIVIL AND UNCONVICTED PRISONERS
 
@@ -2051,9 +2069,11 @@ CIVIL AND UNCONVICTED PRISONERS
 
 A civil prisoner or an unconvicted prisoner may be permitted to maintain himself and to arrange for the purchase of, or receive from private sources at proper hours, such food, clothing, or other necessaries as the Commissioner may from time to time determine.
 
-#### Section 88 — Food, etc., not to be transferred to other prisoners
+#### Section 88
 
 No food, clothing, or other necessaries permitted under the provisions of section eighty-seven shall be given, hired, or sold to any other prisoner, and any prisoner who contravenes any provision of this section shall be liable to lose all privileges permitted under the provisions of that section for such time as the officer in charge may determine.
+
+Food, etc., not to be transferred to other prisoners
 
 #### Section 89 — Food, clothing and equipment for unconvicted prisoners
 
@@ -2223,7 +2243,7 @@ Provided that the Commissioner shall not delegate to an officer in charge who is
 
 Hearing of prison offences
 
-#### Section 94 — Punishments that may be imposed by subordinate court
+#### Section 94
 
 (1) A prisoner found guilty of a minor prison offence by a subordinate court shall be liable to-
 
@@ -2401,9 +2421,11 @@ if a proposed sentence of corporal punishment is confirmed by the Minister, the 
 
 if a sentence of corporal punishment is not carried out for medical reasons or a proposed sentence of corporal punishment is not approved or confirmed, as the case may be, the Commissioner, visiting justice or senior officer, as the case may be, may substitute for the sentence or proposed sentence any other punishment which he is authorised to impose under section ninety-eight.
 
-#### Section 100 — Prison offences for which corporal punishment may be awarded
+#### Section 100
 
 No sentence of corporal punishment for a prison offence shall be imposed under the provisions of section ninety-eight unless the prison offence is one specified in paragraph (i), (ii) or (iii) of section ninety-one.
+
+Prison offences for which corporal punishment may be awarded
 
 #### Section 101 — Certain prisoners not liable to corporal punishment
 
@@ -2447,7 +2469,7 @@ Restrictions in respect of corporal punishment
 
 Where any written law provides for confirmation of any sentence of corporal punishment imposed by a court, no such sentence shall be carried out until it has been confirmed in accordance with that written law.
 
-#### Section 104 — Medical practitioner and officer in charge to be present while corporal
+#### Section 104
 
 (1) A sentence of corporal punishment shall not be carried out unless-
 
@@ -2563,9 +2585,11 @@ be credited with the full amount of remission he can earn, from which shall be d
 
 DISCHARGE AND PAROLE
 
-#### Section 111 — Officer in charge to be responsible for discharge of prisoners
+#### Section 111
 
 (1) Subject to the provisions of this section, every officer in charge shall be responsible for the due discharge from prison of all prisoners under his control immediately upon their becoming entitled thereto.
+
+Officer in charge to be responsible for discharge of prisoners
 
 (2) No prisoner under treatment by the medical officer shall be discharged from prison except at his own request, made in writing, until, in the opinion of the medical officer, his discharge can be effected without danger to the health of the prisoner.
 
@@ -2587,11 +2611,13 @@ A prisoner on discharge from prison shall be entitled to travelling expenses to 
 
 (3) Any prisoner when released on parole who contravenes or fails to comply with the conditions imposed upon him under this section shall be guilty of an offence and shall be liable upon conviction to imprisonment for a period not exceeding six months.
 
-#### Section 115 — Minister may permit absence of young prisoners from prison
+#### Section 115
 
 (1) The Minister may, on the recommendation of the Commissioner, permit any young prisoner to be temporarily absent from prison for such period and on such conditions as to supervision or otherwise as he may determine.
 
 (2) If any prisoner fails to perform and observe any condition imposed under the provisions of this section, he may be arrested and recommitted to any prison by warrant under the hand of a magistrate and shall be detained in a prison as if he had not been so absent from prison for a period equal to the portion of the sentence which was unexpired at the date of his release.
+
+Minister may permit absence of young prisoners from prison
 
 (3) If a prisoner does not contravene during the period of his absence from prison under the provisions of this section any condition attached to his absence, he shall no longer be liable for any punishment in respect of the conviction upon which he was sentenced.
 
@@ -2691,9 +2717,11 @@ PRISONERS UNDER SENTENCE OF DEATH
 
 Every prisoner sentenced to death shall be confined in some safe place within a prison, and, if possible, shall be kept apart from other prisoners and shall be placed under constant observation both by day and by night.
 
-#### Section 121 — Persons who may have access to condemned prisoner
+#### Section 121
 
 No person other than a prison officer, medical officer, a visiting justice, a minister of religion, or person authorised by the Commissioner shall have access to a prisoner under sentence of death:
+
+Persons who may have access to condemned prisoner
 
 Provided that such a prisoner may, with the consent of and subject to any reasonable conditions which may be imposed by the Commissioner or the officer in charge, be visited by his legal advisers and such of his relatives and friends as he may express a wish to see.
 
@@ -2711,21 +2739,25 @@ Provided that such a prisoner may, with the consent of and subject to any reason
 
 PRISONERS' AID SOCIETIESPART XIX VISITING JUSTICES, OFFICIAL VISITORS, MINISTERS OF RELIGION AND PRISONERS' AID SOCIETIES
 
-#### Section 123 — Judges may visit prisons
+#### Section 123
 
 Any Justice of Appeal or Judge may visit and inspect any prison at any time, and, while so doing, may inquire into any complaint or request made by a prisoner.
 
-#### Section 124 — Minister and Ministers in charge of Provinces to be visiting justices
+#### Section 124
 
 (1) The Minister and the Deputy Minister shall be visiting justices of all prisons.
 
 Judges may visit prisons
 
+Minister and Ministers in charge of Provinces to be visiting justices
+
 (2) The Minister in charge of a Province shall be a visiting justice of all prisons in his Province.
 
-#### Section 125 — Magistrates to be visiting justices in own areas
+#### Section 125
 
 Magistrates shall be visiting justices of the prisons situated in the area in which they normally exercise jurisdiction.
+
+Magistrates to be visiting justices in own areas
 
 #### Section 126 — Powers of visiting justices
 
@@ -2795,9 +2827,11 @@ perform such other functions as may be prescribed.
 
 On completion of each visit, an official visitor shall enter in a book to be kept for the purpose such remarks, suggestions or recommendations for the information of the Commissioner as he may deem fit.
 
-#### Section 131 — Ministers of religion may visit prison
+#### Section 131
 
 Ministers of religion, or other accredited representatives of any religious body recognised by the Minister whose visits are approved by the Commissioner may at such hours and in such place as may be prescribed or as the officer in charge may permit-
+
+Ministers of religion may visit prison
 
 (a)
 
@@ -2825,9 +2859,11 @@ YOUTH CORRECTIVE CENTRES
 
 (3) Subject to the provisions of subsection (2), every youth corrective centre shall be deemed to be a prison for the purposes of this Act.
 
-#### Section 134 — Corrective training may be ordered in certain circumstances
+#### Section 134
 
 (1) Notwithstanding the provisions of any other written law, where a person who has attained the age of sixteen years but has not attained the apparent age of twenty-one years, is found guilty or convicted of an offence not punishable with death, the court may order or sentence such person to undergo corrective training in a youth corrective centre for a period of six months:
+
+Corrective training may be ordered in certain circumstances
 
 Provided that(i)
 
@@ -2849,7 +2885,7 @@ no person shall be ordered or sentenced to undergo corrective training in a yout
 
 EXTRA-MURAL PENAL EMPLOYMENT
 
-#### Section 135 — Extra-mural penal employment may be ordered in lieu of imprisonment
+#### Section 135
 
 (1) Where in any declared area a male prisoner is-
 
@@ -2925,9 +2961,11 @@ shall be guilty of an offence and, notwithstanding that he is undergoing the imp
 
 MISCELLANEOUS
 
-#### Section 136 — List of prisoners detained to be delivered to High Court
+#### Section 136
 
 Every officer in charge within the area for which any session of the High Court is held for the trial of criminal cases shall deliver to the High Court at the commencement of each session a list of the unconvicted prisoners then within his prison, and that list shall specify in the case of each such prisoner the date of admission and the authority for detention, and shall deliver also a list of detained witnesses.
+
+List of prisoners detained to be delivered to High Court
 
 #### Section 137 — Rewards for apprehension of escaped prisoners
 
@@ -2989,9 +3027,11 @@ Provided that no person who is a citizen of Zambia shall be removed in accordanc
 
 (3) Nothing in this Act contained shall prevent the conviction, judgment, finding, order or sentence recorded or made in respect of any person removed in accordance with this section from being questioned in the same manner as if he had not been removed, and the sentence of that person may be remitted and his discharge ordered in the same manner and by the same authority as if he had not been removed.
 
-#### Section 142 — Commissioner may grant permission to be absent from prison
+#### Section 142
 
 The Commissioner may grant a prisoner permission in writing to be absent from prison for a specified period for personal, family or other reasons if, in the opinion of the Commissioner, the circumstances of the case warrant the granting of permission.
+
+Commissioner may grant permission to be absent from prison
 
 #### Section 143 — Disposal of deceased's estate
 

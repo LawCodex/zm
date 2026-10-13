@@ -871,7 +871,7 @@ Provided that if compensation becomes payable to the worker under this Act, the 
 
 (6) This section shall not be construed so as to impose any liability on the principal in respect of any accident which occurs elsewhere than on, in or about the premises on which the principal has undertaken to execute the work or which are otherwise under his control or management.
 
-#### Section 11 — Workers employed outside Zambia, etc
+#### Section 11
 
 (1) Where an employer carries on business chiefly within Zambia and the usual place of employment of his workers is in Zambia and an accident happens to his worker while the worker is temporarily employed by him out of Zambia, the worker shall be entitled to compensation in the same manner as if the accident had happened in Zambia:
 
@@ -882,6 +882,8 @@ Provided that the provisions of this sub-section shall cease to apply to a worke
 Provided that any such worker so employed in Zambia for a continuous period of more than twelve months shall be deemed to be ordinarily employed by such employer in Zambia.
 
 (3) Where, by the law of the country in which an accident happens, a worker in the circumstances described in sub-section (1) is entitled to compensation in respect of such accident, or where an accident happens to a worker in Zambia and he would be entitled to compensation under the law of any other country as well as under this Act, he shall, by notice to the Commissioner, elect to claim compensation either under this Act or under the law of the other country:
+
+Workers employed outside Zambia, etc.
 
 (a)
 
@@ -1135,7 +1137,7 @@ that the award was based on a mistake or misrepresentation of fact, or that a di
 
 (4) For the purposes of this section, "compensation" shall include medical aid.
 
-#### Section 18 — Powers of Commissioner in respect of witnesses, etc
+#### Section 18
 
 (1) The Commissioner may, and at the request of any interested party shall, summon any person who may be able to give material information concerning the subject of any investigation or formal inquiry held by him under this Act or whom he suspects or believes has in his possession or custody or under his control, any book, document or thing which has any bearing on the investigation or formal inquiry, to appear before him at a time and place specified in such summons, to be interrogated or to produce such book, document or thing, and the Commissioner may retain for further examination any book, document or thing so produced.
 
@@ -1144,6 +1146,8 @@ that the award was based on a mistake or misrepresentation of fact, or that a di
 (3) The Commissioner may call and administer an oath to any person present at an investigation who was or might have been summoned under the provisions of sub-section
 
 (1), and the Commissioner and any assessor may interrogate him and require him to produce any relevant book, document or thing in his possession or custody or under his control.
+
+Powers of Commissioner in respect of witnesses, etc.
 
 (4) If any person, having been duly summoned under sub-section (1), fails without sufficient cause to attend at the time and place specified in such summons, he shall be guilty of an offence.
 
@@ -1201,9 +1205,11 @@ assessment, compensation or other amount to the Commissioner or the Fund, or any
 
 Suspension of obligation
 
-#### Section 24 — Commissioner may state a case for High Court
+#### Section 24
 
 (1) The Commissioner may of his own motion and shall at the request of any interested party to any proceedings under this Act, state a special case on any question of law in connection with any matter arising in such proceedings, for the decision of the High Court.
+
+Commissioner may state a case for High Court
 
 (2) In any case so stated the Commissioner shall set forth-
 
@@ -1357,9 +1363,11 @@ take any other course which may lead to the just, speedy and inexpensive settlem
 
 Powers of Tribunal
 
-#### Section 34 — Witness failing to attend, etc
+#### Section 34
 
 (1) If any person who has been summoned under the provisions of section thirty-three, having reasonable notice of the time and place at which he is required to attend, fails to attend accordingly, or fails to remain in attendance until duly excused by the Tribunal from such further attendance, the Chairman of the Tribunal may, upon being satisfied on oath or by the return of the person charged with the service of such summons that the summons was duly served upon such person, and, in case no sufficient reason for such failure seems to him to exist, issue a warrant, signed by the Chairman, for the apprehension of such person who shall thereupon be apprehended by any police officer to whom such warrant is delivered and shall be brought before the Tribunal to give his evidence or to produce the book, document or other thing, and in addition such person shall be liable to be fined summarily by the Chairman of the Tribunal for his default such amount, not exceeding one penalty unit, as the Chairman may determine.
+
+Witness failing to attend, etc.
 
 (2) If any person who has been summoned under the provisions of section thirty-three refuses to be sworn as a witness, or having been sworn, refuses to answer fully and satisfactorily any question lawfully put to him, or refuses or fails to produce any book, document or other thing, and does not excuse his refusal or failure to the satisfaction of the Tribunal, the Chairman of the Tribunal may order that such person be detained in custody as if he were a prisoner awaiting trial for any period not exceeding eight days unless he sooner consents to do what is required of him, and if such person, upon being brought up before the Tribunal at any adjourned hearing, again refuses or fails to do what is required of him, the Chairman may, if he sees fit, again adjourn the proceedings and order that he be detained for a like period, and so again from time to time until such person consents to do what is required of him.
 
@@ -1503,11 +1511,13 @@ Accident during first aid training or rescue work
 
 whereby such worker sustains injury resulting in disablement or death, such injury shall, for the purposes of this Act, be deemed to arise out of and in the course of his employment.
 
-#### Section 43 — Compensation not affected by other pension, etc
+#### Section 43
 
 (1) If a worker or any of his dependants who is entitled to compensation under this Act has received or will receive in respect of an accident any pension or gratuity from the employer of the worker, then, in determining the amount of such compensation, no reduction shall be made in respect of any amount paid or to be paid by the employer by way of such pension or gratuity.
 
 (2) If a worker or any of his dependants who is entitled to compensation under this Act has received or will receive in respect of an accident any pension or gratuity from a pension, superannuation or provident fund to which the employer has contributed, then, in determining the amount of such compensation, no reduction shall be made in respect of the amount which has been received or will be received by the worker or any of his dependants from that fund.
+
+Compensation not affected by other pension, etc.
 
 #### Section 44 — Successive awards of compensation
 
@@ -1623,9 +1633,11 @@ Provided that the Commissioner may, on good cause shown, condone the action of t
 
 Save as is provided under this Act, there shall be no abatement of the amount of compensation which the Commissioner or the employer individually liable has to pay under this Act by reason of the fact that, in consequence of the accident causing disablement or death, money has become due to the worker or his dependants under an accident or life insurance policy effected by himself or by any other person.
 
-#### Section 52 — Contract of service not to be terminated during disablement
+#### Section 52
 
 An employer shall not, without the consent of the Commissioner, terminate his contract of service with a workman who has suffered disablement in circumstances which entitle him to compensation under the provisions of this Act until either-
+
+Contract of service not to be terminated during disablement
 
 (a)
 
@@ -1797,7 +1809,7 @@ Child over seventeen may continue to receive allowances
 
 (2) If a dependant of a worker resides outside the Commonwealth or such other states and territories as the Commissioner may from time to time prescribe at the time of the death of such worker and continues so to reside without the written permission of the Commissioner, or if any such dependant is absent from the Commonwealth without the written permission of the Commissioner, or outstays the period laid down in any such permission, the Commissioner may, in his discretion, in lieu of any pension payable to such dependant under this Act, award a lump sum of such amount as he may deem equitable in the circumstances. (As amended by S.I. No. 156 of 1965)
 
-#### Section 66 — Pension to cease on remarriage and gratuity to be payable on the remarriage
+#### Section 66
 
 (1) If a widow or invalid widower who is receiving a pension under the provisions of this Act as a dependant marries, the pension payable to her or him shall cease with effect from the date of her or his marriage:
 
@@ -1807,7 +1819,7 @@ Provided that any allowance payable in respect of children of the deceased worke
 
 (2) Where the pension payable to a widow ceases by virtue of the provisions of sub-section (1), there shall be paid to her an amount equal to twenty-four times the amount of her monthly pension.
 
-#### Section 66A — Commissioner to be informed of deaths
+#### Section 66A
 
 (1) On the death of a pensioner, his widow or her widower shall, within one month of such death notify the Commissioner thereof.
 
@@ -1919,7 +1931,7 @@ dealt with partly in one and partly in another or in more than one of the ways m
 
 (5) Where a dependant dies and there remains unpaid to him any amount due to such dependant under the provisions of this Act, such amount shall not form part of the estate of the deceased dependant, but shall be paid to the Commissioner for distribution or shall be distributed by him amongst such other dependants in such proportions as he may deem fit, and the Commissioner may pay the funeral expenses of the deceased dependant from such unpaid amount, and, where there are no such dependants, any unpaid amount remaining after the payment of the funeral expenses, if any, shall in the case of an amount paid to him by an employer individually liable be repaid by the Commissioner to the employer individually liable.
 
-#### Section 72 — Where employer is liable to pay pension
+#### Section 72
 
 Where a pension or children's allowances are payable by an employer individually liable, the payments shall be made(a)
 
@@ -1945,7 +1957,7 @@ With the consent of the Minister, the Board may, not more than once in each cale
 
 ### PART VII — PROCEDURE FOR OBTAINING COMPENSATION
 
-#### Section 74 — Notice of accident to be given
+#### Section 74
 
 (1) In order that compensation may be obtained under this Act(a)
 
@@ -2005,9 +2017,11 @@ and any employer who fails without reasonable excuse to comply with the provisio
 
 Employer to give notice of accident to Commissioner
 
-#### Section 76 — Additional information to be supplied
+#### Section 76
 
 (1) A worker shall supply such further particulars of any accident and any injury to such worker arising therefrom as his employer, whether individually liable or not, or the Tribunal or the Commissioner, may require.
+
+Additional information to be supplied
 
 (2) An employer shall supply such further particulars as the Tribunal or the Commissioner may require of any accident to any worker, the injuries and earnings of such worker and such other matters as are within the knowledge of the employer concerning such worker and such accident.
 
@@ -2029,13 +2043,17 @@ Provided that such sum shall not exceed the full amount of the compensation paya
 
 (2) Where any such certificate is forwarded to an employer, he shall forthwith forward such certificate to the Commissioner.
 
-#### Section 78 — Commissioner may require medical reports
+#### Section 78
 
 The Commissioner may at any time require any worker who has suffered any injury to obtain and furnish to the Commissioner such medical reports concerning the condition of, and the extent of the injury to, such worker, and any other matter as may be necessary to enable the Commissioner to carry out his functions in respect of such worker, and any fee payable for any such report shall be payable out of the Fund.
 
-#### Section 79 — Commissioner may call for evidence of death
+Commissioner may require medical reports
+
+#### Section 79
 
 In the case of the death of a worker as a result of an accident or where any person who is in receipt of compensation dies, the Commissioner may call for such evidence of the death of such worker or person as he may require for the purposes of this Act.
+
+Commissioner may call for evidence of death
 
 #### Section 80 — Worker claiming compensation to submit to medical examination
 
@@ -2073,9 +2091,11 @@ Notwithstanding anything contained in this Act, the Commissioner may authorise a
 
 Provided that such employer shall report such provisional settlements to the Commissioner with such particulars and at such intervals as the Commissioner may determine, and the Commissioner shall either confirm any such provisional settlement or proceed to determine such claim in the manner provided in this Part as if such provisional settlement had not been made.
 
-#### Section 84 — Commissioner may require employer to make periodical payments
+#### Section 84
 
 (1) The Commissioner may require an employer, other than an employer individually liable, to make periodical payments of compensation in cash or in kind or both in cash and in kind to a disabled worker.
+
+Commissioner may require employer to make periodical payments
 
 (2) The Commissioner shall refund to an employer such periodical payments as the employer has made to a worker under the provisions of sub-section (1):
 
@@ -2197,7 +2217,7 @@ in the case of death from such disease, on the date of the death of the worker.
 
 If a worker who becomes disabled by or dies of any scheduled disease was, within the period of twenty-four months immediately preceding the disablement or death, employed in any occupation mentioned in the Second Schedule opposite such disease, it shall be presumed, unless or until the contrary is proved, that the disease was due to the nature of such employment.
 
-#### Section 94 — Minister may amend Second Schedule
+#### Section 94
 
 The Minister may, by regulation-
 
@@ -2577,9 +2597,11 @@ Any person who by threat or in any other manner whatever compels or attempts to 
 
 Any person who, in a claim for compensation under this Act, or in any notice, report or statement required to be given, made or furnished under the provisions of this Act, knowingly makes or causes to be made a statement which is false in a material particular shall be guilty of an offence.
 
-#### Section 115 — Failure to pay assessments, etc
+#### Section 115
 
 (1) If an assessment or any instalment thereof is not fully paid by an employer at the time when it becomes payable, the defaulting employer shall be liable to pay, in addition to such assessment or instalment thereof, as a penalty for his default such percentage, not exceeding ten per centum per annum, of the amount unpaid as the Commissioner may determine:
+
+Failure to pay assessments, etc.
 
 Provided that the Commissioner, if satisfied that the default was due to inadvertence or to some other cause over which the employer had no control, may waive the provisions of this sub-section in whole or in part or accept payment as the Commissioner may determine.
 
@@ -2623,7 +2645,7 @@ shall, notwithstanding anything to the contrary contained in any other law, be i
 
 (2) When the compensation is in the form of a pension, children's allowance or periodical payment, the amount thereof shall, for the purposes of this section, be taken to be the capitalised value of such pension, allowance or payment as determined by the Commissioner.
 
-#### Section 119 — Compensation not to be assigned, etc
+#### Section 119
 
 Compensation shall not-
 
@@ -2697,7 +2719,7 @@ whereby compensation awarded in any such country to persons resident or becoming
 
 Reciprocal arrangements
 
-#### Section 124 — Summary of procedure for recovery of compensation to be displayed by
+#### Section 124
 
 (1) Every employer, when so required by the Commissioner, shall cause to be affixed and at all times to be kept affixed in a conspicuous place at any place where his workers are employed a clearly printed summary, in such form and language as the Commissioner may require, of the procedure laid down in this Act for the recovery of compensation in the event of an accident.
 

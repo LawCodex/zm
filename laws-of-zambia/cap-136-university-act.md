@@ -1109,7 +1109,7 @@ No refusal on grounds of discrimination
 
 (3) Copies of statutes issued under this section shall be lodged with the Minister within sixty days of issue.
 
-#### Section 46 — Powers to confer degrees, etc
+#### Section 46
 
 A private university shall have power to-
 

@@ -169,9 +169,11 @@ In this Act, unless the context otherwise requires-
 
 (2) Any member may be removed from office by the Minister for disability, insolvency, neglect of duty or misconduct proved to the satisfaction of the Minister, or may at any time resign his office by notice in writing addressed to the Minister.
 
-### Section 6 — Remuneration of members, etc
+### Section 6
 
 There shall be paid out of the funds of the Board to a member such remuneration and allowances as are approved by the Minister in respect of that member or the class of member to which he belongs.
+
+Remuneration of members, etc.
 
 ### Section 7 — Incorporation
 

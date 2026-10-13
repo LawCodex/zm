@@ -417,9 +417,11 @@ Any person who, without lawful authority, takes a narcotic drug or psychotropic 
 
 Any person who attempts, abets, solicits, incites, and compounds or does any act preparatory to, or in furtherance of, the commission of any offence under this Act shall be guilty of an offence and shall be liable upon conviction to imprisonment for a term of not less than five years.
 
-#### Section 12 — Conspiracy to commit drug offences, etc
+#### Section 12
 
 Where two or more persons act together to commit an offence under this Act, they shall be guilty of an offence and liable upon conviction to a term not exceeding five years.
+
+Conspiracy to commit drug offences, etc.
 
 #### Section 13 — Unlawful manufacture of narcotic drugs or psychotropic substances
 
@@ -437,7 +439,7 @@ Any person who, without lawful authority, has in his possession instruments or u
 
 Unlawful possession of instruments or utensils for administering narcotic drugs or psychotropic substances
 
-#### Section 16 — Permitting premises to be used for unlawful use of narcotic drugs or
+#### Section 16
 
 A person who occupies or controls premises, who permits those premises to be used for administering narcotic drugs or psychotropic substances shall be guilty of an offence and shall be liable upon conviction to imprisonment for a term not exceeding five years.
 
@@ -771,7 +773,7 @@ against any person whom an earlier application under this section had not been m
 
 (3) Where another person claims under subsection (2) to be lawfully entitled to the illegal property, the High Court shall proceed to consider the claim and if, after giving an opportunity to the Director of Public Prosecutions to rebut that claim, the Court is satisfied that such person is not a purchaser in good faith for valuable consideration, it shall order that the property be forfeited.
 
-#### Section 38 — Forfeiture of untraceable property, etc
+#### Section 38
 
 (1) Where the High Court is satisfied that any property forfeited-
 
@@ -805,7 +807,7 @@ the High Court shall order that any other property of a similar value be forfeit
 
 (4) For the purposes of this section, the value of any property shall be its market value at the date on which an order of forfeiture is made.
 
-#### Section 39 — Property to be forfeited to State
+#### Section 39
 
 State.
 

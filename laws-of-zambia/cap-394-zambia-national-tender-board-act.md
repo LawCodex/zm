@@ -375,7 +375,7 @@ Provided that the Board may, for good cause, request the Director to withdraw fr
 
 (2) The Board may appoint such inspectors and other staff to the inspectorate unit as may be necessary for the performance of its functions under this Act.
 
-#### Section 17 — Powers of inspectors, etc
+#### Section 17
 
 In the performance of his duties under this Act, any inspector or member of staff of the inspectorate unit shall have(a)
 
@@ -467,7 +467,7 @@ Provided that if default is made in the payment of any instalment, the balance o
 
 (4) Unless the contrary is proved, in any proceedings for the recovery of the amount of a surcharge, a certificate issued by the Board shall be conclusive evidence of the facts certified therein, and a certificate signed by the Secretary that the sum certified to be due has not been paid to him shall be conclusive evidence of non-payment.
 
-#### Section 21 — Resisting or obstructing inspector, etc
+#### Section 21
 
 Any person who assaults, resists or obstructs any inspector or member of staff of the inspectorate unit in the exercise of his powers of access or power to call for relevant information under this Act shall be guilty of an offence and shall be liable, upon conviction, to a fine not exceeding five thousand penalty units or to imprisonment for a term not exceeding two years, or to both. (As amended by Act No. 13 of 1994)
 

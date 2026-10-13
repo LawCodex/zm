@@ -1962,9 +1962,11 @@ where, upon the receipt of a return of income pursuant to section forty-six, it 
 
 Every person shall furnish to the Commissioner-General such information, whether relating to the affairs of himself or any other person, as the Commissioner-General determines is necessary for the purposes of this Act, and every provision of this Act relating to the delivery of information to the Commissioner-General is without prejudice to the generality of this section.
 
-#### Section 49 — Statement of bank accounts, assets, etc
+#### Section 49
 
 The Commissioner-General may give notice in writing to any person requiring him to furnish within the time limited by such notice, not being less than thirty days from the date of service of such notice, a statement in writing containing particulars of-
+
+Statement of bank accounts, assets, etc.
 
 (a)
 
@@ -2102,13 +2104,15 @@ not to destroy, damage or deface, on or after service of such notice, any of the
 
 #### Section 59 — Repealed by Act No. 7 of 1996
 
-#### Section 60 — Amount of dividends, interest or royalties to be included in income
+#### Section 60
 
 (1) The amount of income received from which tax is deductible under sections eighty, eighty-one, eighty-one A, eighty-two or eighty-two A or on which tax is payable under section eightyone shall be the gross amount before deduction or payment:
 
 Provided that the amount of income received by way of dividends from which tax has been deducted in accordance with the direction of the Commissioner-General made pursuant to the provisions of paragraph (a) of subsection (1) of section eighty-one shall be the amount that would have been received if tax had been deducted at the rate that would have been deductible but for the direction.
 
 (2) The amount of income received from a source outside the Republic (in this section called foreign income) shall be the gross amount of that income before the deduction of the amount of the foreign tax.
+
+Amount of dividends, interest or royalties to be included in income
 
 (3) The amount of the income received by a beneficiary from a trust or deceased's estate on which tax has been paid or is payable by the trust or deceased's estate shall be the gross amount of that income before deduction of tax at the rate paid or payable on that income by the trust or deceased's estate.
 
@@ -2882,7 +2886,7 @@ Tax less than K3,000 not payable
 
 AVOIDANCE
 
-#### Section 94 — No set-off or refund where that is the object of change of ownership of shares
+#### Section 94
 
 The Commissioner-General shall not allow any set-off or refund of tax deducted under section eighty-one where he determines that the object, or one of the objects of a change in the ownership of shares in a company, whether direct or indirect, was to obtain such set-off or refund.
 
@@ -3048,9 +3052,11 @@ Provided that where an assessment is made on a company under subsection (12) by 
 
 (2) Where the Commissioner-General is of the opinion that any change in the shareholding in any company, as a direct or indirect result of which income has been received by or has accrued to that company during any charge year, has been effected by any person solely or mainly for the purpose of utilising any loss incurred by the company in order to avoid liability on the part of that company or any other person for the payment of tax to reduce the amount thereof, any loss incurred in any charge year prior to the charge year in which the change in shareholding took place and not deducted from income and the loss incurred for the period from the commencement of the charge year in which the change of shareholding took place to the date of the change in shareholding shall not be deducted from any income received by the company after the date of the change in shareholding. (As amended by Act No. 26 of 1970)
 
-#### Section 97 — Commissioner-General may avoid trust
+#### Section 97
 
 (1) Where because of the existence of a trust the incidence of tax for any charge year in relation to a person beneficially interested in that trust is less than would be the case if that trust (apart from the ascertainment of the nature and amount of the beneficiary's interest for the purposes of this subsection) did not exist, the Commissioner-General may determine that the income of the trust attributable to that beneficiary's interest for any charge year shall for the purposes of this Act be assessed as if it were his income, and it shall be assessed and charged accordingly.
+
+Commissioner-General may avoid trust
 
 (2) This section applies, with necessary modifications, to the administration of the estate of a deceased person as from a year after his death.
 
@@ -3064,7 +3070,7 @@ General Penalty
 
 (As amended by Acts No. 11 of 1992, No. 13 of 1994, No. 14 of 1994 and No. 2 of 1995)
 
-#### Section 99 — Penalty for failure to comply with notice, etc
+#### Section 99
 
 Every person who-
 
@@ -3104,9 +3110,11 @@ Penalty for failure to comply with notice, etc.
 
 shall be guilty of an offence against this Act.
 
-#### Section 100 — Penalty for incorrect returns, etc
+#### Section 100
 
 (1) Every person who negligently or through wilful default or fraudulently-
+
+Penalty for incorrect returns, etc.
 
 (a)
 
@@ -3154,9 +3162,11 @@ No complaint charging any offence under section ninety-eight or ninety-nine shal
 
 Time Limit
 
-#### Section 102 — Penalty for fraudulent returns, etc
+#### Section 102
 
 (1) Any person who wilfully with intent to evade or to assist another person to evade tax-
+
+Penalty for fraudulent returns, etc.
 
 (a)
 

@@ -779,9 +779,11 @@ if at his request he is discharged at the place where he is serving, he shall ha
 
 (3) Notwithstanding the provisions of subsections (1) and (2), the competent military authority may, when a soldier of the Regular Force falls to be transferred to the Reserve Force as aforesaid, discharge him forthwith without giving any reason and in any such case the provisions of section eighteen shall apply.
 
-#### Section 20 — Postponement of discharge or transfer pending proceedings for offences, etc
+#### Section 20
 
 (1) Notwithstanding anything in this Part, a soldier of the Regular Force shall not be entitled to be discharged or transferred to the Reserve Force at a time when he has become liable to be proceeded against for an offence against any of the provisions of this Act:
+
+Postponement of discharge or transfer pending proceedings for offences, etc.
 
 Provided that if it is determined that the offence shall not be tried by court-martial this subsection shall cease to apply.
 
@@ -1011,7 +1013,7 @@ Becoming prisoner of war through disobedience or wilful neglect and failing to r
 
 (3) Any person guilty of an offence against this section shall, on conviction by court-martial, be liable to imprisonment or any less punishment provided by this Act. (As amended by S.I. No. 8 of 1964)
 
-#### Section 34 — Offences by or in relation to sentries, etc
+#### Section 34
 
 (1) Any person subject to military law under this Act who, while on guard duty-
 
@@ -1431,15 +1433,19 @@ shall, on conviction by court-martial, be liable to imprisonment for a term not 
 
 (2) Subsection (1) shall apply in relation to horses, food, forage and stores as it applies in relation to vehicles. Flying, etc., Offences
 
-#### Section 54 — Dangerous flying, etc
+#### Section 54
 
 Any person subject to military law under this Act who is guilty of any act or neglect in flying, or in the use of any aircraft, or in relation to any aircraft or aircraft material, which causes or is likely to cause loss of life or bodily injury to any person, shall, on conviction by court-martial, be liable to imprisonment or any less punishment provided by this Act:
 
+Dangerous flying, etc.
+
 Provided that if the offender has not acted wilfully or with wilful neglect he shall not be liable to be imprisoned for more than two years.
 
-#### Section 55 — Inaccurate certification of aircraft, etc
+#### Section 55
 
 Any person subject to military law under this Act who signs any certificate in relation to an aircraft or to aircraft material without ensuring the accuracy of the certificate shall, on conviction by court-material, be liable to imprisonment for a term not exceeding two years or any less punishment provided by this Act.
+
+Inaccurate certification of aircraft, etc.
 
 #### Section 56 — Low flying
 

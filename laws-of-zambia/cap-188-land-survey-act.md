@@ -811,9 +811,11 @@ Provided that a Government surveyor may approve and make use of a general plan o
 
 ### PART IV — SUBDIVISIONAL SURVEYS
 
-#### Section 20 — No diagram of portion of unsurveyed land to be approved
+#### Section 20
 
 No diagram of any portion of a registered unsurveyed parcel of land shall be approved until a survey has been made of the whole of such parcel of land and a diagram has been registered on the basis of such survey.
+
+No diagram of portion of unsurveyed land to be approved
 
 #### Section 21 — Approved plans of proposed subdivisions
 
@@ -895,7 +897,7 @@ when its position is in agreement with an order of the Court.
 
 (3) Subject to the proviso to subsection (4) of section twenty-eight, the cost of erecting beacons, including the cost of determining their position by survey, when necessary, shall be borne by the owner of the land surveyed or re-surveyed, who shall be entitled to recover from the owner or owners of land contiguous to the boundaries concerned a proportionate share of the cost of determining the position of and erecting any beacon which is also a corner beacon of his or their properties.
 
-#### Section 27 — No poles, etc., to be placed near beacon
+#### Section 27
 
 Except with the consent of a Government surveyor, it shall not be lawful for any person to place any fence post or fence anchor or any other erection, or to make any excavation, within 1220 mm of any beacon or survey station:
 
@@ -906,6 +908,8 @@ any township stand; or
 (b)
 
 any parcel of land not exceeding 4.047 hectares.
+
+No poles, etc., to be placed near beacon
 
 #### Section 28 — Repair or re-erection of beacons
 
@@ -1007,9 +1011,11 @@ the numerical and other data recorded on any general plan have been superseded b
 
 he may insert an endorsement to that effect on such general plan. (No. 44 of 1965)
 
-#### Section 36 — Registrar and owner to be informed of incorrect diagram
+#### Section 36
 
 If the Surveyor-General is satisfied that the diagram of any registered parcel of land entirely fails to represent such land, or misrepresents it to such an extent that damage or loss might result to any person who is or may become interested therein, he may give notice of such fact to the Registrar and to the owner of such parcel of land, and thereafter no further registration relating to such parcel of land or of any portion thereof or undivided share therein shall be effected in the Registry until a new diagram thereof has been approved and an amended title thereto has been registered in accordance with such new diagram:
+
+Registrar and owner to be informed of incorrect diagram
 
 Provided that, if the Surveyor-General is unaware of the address of the owner of such parcel of land, a publication of such notice in one issue of the Gazette and once every week during two consecutive weeks in a newspaper circulating in the District within which such parcel of land is situate shall be deemed to be sufficient notice to such owner for the purpose of this section.
 

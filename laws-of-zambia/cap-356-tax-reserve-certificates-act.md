@@ -59,11 +59,13 @@ This Act may be cited as the Tax Reserve Certificates Act.
 
 (2) Such certificates shall be accepted by the Government at their face value, plus any interest due thereon, in payment by the holder thereof of any amount payable by him in respect of any direct tax specified by the Minister by statutory notice. (As amended by S.I. No. 159 of 1965)
 
-### Section 3 — Moneys received for tax reserve certificates to be paid into a deposit account
+### Section 3
 
 All moneys received for the purchase of tax reserve certificates under this Act shall be paid into a deposit account of the Government established by the Minister for the purpose, and any amounts required for the redemption of such tax reserve certificates shall be paid out of such deposit account.
 
-### Section 4 — Moneys received for tax reserve certificates not to be regarded as borrowings
+Moneys received for tax reserve certificates to be paid into a deposit account
+
+### Section 4
 
 Moneys received for the purchase of tax reserve certificates issued under this Act shall not be regarded as loans for the purpose of the General Loan and Stock Act.
 

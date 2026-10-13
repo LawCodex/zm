@@ -335,9 +335,11 @@ Execution of instruments
 
 ### PART III — MASTERS AND SEAMEN
 
-#### Section 13 — Application of Part II of Merchant Shipping Act, 1894, etc
+#### Section 13
 
 The application of Part II of the principal Act and related Acts as part of the Code shall be read subject to the provisions of sections fourteen to eighteen of this Act.
+
+Application of Part II of Merchant Shipping Act, 1894, etc.
 
 #### Section 14 — Certificates of competency
 
@@ -373,9 +375,11 @@ References in sections 113 and 115 of the principal Act to agreements with the c
 
 ### PART IV — SAFETY OF SHIPPING
 
-#### Section 19 — Application of Part V of Merchant Shipping Act, 1894, etc
+#### Section 19
 
 The application of Part V of the principal Act and related Acts as part of the Code shall be read subject to the provisions of sections twenty to twenty-five of this Act.
+
+Application of Part V of Merchant Shipping Act, 1894, etc.
 
 #### Section 20 — Application of collision regulations and rules
 
@@ -433,9 +437,11 @@ Where any government or competent authority so requests, the Minister may order 
 
 ### PART VI — LIABILITY OF SHIPOWNERS
 
-#### Section 30 — Application of Part VIII of Merchant Shipping Act, 1894, etc
+#### Section 30
 
 Part VIII of the principal Act as part of the Code and related Acts shall be read without modification other than this Act.
+
+Application of Part VIII of Merchant Shipping Act, 1894, etc.
 
 ### PART VII — LEGAL PROCEEDINGS
 
@@ -445,9 +451,11 @@ The application of Part XIII of the principal Act as part of the Code shall be r
 
 ### PART VIII — MISCELLANEOUS
 
-#### Section 32 — Application of Part XIV of Merchant Shipping Act, 1894, etc
+#### Section 32
 
 The application of Part XIV of the principal Act and related Acts as part of the Code shall be read without modification other than this Act.
+
+Application of Part XIV of Merchant Shipping Act, 1894, etc.
 
 #### Section 33 — Power to appoint, etc., ship surveyors
 
@@ -463,9 +471,11 @@ The Minister in his discretion may by writing under his hand delegate all or any
 
 Provided that nothing in this section shall apply to the power to make any statutory instrument for the purposes of the Code, as applied by this Act.
 
-#### Section 36 — Power exercisable by Order in Council may be exercised by order
+#### Section 36
 
 (1) The President may make statutory orders under this Act for the purposes of the Code, as applied by this Act, and references to any power to be exercised by Order in Council shall, unless otherwise prescribed by this Act, be read as references to any statutory order made by the President.
+
+Power exercisable by Order in Council may be exercised by order
 
 (2) The power conferred by this section shall be deemed to include the power to authorise a reprint of any subsidiary or subordinate legislation applied by this Act. Any reprint made under this subsection may include amendments necessary for the purposes of this Act and, when published by authority, shall for all purposes be received and acted upon as subsidiary legislation made under this Act.
 

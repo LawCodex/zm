@@ -171,9 +171,11 @@ declare any area, other than the areas mentioned in paragraph (a) or defined by 
 
 (As amended by No. 48 of 1940, No. 32 of 1941, No. 25 of 1953, No. 45 of 1958, G.N. No. 304 of 1964 and No. 25 of 1969)
 
-#### Section 5 — Inebriated person not to be supplied
+#### Section 5
 
 No person shall supply traditional beer to any person already inebriated from the effects of drinking.
+
+Inebriated person not to be supplied
 
 (As amended by No. 25 of 1969)
 

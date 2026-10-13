@@ -119,9 +119,11 @@ The is hereby established a police force reserve, which shall be known as the Za
 
 ZAMBIA POLICE RESERVE
 
-#### Section 4 — Who may be Reserve police officers
+#### Section 4
 
 The Reserve shall consist of such persons, resident in Zambia who, having attained the age of eighteen years, volunteer for service in the Reserve and are considered by the Inspector-General to be suitable for enrolment as Reserve police officers.
+
+Who may be Reserve police officers
 
 (As amended by Act No. 26 of 1985)
 
@@ -199,7 +201,7 @@ Reserve to be issued with arms, etc.
 
 (As amended by G.N. No. 343 of 1964)
 
-#### Section 11 — Provisions of Zambia Police Act may be applied to Reserve
+#### Section 11
 
 The Minister may, by statutory order, apply any of the provisions of the Zambia Police Act to such class of Reserve police officers and during such time as he shall in such order specify, and such officers shall thereupon be subject to such provisions, and have all the powers, privileges and immunities conferred thereby.
 

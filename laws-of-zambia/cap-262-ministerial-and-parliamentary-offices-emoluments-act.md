@@ -153,7 +153,7 @@ any administrative body whose expenses are wholly or partly defrayed out of mone
 
 be paid any remuneration except by way of reimbursements in respect of travelling, subsistence or out-of-pocket expenses incurred by him in the discharge of his functions.
 
-#### Section 7 — No payment of salary during imprisonment, restriction or detention
+#### Section 7
 
 Notwithstanding anything contained in this Act, no person shall be paid any salary under this Act in respect of any period during which he is serving a sentence of imprisonment or is restricted or detained in terms of or under the authority of any such law as is referred to in the Constitution.
 

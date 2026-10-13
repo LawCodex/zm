@@ -227,9 +227,11 @@ A small claims court shall sit at such times and places as may be necessary for 
 
 ### PART III — PROCEEDINGS IN A SMALL CLAIMS COURT
 
-#### Section 12 — Proceedings to be in open court
+#### Section 12
 
 (1) Proceedings in a small claims court shall be held in open court.
+
+Proceedings to be in open court
 
 (2) The proceedings shall be simple and informal.
 
@@ -245,15 +247,17 @@ A small claims court shall sit at such times and places as may be necessary for 
 
 A small claims court shall, when adjudicating, aim at the reconciliation of the parties and it shall be the primary function of the court to do substantial justice between the parties.
 
-#### Section 15 — Language to be used
+#### Section 15
 
 (1) The business of a small claims court shall be conducted in English or in such other language as, in the opinion of the court, is convenient for the court and all the parties before it.
+
+Language to be used
 
 (2) Where a party to the proceedings is not conversant with the language being used in the court, the party shall be allowed, or provided with, an interpreter.
 
 (3) Whenever any language other than English is used in any proceedings, the court shall cause to be made an English translation of the proceedings before it, but shall not maintain a case record of the proceedings.
 
-#### Section 16 — Court not to be bound by rules of evidence
+#### Section 16
 
 (1) The court shall, not be bound by rules of evidence, but shall apply the law and equity.
 

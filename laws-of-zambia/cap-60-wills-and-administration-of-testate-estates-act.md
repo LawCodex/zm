@@ -721,15 +721,19 @@ Unreasonable provisions in will
 
 (3) In determining whether, and in what manner, and as from what date, provision for maintenance ought to be made by an order, the court shall have regard to the nature of the property representing the testator's estate and shall not order any such provision to be made as would necessitate a realisation that would be unwise having regard to the interests of the testator's dependants and of any person who, apart from the order, would be entitled to that property.
 
-#### Section 21 — Matters to be considered by court when varying will
+#### Section 21
 
 (1) The court shall, on any application made under this Part, have regard to the testator's reasons for making the dispositions made by his will or for not making any provision or any further provision, as the case may be, for a dependant, and the court may accept such evidence as it considers sufficient, including any statement in writing signed by the testator and dated; so however that in estimating the weight, if any, to be attached to any such statement, the court shall have regard to all the circumstances from which any inference can reasonably be drawn as to the accuracy or otherwise of the statement.
 
+Matters to be considered by court when varying will
+
 (2) The court shall also, upon any application made under this Part, have regard to any past, present or future capital or income from any source of the dependant to whom the application relates, to the conduct of that dependant in relation to the testator and to any other matter or thing which in the circumstances of the case the court may consider relevant or material in relation to that dependant and to the beneficiaries under the will.
 
-#### Section 22 — Time within which application must be made
+#### Section 22
 
 (1) Except as provided by section twenty-four, an order under this Part shall not be made except on an application made within six months from the date on which representation in regard to the testator's estate for general purposes is first taken out.
+
+Time within which application must be made
 
 (2) For the purpose of the exercise by the court of its discretion as to the persons to whom letters of administration are to be granted, a dependant of the testator by whom or on whose behalf an application under this Part is proposed to be made shall be deemed to be a person interested in the estate.
 
@@ -1037,9 +1041,11 @@ that the person to whom the grant was made has, without reasonable cause, omitte
 
 Revocation of grants and removal
 
-#### Section 52 — Payments to personal representatives whose grants are revoked
+#### Section 52
 
 (1) Where any probate or letters of administration are revoked, all payments made in good faith to any executor or administrator under that probate or letters of administration before the revocation shall, notwithstanding the revocation, be a legal discharge to the person making the payment.
+
+Payments to personal representatives whose grants are revoked
 
 (2) The executor or administrator who has acted under any revoked probate or letters of administration may retain and reimburse himself out of the assets of the deceased in respect of any expenses incurred or fees paid out by him which any person, to whom probate or letters of administration are afterwards granted, could have lawfully incurred or paid.
 

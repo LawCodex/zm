@@ -505,17 +505,21 @@ Cap. 243
 
 Where any written law authorises or requires any document to be served by post, the service shall be deemed to be effected by properly addressing, prepaying and posting by registered post a letter containing the document and, unless the contrary is proved, to have been effected at the time at which the letter would be delivered in the ordinary course of the post.
 
-#### Section 5A — Names of Provinces, Districts, etc
+#### Section 5A
 
 Whenever in any written law any Province, District or other area is referred to by name, the provision in question shall be read and construed as a reference to such Province, District or other area by the name currently assigned thereto by any written law.
+
+Names of Provinces, Districts, etc.
 
 (No. 47 of 1970)
 
 ### PART III — GENERAL PROVISIONS REGARDING WRITTEN LAWS
 
-#### Section 6 — Acts, Applied Acts and Ordinances to be public Acts or Ordinances
+#### Section 6
 
 (1) Every Act, Applied Act or British Act shall be a public Act and shall be judicially noticed as such.
+
+Acts, Applied Acts and Ordinances to be public Acts or Ordinances
 
 (2) Every Ordinance shall be a public Ordinance and shall be judicially noticed as such.
 
@@ -533,9 +537,11 @@ Whenever in any written law any Province, District or other area is referred to 
 
 A British Act may be cited by its short title or citation, if any, or by reference to the regnal or calendar year in which it was passed and by its chapter or number.
 
-#### Section 9 — Schedules and tables to be part of written laws
+#### Section 9
 
 Every Schedule to or table in any written law, together with notes thereto, shall be construed and have effect as part of such written law.
+
+Schedules and tables to be part of written laws
 
 #### Section 10 — Subdivision of written laws
 
@@ -545,15 +551,17 @@ When a written law is divided into Parts, titles or other subdivisions, the fact
 
 Where any written law repealing in whole or in part any former written law is itself repealed, such last repeal shall not revive the written law or provisions before repealed unless words be added reviving such written law or provisions.
 
-#### Section 12 — Repeal of amended law to include amendments
+#### Section 12
 
 Where any written law which has been amended by any other written law is itself repealed, such repeal shall include the repeal of all those provisions of other written laws by which such first-mentioned written law has been amended.
+
+Repeal of amended law to include amendments
 
 #### Section 13 — Repeal and substitution
 
 Where a written law repeals wholly or partially any former written law and substitutes provisions for the written law repealed, the repealed written law shall remain in force until the substituted provisions come into operation.
 
-#### Section 14 — Provisions with respect to amended written law and effect of repealing written
+#### Section 14
 
 (1) Where in any written law a reference is made to another written law or the Constitution, such reference shall be deemed to include a reference to such last-mentioned written law or the Constitution as the same may from time to time be amended.
 
@@ -587,9 +595,11 @@ affect any investigation, legal proceeding, or remedy in respect of any such rig
 
 Where any Act, Applied Act or Ordinance or part thereof is repealed, any statutory instrument issued under or made in virtue thereof shall remain in force, so far as it is not inconsistent with the repealing written law, until it has been repealed by a statutory instrument issued or made under the provisions of such repealing written law, and shall be deemed for all purposes to have been made thereunder.
 
-#### Section 16 — Construction of amending written law with amended written law
+#### Section 16
 
 Where one written law amends another written law, the amending written law shall, so far as it is consistent with the tenor thereof, be construed as one with the amended written law.
+
+Construction of amending written law with amended written law
 
 #### Section 17 — Effect of expiry of written law
 
@@ -669,9 +679,11 @@ General provisions relating to statutory instruments
 
 Any reference to a written law in any other written law shall include a reference to any statutory instrument made under the written law to which reference is made.
 
-#### Section 22 — Rules to be laid before the National Assembly
+#### Section 22
 
 (1) All rules, regulations and by-laws shall be laid before the National Assembly as soon as may be after they are made, and, if a resolution is passed within the next subsequent twenty-one days on which the National Assembly has sat after any such rule, regulation or by-law is laid before it that the rule, regulation or by-law be annulled, it shall thence-forth be void but without prejudice to the validity of anything previously done thereunder, or to the making of any new rule, regulation or by-law.
+
+Rules to be laid before the National Assembly
 
 (2) The reference to rules in subsection (1) shall not include a reference to rules of court.
 
@@ -723,7 +735,7 @@ appoint a duly qualified person to be a temporary member of the same in the plac
 
 and when attending any meeting of such board, commission, committee, council or similar body, whether corporate or unincorporate, such alternate or temporary member shall be deemed for all purposes to be a member of the same.
 
-#### Section 28 — Power to appoint chairman, etc
+#### Section 28
 
 Where by any written law a power is conferred on any authority to appoint the members of any board, commission, committee, council or similar body, that authority may appoint a chairman, a vice-chairman and a secretary of the same.
 
@@ -769,7 +781,7 @@ in the case where the Attorney-General is unable to act owing to illness or abse
 
 in any case or class of cases where the Attorney-General has authorised the Solicitor-General to do so.
 
-#### Section 33 — Powers of board, etc., not affected by vacancy, etc
+#### Section 33
 
 Where by or under any written law any board, commission, committee, council or similar body, whether corporate or unincorporate, is established, the powers of such board, commission, committee, council or similar body shall not be affected by(a)
 
@@ -827,9 +839,11 @@ In the determination of any distance for the purpose of any written law, the mea
 
 ### PART VII — GENERAL PROVISIONS REGARDING LEGAL PROCEEDINGS
 
-#### Section 39 — Ex-officio proceedings not to abate on death, etc
+#### Section 39
 
 Any civil or criminal proceedings taken by or against any person in virtue of his office shall not be discontinued or abated by his death, resignation, or absence or removal from office, but may be carried on by or against, as the case may be, the person for the time being holding that office.
+
+Ex-officio proceedings not to abate on death, etc.
 
 #### Section 40 — Imposition of a penalty no bar to civil action
 
@@ -847,9 +861,11 @@ offence is amended between the time of the commission of such offence and the co
 
 Amendment of penalty
 
-#### Section 43 — Penalties prescribed may be maximum penalties, but may be cumulative
+#### Section 43
 
 (1) Where in any written law a penalty is prescribed for an offence against that written law, such provision shall mean that the offence shall be punishable by a penalty not exceeding the penalty prescribed.
+
+Penalties prescribed may be maximum penalties, but may be cumulative
 
 (2) Where in any written law more than one penalty is prescribed for an offence, the use of the word "and" shall mean that the penalties may be inflicted alternatively or cumulatively.
 
@@ -875,9 +891,11 @@ Any fine or penalty imposed by or under the authority of any written law shall, 
 
 Save as is otherwise expressly provided, whenever any form is prescribed by any written law, an instrument or document, which purports to be in such form, shall not be void by reason of any deviation therefrom which does not affect the substance of such instrument or document, or which is not calculated to mislead.
 
-#### Section 48 — Gazette, etc., to be prima facie evidence
+#### Section 48
 
 The production of a copy of the Gazette containing any written law, Order in Council, or any notice, or of any copy of any written law, Order in Council, or any notice, purporting to be printed by the Government Printer, shall be prima facie evidence in all courts and for all other purposes whatsoever of the due making and tenor of such written law, Order in Council or notice.
+
+Gazette, etc., to be prima facie evidence
 
 #### Section 49 — Evidence of Applied Acts
 
@@ -947,7 +965,7 @@ and may be expressed to apply or to be applicable subject to such conditions as 
 
 (2) Where any British Act binds the Crown, then that Act mutatis mutandis shall, to the like extent and subject to the same limitations, bind the Republic. (As amended by No. 27 of 1965)
 
-#### Section 52 — This Act to bind the Republic
+#### Section 52
 
 This Act shall bind the Republic.
 

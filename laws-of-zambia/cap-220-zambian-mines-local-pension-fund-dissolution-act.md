@@ -73,7 +73,7 @@ Bancroft Mines Limited, Nchanga Consolidated Copper Mines Limited, Zambian Anglo
 
 Roan Selection Trust Limited (formerly Rhodesian Selection Trust Limited), Mufulira Copper Mines Limited, Chibuluma Mines Limited, Ndola Copper Refineries Limited, RST Administrative Services Limited (formerly R.S.T. Administrative Services Limited), RST Technical Services Limited (formerly R.S.T. Secretariat Limited) and RST Mine Services Limited (formerly R.S.T. Mine Services Limited) of the second part.
 
-### Section 3 — Trust Fund to be wound up and dissolved
+### Section 3
 
 Copper Industry Service Bureau Limited (formerly The Incorporated Northern Rhodesia Chamber of Mines Limited) and Mines Air Services Limited (formerly Northern Rhodesia Aviation Services Limited) of the third part.
 

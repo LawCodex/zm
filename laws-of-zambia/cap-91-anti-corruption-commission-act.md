@@ -719,9 +719,11 @@ Cap. 88
 
 The Director-General may issue to an officer of the Commission an identity card which shall be prima facie evidence of the officer's appointment as such.
 
-#### Section 24 — Restriction on disposal of property, etc
+#### Section 24
 
 (1) The Director-General may, by written notice to a person who is the subject of an investigation in respect of an offence alleged or suspected to have been committed under this Act, or against whom a prosecution for such offence has been instituted, direct that such person shall not dispose of or otherwise deal with any property specified in such notice without the consent of the Director-General.
+
+Restriction on disposal of property, etc.
 
 (2) A notice issued under subsection (1) may be served by delivering it personally to the person to whom it is addressed or may, where the Director-General is satisfied that such person cannot be found, or is not in the Republic, be served on or brought to the knowledge of, such person in such other manner as the Director-General may direct.
 
@@ -835,7 +837,7 @@ OFFENCES, PENALTIES AND RECOVERY OF GRATIFICATION
 
 (4) For the purposes of subsections (1) and (2), the permission of a principal to the soliciting, accepting or obtaining of any gratification by his agent shall constitute a valid defence.
 
-#### Section 33 — Corruption of members of public bodies in regard to meetings, etc
+#### Section 33
 
 (1) Any person who being a member of any public body by himself, or by or in conjunction with any other person, corruptly solicits, accepts or obtains, or agrees to accept or attempts to receive or obtain, from any person for himself or for any other person, any gratification as an inducement or reward for-
 
@@ -973,15 +975,17 @@ he did not in fact so do or forbear.
 
 Certain matters not to constitute defence
 
-#### Section 39 — Attempts, conspiracies, etc
+#### Section 39
 
 Any person who attempts to commit, or who aids, abets or counsels, or conspires with, any person to commit an offence under this Part, shall be guilty of committing that offence and shall be punished accordingly.
 
 Attempts, conspiracies, etc.,
 
-#### Section 40 — Public officer's powers of report, etc
+#### Section 40
 
 (1) A public officer to whom any gratification is corruptly given, promised or offered shall make a full report of the circumstances of the case to a police officer or an officer of the Commission within twenty-four hours of the occurrence of the event, and if he fails to do so without reasonable cause, he shall be guilty of an offence and shall be liable, upon conviction, to imprisonment for a term not exceeding one year or to a fine not exceeding one thousand penalty units or to both.
+
+Public officer's powers of report, etc.
 
 (2) Any police officer or officer of the Commission may arrest without warrant any person in respect of whom a report is made under subsection (1).
 
@@ -1013,15 +1017,17 @@ General penalty
 
 Provided that where, after reasonable inquiry, the rightful owner cannot be ascertained or traced, or where the rightful owner is himself implicated in the giving of the gratification, the court shall order that the amount or value thereof shall be paid into the general revenues of the Republic.
 
-#### Section 43 — Recovery of gratification by distress, etc
+#### Section 43
 
 Any fine imposed under the provisions or this Part and the amount or value of any gratification ordered to be paid under section forty-two may be recovered in accordance with the provisions of sections three hundred and eight and three hundred and nine of the Criminal Procedure Code by distress and sale of the movable and immovable property of the person sentenced.
 
 Recovery of gratification by distress, etc. Cap. 88
 
-#### Section 44 — Principal may recover gratification corruptly received by agent
+#### Section 44
 
 (1) Where any gratification has been given by any person to or for or on account of an agent in contravention of any provision of this Act, the principal may recover, as a civil debt, the amount or value of such gratification from the agent, and the acquittal of the agent or such person in respect of an offence under this Part shall not operate as a bar to any proceedings for such recovery.
+
+Principal may recover gratification corruptly received by agent
 
 (2) Nothing in subsection (1) shall be deemed to prejudice or affect any right which any principal may have under any written law or rule to recover from his agent any money or property.
 
@@ -1203,11 +1209,13 @@ delegation of its functions or powers.
 
 The President may, by statutory instrument and on the recommendation of the Commission make regulations for the better carrying out of the purposes of this Act.
 
-#### Section 64 — Repeal of Act No. 14 of 1980
+#### Section 64
 
 The Corrupt Practices Act, 1980, is hereby repealed.
 
 Regulations
+
+Repeal of Act No. 14 of 1980
 
 ## FIRST SCHEDULE
 

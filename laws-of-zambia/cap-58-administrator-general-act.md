@@ -253,7 +253,7 @@ the
 
 (2) Any person convicted of an offence under this section shall be liable to imprisonment with or without hard labour for a period not exceeding three months or to a fine not exceeding one thousand five hundred penalty units, or to both, but without prejudice to any civil liabilities he may have incurred. (As amended by No. 31 of 1959 and Act No. 13 of 1994)
 
-### Section 7 — Cases in which Administrator-General may apply for probate or letters of
+### Section 7
 
 When a person dies leaving property in Zambia, the Administrator-General may apply to the Court for probate or letters of administration (as the case requires) in the following cases:
 
@@ -281,13 +281,17 @@ Cases in which Administrator-General must apply
 
 (As amended by No. 31 of 1959)
 
-### Section 8 — Administrator-General or agent may protect property pending application
+### Section 8
 
 When any person dies leaving property within Zambia, the Administrator-General or the District Secretary within whose District such property may be, may, when he shall deem it advisable for the protection of such property, take possession thereof without any order of the Court, but shall not deal therewith otherwise than may be urgently necessary, before a grant of probate or letters of administration.
 
-### Section 9 — Administrator-General may be appointed executor
+Administrator-General or agent may protect property pending application
+
+### Section 9
 
 Any person may appoint the Administrator-General to be executor of his will.
+
+Administrator-General may be appointed executor
 
 ### Section 10 — Notice of application to Court
 
@@ -353,7 +357,7 @@ When the Administrator-General believes that any person is capable of giving inf
 
 (As amended by Act No. 31 of 1959 and Act No. 13 of 1994)
 
-### Section 17 — Grant to Administrator-General may be revoked and grant made to other
+### Section 17
 
 At any time after grant of probate or letters of administration to the Administrator-General under this Act, any person to whom the Court might have granted administration if no such grant had been made to the Administrator-General, may apply to the Court for revocation of such grant, and for grant to himself of probate or letters of administration; but no such application shall be made until seven days after notice of intention to make it shall have been given to the Administrator-General.
 
@@ -383,9 +387,11 @@ In every case where administration shall have been committed to him, the Adminis
 
 At the expiration of the time mentioned in the notice referred to in the preceding section for sending in claims, the Administrator-General shall be at liberty to distribute the assets or any part thereof amongst the parties entitled thereto, having regard to the claims of which he shall then have had notice, and he shall not be liable for the assets or any part thereof so distributed to any person of whose claim he shall not have had notice at the time of the distribution of the said assets or any part thereof, as the case may be; but nothing herein contained shall prejudice the right of any creditor or claimant to follow the assets or any part thereof into the hands of the person or persons who may have received the same respectively.
 
-### Section 22 — Proof of claims may be required
+### Section 22
 
 When the Administrator-General has received notice of a claim against an estate, administration of which has been committed to him, he may by a written notice served personally or by post require the claimant prior to a date to be named in such notice, which shall not be less than one month from the service of such notice, either to institute proceedings to establish the claim, or to satisfy the Administrator-General of the validity of the claim by affidavit or otherwise; at the expiration of the time mentioned in such notice, the Administrator-General shall be at liberty to distribute the assets or any part thereof amongst the parties entitled thereto, without having regard to the claims of persons who shall have been served with such notice, but shall have failed to comply with the requirements thereof, and he shall not be liable to any such person for the assets or any part thereof; but nothing herein contained shall prejudice the right of any such person to follow the assets or any part thereof into the hands of the person or persons who may have received the same respectively.
+
+Proof of claims may be required
 
 ### Section 23 — Fees of Administrator-General
 
@@ -401,17 +407,23 @@ When the Administrator-General has been granted letters of administration of the
 
 (As amended by No. 31 of 1959 and No. 14 of 1968)
 
-### Section 25 — Assets received from outside Zambia
+### Section 25
 
 Where administration of an estate has been committed to the Administrator-General and he receives assets which at the time of the death of the deceased were situate outside Zambia, such assets shall be treated in the same manner as assets within Zambia at the time of death.
 
-### Section 26 — Court may appoint persons to receive minor's share
+Assets received from outside Zambia
+
+### Section 26
 
 Where any person entitled to a share under the will or in the distribution of the estate of a deceased person whose estate is being administered by the Administrator-General is a minor, the Court may, upon the application of the Administrator-General, appoint the father or mother of such minor or some other suitable person to receive the share of such minor on his behalf and, upon such appointment being made, the Administrator-General may pay the share of such minor to such person on behalf of such minor, and the receipt of such person shall be a full and complete discharge to the Administrator-General so far as regards such share.
 
-### Section 27 — Assets unclaimed for twelve years to be transferred to general revenues
+Court may appoint persons to receive minor's share
+
+### Section 27
 
 (1) All assets in charge of the Administrator-General which have been in his custody for a period of twelve years or upwards without any application for payment thereout having been made and granted by him, shall be transferred to the credit of the general revenues of the Republic:
+
+Assets unclaimed for twelve years to be transferred to general revenues
 
 Provided that this section shall not authorise the transfer of such assets as aforesaid if any suit or proceeding is pending in respect thereof in any Court.
 
@@ -421,9 +433,11 @@ Provided that this section shall not authorise the transfer of such assets as af
 
 It shall be lawful for the President to dispose of or distribute either the whole or any part of the assets transferred to the Government under the provisions of section twenty-seven to or amongst any kindred of the deceased or such other persons in such shares or manner as he shall think fit.
 
-### Section 29 — Power for Administrator-General to administer where assets are less than K200
+### Section 29
 
 (1) When the gross value of the estate situated in Zambia of a deceased person does not exceed two hundred kwacha, and the Administrator-General is entitled in terms of section seven to apply to the Court for probate or letters of administration (as the case requires), the Administrator-General may, if he thinks fit, himself undertake the administration of the estate without obtaining probate or letters of administration:
+
+Power for Administrator-General to administer where assets are less than K200
 
 Provided that the Administrator-General shall not, under the power conferred by this section, undertake the administration of an estate if there has been any previous grant of probate of the will of the deceased or of letters of administration of his estate, unless and until such grant has been revoked.
 
@@ -449,9 +463,11 @@ Provided always that, in case of any sale by the Administrator-General or any ag
 
 The Administrator-General shall be deemed to have been granted letters of administration to all estates which would have been subject to this Act but which were at the commencement of this Act being administered by the Registrar of the High Court.
 
-### Section 32 — This Act not to apply to estates administered in terms of African customary law
+### Section 32
 
 (1) This Act shall not apply to the administration of the estate of any person to which the provisions of subsection (1) of section thirty-six of the Local Courts Act apply, unless the Court shall have first made an order or given directions that such estate shall not be administered in terms of African customary law.
+
+This Act not to apply to estates administered in terms of African customary law.
 
 (2) Nothing contained in this Act or in any other written law shall require or be deemed to require the Administrator-General, except where he thinks it is in the interest of justice so to do, to make an application to a local court claiming that the estate of a deceased person should not be administered in terms of African customary law. (No. 14 of 1968)
 

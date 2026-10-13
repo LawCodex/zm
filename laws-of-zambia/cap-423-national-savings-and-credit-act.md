@@ -563,9 +563,11 @@ shall be repaid at its face value upon maturity, which shall be at such date, no
 
 Cap. 323
 
-#### Section 23 — Bank may impose conditions
+#### Section 23
 
 (1) The Bank may impose conditions not inconsistent with this Part as to all or any of the following matters:
+
+Bank may impose conditions
 
 (a)
 
@@ -701,9 +703,11 @@ for any reference to any employee of the Savings Bank not being a party thereto 
 
 (4) Subject to the provisions of subsection (3), documents other than those referred to therein which refer specifically or generally to the Savings Bank shall be construed in accordance with the said subsection (3) as far as applicable.
 
-#### Section 34 — Registration of property to be transferred by Savings Bank
+#### Section 34
 
 Whenever, in pursuance of this Act, any property, rights, liabilities or obligations of the Savings Bank are transferred by it to the Bank or any person or the Government in respect of the transfer of which any written law provides for registration, it shall be the duty of the Savings Bank to make an application in writing to the proper officer of the appropriate registration authority for the registration of such transfer, and it shall be the duty of such officer to make such entries in the appropriate register as shall give effect to such transfer and, where appropriate, to issue to the transferee concerned a Certificate of Title in respect of the said property or to make necessary amendments to the register, as the case may be, and, if presented therefor, to make endorsement on the deeds relating to the title, right or obligation concerned; and no registration fees, stamp duty or other duties shall be payable in respect thereof.
+
+Registration of property to be transferred by Savings Bank
 
 #### Section 35 — Terms of service of employees on transfer to Bank
 

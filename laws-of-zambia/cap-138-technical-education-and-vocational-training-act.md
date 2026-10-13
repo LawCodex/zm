@@ -457,7 +457,7 @@ that the Minister proposes to cancel the registration of the private institution
 
 Cancellation of registration of private institutions
 
-#### Section 14 — Minister's determination to be final
+#### Section 14
 
 The determination of the Minister upon any matter under this Part shall be final and shall not be called in question in any court of law.
 
@@ -547,9 +547,11 @@ Powers of inspector
 
 Duty of inspector to report to Minister
 
-#### Section 21 — No refusal on grounds of sex, race, etc
+#### Section 21
 
 No person shall be refused admission to any institution established for the purpose of technical education or vocational training on the grounds of sex, race, tribe, place of origin, colour or creed.
+
+No refusal on grounds of sex, race, etc.
 
 #### Section 22 — Power to prohibit use of books
 
@@ -585,9 +587,11 @@ shall be paid from monies appropriated by Parliament for the purpose.
 
 Where a person convicted of an offence against this Act is a company, the chairman and every director and every officer concerned in the management of the company shall be guilty of the like offence unless he proves that the act constituting the offence took place without his knowledge or consent.
 
-#### Section 26 — Service of notices, etc
+#### Section 26
 
 (1) Any notice or other document required or permitted to be served on any person under this Act may be served on such person by handing it to such person, or by transmitting it by registered post addressed to such person at his usual postal address or at his usual or last known place of abode or principal place of business or, in the case of a company, by leaving the same, or transmitting the same by registered post addressed to the company, at its registered office or principal place of business in Zambia.
+
+Service of notices, etc.
 
 (2) In this Part, "company" means a company registered under the Companies Act.
 

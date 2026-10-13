@@ -285,7 +285,7 @@ Application of trade marks and trade descriptions
 
 TRADE MARKS AND TRADE DESCRIPTIONS
 
-#### Section 4 — Certain acts deemed to be a forgery of a trade mark
+#### Section 4
 
 A person shall be deemed to forge a trade mark if he-
 
@@ -296,6 +296,8 @@ without the consent of the proprietor of the trade mark, makes that trade mark o
 (b)
 
 falsifies any genuine trade mark, whether by alteration, addition, effacement or otherwise;
+
+Certain acts deemed to be a forgery of a trade mark
 
 and any trade mark so made or falsified is in this Act referred to as a forged trade mark.
 
@@ -497,7 +499,7 @@ Indication of origin and compliance with specified standards in the case of cert
 
 (As amended by No. 17 of 1959 and G.N. No. 153 of 1964)
 
-#### Section 14 — Indication of origin of certain goods may be prescribed
+#### Section 14
 
 If the Minister, after such investigation as he thinks fit, is satisfied, in the case of goods of any class or description which are made or produced in one country, that(a)
 
@@ -523,9 +525,11 @@ he may, by statutory notice, prohibit the importation for sale or the sale of su
 
 Indication of origin of certain goods may be prescribed
 
-#### Section 15 — Use of certain marks may be prohibited
+#### Section 15
 
 The Minister may, after such investigation as he thinks fit, by statutory notice, prohibit, either absolutely or conditionally, the application to goods of any mark, word, letter or figure or of any arrangement or combination thereof.
+
+Use of certain marks may be prohibited
 
 #### Section 16 — Submission of representations by interested persons
 

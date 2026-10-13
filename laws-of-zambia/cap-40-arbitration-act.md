@@ -179,17 +179,21 @@ In this Act, unless the context otherwise requires-
 
 ### PART II — GENERAL PROVISIONS RELATING TO ARBITRATION BY CONSENT OUT OF COURT
 
-#### Section 3 — Submission to be irrevocable except by leave of Court
+#### Section 3
 
 A submission, unless a different intention is expressed therein, shall be irrevocable, except by leave of the Court.
+
+Submission to be irrevocable except by leave of Court
 
 #### Section 4 — Provisions implied in submissions
 
 A submission, unless a different intention is expressed therein, shall be deemed to include the provisions set forth in the First Schedule, in so far as they are applicable to the reference under submission.
 
-#### Section 5 — Reference to arbitrator to be appointed by third person
+#### Section 5
 
 The parties to a submission may agree that the reference shall be to an arbitrator or arbitrators to be appointed by a person designated therein. Such person may be designated either by name or as the holder for the time being of any office or appointment.
+
+Reference to arbitrator to be appointed by third person
 
 #### Section 6 — Where any party to a submission to which this Part applies, or any person
 
@@ -269,11 +273,13 @@ to state a special case for the opinion of the Court, on any question of law inv
 
 to correct in an award any clerical mistake or error arising from any accidental slip or omission.
 
-#### Section 11 — Award to be signed and filed
+#### Section 11
 
 (1) When the arbitrators or umpire have made their award, they shall sign it, and shall give notice to the parties of the making and signing thereof, and of the amount of the fees and charges payable to the arbitrators or umpire in respect of the arbitration and award.
 
 Power of arbitrator or umpire
+
+Award to be signed and filed
 
 (2) The arbitrators or umpire shall, at the request of any party to the submission or any person claiming under him, and upon payment of the fees and charges due in respect of the arbitration and award, and of the costs and charges of filing the award, cause the award or a signed copy of it, to be filed in the Court; and notice of the filing shall be given to the parties by the arbitrators or umpire.
 
@@ -299,9 +305,11 @@ The time for making an award may, from time to time, be enlarged by order of the
 
 Where an arbitrator or umpire has misconducted himself, or an arbitration or award has been improperly procured, the Court may set aside the award.
 
-#### Section 16 — Award when filed to be enforceable as a decree
+#### Section 16
 
 (1) An award on a submission on being filed in the Court in accordance with the foregoing provisions, shall (unless the Court remits it to the reconsideration of the arbitrators or umpire, or sets it aside) be enforceable as if it were a decree of the Court.
+
+Award when filed to be enforceable as a decree
 
 (2) An award may be conditional or in the alternative.
 
@@ -337,9 +345,11 @@ the staying of any suit or proceeding in contravention of a submission to arbitr
 
 the general conduct of all proceedings in court under this Act.
 
-#### Section 21 — State to be bound
+#### Section 21
 
 The provisions of this Part shall be binding on the State. (As amended by S.I. No. 152 of 1965)
+
+State to be bound
 
 #### Section 22 — Application of Part II to arbitration under certain contracts
 
@@ -357,7 +367,7 @@ Nothing in this Part shall affect any matter already referred to arbitrators at 
 
 ### PART III — PROVISIONS RELATING TO THE PROTOCOL SET FORTH IN THE THIRD SCHEDULE
 
-#### Section 25 — Staying of court proceedings in respect of matters to be referred to arbitration
+#### Section 25
 
 Notwithstanding anything in Part II herein, if any party to a submission made in pursuance of an agreement to which the Protocol on arbitration signed on behalf of His Britannic Majesty at a meeting of the Assembly of the League of Nations on the 24th September, 1923, which Protocol is set forth in the Third Schedule, applies, or any person claiming through or under him, commences any legal proceedings in any court against any other party to the submission or any person claiming through or under him, in respect of any matter agreed to be referred, any party to such legal proceedings may at any time after appearance, and before delivering any pleadings or taking other steps in the proceedings, apply to that court to stay the proceedings, and that court, unless satisfied that the agreement or arbitration has become inoperative or cannot proceed, or that there is not in fact any dispute between the parties with regard to the matter agreed to be referred, shall make an order staying the proceedings. (As amended by S.I. No. 152 of 1965)
 

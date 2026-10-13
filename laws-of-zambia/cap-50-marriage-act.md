@@ -293,9 +293,11 @@ No marriage shall be solemnised unless notice of the intended marriage shall hav
 
 If the person giving such notice is unable to write, it shall be sufficient if he place his mark or cross thereto in the presence of some literate person who shall attest the same, which attestation shall be in the prescribed form.
 
-#### Section 8 — Forms of notice to be supplied
+#### Section 8
 
 Every Registrar shall supply forms of notice gratuitously to any persons applying for the same.
+
+Forms of notice to be supplied
 
 #### Section 9 — Entry in Notice Book and publication of notice
 
@@ -355,9 +357,11 @@ The High Court may, in its discretion if it shall consider that a caveat has bee
 
 CONSENT TO MARRIAGE IN CERTAIN CASES NECESSARY
 
-#### Section 17 — When consent to marriage is necessary
+#### Section 17
 
 If either party to an intended marriage, not being a widower or widow, is under twenty-one years of age, the written consent of the father, or if he be dead or of unsound mind or absent from Zambia, of the mother, or if both be dead or of unsound mind or absent from Zambia, of the guardian of such party shall be produced and shall be annexed to the affidavit required under sections ten and twelve and, save as is otherwise provided in section nineteen, no special licence shall be granted or certificate issued without the production of such consent.
+
+When consent to marriage is necessary
 
 (As amended by G.N. No. 316 of 1964)
 
@@ -391,9 +395,11 @@ Marriages may be solemnised in any licensed place of worship by any licensed min
 
 (No. 11 of 1937 as amended by No. 48 of 1953)
 
-#### Section 21 — Registrar's certificate or special licence to be provided to minister
+#### Section 21
 
 A minister shall not solemnise any marriage if he knows of any just impediment to such marriage nor until the parties deliver to him the Registrar's certificate or the special licence, as the case may be.
+
+Registrar's certificate or special licence to be provided to minister
 
 (As amended by G.N. No. 316 of 1964)
 
@@ -451,7 +457,7 @@ REGISTRY AND EVIDENCE OF MARRIAGES
 
 The Registrar-General may correct any clerical error in any certificate of marriage filed in his office and in the Marriage Register Book upon production to him of the certificate delivered to the parties, and shall authenticate every such correction by his signature and the date of such correction.
 
-#### Section 31 — Certificate of marriage to be evidence
+#### Section 31
 
 Every certificate of marriage which shall have been filed in the office of the Registrar-General, or a copy thereof purporting to be signed and certified as a true copy by the Registrar-General for the time being, and every entry in a Marriage Register Book or copy thereof certified as aforesaid, shall be admissible as evidence of the marriage to which it relates in any court of justice or before any person now or hereafter having by law or consent of parties authority to hear, receive and examine evidence.
 
@@ -527,7 +533,7 @@ day of
 
 19 (Signed A.B.)
 
-#### Section 37 — Costs of transmission of records, etc
+#### Section 37
 
 The Minister may defray out of the general revenues of the Republic all proper expenses connected with the transmission or delivery of the said registers or which may otherwise become necessary to be incurred in carrying out the provisions of this Act.
 
@@ -561,9 +567,11 @@ Provided that this section shall not extend to any person who contracts a marria
 
 Whoever being unmarried goes through the ceremony of marriage with a person whom he or she knows to be married to another person shall be liable on conviction to imprisonment with or without hard labour for a period not exceeding five years.
 
-#### Section 40 — False declarations, etc
+#### Section 40
 
 Whoever in any affidavit, declaration, licence, document or statement by law, to be made or issued for the purposes of a marriage, swears, declares, enters, certifies or states any material matter which is false shall, if he does so without having taken reasonable means to ascertain the truth or falsity of such matter, be liable on conviction to imprisonment with or without hard labour for one year or shall, if he does so knowing that such matter is false, be liable on conviction to imprisonment with or without hard labour for a period not exceeding five years.
+
+False declarations, etc.
 
 #### Section 41 — Whoever endeavours to prevent a marriage by falsely pretending that his
 
@@ -629,9 +637,11 @@ Rules
 
 (As amended by No. 36 of 1950 and G.N. No. 316 of 1964)
 
-#### Section 47 — Ministers may receive fees
+#### Section 47
 
 Nothing herein contained shall preclude a minister from receiving the fees ordinarily paid to a minister of his denomination for the solemnisation of marriage.
+
+Ministers may receive fees
 
 #### Section 48 — Notice when solemnisation intended in United Kingdom
 

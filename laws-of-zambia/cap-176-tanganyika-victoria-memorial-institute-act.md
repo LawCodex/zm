@@ -101,9 +101,11 @@ TANGANYIKA VICTORIA MEMORIAL INSTITUTE An Act to make further provision for the 
 
 This Act may be cited as the Tanganyika Victoria Memorial Institute Act.
 
-### Section 2 — Building to be known as the Tanganyika Victoria Memorial Institute
+### Section 2
 
 The building (hereinafter referred to as "the Institute") erected at Mbala by public subscription to the memory of Her late Most Gracious Britannic Majesty Queen Victoria, shall continue to be known as "The Tanganyika Victoria Memorial Institute" and may be used as a Library, Museum, and Sports and Social Club.
+
+Building to be known as the Tanganyika Victoria Memorial Institute
 
 ### Section 3 — The Institute together with the land being subdivision No. T56 in the Mbala
 

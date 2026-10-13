@@ -499,7 +499,7 @@ where the applicant is the personal representative of a deceased registered owne
 
 in every other case it shall be lawful for the Registering Officer, if he so thinks proper, to refuse the application on the ground that the applicant was previously a registered owner of another plant and while he was so registered the said registration was cancelled by the Registering Officer under this Act; and it shall further be lawful for the Registering Officer to refuse such application upon any other ground which he deems to be a reasonable ground for refusal to register a person as registered owner upon application for first registration of any plant under this Act.
 
-#### Section 13 — Cancellation of registration of plant, etc
+#### Section 13
 
 If the Registering Officer is satisfied-
 
@@ -525,9 +525,11 @@ he may cancel the registration of such plant and of the registered owner thereof
 
 Provided that nothing shall be construed to oblige or impose a duty upon the said Registering Officer at any time to exercise the powers by this section conferred upon him.
 
-#### Section 14 — Reasons for refusal to register, etc.: when to be furnished
+#### Section 14
 
 (1) Any aggrieved party may, in writing, request the Registering Officer to furnish his reasons for refusing, imposing conditions upon or cancelling any registration under this Act.
+
+Reasons for refusal to register, etc.: when to be furnished
 
 (2) Within seven days after the receipt of such request, the Registering Officer shall furnish, in writing, to the aggrieved party the reasons-
 
@@ -807,7 +809,7 @@ shall be guilty of an offence.
 
 ### PART V — MANUFACTURE, PROCESSING AND SALE OF FARMING REQUISITES
 
-#### Section 27 — Prohibition against production of farming requisites or sterilising of bone, etc.,
+#### Section 27
 
 (1) Any person who, by any process, in any plant not registered under this Act, purports-
 
@@ -837,9 +839,11 @@ Any person who sells any farming requisite in bulk and who at the time of delive
 
 Prohibition against sale of farming requisites in bulk without prescribed statement of analysis of bulk material
 
-#### Section 30 — Ingredients of farming requisites sold under trade name, etc., to be disclosed
+#### Section 30
 
 (1) Where any farming requisite is sold in containers or packages, under any trade name, trade mark, trade label or trade brand which is the property of, or exclusive to, the packer thereof, whether he is the manufacturer, processor, compounder or mixer of the said farming requisite, or otherwise, or whether the said trade name is in common use in the trade as a general description of a compound or mixture of certain chemical or other ingredients, there shall appear in legible letters and figures on the outside surface of each such container or package, or on a label attached thereto, a statement disclosing the prescribed analysis of the said farming requisite.
+
+Ingredients of farming requisites sold under trade name, etc., to be disclosed
 
 (2) Any person who sells any farming requisite in a container or package under any trade name, trade mark, trade label or trade brand and who fails to comply with the provisions of this section shall be guilty of an offence.
 
@@ -879,7 +883,7 @@ Statement required of intended purchaser of non-sterilised bone, etc.
 
 (2) Any person who fails to comply with the provisions of this section shall be guilty of an offence.
 
-#### Section 35 — Statement required of intended purchaser of non-sterilised bone, etc
+#### Section 35
 
 (1) Any person who, for any purpose, intends to buy any bone or other substance derived from animal carcass which has not been sterilised as prescribed, shall furnish to the intended seller a statement in writing, signed by such person or his agent, stating the purpose or purposes for which the said bone or other substance is intended to be used.
 
@@ -887,7 +891,7 @@ Prohibition against sale of non-sterilised bone, etc.
 
 (2) Any person who fails to comply with the provisions of this section shall be guilty of an offence
 
-#### Section 36 — Prohibition against sale of non-sterilised bone, etc
+#### Section 36
 
 (1) No person shall sell any bone or other substance derived from animal carcass which has not been sterilised as prescribed, if the statement provided for under the provisions of section thirty-five has not been furnished as prescribed, or, if furnished, it shows that the said bone or other substance is intended for use in the manufacture or processing of, or as an ingredient in, any farming requisite:
 
@@ -899,7 +903,7 @@ Provided that this section shall not apply if at the time of such sale, the purc
 
 (3) Any person who fails to comply with the provisions of subsection (1) shall be guilty of an offence.
 
-#### Section 37 — Certificate of sterilisation of bone, etc., to be produced for inspection
+#### Section 37
 
 (1) Save as provided by the proviso to subsection (1) of section thirty-six, any person who sells any bone or other substance derived from animal carcass for use in the manufacture or processing of, or as an ingredient in, any farming requisite, shall, upon request, produce for inspection by the purchaser or by an inspector or duly authorised officer, the certificate of sterilisation issued as prescribed in respect of the said bone or other substance.
 
@@ -1159,7 +1163,7 @@ Failure to comply with Act or regulations an offence
 
 Prohibition against tampering with samples
 
-#### Section 45 — Prohibition against altering, defacing or removing official records, etc
+#### Section 45
 
 Any person who shall, without lawful authority, alter, deface or remove-
 
@@ -1170,6 +1174,8 @@ any register, roll, index or other such official record maintained in pursuance 
 (b)
 
 any entry appearing in any such register, roll, index or other such official record;
+
+Prohibition against altering, defacing or removing official records, etc.
 
 shall be guilty of an offence.
 

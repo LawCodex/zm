@@ -839,9 +839,11 @@ Provided that any person whose claim to have a water right registered has been r
 
 (4) No claim for the registration of an existing water right submitted later than twelve months after the commencement of this Act shall be considered by the Water Officer unless the Minister is satisfied that special circumstances existed preventing the person making his claim within the specified period. (As amended by G.N. No. 277 of 1964)
 
-#### Section 50 — Rights to be void for want of registration
+#### Section 50
 
 Any water right or appurtenant right required to be registered by any of the provisions of this Act and not registered within the proper time shall be null and void.
+
+Rights to be void for want of registration
 
 #### Section 51 — Forfeiture of rights
 
@@ -869,9 +871,11 @@ the owner has been given an opportunity to be heard either personally or by coun
 
 the owner has been given an opportunity to remedy the breach if the forfeiture or variation is due to a breach of a condition imposed under this Act and the breach is capable of being remedied. (No. 39 of 1950)
 
-#### Section 52 — Service of notices, orders, etc
+#### Section 52
 
 Any notice, order or other document required by this Act to be given to or served upon any person shall be deemed to be effectively served if delivered personally to such person or left at his abode or place of business, or sent by registered letter to his address or, if such person is absent from Zambia and has left no known representative, by publication in the Gazette. Service upon a person authorised to represent another shall be deemed to be service upon the person whom he represents, and, in the case of a company or syndicate having no domicile or office in Zambia, any person in charge of its property shall be deemed to be its representative:
+
+Service of notices, orders, etc.
 
 Provided that nothing in this section shall prevent any person who has not been personally served with a notice, order or other document from proving that, through no fault of his own or of his representative, such notice, order or other document never came to his knowledge.
 

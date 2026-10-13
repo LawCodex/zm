@@ -211,9 +211,11 @@ FINANCIAL PROVISIONS RELATING TO BOARD
 
 It shall be the object of the Board so to exercise its functions and conduct its business as to ensure that its revenues, taking one year with another, are not less than sufficient to enable the Board to meet the outgoings of the Board properly chargeable to revenue account and to make the provision which is required to be made by the Board in terms of sections four and five.
 
-#### Section 4 — Board to make certain charges to revenue account, etc
+#### Section 4
 
 (1) The Board shall charge to its revenue account all charges which in the normal conduct of business are regarded as proper to be made to revenue account and, in so doing, shall make in each financial year proper provision for-
+
+Board to make certain charges to revenue account, etc.
 
 (a)
 
@@ -269,7 +271,7 @@ with the approval of the Minister, to meet such expenses as may be incurred by t
 
 Establishment of levy fund
 
-#### Section 10 — Income of Board exempt from income tax, etc
+#### Section 10
 
 The income of the Board from whatever source shall be exempt from any tax leviable under the Income Tax Act.
 
@@ -345,7 +347,7 @@ Functions of Board
 
 (2) The Minister may approve the exercise by the Board of the power to do a thing specified in the Schedule either generally or specially.
 
-#### Section 16 — Appointment of manager, etc
+#### Section 16
 
 For the better exercise of the functions and powers of the Board, the Board-
 
@@ -356,6 +358,8 @@ shall appoint a person, approved by the Minister, as manager in whom, subject to
 (b)
 
 may, within or outside Zambia, employ such persons, other than a manager, and appoint such agents as the Board may consider expedient for the purpose.
+
+Appointment of manager, etc.
 
 (As amended by G.N. No. 91 of 1964)
 
@@ -417,7 +421,7 @@ Payment, collection and remittal of levy
 
 (2) A levy shall be remitted to the Board.
 
-#### Section 21 — Minister may make different provision in respect of different classes of dairy
+#### Section 21
 
 (1) In prescribing the persons, the rate of a levy and other matters which by this Part are required or permitted to be prescribed, the Minister may-
 
@@ -741,9 +745,11 @@ butterfat, cream or milk delivered to a depot referred to in paragraph (a) of su
 
 at such prices as the Board may deem expedient. (As amended by No. 32 of 1962 and G.N. No. 91 of 1964)
 
-#### Section 32 — Information to be confidential
+#### Section 32
 
 No. information contained in any contract entered into by the Board in the exercise of the functions of the Board or in any return furnished to the Board shall, unless it is ordered to be disclosed by order of a competent court, be disclosed to any person, other than the Minister or an officer of the Board or the Department of Agriculture, without the permission of the Minister.
+
+Information to be confidential
 
 ## SCHEDULE
 

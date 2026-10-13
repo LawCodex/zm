@@ -935,9 +935,11 @@ Disqualifica-tion from election or appointment as officer of trade union
 
 (5) Any person who acts or purports to act as an officer of a trade union after being disqualified under this section to hold office in a trade union shall be guilty of an offence and liable, upon conviction, to a fine not exceeding four hundred penalty units and in addition may be prohibited from holding office in any trade union for a period determined by the Court. (As amended by Act No. 13 of 1994)
 
-#### Section 19 — Information about elections of trade union, etc
+#### Section 19
 
 (1) Where a trade union holds an election to fill any office, the trade union shall, within thirty days of the election or appointment, notify, in writing, the Commissioner, and the Congress, if the trade union is affiliated to it, of the result of the election or appointment, as the case may be.
+
+Information about elections of trade union, etc
 
 (2) Failure to comply with subsection (1) shall render the executive officer of the trade union guilty of an offence and liable, upon conviction, to a fine not exceeding ten penalty units for every day during which such failure continues.
 
@@ -1081,7 +1083,7 @@ Qualification and disqualification from election or appointment as officer of Co
 
 (5) Any person disqualified under this section to hold office in the Congress who acts or purports to act as an officer of the Congress, shall be guilty of an offence and shall be liable, upon conviction, to a fine not exceeding four hundred penalty units and may be prohibited from holding office in a trade union for a period determined by the Court. (As amended by Act No. 13 of 1994)
 
-#### Section 31 — Information about elections of Congress etc
+#### Section 31
 
 (1) Where the Congress holds an election to fill any office in the Congress or makes an appointment to any office, the executive officer of the Congress shall, within thirty days of such election or appointment, notify the Federation and the Commissioner, in writing, of such appointment or of the result of such election, as the case may be.
 
@@ -1505,9 +1507,11 @@ Annual report or accounts of Federation
 
 ### PART VI — FUNDS OF TRADE UNIONS, CONGRESS, ASSOCIATION AND FEDERATION
 
-#### Section 61 — Objectives for which funds shall not be expended
+#### Section 61
 
 (1) Notwithstanding anything contained in the constitution of a trade union, the Congress, an association or the Federation, the funds of a trade union, the Congress, an association or the Federation, shall be expended for the lawful objects authorised under the constitution of the trade union, Congress, association or Federation.
+
+Objectives for which funds shall not be expended
 
 (2) Any member of, a trade union, the Congress, an association or the Federation may apply to the Court for a declaration to stop a trade union, the Congress, an association or the Federation from applying its funds to objects which in his opinion have not been authorised by its constitution.
 
@@ -1757,7 +1761,7 @@ the other party has formally rejected the claims or demands and has made no coun
 
 both the parties to the dispute have held at least one meeting with a view to negotiating a settlement of the dispute, but have failed to reach settlement on all or some of the matters in issue between them.
 
-#### Section 76 — Dispute to be referred to conciliator, board of conciliation or to Court
+#### Section 76
 
 (1) Where a collective dispute arises and neither of the parties to the dispute is engaged in an essential service, the parties to the dispute shall refer the dispute to-
 
@@ -2191,9 +2195,11 @@ Cap. 87
 
 (As amended by Act No. 13 of 1994
 
-#### Section 104 — Obstructing Commissioner, etc
+#### Section 104
 
 Any person who wilfully obstructs or hinders the Commissioner, or any other person, in the exercise of any of his powers under this Act shall be liable, upon conviction, to a fine not exceeding four hundred penalty units and may be prohibited from holding office in a trade union or association for such period as the Court may determine.
+
+Obstructing Commissioner, etc
 
 #### Section 105 — Prosecution of offences
 

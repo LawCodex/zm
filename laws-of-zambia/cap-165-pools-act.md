@@ -69,9 +69,11 @@ In this Act, unless the context otherwise requires-
 
 "pool" means any competition organised for the gain of the promoter in which for a monetary or other material reward the public are invited to foretell the result of any race, game or event, and includes a pool operated on the system known as a fixed odds betting pool on the result of any race, game or event.
 
-### Section 3 — Minister may issue licences to conduct pools
+### Section 3
 
 (1) The Minister may, in his discretion, issue a licence to any person to promote a pool within the Republic or to act within the Republic in respect of pools promoted outside the Republic as the agent of the promoter thereof.
+
+Minister may issue licences to conduct pools
 
 (2) The Minister may, in his discretion, attach conditions to any licence issued under this section and, without prejudice to the generality of the foregoing, such conditions may require the payment to the Government by the licensee of fees and other moneys.
 
@@ -91,9 +93,11 @@ Provided that the publication of any such advertisement or notice in a newspaper
 
 (4) Any person who prints or who sends or gives to any person any coupon relating to an unauthorised pool shall be guilty of an offence and shall be liable to a fine not exceeding one thousand five hundred penalty units. (As amended by Act No. 13 of 1994)
 
-### Section 5 — Promoters of pools and agents of promoters to be licensed
+### Section 5
 
 (1) No person shall carry on any business involving the receiving or negotiating of bets made by way of pool betting unless he is the holder of a valid licence as a pool promoter or pools agent issued under this Act.
+
+Promoters of pools and agents of promoters to be licensed
 
 (2) Any person who contravenes the provisions of this section shall be guilty of an offence and liable to a fine not exceeding fifteen thousand penalty units or to imprisonment for a term not exceeding two years, or to both
 

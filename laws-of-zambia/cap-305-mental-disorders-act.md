@@ -293,13 +293,15 @@ Authority for detention of patients Cap. 88
 
 (As amended by G.N. No. 159 of 1964)
 
-#### Section 7 — Magistrate may order apprehension in certain cases
+#### Section 7
 
 (1) A magistrate having jurisdiction, if satisfied upon information on oath that a person is apparently mentally disordered or defective and is-
 
 (a)
 
 dangerous to himself or to others; or
+
+Magistrate may order apprehension in certain cases
 
 (b)
 
@@ -309,11 +311,13 @@ may by warrant require an officer to apprehend such person and bring him before 
 
 (2) The magistrate before whom a person is brought in accordance with the provisions of this section shall forthwith institute an inquiry.
 
-#### Section 8 — Officer may apprehend without warrant in certain cases
+#### Section 8
 
 (1) An officer, if he has reason to believe that a person apparently mentally disordered or defective is-
 
 (a)
+
+Officer may apprehend without warrant in certain cases
 
 dangerous to himself or to others; or
 
@@ -341,7 +345,7 @@ Provided that such person shall not be conveyed to, or received in, a prison unl
 
 (4) Where it appears to a magistrate by whom an inquiry has been commenced that, owing to circumstances to be entered on the record of the inquiry, it is expedient for the inquiry to be continued by another magistrate, he shall adjourn the inquiry and refer the record to such other magistrate, and such other magistrate shall thereupon, subject to any directions in that behalf which may be given by the High Court, and which the High Court is hereby empowered to give, continue the inquiry and conclude the same in accordance with the provisions of this Act.
 
-#### Section 10 — Magistrate may interrogate patient and must obtain certificate
+#### Section 10
 
 The magistrate may, in his discretion, himself interrogate the patient at the patient's place of abode or elsewhere, and shall, whether or not he makes such interrogation, direct any two medical practitioners to examine the patient. Such medical practitioners shall each furnish a certificate in the prescribed form within fourteen days (or such further time as the magistrate directs) stating whether in the medical practitioners' opinion the patient is either(a)
 
@@ -613,9 +617,11 @@ Failure to comply with order
 
 An appeal shall lie to the High Court against any order made by a magistrate under this Act at the suit of any person aggrieved by such order, in accordance with the practice and procedure for the time being in force for criminal appeals from the subordinate courts to the High Court.
 
-#### Section 31 — Husband, wife or relative may apply to Court for inquiry
+#### Section 31
 
 Nothing in this Act contained shall prevent any husband, wife or other relative of any person alleged to be mentally disordered or defective, or any friend of such person who has no husband, wife or near relative at or near the place where such person is residing, from applying by petition directly to the Court for an inquiry into such person's mental condition, and the Court may make such order as it thinks fit.
+
+Husband, wife or relative may apply to Court for inquiry
 
 #### Section 32 — Limitations of actions by patients
 

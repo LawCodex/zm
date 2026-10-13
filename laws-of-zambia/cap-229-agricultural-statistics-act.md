@@ -101,7 +101,7 @@ In this Act, unless the context otherwise requires-
 
 "statistics" means the information which may be collected of and incidental to matters specified in or prescribed under section three.
 
-### Section 3 — Statistics that may be collected
+### Section 3
 
 (1) Subject to the provisions of this Act and to the directions of the Minister, statistics or estimates shall be collected from time to time in relation to all or any of the following matters:
 

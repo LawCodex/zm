@@ -227,7 +227,7 @@ Cap. 441
 
 ### PART II — POWERS AND DUTIES OF CORONERS
 
-#### Section 3 — Who may hold inquests
+#### Section 3
 
 (1) Every magistrate having authority under the provisions of the Subordinate Courts Act to hold a subordinate court of the first, second or third class may hold inquests under this Act.
 
@@ -251,9 +251,11 @@ if he is appointed to hold inquests in terms of subsection (2), within such area
 
 Who may hold inquests. Cap. 28
 
-#### Section 4 — When inquest to be held
+#### Section 4
 
 Whenever a coroner is credibly informed that the body of a deceased person is lying within his jurisdiction, and that there is reasonable cause to suspect that such person has died either a violent or an unnatural death, or in prison or in police custody, or in any place or circumstances which, in the opinion of the coroner, makes the holding of an inquest necessary or desirable, such coroner shall, except as otherwise provided in this Act, hold an inquest on such body as soon as is practicable.
+
+When inquest to be held
 
 #### Section 5 — Power to dispense with inquest in certain cases
 
@@ -311,9 +313,11 @@ When a coroner has reason to believe that a death has occurred in the area withi
 
 (As amended by No. 3 of 1963)
 
-#### Section 11 — Coroner may postpone burial or cremation till after inquest
+#### Section 11
 
 A coroner may prohibit the burial or cremation of any body lying within his jurisdiction until an inquest shall have been held.
+
+Coroner may postpone burial or cremation till after inquest
 
 #### Section 12 — Notice of death
 
@@ -321,17 +325,19 @@ When any body is found or a person has died in such circumstances as to make the
 
 (As amended by Act No. 13 of 1994)
 
-#### Section 13 — Coroner may call for statements recorded by police officers
+#### Section 13
 
 (1) Where a death has occurred in such circumstances that an inquest is required or ought to be held under the provisions of this Act, the coroner having jurisdiction may direct any police officer having charge of or concerned in an investigation into the death to produce to the coroner, prior to the holding of the inquest, any statement made to, and recorded in writing by, such police officer by any person having knowledge of the circumstances, the cause of the death or the identity of the deceased, as the case may be, and the coroner may postpone the holding of the inquest for such time as may be necessary to enable him to obtain and peruse any such statement.
 
 (2) A coroner to whom a statement is produced under subsection (1) shall, before holding the inquest, return the statement to the police officer by whom it is so produced and may, at the same time, notify him of the name of any person whose attendance at the inquest will not be required unless otherwise ordered:
 
+Coroner may call for statements recorded by police officers
+
 Provided that nothing in this section shall be construed as to prohibit the attendance at the inquest of any such person if he desires to attend. (No. 43 of 1966)
 
 ### PART IV — POST-MORTEM EXAMINATION
 
-#### Section 14 — Coroner may direct post-mortem examinations
+#### Section 14
 
 (1) If any coroner considers it necessary with a view to investigating the circumstances of the death of any person, to obtain a medical report on the appearance of the body of such person, and as to the conclusions to be drawn therefrom, he may, by written order in Form 2 in the Schedule, require any Government Medical Officer within or without his jurisdiction or any other medical practitioner within his jurisdiction to make an examination of the body and to report thereon:
 
@@ -385,7 +391,7 @@ Provided that, when an inquest on the body has been previously opened, it shall 
 
 (4) In any case in which the coroner himself has viewed the body, he shall certify the fact upon the record of the inquest and in other cases he shall record evidence (if any) of the view of the body by a police officer, medical practitioner, chief, headman, district messenger or other trustworthy person.
 
-#### Section 18 — Coroner may summon witnesses
+#### Section 18
 
 (1) A coroner holding an inquest shall have and may exercise all the powers conferred upon a court by the Criminal Procedure Code with regard to summoning and compelling the attendance of witnesses and requiring them to give evidence, and with regard to the production of any document or thing at such inquest.
 
@@ -407,9 +413,11 @@ A coroner holding an inquest shall not be bound by any rules of evidence which m
 
 The coroner shall take down or cause to be taken down in his presence the evidence of every witness and such evidence shall be read over to such witness and shall be signed by him and by the coroner.
 
-#### Section 21 — Statements recorded by police officers may be admitted as evidence in inquest
+#### Section 21
 
 Where, upon hearing the evidence of a police officer having charge of or concerned in an investigation into the death of the deceased person, the coroner is satisfied that-
+
+Statements recorded by police officers may be admitted as evidence in inquest
 
 (a)
 
@@ -547,9 +555,11 @@ Provided that nothing in this subsection shall preclude the coroner from making 
 
 If, at the close of any inquest, the coroner is of opinion that there is ground for suspecting that some person is guilty of an offence in respect of the matter inquired into, but cannot ascertain who such person is, he shall certify his opinion to that effect and transmit a copy of the proceedings to the Commissioner of Police.
 
-#### Section 30 — Where guilty party cannot be found
+#### Section 30
 
 Where the proceedings upon any inquest have been transmitted to the Commissioner of Police under section twenty-nine and the guilty person remains undiscovered, and if, in the opinion of the Commissioner of Police, there is no probability that such person will be discovered, he shall certify his opinion to that effect and transmit the copy of the proceedings to the Director of Public Prosecutions.
+
+Where guilty party cannot be found
 
 (As amended by S.I. No. 72 of 1964)
 
@@ -599,15 +609,19 @@ quash any inquest, with or without ordering a new inquest to be held.
 
 ### PART VI — MISCELLANEOUS
 
-#### Section 34 — Penalty where body is buried without authority
+#### Section 34
 
 (1) Any person who, without lawful authority or excuse inters or cremates any body, the burial or cremation of which has been prohibited under section eleven, or the body of any person who has died in police custody or in any prison, or of any person who has died in any of the circumstances mentioned in section four, shall be guilty of an offence and on conviction shall be liable to a fine not exceeding seven hundred and fifty penalty units.
 
+Penalty where body is buried without authority
+
 (2) Where any person is charged with having committed an offence under this section, the onus of proving that he had lawful authority or excuse shall be on the person charged. (As amended by Act No. 13 of 1994)
 
-#### Section 35 — Obstructing medical officer, etc
+#### Section 35
 
 Any person who obstructs a medical practitioner, police officer, chief, headman or district messenger in the execution of any duty imposed upon him by this Act shall be guilty of an offence and on conviction shall be liable to a fine not exceeding seven hundred and fifty penalty units.
+
+Obstructing medical officer, etc.
 
 (As amended by Act No. 13 of 1994)
 

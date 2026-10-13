@@ -135,7 +135,7 @@ In an action for slander in respect of words imputing unchastity or adultery to 
 
 Provided that in any such action a plaintiff shall not recover more costs than damages unless the court before which the action is brought shall certify that there was reasonable ground for bringing the action.
 
-#### Section 5 — Slander of title, etc
+#### Section 5
 
 (1) In an action for slander of title, slander of goods or other malicious falsehood, it shall not be necessary to allege or prove special damage-
 

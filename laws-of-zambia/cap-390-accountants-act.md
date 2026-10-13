@@ -513,11 +513,13 @@ Provided that if the urgency of any particular matter does not permit the giving
 
 (3) Subject to the provisions of the constitution and any specific or general directions of the Council, a committee established in accordance with this section may regulate its own procedure.
 
-#### Section 15 — Remuneration and allowances of Council members, etc
+#### Section 15
 
 (1) A council member, or a member of any committee of the Council, other than a public officer or an employee of a parastatal body, shall be paid such remuneration or allowance as may be approved from time to time in accordance with the constitution.
 
 (2) For the purposes of this section, "parastatal body" means a statutory corporation or body, or a company in which the Government has a majority or controlling interest, and includes a local authority.
+
+Remuneration and allowances of Council members, etc.
 
 #### Section 16 — Secretary and other staff
 

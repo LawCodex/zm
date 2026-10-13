@@ -584,7 +584,7 @@ Prohibition of sale, consumption, etc. of liquor except during permitted hours
 
 (3) A person who contravenes subsection (1), commits an offence and is liable, upon conviction, to a fine not exceeding one hundred thousand penalty units.
 
-### Section 30 — Liquor of kind not authorised by licence not to be kept on
+### Section 30
 
 (1) A licensee shall not, without reasonable excuse, have in the licensee’s possession on the licensed premises any liquor of a kind not authorised by the licence.
 
@@ -636,7 +636,7 @@ Liquor Licensing
 
 (2) A person who contravenes this section commits an offence and is liable, upon conviction, to a fine not exceeding two hundred thousand penalty units.
 
-### Section 35 — Persons under eighteen years not to be employed in bars
+### Section 35
 
 (1) A licensee shall not employ in the licensed premises, a child or a person whose licence has been forfeited under this Act.
 
@@ -666,7 +666,7 @@ Liquor Licensing
 
 (4) A person who contravenes this section commits an offence and is liable, on a first conviction, to a fine not exceeding five hundred thousand penalty units and, on a subsequent conviction, to a fine not exceeding seven hundred thousand penalty units.
 
-### Section 37 — Licensee not to permit drunkenness, etc
+### Section 37
 
 (1) A licensee shall not permit any violent, quarrelsome or riotous conduct to take place on the licensed premises.
 
@@ -686,7 +686,7 @@ Power to exclude drunkards, etc. from licensed premises
 
 (2) If a person liable to be expelled from any licensed premises under the provisions of this section if requested by the licensee or the licensee’s employee or agent or any police officer to leave the premises fails to do so, the person commits an offence and is liable, upon conviction, to a fine not exceeding one hundred thousand penalty units.
 
-### Section 39 — Prohibition of using licensed premises to be brothel
+### Section 39
 
 (1) A licensee shall not use licensed premises as a brothel.
 
@@ -718,7 +718,7 @@ Forfeiture of licence by Minister
 
 Disposal of stock in hand where licence is forfeited
 
-### Section 42 — Disposal of stock in hand where licence is forfeited
+### Section 42
 
 Where a licence is forfeited under any provision of this Act, the principal officer of the District in which the licensed premises concerned are situated shall, upon the application of the licensee whose licence is forfeited, in writing, permit the licensee to dispose of the licensee’s stock in hand at the date the forfeiture takes effect during the period of one month from that date, and thereupon the provisions of this Act relating to the regulation of licensees shall, during that period, apply to the person so permitted as they apply to a licensee.
 

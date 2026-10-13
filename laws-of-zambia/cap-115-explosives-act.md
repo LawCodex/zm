@@ -299,7 +299,7 @@ Provided that where any person is desirous of making explosives for experimental
 
 (5) Any person who wilfully obstructs or resists any officer in the lawful exercise of any power conferred upon, or in the lawful execution of any duty imposed upon, such officer by this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding twenty five thousand penalty units or to imprisonment not exceeding two and a half years or to both. (As amended by Acts No. 13 of 1994 and 14 of 1995)
 
-#### Section 12 — Authorisation of and entry to and search of premises where explosives are
+#### Section 12
 
 (1) For the purpose of this section, "building or other premises" shall not include any building or premises used as a dwelling-house or as a recreation hall, theatre or other similar place of entertainment.
 

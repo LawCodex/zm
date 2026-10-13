@@ -139,7 +139,7 @@ In this Act, unless the context otherwise requires-
 
 ### PART II — APPOINTMENT OF SHERIFFS AND OTHER OFFICERS
 
-#### Section 3 — Appointment of Sheriff, Deputy Sheriffs, etc
+#### Section 3
 
 (1) The Judicial Service Commission may appoint-
 
@@ -215,9 +215,11 @@ A bailiff shall, within the bailiwick for which he is appointed, serve writs or 
 
 (As amended by Act No. 3 of 1989)
 
-#### Section 12 — Sheriffs, etc., to be officers of court
+#### Section 12
 
 The Sheriff and every Deputy Sheriff, Assistant Sheriff, Under-Sheriff and bailiff shall, in the performance of his duties in connection with any writ or process, be an officer of the court by which such writ or process was issued.
+
+Sheriffs, etc., to be officers of court
 
 (As amended by Act No. 3 of 1989)
 
@@ -235,7 +237,7 @@ Delegation of duties
 
 (2) In every case of execution, all steps which may legally be taken therein shall be taken on the demand of the party who issued such execution, and such party shall be liable for any damage arising from any irregular proceeding taken at his instance.
 
-#### Section 15 — Protection of officers selling goods, etc
+#### Section 15
 
 (1) Where any goods in the possession of a judgment debtor at the time of seizure by an officer are sold by such officer without any claim having been made to the same-
 
@@ -246,6 +248,8 @@ the purchaser of the goods so sold shall acquire a good title to those goods; an
 (b)
 
 no person shall be entitled to recover against such officer of any person acting under his authority for any sale of such goods, or for paying over the proceeds of such sale prior to the receipt of a claim to the said goods, unless it is proved that the person from whom recovery is sought had notice or might, by making reasonable inquiry, have ascertained that the goods were not the property of the judgment debtor:
+
+Protection of officers selling goods, etc.
 
 Provided that nothing in this section contained shall affect the right of any claimant who may prove that at the time of sale he had a title to any goods so seized and sold to any remedy to which he may be entitled against any person other than an officer or person acting under the authority of such officer.
 

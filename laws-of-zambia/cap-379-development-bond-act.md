@@ -77,7 +77,7 @@ In this Act, unless the context otherwise requires-
 
 (2) Subject to the provisions of this Act and regulations made thereunder, any issue of bonds made under this section shall be upon the terms and conditions set out in a prospectus for that issue which shall be published in the Gazette and shall be freely available at all places where bonds in that issue are sold.
 
-### Section 4 — Moneys raised to be paid into and debts to be charged on general revenues
+### Section 4
 
 All moneys raised under this Act shall be paid into the general revenues of the Republic and all debt charges arising in connection with the raising of such moneys shall, in accordance with of the Constitution, be charged on those revenues.
 

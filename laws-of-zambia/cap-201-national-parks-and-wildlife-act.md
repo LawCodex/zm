@@ -975,7 +975,7 @@ Signing of attestation
 
 (2) Subject to the other provisions of this Act, every wildlife police officer shall, until he has received a certificate of service, remain in the National Parks and Wildlife Service.
 
-#### Section 10 — Arms, uniform, etc. to be delivered upon ceasing to belong to the Service
+#### Section 10
 
 (1) When a person ceases to be a member of the National Park and Wildlife Service, he shall forthwith deliver up to a person appointed by the Director for that purpose or to the officer-in-charge of the National Parks and Wildlife Service at the place at which he was last stationed, all arms, ammunition, uniform and other appointments which have been supplied to him and which are the property of the Government.
 
@@ -1333,11 +1333,13 @@ if he is of the opinion that the justice of the case so requires, order the re-t
 
 (3) Where any punishment has been suspended under subsection (2) and the offender is found guilty of another offence against discipline during the period of suspension, the suspended punishment shall immediately be carried into effect and shall run consecutively with any other punishment imposed.
 
-#### Section 16 — Disciplinary proceedings to be in writing
+#### Section 16
 
 All proceedings relating to discipline under this Act shall be recorded in writing.
 
-#### Section 17 — Failure to obey summons etc
+Disciplinary proceedings to be in writing
+
+#### Section 17
 
 Any person summoned as a witness under this Act who fails to attend at the time and place stated in the summons, or on any adjournment, or refuses to answer any question that is lawfully put to him, shall be guilty of an offence and shall be liable, upon conviction, to a fine not exceeding eighty penalty units or to imprisonment for a period not exceeding one month, or to both.
 
@@ -1345,13 +1347,17 @@ Failure to obey summons, etc.
 
 (As amended by Act No. 13 of 1994)
 
-#### Section 18 — Fines to be recovered from officer's salary
+#### Section 18
 
 Any fine imposed on a wildlife police officer in respect of any offence against discipline under this Act shall be recovered from the officer's salary in such instalments as the officer in charge of a wildlife police outpost may determine but such instalments shall not exceed one-half of the monthly pay of that officer.
 
-#### Section 19 — Loss or damage to arms to be made good
+Fines to be recovered from officer's salary
+
+#### Section 19
 
 If any wildlife police officer sells, looses or, by neglect, makes away with, or wilfully damages, any arms, ammunition, uniform or other appointment supplied to him, or any Government property committed to his charge, he may, in addition, to or in lieu of, any punishment, be ordered to make good the amount of such loss or damage and such amount may be recovered by instalment from his salary in accordance with section eighteen.
+
+Loss or damage to arms to be made good
 
 #### Section 20 — Pay not to accrue during absence without leave, imprisonment or detention
 
@@ -1907,9 +1913,11 @@ Provided that where the firearm used in the commission of the offence was owned 
 
 (4) For the purpose of this section, the term "bona-fide resident" means a person whose ordinary place of abode is within the game management area, and does not include a person normally living elsewhere notwithstanding that he has a temporary residence of a right in land within the area. (As amended by Act No.13 of 1994)
 
-#### Section 56 — Director may permit hunting in game management area
+#### Section 56
 
 (1) The Director may, with the consent of the Minister, grant to any person or class of persons a permit, in writing, to hunt under his direction any wild animals in a game management area or any part of it, subject to such conditions as the Director may consider necessary to impose.
+
+Director may permit hunting in game management area
 
 (2) Any permit issued under subsection (1) shall specify the species and number of game animals or protected animals which may be hunted under it.
 
@@ -2943,9 +2951,11 @@ Any person who, by way of gift, sale, purchase or otherwise, transfers or obtain
 
 Any trophy to which absolute ownership has not passed to any person under section three, or under any other provision of this Act, shall be a Government trophy for the purposes of this Act.
 
-#### Section 141 — Possession of Government trophy to be reported
+#### Section 141
 
 (1) Any person who obtains possession of any Government trophy shall, as soon as practicable after obtaining possession of it, make a report of his possession of the trophy to the nearest wildlife police officer or such other person as may be nominated in writing in that regard by the Director, and shall, if so required, deliver up, within forty-eight hours of such requirement, the Government trophy to the wildlife police officer or other person, as the case may be.
+
+Possession of Government trophy to be reported
 
 (2) Any person who fails to comply with subsection (1) shall be guilty of an offence.
 
@@ -3171,11 +3181,13 @@ Power of arrest
 
 (4) The provisions of this Act shall be in addition and not in substitution for, or in derogation of, any of the powers, authorities, privileges and advantages, nor in substitution for, or in derogation of, the duties and responsibilities of a wildlife police officer of the rank of scout, at common law.
 
-#### Section 161 — Power to take photographs, measurements, finger prints, etc
+#### Section 161
 
 (1) Any wildlife police officer of or above the rank of Assistant Wildlife Ranger may, on the prescribed form, take or cause to be taken in his presence, for the purpose of record and identification, the measurements, photographs, fingerprints, handprints and footprints of any person in lawful custody.
 
 (2) A wildlife police officer acting in accordance with subsection (1) shall certify on the form prescribed that the fingerprints have been taken by him, or that he has caused them to be taken in his presence, in accordance with the directions contained on the form, and that the particulars entered on the form are, to the best of his knowledge and belief, accurate and true.
+
+Power to take photographs, measurements, finger prints, etc.
 
 (3) All records of the measurements, photographs, fingerprints, handprints and footprints and any negatives and copies of such photographs, or of photographs of such fingerprints, handprints and footprints taken of a person under this section shall, forthwith, be destroyed or handed over to that person, if he is not charged with an offence or is discharged or acquitted by a court, and has not previously been convicted by a court.
 
@@ -3231,9 +3243,11 @@ as authorised under paragraph (b) or (c) unless the wildlife police officer has 
 
 (4) The authority vested in a wildlife police officer by subsection (1) shall be in addition to and not in substitution for any authority to use firearms vested in a wildlife police officer by any other written law.
 
-#### Section 164 — Documents to be produced on request
+#### Section 164
 
 (1) Any licence permit, authority, certificate or other document issued under this Act shall upon request be produced by the holder for inspection by any proper officer or honorary wildlife police officer or any other person duly authorised in writing by the Director.
+
+Documents to be produced on request
 
 (2) Any person who fails to comply with any request made under subsection (1) shall be guilty of an offence.
 
@@ -3259,7 +3273,7 @@ Prohibition of bush or grass fires in National Parks
 
 Provided that this section shall not apply to any wildlife police officer while acting under the written direction of the Director.
 
-#### Section 168 — Prohibition of obstruction of proper officers, etc
+#### Section 168
 
 (1) Any person who-
 
@@ -3405,9 +3419,11 @@ for a first offence, to imprisonment, without the option of a fine, for a term o
 
 for a second or subsequent offence, to imprisonment, without the option of a fine, for a term of not less than seven years but not exceeding fifteen years.
 
-#### Section 178 — Penalty for unlawful hunting or wounding, etc
+#### Section 178
 
 Except as otherwise provided in this Act, any person who is convicted of an offence under Part VIII or Part IX shall be liable upon conviction to a fine not exceeding four hundred penalty units or to a term of imprisonment not exceeding six months, or to both. (As amended by Act No.13 of 1994)
+
+Penalty for unlawful hunting or wounding, etc.
 
 #### Section 179 — Destruction of game-pits, etc., on conviction
 

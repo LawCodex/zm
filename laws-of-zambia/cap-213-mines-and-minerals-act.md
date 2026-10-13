@@ -1793,9 +1793,11 @@ Cap. 283
 
 (3) In this section, "the appropriate authority", in relation to any matter, means the Minister for the time being having responsibility for that matter or such public officer as he may authorise to give the requisite consent on his behalf.
 
-#### Section 57 — Rights under licence or permit to be exercised reasonably
+#### Section 57
 
 Subject to the terms of any access agreement, the rights conferred by a licence or permit shall be exercised reasonably and, except to the minimum extent necessary for the reasonable and proper conduct of the operations concerned, shall not be exercised so as to affect injuriously the interest of any owner or occupier of the land over which those rights extend.
+
+Rights under licence or permit to be exercised reasonably
 
 #### Section 58 — Right to graze stock
 
@@ -1833,7 +1835,7 @@ any part to the dispute may apply to the Director, who may require the parties t
 
 Provided that this subsection shall have effect subject to the terms of any access agreement.
 
-#### Section 61 — Compensation for disturbance of rights, etc
+#### Section 61
 
 Whenever in the course of prospecting or mining operations any disturbance of the rights of the owner or occupier of land or damage to any crops, trees, buildings, stock or works thereon is caused, the owner of the mining right by virtue of which such operations are or were carried out shall be liable to pay to such owner or occupier fair and reasonable compensation for such disturbance or damage according to their respective rights or interests, if any, in the property concerned:
 
@@ -1842,6 +1844,8 @@ Cap. 199
 Provided that(a)
 
 compensation shall not be payable under this section in respect of any indigenous wood or timber taken(i)
+
+Compensation for disturbance of rights, etc.
 
 upon land that has been declared a local forest or a national forest under the provisions of the Forests Act, upon payment of the fees prescribed under that Act; or
 
@@ -2061,7 +2065,7 @@ There shall be payable to the Republic by the holder of an artisan's mining righ
 
 ENVIRONMENTAL PROTECTION
 
-#### Section 75 — Environment to be considered when granting mining rights
+#### Section 75
 
 In deciding whether or not to grant any mining right, the Minister shall take into account the need to conserve and protect(a)
 
@@ -2072,6 +2076,8 @@ the air, water and soil, flora, fauna, fish, fisheries and scenic attractions; a
 the features of cultural, architectural, archaeological, historical or geological interests;
 
 in or on the land over which the right is sought, and the Minister may cause such environmental impact studies and other studies to be carried out as the Minister considers necessary to enable such a decision to be made.
+
+Environment to be considered when granting mining rights
 
 #### Section 76 — Conditions for the protection of the environment
 
