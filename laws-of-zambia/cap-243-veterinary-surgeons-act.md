@@ -111,9 +111,9 @@ VETERINARY SURGEONS An Act to provide for the registration of veterinary surgeon
 
 This Act may be cited as the Veterinary Surgeons Act.
 
-### Section 2 — In this Act, unless the context otherwise requires-
+### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "Board" means the Board of Veterinary Surgery established under section three;
 

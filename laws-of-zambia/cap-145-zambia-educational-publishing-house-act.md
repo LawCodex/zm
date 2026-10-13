@@ -119,7 +119,7 @@ ZAMBIA EDUCATIONAL PUBLISHING HOUSE
 
 An Act to constitute the Zambia Educational Publishing House; to provide for its membership and its powers, duties, functions and management; and to make provision for matters incidental to or connected with the foregoing. [2nd April, 1971]
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -127,9 +127,9 @@ PRELIMINARY
 
 This Act may be cited as the Zambia Educational Publishing House Act.
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "assistant secretary" means the person appointed to that office pursuant to section thirteen;
 
@@ -141,7 +141,7 @@ Interpretation
 
 "secretary" means the officer appointed to that office pursuant to section thirteen. (As amended by Act No. 29 of 1992)
 
-### PART II — OBJECTS AND POWERS OF THE PUBLISHING HOUSEPART II
+### PART II — OBJECTS AND POWERS OF THE PUBLISHING HOUSE
 
 OBJECTS AND POWERS OF THE PUBLISHING HOUSE
 
@@ -279,7 +279,7 @@ Procedure and meetings of Publishing House
 
 (4) The Publishing House shall hold meetings at such places and such times as the chairman may determine. (As amended by Act No. 29 of 1992)
 
-### PART III — EXECUTIVE COMMITTEE OF THE PUBLISHING HOUSEPART III
+### PART III — EXECUTIVE COMMITTEE OF THE PUBLISHING HOUSE
 
 EXECUTIVE COMMITTEE OF THE PUBLISHING HOUSE
 
@@ -333,7 +333,7 @@ Provided that such meetings shall be held not less than once in every three mont
 
 The committee shall discharge such functions as may be delegated to it by the Publishing House. (As amended by Act No 29 of 1992)
 
-### PART IV — APPOINTMENTSPART IV
+### PART IV — APPOINTMENTS
 
 APPOINTMENTS
 
@@ -355,7 +355,7 @@ as agent for the Publishing House, to exercise such powers of the Publishing Hou
 
 (4) It shall be the duty of the Assistant Secretary to assist the Secretary in the performance of his duties. (As amended by Act No. 29 of 1992)
 
-### PART V — ACCOUNTS AND AUDITPART V
+### PART V — ACCOUNTS AND AUDIT
 
 ACCOUNTS AND AUDIT
 
@@ -371,7 +371,7 @@ ACCOUNTS AND AUDIT
 
 (5) Not later than nine months after the end of each financial year, the Publishing House shall submit to the Minister its audited accounts for that financial year together with the Auditor-General's report and the Minister shall, not later than seven days after the first sitting of the National Assembly next after his receipt thereof, lay the same before the National Assembly. (As amended by Act No. 29 of 1992)
 
-### PART VI — TRANSITIONAL PROVISIONSPART VI
+### PART VI — TRANSITIONAL PROVISIONS
 
 TRANSITIONAL PROVISIONS
 

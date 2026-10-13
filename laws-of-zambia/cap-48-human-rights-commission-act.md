@@ -155,9 +155,9 @@ PART I PRELIMINARY
 
 This Act may be cited as the Human Rights Commission Act.
 
-#### Section 2 — In this Act unless the context otherwise requires-
+#### Section 2 — Interpretation
 
-Interpretation
+In this Act unless the context otherwise requires-
 
 "appropriate authority" means the authority to whom a recommendation is made by the Commission under section thirteen;
 

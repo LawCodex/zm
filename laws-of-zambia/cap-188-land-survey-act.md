@@ -219,9 +219,9 @@ PART I PRELIMINARY
 
 This Act may be cited as the Land Survey Act.
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "approve", in relation to any plan or diagram, means the signing of such plan or diagram by a Government surveyor in order to signify that the requirements of this Act and of any regulations made thereunder have been complied with in regard to such plan or diagram;
 
@@ -561,7 +561,9 @@ when required by the Surveyor-General, without delay correct in any survey carri
 
 (3) Neither the Government nor any officer thereof shall be liable for any defective survey or work appertaining thereto performed by a land surveyor, notwithstanding that a general plan or diagram relating to such survey or work has been approved or accepted for registration.
 
-#### Section 11 — If a land surveyor, other than a Government surveyor-
+#### Section 11 — Offences by land surveyor
+
+If a land surveyor, other than a Government surveyor-
 
 (a)
 
@@ -1153,7 +1155,7 @@ ARRANGEMENT OF REGULATIONS
 
 CAP. 188
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -1189,7 +1191,7 @@ Surveyor-General to be taxing officer
 
 Fees of office
 
-### PART II — CHECKING OF SURVEY WORKPART II
+### PART II — CHECKING OF SURVEY WORK
 
 CHECKING OF SURVEY WORK
 
@@ -1201,7 +1203,7 @@ Surveyor-General may have field work checked
 
 Testing of doubtful surveys
 
-### PART III — FIELD WORKPART III
+### PART III — FIELD WORK
 
 FIELD WORK
 
@@ -1289,7 +1291,7 @@ Topography
 
 Allowable difference between original and subsequent surveys
 
-### PART IV — BEACONSPART IV
+### PART IV — BEACONS
 
 BEACONS
 
@@ -1321,7 +1323,7 @@ Beacon to be numbered
 
 Beacons and boundaries of parcels of land
 
-### PART V — SURVEY RECORDSPART V
+### PART V — SURVEY RECORDS
 
 SURVEY RECORDS
 
@@ -1349,7 +1351,7 @@ Report
 
 Working plan
 
-### PART VI — GENERAL PLANSPART VI
+### PART VI — GENERAL PLANS
 
 GENERAL PLANS
 
@@ -1445,7 +1447,7 @@ Limits of inconsistency
 
 Compiled general plan
 
-### PART VII — DIAGRAMSPART VII
+### PART VII — DIAGRAMS
 
 DIAGRAMS
 
@@ -1481,7 +1483,7 @@ Geographical positions
 
 Photographic and other copies
 
-### PART VIII — MISCELLANEOUSPART VIII
+### PART VIII — MISCELLANEOUS
 
 MISCELLANEOUS
 
@@ -1507,7 +1509,7 @@ SECTION 39-THE LAND SURVEY REGULATIONS Regulations by the Minister
 
 Statutory Instrument 99 of 1971 156 of 1976 33 of 1978 179 of 1982 95 of 1991 158 of 1992 33 of 1994 66 of 1997
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -1599,7 +1601,7 @@ Surveyor-General to be taxing officer
 
 Fees of office
 
-### PART II — CHECKING OF SURVEY WORKPART II
+### PART II — CHECKING OF SURVEY WORK
 
 CHECKING OF SURVEY WORK
 
@@ -1647,7 +1649,7 @@ Testing of doubtful surveys
 
 Cap. 188
 
-### PART III — FIELD WORKPART III
+### PART III — FIELD WORK
 
 FIELD WORK
 
@@ -1913,7 +1915,7 @@ Topography
 
 Allowable difference between original and subsequent surveys
 
-### PART IV — BEACONSPART IV
+### PART IV — BEACONS
 
 BEACONS
 
@@ -1995,7 +1997,7 @@ Beacons to be numbered
 
 Beacons and boundaries of parcels of land
 
-### PART V — SURVEY RECORDSPART V
+### PART V — SURVEY RECORDS
 
 SURVEY RECORDS
 
@@ -2047,7 +2049,7 @@ Co-ordinates of a point on a straight line
 
 Comparison of data
 
-#### Section 43 — Report
+#### Section 43
 
 The report shall include reference to-
 
@@ -2083,7 +2085,7 @@ encroachments, if any;
 
 any other matters which may be considered material or useful.
 
-#### Section 44 — Working plan
+#### Section 44
 
 (1) The working plan, the minimum size of which shall be 300 millimetres by 200 millimetres, shall be neatly drawn to scale in ink on approved material and in such form as the Surveyor-General may direct, with a title which shall include the designations of all the parcels of land surveyed and on it shall be recorded in the appropriate positions in or adjoining the geometrical figures the following:
 
@@ -2197,19 +2199,23 @@ theoretical points by small green circles.
 
 (6) The working plan shall be signed by the responsible land surveyor(s) under the following certificate: "Surveyed by me/us in accordance with the Land Survey Act and Regulations. .............................................................. Land Surveyor(s) .............................................................. Date of Survey "
 
-### PART VI — GENERAL PLANSPART VI
+### PART VI — GENERAL PLANS
 
 GENERAL PLANS
 
-#### Section 45 — When required
+#### Section 45
 
 (1) A general plan shall be submitted in such form as the Surveyor-General may direct.
 
+When required
+
 (2) For single parcels and in special cases the Surveyor-General may accept diagrams of each parcel in lieu of a general plan where the diagrams show full data.
 
-#### Section 46 — Materials, size, margins and accuracy
+#### Section 46
 
 (1) A general plan shall be neatly drawn with approved black ink on approved material measuring not less than 297 millimetres by 385 millimetres or larger than 800 millimetres by 1 metre:
+
+Materials, size, margins and accuracy
 
 Provided that the Surveyor-General may allow other sizes in special cases.
 
@@ -2219,9 +2225,11 @@ Provided that the Surveyor-General may allow other sizes in special cases.
 
 (4) The misplotting of any beacon or boundary shall not exceed 1 millimetre.
 
-#### Section 47 — Scales
+#### Section 47
 
 (1) A general plan shall be plotted to one of the following Scales:
+
+Scales
 
 1:1,000; 1:1,250; 1:2,500; 1:5,000, or any one of the above in which the denominator is multiplied or divided by an integral power of 10.
 
@@ -2229,9 +2237,11 @@ Provided that the Surveyor-General may allow other sizes in special cases.
 
 (3) The size of each figure shall be sufficiently large for all essential information to be adequately represented thereon and generally shall be not less than 650 square millimetres. If necessary insets may be drawn of one or more figures or part of a figure. (As amended by S.I. No. 156 of 1976)
 
-#### Section 48 — Symbols for beacons
+#### Section 48
 
 The following symbols shall be used on a general plan:
+
+Symbols for beacons
 
 Boundary and Indicatory Beacons-small circle
 
@@ -2239,17 +2249,23 @@ Trigonometrical Beacons-small circle inscribed in a triangle
 
 Reference Mark-cross inscribed in a small circle.
 
-#### Section 49 — Co-ordinate grid
+#### Section 49
 
 On a general plan the co-ordinate grid shall be indicated by short lines at the extremities and, where convenient, at the intersections and the value of each line shall be stated.
 
-#### Section 50 — Title
+Co-ordinate grid
+
+#### Section 50
 
 Every general plan shall have a title which shall include the scale, the designations of the parcel shown, the Province, District and, if applicable, the name of the city, municipality, township, registry block or other numbering area.
 
-#### Section 51 — Co-ordinates required
+Title
+
+#### Section 51
 
 (1) There shall be recorded on a general plan the rectangular co-ordinates to two decimal places of a metre of-
+
+Co-ordinates required
 
 (a)
 
@@ -2289,11 +2305,13 @@ any other points required by the Surveyor-General.
 
 (2) In special cases, the co-ordinates may be expressed to a lower degree of accuracy on the written authority of the Surveyor-General.
 
-#### Section 52 — Statement of co-ordinates
+#### Section 52
 
 (1) The algebraic sign "+" or "-" shall be written before each ordinate and in the tabulated list of co-ordinates the Ys shall always appear in the left and the Xs in the righthand column, and it shall be distinctly stated above the co-ordinate column which are the Ys and which are the Xs:
 
 Provided that the terms "all plus" or "all minus" may be used at the top of each column where applicable:
+
+Statement of co-ordinates
 
 Provided further that in the case of surveys based on the Universal Transverse Mercator projection, the terms "Eastings" and "Northings" shall be used instead of Y and X and the algebraic signs shall not be used.
 
@@ -2301,13 +2319,17 @@ Provided further that in the case of surveys based on the Universal Transverse M
 
 (3) When a constant is applied to co-ordinates on a general plan, such constant, with its sign, shall be inserted above the column containing the ordinates accordingly reduced. (As amended by S.I. No. 156 of 1976)
 
-#### Section 53 — Co-ordinates not required
+#### Section 53
 
 At the discretion of the Surveyor-General co-ordinates otherwise required, may be omitted.
 
-#### Section 54 — Data required
+Co-ordinates not required
+
+#### Section 54
 
 (1) There shall be recorded on a general plan the lengths in metres to two decimals of a metre and directions of the sides of every parcel:
+
+Data required
 
 Provided that when no co-ordinates are used, angles may be given instead of directions.
 
@@ -2331,29 +2353,35 @@ Provided that when no co-ordinates are used, angles may be given instead of dire
 
 (11) In special cases, data may be expressed to a lower degree of accuracy or may be omitted on the written authority of the Surveyor-General.
 
-#### Section 55 — Contiguous parcels of land
+#### Section 55
 
 Adjacent boundaries of contiguous parcels, roadways and wayleaves shall be indicated on a general plan by broken lines and their designations shall be written in their respective positions:
 
+Contiguous parcels of land
+
 Provided that abbreviations may be used and the words "Stand", "Farm", "Lot", "Subdivision" and other designation may be omitted when these are obvious from the main designation.
 
-#### Section 56 — True North
+#### Section 56
 
 The direction of true North shall be indicated on a general plan pointing, as a general rule, towards the top of the sheet.
 
-#### Section 57 — Radius
+#### Section 57
 
 The radius of any curve adopted as a boundary shall be shown on a general
 
 True North
 
+Radius
+
 plan.
 
-#### Section 58 — Locality plan
+#### Section 58
 
 In the event of the position of a parcel or parcels not being obvious from the main figure, a locality plan shall be shown on a general plan indicating the position in relation to other surveyed parcels, roads or other main topographic features.
 
-#### Section 59 — River boundaries and topography
+Locality plan
+
+#### Section 59
 
 (1) When a river, stream or watercourse is adopted as a boundary, the name, if any, shall be given on a general plan and the direction of flow shall be indicated.
 
@@ -2361,7 +2389,7 @@ Rivers, boundaries and topography
 
 (2) When required by the Surveyor-General the main topo-graphical features shall be shown on a general plan.
 
-#### Section 60 — Connecting data
+#### Section 60
 
 (1) Sufficient connecting data as required by the Surveyor-General shall be shown on a general plan in order to locate the position of each parcel precisely in relation to-
 
@@ -2372,6 +2400,8 @@ the parent parcel in the case of a subdivision;
 (b)
 
 to other previously surveyed parcels, or to trigonometric stations, or other points whose geographical co-ordinates have been determined to the satisfaction of the Surveyor-General, in the case of new parcels.
+
+Connecting data
 
 (2) Unless otherwise required by the Surveyor-General, the sides and directions of the connections need not be shown when co-ordinates are recorded on the general plan.
 
@@ -2387,11 +2417,11 @@ the connecting distance is not less than 300 metres.
 
 (4) In special cases, the Surveyor-General may dispense with connecting data in respect of new parcels where these may be clearly located on a suitable map.
 
-#### Section 61 — Description of beacons and stations
+#### Section 61
 
 All beacons and stations shown or co-ordinated on a general plan shall be concisely described.
 
-#### Section 62 — Dilapidated and untidy general plans
+#### Section 62
 
 The Surveyor-General may refuse to approve a general plan if he considers
 
@@ -2403,7 +2433,7 @@ it is dilapidated or carelessly framed; or
 
 its appearance has been spoilt by amendments or additions.
 
-#### Section 63 — Signature and date
+#### Section 63
 
 (a)
 
@@ -2429,19 +2459,23 @@ if compiled-
 
 ..................................................................................... Government Surveyor"
 
-#### Section 64 — Amendments
+#### Section 64
 
 (1) No amendment or addition shall be made on an approved general plan except by a Government Surveyor.
 
+Amendments
+
 (As amended by S.I. No. 156 of 1976)
 
-#### Section 65 — Colours
+#### Section 65
 
 Normally colours shall not be shown on a general plan:
 
+Colours
+
 Provided that the Surveyor-General may authorise the use of colours in special cases.
 
-#### Section 66 — Limits of inconsistency
+#### Section 66
 
 (1) The sides, angles or angles of direction and areas given on a general plan shall agree with their values as computed from the co-ordinates, provided that the area of a figure of regular shape shall be deduced directly from the sides and angles.
 
@@ -2461,9 +2495,11 @@ where "p" represents the length of the perimeter in metres and "n" the number of
 
 Limits of inconsistency
 
-#### Section 67 — Compiled general plan
+#### Section 67
 
 (1) A general plan may be compiled by a Government Surveyor without further survey from approved general plans, diagrams and survey records.
+
+Compiled general plan
 
 (2) The provisions of regulation 66 need not apply to a compiled general plan.
 
@@ -2471,11 +2507,11 @@ Limits of inconsistency
 
 (4) Co-ordinates shall not normally be shown on a compiled general plan unless these are all on the same system, except that co-ordinates of beacons on the trigonometrical system may be shown.
 
-### PART VII — DIAGRAMSPART VII
+### PART VII — DIAGRAMS
 
 DIAGRAMS
 
-#### Section 68 — Form, quality, size of paper and margins
+#### Section 68
 
 (1) A diagram shall be framed in such numbers and in such form and manner as the Surveyor-General may direct on one side of good durable paper or other material of a quality approved by the Surveyor-General.
 
@@ -2499,27 +2535,35 @@ Provided that the right-hand margin may be used for initialling alterations. (As
 
 Form, quality, size of paper and margins
 
-#### Section 69 — Ink
+#### Section 69
 
 The ink used in the preparation of a diagram shall be black, best waterproof or other type of a quality approved by the Surveyor-General. Numbering and lettering may be done on a typewriter giving a sharp black permanent impression. The signature shall be in black ink of good quality.
 
-#### Section 70 — Figure, scale, information and general style
+Ink
+
+#### Section 70
 
 (1) Land shall be represented on a diagram by a single figure drawn accurately to scale so that the misplotting of any beacon or boundary shall not exceed 1 millimetre.
+
+Figure, scale, information and general style
 
 (2) The provisions of regulations 47, 48, 50, 55, 56, 58, 59, 61, 62, 63, 64 and 65 shall apply to diagrams where relevant:
 
 Provided that information deemed to be unnecessary by the Surveyor-General may be omitted.
 
-#### Section 71 — Beacon letters and verbal definition
+#### Section 71
 
 (1) Each beacon or corner of a parcel of land depicted on a diagram shall be designated by an alphabetic letter, wherever possible, written outside the figure and as near as possible to the respective point on the diagram. In addition, the beacon names referred to in regulation 37 shall be recorded on the diagram, or they may be used in place of the alphabetic letters.
 
+Beacon letters and verbal definition
+
 (2) Every diagram shall contain a clear verbal definition of the limits of the figure representing the parcel of land. In such definition shall be recited, in the order in which they occur, the letter or name by which each of the boundary beacons and corner points is designated, and a description of the curvilinear boundaries, if any. The starting point shall be repeated at the conclusion of the definition.
 
-#### Section 72 — Numerical data
+#### Section 72
 
 (1) When a general plan showing full data has been approved then a diagram need only show the total area and such other data as the Surveyor-General may direct.
+
+Numerical data
 
 (2) When a general plan has not been approved then the provisions of regulations 51, 52, 53, 54, 57, 60, 66 and 67 shall apply to a diagram, except that the data shall be tabulated, unless otherwise agreed, by the Surveyor-General.
 
@@ -2529,19 +2573,23 @@ shall be quoted in the description and not written within the figure of the diag
 
 Official designations only to be shown
 
-#### Section 74 — Geographical positions
+#### Section 74
 
 The Province and District in which the parcel of land is situated shall be stated on a diagram and the map reference shall also be furnished, and in township surveys the name of the city, municipality or township as the case may be, shall also be stated.
 
-#### Section 75 — Photographic and other copies
+Geographical positions
+
+#### Section 75
 
 Notwithstanding the provisions of regulation 69 the Surveyor-General may authorise the use of copies made by approved photographic or other methods when more than one copy of a diagram is required.
 
-### PART VIII — MISCELLANEOUSPART VIII
+Photographic and other copies
+
+### PART VIII — MISCELLANEOUS
 
 MISCELLANEOUS
 
-#### Section 76 — Surveys from aerial photographs
+#### Section 76
 
 (1) In addition to the survey records required under regulation 39, the following further documents, plans and data shall be sub-mitted to the Surveyor-General in respect of all surveys based partly or entirely on photogrammetric methods in terms of section thirty-seven of the Act:
 
@@ -2577,7 +2625,7 @@ Surveys from aerial photographs Cap. 188
 
 (2) The certificates on the working plan, general plan and diagrams shall be suitably amended to show the names of the contractors responsible for the aerial photography and photogrammetry and shall be signed by the responsible land surveyor.
 
-#### Section 77 — Unqualified assistants
+#### Section 77
 
 (1) A land surveyor may employ unqualified assistants for taking observations and measurements which are recorded in the field book provided that-
 
@@ -2588,6 +2636,8 @@ no land surveyor shall employ more than two such assistants at one time without 
 (b)
 
 all work carried out by such assistants shall be carefully supervised by the land surveyor and checked by him;
+
+Unqualified assistants
 
 (c)
 

@@ -107,9 +107,9 @@ Acts No.13 of 1992 6 of 1994 13 of 1994
 
 This Act may be cited as the Casino Act.
 
-### Section 2 — In this Act, unless the context otherwise requires-
+### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "betting" means wagering or staking any money or valuable thing by or on behalf of any person, or expressly or impliedly undertaking, promising or agreeing to wager or stake by or on behalf of any person, any money or valuable thing on any horse race, or other race, fight, game, sport, lottery or exercise or any other event or contingency; and "bet" and "to bet" shall be construed accordingly;
 

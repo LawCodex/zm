@@ -275,9 +275,9 @@ This Act may be cited as the Agriculture (Fertilisers and Feed) Act.
 
 Short title
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "aggrieved party" means any person whose application for registration under this Act has been refused or made subject to any condition by the Registering Officer; or any person who had been registered as registered owner of a registered plant and whose registration as such registered owner or the registration of such registered plant has been cancelled by the Registering Officer;
 
@@ -785,7 +785,9 @@ any such prosecution having been finally concluded;
 
 then, in either such event, any vehicle, machinery, equipment, farming requisite, books, records and documents seized during the course of such inspection and detained under the provisions of subsection (1) shall be returned to the owner thereof, or to the person from whose custody they were taken; and shall be so returned within ten days from the date of the receipt by the Registering Officer of such advice that no prosecution should be instituted, or from the date any such prosecution has been finally concluded, as the case may be: Provided that any such vehicle, machinery, equipment or farming requisite shall not be returnable under this subsection if they have been declared by the court to be forfeited, or ordered to be destroyed, under any provision of this Act.
 
-#### Section 26 — Any person who-
+#### Section 26 — Prohibition against obstruction, etc., of inspectors and duly authorised officers
+
+Any person who-
 
 (a)
 
@@ -1135,7 +1137,9 @@ where he is unknown, or where he has no address within Zambia, or his address is
 
 Any person who contravenes or fails to comply with any of the provisions of this Act, or with any regulation, requirement or condition lawfully prescribed thereunder, shall be guilty of an offence.
 
-#### Section 44 — Any person who-
+#### Section 44 — Prohibition against tampering with samples
+
+Any person who-
 
 (a)
 

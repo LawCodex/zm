@@ -145,9 +145,9 @@ PART I PRELIMINARY
 
 This Act may be cited as the Fisheries Act.
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "authorised officer" means the Director, any officer of the Department of Fisheries duly authorised by the Director and any other person authorised in writing either by name or appointment by the Director;
 
@@ -451,7 +451,7 @@ THE FISHERIES REGULATIONS.
 
 ARRANGEMENT OF REGULATIONS
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -463,7 +463,7 @@ Title
 
 Interpretation
 
-### PART II — LICENCES AND CONTROL OF FISHINGPART II
+### PART II — LICENCES AND CONTROL OF FISHING
 
 LICENCES AND CONTROL OF FISHING
 
@@ -511,7 +511,7 @@ Appeals
 
 Transfer of licences
 
-### PART III — GENERALPART III
+### PART III — GENERAL
 
 GENERAL
 
@@ -559,7 +559,7 @@ SECTION 8-FISHERIES REGULATIONS. Regulations by the Minister
 
 Statutory Instrument 55 of 1986 198 of 1986 16 of 1989 42 of 1993 Act No. 13 of 1994
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -587,7 +587,7 @@ Interpretation
 
 "monofilament net" means any net made of a single solid filament material for the web of a net.
 
-### PART II — LICENCES AND CONTROL OF FISHINGPART II
+### PART II — LICENCES AND CONTROL OF FISHING
 
 LICENCES AND CONTROL OF FISHING
 
@@ -691,7 +691,7 @@ Transfer of licences
 
 (2) Save as provided in this regulation, a licence shall not be transferrable.
 
-### PART III — GENERALPART III
+### PART III — GENERAL
 
 GENERAL
 

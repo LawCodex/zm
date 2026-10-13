@@ -217,11 +217,11 @@ An Act to provide for the declaration of rateable areas; to make provision for t
 
 This Act may be cited as the Rating Act.
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
+
+In this Act, unless the context otherwise requires-
 
 "Board" means the Zambia Railways Board established by the Railways Act;
-
-Interpretation
 
 Cap. 453
 

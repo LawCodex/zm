@@ -325,7 +325,7 @@ Act No. 6 of 1989 13 of 1994
 
 [19th May, 1989
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -345,13 +345,13 @@ land which at the death of the testator had been acquired and was held under cus
 
 property which at the death of the testator was institutionalised property of a chieftainship and had been acquired and was being held as part of chieftainship property.
 
-#### Section 3 — In this Act, unless the context otherwise requires-
+#### Section 3 — Interpretation
+
+In this Act, unless the context otherwise requires-
 
 "active service" has the meaning assigned to it in the Defence Act;
 
 Application
-
-Interpretation
 
 Cap. 106
 
@@ -397,7 +397,7 @@ Cap. 58
 
 "will" includes a codicil.
 
-### PART II — WILLS GENERALLYPART II
+### PART II — WILLS GENERALLY
 
 WILLS GENERALLY
 
@@ -681,7 +681,7 @@ Unless a contrary intention appears in the will, any bequest which cannot take e
 
 A will may be kept in any place but any person may, in his lifetime, deposit for safe custody in the High Court his own will, sealed up and sealed with the seal of the court.
 
-### PART III — FAMILY PROVISIONS IN WILLPART III
+### PART III — FAMILY PROVISIONS IN WILL
 
 FAMILY PROVISIONS IN WILL
 
@@ -755,7 +755,7 @@ an order for making provision for the maintenance of another dependant of the te
 
 (2) An application to the court for an order under subsection (1) may be made by or on behalf of a dependant of the testator by the trustee of the property or by or on behalf of a person beneficially interested in it under the will.
 
-### PART IV — EXECUTORSPART IV
+### PART IV — EXECUTORS
 
 EXECUTORS
 
@@ -1049,7 +1049,7 @@ Revocation of grants and removal
 
 (2) If a person referred to in subsection (1) wilfully and without sufficient cause fails to deliver up the probate or letters of administration, he shall be guilty of an offence and liable, on conviction, to a fine not exceeding one hundred and twenty-five penalty units or to imprisonment not exceeding three months, or both. (As amended by Act No. 13 of 1994)
 
-### PART VII — GENERALPART VII
+### PART VII — GENERAL
 
 GENERAL
 

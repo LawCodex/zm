@@ -1057,7 +1057,9 @@ for the purpose of protecting any persons, property, premises or place.
 
 (6) The foregoing provisions of this section shall apply in relation to persons posted or ordered to patrol, or members of a party mounted or ordered to patrol, for the purposes of preventing or controlling access to or egress from any premises, property or place, or regulating traffic by road, by rail or on any inland navigation, as they apply to persons on guard duty. (As amended by S.I. No. 8 of 1964)
 
-#### Section 35 — Any person subject to military law under this Act who-
+#### Section 35 — Looting
+
+Any person subject to military law under this Act who-
 
 (a)
 
@@ -1149,7 +1151,9 @@ Provided that he shall not be liable to be imprisoned for more than two years if
 
 Provided that if the offence was not committed on active service he shall not be liable to be imprisoned for more than two years.
 
-#### Section 40 — Any person subject to military law under this Act who-
+#### Section 40 — Obstruction of provost officers
+
+Any person subject to military law under this Act who-
 
 (a)
 
@@ -1158,8 +1162,6 @@ obstructs; or
 (b)
 
 when called on, refuses to assist;
-
-Obstruction of provost officers
 
 any person known to him to be a provost officer, or to be a person (whether subject to military law under this Act or not) legally exercising authority under or on behalf of a provost officer, shall, on conviction by court-martial, be liable to imprisonment for a term not exceeding two years or any less punishment provided by this Act.
 
@@ -1213,7 +1215,9 @@ Desertion
 
 (3) In addition to or in lieu of any punishment authorised by subsection (1), the court-martial by whom a soldier of the Regular Force is convicted of desertion may direct that the whole or any part of his service previous to the period in respect of which he is convicted of having been a deserter shall be forfeited.
 
-#### Section 43 — Any person subject to military law under this Act who-
+#### Section 43 — Absence without leave
+
+Any person subject to military law under this Act who-
 
 (a)
 
@@ -1223,11 +1227,11 @@ absents himself without leave; or
 
 persuades or procures any person subject to service law to absent himself without leave;
 
-Absence without leave
-
 shall, on conviction by court-martial, be liable to imprisonment for a term not exceeding two years or any less punishment provided by this Act.
 
-#### Section 44 — Any person subject to military law under this Act who-
+#### Section 44 — Assisting and concealing desertion and absence without leave
+
+Any person subject to military law under this Act who-
 
 (a)
 
@@ -1236,8 +1240,6 @@ knowingly assists any person subject to service law to desert or absent himself 
 (b)
 
 knowing that any person subject to service law has deserted or absented himself without leave, or is attempting to desert or absent himself without leave, fails to report that fact without delay, or fails to take any steps in his power to cause that person to be apprehended;
-
-Assisting and concealing desertion and absence without leave
 
 shall, on conviction by court-martial, be liable to imprisonment for a term not exceeding two years or any less punishment provided by this Act.
 
@@ -1331,7 +1333,9 @@ shall, on conviction by court-martial, be liable to imprisonment or any less pun
 
 Provided that if he has not acted wilfully or with wilful neglect he shall not be liable to imprisonment for a term exceeding two years.
 
-#### Section 50 — Any person subject to military law under this Act who-
+#### Section 50 — Offences in relation to property of members of Force
+
+Any person subject to military law under this Act who-
 
 (a)
 
@@ -1349,7 +1353,9 @@ shall, on conviction by court-martial, be liable to imprisonment for a term not 
 
 Offences in relation to property of members of Force
 
-#### Section 51 — Any person subject to military law under this Act who-
+#### Section 51 — Miscellaneous offences relating to property
+
+Any person subject to military law under this Act who-
 
 (a)
 
@@ -1385,7 +1391,9 @@ shall, on conviction by court-martial, be liable to imprisonment for a term not 
 
 Provided that it shall be a defence for any person charged under this section with losing any property, clothing, arms, ammunition or other equipment that he took reasonable steps for the care and preservation thereof. Offences Relating to Billeting and Requisitioning of Vehicles
 
-#### Section 52 — Any person subject to military law under this Act who-
+#### Section 52 — Billeting offences
+
+Any person subject to military law under this Act who-
 
 (a)
 
@@ -6317,67 +6325,67 @@ Female 35.66 35.58 34.48 35.40 35.30 35.22 35.12 35.04 34.94 34.86 34.76 36.66 3
 
 Cash Payment Nearest Half-Age 48 48.5 49 49.5 50 50.5 51 51.5 52 52.5 53 53.5 54 54.5 55 55.5 56 56.5 57 58
 
-#### Section 58 — Explanation to accused of his rights when making his defence
+#### Section 58
 
 5 59
 
-#### Section 59 — Evidence for the defence
+#### Section 59
 
 5 60
 
-#### Section 60 — Evidence in rebuttal
+#### Section 60
 
 5 61
 
-#### Section 61 — Any person subject to military law under this Act who escapes from arrest,
+#### Section 61
 
 5 62
 
-#### Section 62 — Handing in of a statutory declaration by the accused
+#### Section 62
 
 5 63
 
-#### Section 63 — Summing up by judge advocate
+#### Section 63
 
 5 64
 
-#### Section 64 — Deliberation on finding on the charge
+#### Section 64
 
 5 65
 
-#### Section 65 — Any person who, when before a recruiting officer for the purpose of being
+#### Section 65
 
 5 66
 
-#### Section 66 — Any person subject to military law under this Act who-
+#### Section 66
 
 5 67
 
-#### Section 67 — Every officer subject to military law under this Act who behaves in a
+#### Section 67
 
 5 68 63.5 69
 
-#### Section 69 — Any person subject to military law under this Act who is guilty of disgraceful
+#### Section 69
 
 5 70
 
-#### Section 70 — Any person subject to military law under this Act who-
+#### Section 70
 
 5 71
 
-#### Section 71 — Any person subject to military law under this Act who attempts to commit an
+#### Section 71
 
 5 72
 
-#### Section 72 — Any person subject to military law under this Act who is guilty of any act,
+#### Section 72
 
 5 773
 
-#### Section 73 — Sentence and recommendation to mercy
+#### Section 73
 
 5
 
-#### Section 74 — Postponement of deliberation on sentence
+#### Section 74
 
 74.5 75
 

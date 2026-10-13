@@ -241,7 +241,7 @@ An Act to provide for the solemnisation of marriages; to provide for the validat
 
 10 of 1918 27 of 1930 11 of 1937 31 of 1941 35 of 1947 12 of 1949 36 of 1950 48 of 1953 6 of 1955 48 of 1963 57 of 1964 20 of 1966 21 of 1969 13 of 1994 Government Notices 316 of 1964 493 of 1964 497 of 1964 Statutory Instrument 72 of 1964
 
-### PART I — GENERALPART I
+### PART I — GENERAL
 
 GENERAL
 
@@ -249,9 +249,9 @@ GENERAL
 
 This Act may be cited as the Marriage Act.
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "district" means a marriage district constituted under section three;
 
@@ -281,7 +281,7 @@ The Minister may from time to time appoint a Registrar-General of Marriages for 
 
 (2) The Minister may, by Gazette notice, appoint any minister of any church or religious body to solemnise marriages in Zambia and may at any time, by like notice, cancel such appointment. (As amended by G.N. No. 316 of 1964)
 
-### PART II — PRELIMINARIES TO MARRIAGEPART II
+### PART II — PRELIMINARIES TO MARRIAGE
 
 PRELIMINARIES TO MARRIAGE
 
@@ -351,7 +351,7 @@ If the High Court decides that the certificate ought to be issued, the Judge sha
 
 The High Court may, in its discretion if it shall consider that a caveat has been entered in any case without reasonable or probable cause, order the person entering the caveat to pay any reasonable costs incurred by either of the parties to the intended marriage by reason of the proceedings consequent on such caveat being entered.
 
-### PART III — CONSENT TO MARRIAGE IN CERTAIN CASES NECESSARYPART III
+### PART III — CONSENT TO MARRIAGE IN CERTAIN CASES NECESSARY
 
 CONSENT TO MARRIAGE IN CERTAIN CASES NECESSARY
 
@@ -379,7 +379,7 @@ Cap. 2
 
 (2) If there be no parent or guardian of such party residing in Zambia and capable of consenting to the marriage, then any of the following persons, that is to say, the Minister, a Judge of the High Court, or a District Secretary may consent to such marriage in writing, upon being satisfied after due inquiry that there are no reasonable grounds in the interest of either party for withholding such consent, and such consent shall be as effectual for the purposes of this Act as if the father or mother had consented. (As amended by No. 35 of 1947 and G.N. No. 316 of 1964)
 
-### PART IV — SOLEMNISATION OF MARRIAGEPART IV
+### PART IV — SOLEMNISATION OF MARRIAGE
 
 SOLEMNISATION OF MARRIAGE
 
@@ -435,7 +435,7 @@ Whenever a special licence authorises the solemnisation of a marriage at a place
 
 (As amended by G.N. No. 316 of 1964)
 
-### PART V — REGISTRY AND EVIDENCE OF MARRIAGESPART V
+### PART V — REGISTRY AND EVIDENCE OF MARRIAGES
 
 REGISTRY AND EVIDENCE OF MARRIAGES
 
@@ -505,7 +505,7 @@ Any person who is married under this Act or whose marriage is declared by this A
 
 (No. 48 of 1963)
 
-### PART VI — VALIDATION OF MARRIAGES ALREADY SOLEMNISEDPART VI
+### PART VI — VALIDATION OF MARRIAGES ALREADY SOLEMNISED
 
 VALIDATION OF MARRIAGES ALREADY SOLEMNISED
 
@@ -535,11 +535,13 @@ Costs transmission of records, etc.
 
 (As amended by G.N. No. 316 of 1964 and S.I. No. 72 of 1964)
 
-### PART VII — OFFENCES AND PENALTIESPART VII
+### PART VII — OFFENCES AND PENALTIES
 
 OFFENCES AND PENALTIES
 
-#### Section 38 — Any person who-
+#### Section 38 — Contracting marriage under this Act when married in African customary law or
+
+Any person who-
 
 (a)
 
@@ -589,7 +591,7 @@ Personation
 
 Whoever goes through the ceremony of marriage, or any ceremony which he or she represents to be a ceremony of marriage, knowing that the marriage is void on any ground and that the other person believes it to be valid, shall be liable on conviction to imprisonment with or without hard labour for a period not exceeding five years.
 
-### PART VIII — MISCELLANEOUSPART VIII
+### PART VIII — MISCELLANEOUS
 
 MISCELLANEOUS
 

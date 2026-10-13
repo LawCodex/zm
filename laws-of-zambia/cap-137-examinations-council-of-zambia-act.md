@@ -147,7 +147,7 @@ Act No 15 of 1983, Act No 33 of 1993, Act No 13 of 1994.
 
 [12th August, 1983]
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -155,9 +155,9 @@ PRELIMINARY
 
 This Act may be cited as the Examinations Council of Zambia Act.
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "Chairman" means the person designated Chairman of the Council by section five;
 
@@ -181,7 +181,7 @@ Interpretation
 
 "Vice-Chairman" means the person elected Vice-Chairman of the Council under section five.
 
-### PART II — EXAMINATIONS COUNCIL OF ZAMBIAPART II
+### PART II — EXAMINATIONS COUNCIL OF ZAMBIA
 
 EXAMINATIONS COUNCIL OF ZAMBIA
 
@@ -451,7 +451,7 @@ Prohibition of publication or disclosure of information to unauthorised
 
 (3) If any person having information which to his knowledge has been published or disclosed in contravention of subsection (1) unlawfully publishes or communicates any such information to any other person, he shall be liable, upon conviction, to a fine not exceeding twelve thousand five hundred penalty units or to imprisonment for a term not exceeding three years, or to both. (As amended by Act No. 13 of 1994)
 
-### PART III — OATHS, OFFENCES AND PENALTIESPART III
+### PART III — OATHS, OFFENCES AND PENALTIES
 
 OATHS, OFFENCES AND PENALTIES
 
@@ -495,7 +495,7 @@ Any person who, having in his possession or under his control any examination pa
 
 (2) Where the Council is satisfied that there is reasonable cause to believe that the examination results of any candidate have been obtained by irregular means, the Council may nullify the examination results of such candidate.
 
-### PART IV — FINANCIAL AND OTHER PROVISIONSPART IV
+### PART IV — FINANCIAL AND OTHER PROVISIONS
 
 FINANCIAL AND OTHER PROVISIONS
 

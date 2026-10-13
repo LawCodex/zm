@@ -243,9 +243,9 @@ AGRICULTURAL LANDS An Act to provide for the establishment of the Agricultural L
 
 This Act may be cited as the Agricultural Lands Act.
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "agricultural purposes" includes grazing and stock raising;
 
@@ -413,9 +413,9 @@ Review of decisions of Board
 
 (2) The provisions of this Part shall not apply to any land other than land in respect of which a declaration under subsection (1) is for the time being in force. (As amended by G.N. No. 227 of 1964 and S.I. No. 65 of 1965)
 
-#### Section 11 — In this Part, unless the context otherwise requires-
+#### Section 11 — Interpretation
 
-Interpretation
+In this Part, unless the context otherwise requires-
 
 "allotment plan" means a plan for the allotment of land prepared by the Board under the provisions of this Part;
 
@@ -1033,9 +1033,9 @@ The Minister may, after consultation with the Board, make schemes for the settle
 
 (As amended by G.N. No. 227 of 1964)
 
-#### Section 39 — In this Part, unless the context otherwise requires-
+#### Section 39 — Interpretation
 
-Interpretation
+In this Part, unless the context otherwise requires-
 
 "holding" means a holding allotted to a tenant farmer under the provisions of a scheme;
 

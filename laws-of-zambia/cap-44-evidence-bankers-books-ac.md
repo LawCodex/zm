@@ -71,9 +71,9 @@ EVIDENCE (BANKERS' BOOKS) An Act to amend the law of evidence with respect to ba
 
 This Act may be cited as the Evidence (Bankers' Books) Act.
 
-### Section 2 — In this Act, unless the context otherwise requires-
+### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "bank" or "banker" means any person carrying on the business of banking in Zambia under the provisions of the Banking and Financial Services Act
 

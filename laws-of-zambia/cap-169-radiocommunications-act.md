@@ -125,7 +125,7 @@ Act No. 25 of 1994 13 of 1994
 
 [3rd June, 1994
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -251,7 +251,7 @@ the manner of carrying on radiocommunication services governed by the provisions
 
 Application
 
-### PART II — FUNCTIONS OF COMMUNICATIONS AUTHORITYPART II
+### PART II — FUNCTIONS OF COMMUNICATIONS AUTHORITY
 
 FUNCTIONS OF COMMUNICATIONS AUTHORITY
 
@@ -291,7 +291,7 @@ the classes, types and standards of receiving stations and radio and other appar
 
 (2) In exercising the powers conferred upon him by paragraph (b) of subsection (1) or sub-paragraph (i) of paragraph (c) of that subsection, the Minister shall have regard to the provisions of the Convention.
 
-### PART III — LICENCES AND CERTIFICATESPART III
+### PART III — LICENCES AND CERTIFICATES
 
 LICENCES AND CERTIFICATES
 
@@ -441,7 +441,7 @@ radiocommunication services established by the Authority or a licensee after the
 
 (2) Due lodgement of an appeal stays any revocation or suspension against which the appeal is brought,and stays any order made by the Authority in consequence of the revocation or suspension, pending the outcome of the appeal.
 
-### PART IV — MISCELLANEOUSPART IV
+### PART IV — MISCELLANEOUS
 
 MISCELLANEOUS
 

@@ -249,9 +249,9 @@ An Act to repeal and replace the Natural and Historical Monuments and Relics Act
 
 This Act may be cited as the National Heritage Conservation Commission Act.
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "ancient heritage" means(a)
 

@@ -51,9 +51,9 @@ This Act may be cited as the Control of Dogs Act.
 
 17 of 1929 6 of 1940 3 of 1953 69 of 1965 Act No. 13 of 1994 Government Notices 319 of 1964 497 of 1964
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "dog", other than in regulations dealing only with registration, includes any tame or partly tame carnivorous animal in captivity.
 
@@ -321,13 +321,17 @@ Power to exempt
 
 (No. 229 of 1949 as amended by No. 319 of 1964)
 
-#### Section 5 — Application for registration
+#### Section 5
 
 Application for registration of any dog as hereinafter provided shall be made to a Registering Authority in the district in which the applicant is resident, and such application shall be in Form 1 in the Third Schedule.
 
-#### Section 6 — Certificate of registration
+Application for registration
+
+#### Section 6
 
 (1) Every owner or other person having the custody or control of a dog of the apparent age of three months or over shall register such dog and take out in respect thereof a badge and certificate of registration as hereinafter provided.
+
+Certificate of registration
 
 (2) In respect of dogs which are on the 1st January in any year at the apparent age of three months and over, application shall be made for the issue or renewal of a certificate of registration within one month after such date and, in respect of dogs reaching such age between such date and the 31st December next ensuing, application for such certificate shall be made within one month after the dog reaches such age.
 
@@ -337,31 +341,41 @@ Application for registration of any dog as hereinafter provided shall be made to
 
 (5) Any person applying for a certificate of registration in an area to which the Control of Dogs (Inoculation) Regulations apply shall be required to produce a valid certificate of inoculation in respect of such dog. (As amended by No. 239 of 1948 and No. 278 of 1957)
 
-#### Section 7 — Collars to be worn
+#### Section 7
 
 Every owner of a dog of the apparent age of three months or over shall cause such dog to wear at all times a collar bearing either the badge issued in respect of such dog or the name and address of the owner.
 
+Collars to be worn
+
 (No. 130 of 1950 as amended by No. 278 of 1957)
 
-#### Section 8 — Duplicate badge
+#### Section 8
 
 On production by the holder of a valid certificate of registration and on the payment of 1 fee unit, a Registering Authority may issue a duplicate badge in replacement of any badge lost or destroyed.
 
+Duplicate badge
+
 (As amended by Act No. 13 of 1994)
 
-#### Section 9 — Transfer of ownership of dog
+#### Section 9
 
 On the transfer of any registered dog from one person to another, the certificate of registration shall be forwarded to a Registering Authority so that the transferee's name may be endorsed on such certificate. A fee of 1 fee unit shall be payable for such endorsement, which endorsement shall be deemed to constitute an issue of such certificate to the transferee.
 
+Transfer of ownership of dog
+
 (As amended by Act No. 13 of 1994)
 
-#### Section 10 — Production of dog and certificate
+#### Section 10
 
 Every person who has in his possession or custody or under his control a dog in respect of which a certificate of registration is under these Regulations necessary shall, if requested by any officer and within a reasonable time after such request, produce or cause to be produced for inspection any such certificate and the dog in respect of which it was issued.
 
-#### Section 11 — Limitation of certificates
+Production of dog and certificate
+
+#### Section 11
 
 (1) Except with the written consent of the Registering Authority, not more than two certificates or renewals shall be held at the same time by any one household.
+
+Limitation of certificates
 
 (2) Any member of a household who obtains, or attempts to obtain, any certificate or renewal in excess of the maximum prescribed by sub-regulation (1) shall be guilty of an offence.
 
@@ -429,17 +443,21 @@ Prescri fees
 
 (3) Fees collected by a rural council shall be paid into the general fund of the rural council. (As amended by No. 35 of 1940, No. 239 of 1948, No. 332 of 1950, No. 336 of 1958, S.I. No. 29 of 1964, S.I. No. 119 of 1982, S.I. No. 70 of 1987, S.I. No. 130 of 1989 and Act No. 13 of 1994)
 
-#### Section 13 — Dogs temporarily in area to which Part II applies
+#### Section 13
 
 The provisions of this Part shall not apply to any dog introduced into any area to which this Part applies with the permission in writing of a Registering Authority until such dog shall have been in such area for a period of fourteen consecutive days, if such dog is led on a leash or chain when in any street or public place.
 
-#### Section 14 — Destruction of dogs
+Dogs temporarily in area to which Part II applies
+
+#### Section 14
 
 Any dog over the apparent age of four months, if found without a badge issued in respect of such dog, or without a collar bearing its owner's name and address, may be forthwith destroyed by any officer or by the owner or occupier of a farm on which such dog is found straying.
 
+Destruction of dogs
+
 (No. 193 of 1949 as amended by No. 130 of 1950 and No. 278 of 1957)
 
-#### Section 15 — Destruction of stray dogs
+#### Section 15
 
 (1) Notwithstanding that a dog is registered, if it is found by an officer to be so diseased or so severely injured or in such a physical condition that it should be destroyed, it shall be lawful for the officer to destroy the dog-
 
@@ -450,6 +468,8 @@ if the owner of the dog is present and his consent to the destruction is obtaine
 (b)
 
 if the owner is absent and his presence cannot be obtained without undue delay, the consent to the destruction of some relative or other representative of full age of the owner is obtained; or
+
+Destruction of stray dogs
 
 (c)
 
@@ -467,29 +487,37 @@ if, no veterinary surgeon or other officer being within reasonable distance, the
 
 ### PART III — IMPORTATION
 
-#### Section 16 — Introduction of dogs without permit prohibited
+#### Section 16
 
 (1) No person shall introduce or cause to be introduced into Zambia any dog except under a permit in writing issued by or under the direction of the Director of Veterinary Services and in accordance with such conditions as may be endorsed on such permit.
 
+Introduction of dogs without permit prohibited
+
 (2) The issue or withholding of such permit shall be entirely at the discretion of the Director of Veterinary Services.
 
-#### Section 17 — Application for permit
+#### Section 17
 
 All applications for permits for the importation of dogs shall be made at the office of the Director of Veterinary Services or of an officer.
 
-#### Section 18 — The permit issued under regulation 16 must accompany a dog upon its
+Application for permit
+
+#### Section 18
 
 The permit issued under regulation 16 must accompany a dog upon its introduction into Zambia and thereafter be preserved for a period of not less than six weeks. Any such permit shall upon demand be produced to any officer.
 
 Preservation and production of permit
 
-#### Section 19 — Disposal of dogs introduced without permit
+#### Section 19
 
 Any dog introduced into Zambia without a permit under these Regulations, or dealt with in violation of any condition endorsed on any such permit, may be seized and placed in quarantine or destroyed or otherwise dealt with by any officer as the Director of Veterinary Services shall direct.
 
+Disposal of dogs introduced without permit
+
 ### PART IV — PREVENTION OF RABIES
 
-#### Section 20 — Any person knowing or suspecting that any dog-
+#### Section 20
+
+Any person knowing or suspecting that any dog-
 
 (a)
 
@@ -507,13 +535,17 @@ Preventive measures
 
 shall immediately notify the nearest officer. Such officer, if other than a Veterinary Officer or Livestock Officer or Veterinary Assistant, shall immediately convey such notification to the nearest Veterinary Officer or Livestock Officer or Veterinary Assistant and to the Director of Veterinary Services.
 
-#### Section 21 — Destruction of rabid dog
+#### Section 21
 
 (1) Any person knowing that a dog is suffering from rabies may destroy such dog.
 
+Destruction of rabid dog
+
 (2) The owner or person in charge of a dog known to be suffering from rabies shall immediately destroy such dog.
 
-#### Section 22 — The owner or other person in charge of a dog which-
+#### Section 22
+
+The owner or other person in charge of a dog which-
 
 (a)
 
@@ -531,21 +563,27 @@ Measures to be taken by owner.
 
 shall either destroy such dog or shall secure and confine and keep secured and confined such dog, so as effectively to prevent it having access to any person, dog or other animal and to prevent any dog or other animal or any person (other than the owner or person in charge) having access to it.
 
-#### Section 23 — Suspected rabid dogs
+#### Section 23
 
 Any person having reasonable suspicion that any dog is suffering from rabies may, if such dog is not secured and confined as provided for in these Regulations, destroy such dog.
 
-#### Section 24 — Control by Veterinary Officer or Livestock Officer or Veterinary Assistant
+Suspected rabid dogs
+
+#### Section 24
 
 A Veterinary Officer or Livestock Officer or Veterinary Assistant may at any time take control of any dog if, in his opinion, it is advisable to do so for the purpose of close observation of any dog suspected of rabies or for the prevention of rabies, and may, in his discretion, destroy or order the destruction of such dog.
 
-#### Section 25 — Disposal of carcass
+Control by Veterinary Officer or Livestock Officer or Veterinary Assistant
+
+#### Section 25
 
 The carcass of any dog destroyed under this Part shall be thoroughly burnt and the ashes buried at a depth of not less than 1220 millimetres.
 
+Disposal of carcass
+
 Provided that any officer may himself preserve or direct the preservation of any parts of such carcass under proper precautions for scientific investigation.
 
-#### Section 26 — Declaration of infected area
+#### Section 26
 
 (1) As soon as an officer knows of an outbreak, he may exercise within the Veterinary District under his control all or any of the following powers:
 
@@ -565,15 +603,17 @@ Declaration of infected area
 
 (2) Every declaration, prohibition or order shall be in writing under the hand of the officer making or issuing the same, and such officer shall take immediate steps to make known such declaration, prohibition or order to all persons affected thereby. (No. 31 of 1943)
 
-#### Section 27 — Power of Director of Veterinary Services to vary areas
+#### Section 27
 
 It shall be lawful for the Director of Veterinary Services at any time to cancel, vary or extend any infected area, and such cancellation, variation or extension shall be notified in the same manner as provided in regulation 26 to the persons affected thereby.
 
 Power of Director of Veterinary Services to vary area
 
-#### Section 28 — Regulations applicable to infected areas
+#### Section 28
 
 (1) As soon as any area shall have been declared an infected area, the following regulations shall immediately apply to such area and shall continue in force until such area is declared by the Director of Veterinary Services to be no longer infected:
+
+Regulations applicable to infected areas
 
 (a)
 
@@ -593,25 +633,31 @@ Provided that the Director of Veterinary Services may grant a permit for the tra
 
 (2) For the purposes of this regulation, "owner" includes any person, not being a servant of the owner, in charge of a dog. (As amended by No. 208 of 1952)
 
-#### Section 29 — Publication in Gazette
+#### Section 29
 
 In addition to such notification as is prescribed in these Regulations, every declaration as to an infected area shall be published in the Gazette.
 
+Publication in Gazette
+
 ### PART V — PREVENTION OF TRYPANOSOMIASIS
 
-#### Section 30 — Power to seize and detain
+#### Section 30
 
 Wherever at any place within Zambia any dog is found affected or reasonably suspected of being affected with trypanosomiasis, any officer may, by written order under his hand, direct that such dog shall be seized and detained at such place or be removed for detention to any other place for such period as may be deemed necessary to prevent the spread of the disease, or may direct that such dog be destroyed or otherwise dealt with in any manner necessary for preventing the removal of such dog to other places or the spread of the disease.
 
+Power to seize and detain
+
 (No. 31 of 1943)
 
-#### Section 31 — Prohibition of movement
+#### Section 31
 
 (1) As soon as an officer knows of any case or of any suspected case of trypanosomiasis, he may exercise within the Veterinary District under his control either or both of the following powers:
 
 (a)
 
 prohibit the movement of dogs from any place or area to any other place or area;
+
+Prohibition of movement
 
 (b)
 
@@ -629,15 +675,19 @@ Powers of officers
 
 (No. 31 of 1943)
 
-#### Section 33 — Movement from Veterinary Districts
+#### Section 33
 
 No dog may be moved into or out of such Veterinary Districts as the Minister may specify by Gazette notice, unless a permit in writing has first been obtained from the Veterinary Officer who may, in his discretion, at any time cancel, vary, amend or refuse to issue such permit.
 
+Movement from Veterinary Districts
+
 (No. 31 of 1943 as amended by No. 319 of 1964)
 
-#### Section 34 — Penalties
+#### Section 34
 
 Any person contravening any of the provisions of these Regulations, or refusing or failing to comply with the requirements of any notice or lawful order or direction of any officer issued hereunder, shall be liable to a fine not exceeding three thousand penalty units. (As amended by No. 237 of 1944, S.I. No. 170 of 1989 and Act No. 13 of 1994)
+
+Penalties
 
 ## FIRST SCHEDULE
 

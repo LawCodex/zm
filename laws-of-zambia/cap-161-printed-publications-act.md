@@ -57,9 +57,9 @@ This Act may be cited as the Printed Publications Act.
 
 31 of 1947 13 of 1956 44 of 1969 13 of 1994 Government Notices 110 of 1964 304 of 1964 497 of 1964
 
-### Section 2 — In this Act, unless the context otherwise requires-
+### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "book" includes every part or division of a book, pamphlet, newspaper, sheet of letterpress, sheet of music, map, plan, chart or table separately published;
 

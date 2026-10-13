@@ -605,7 +605,7 @@ Conclusion of trial of referendum petition
 
 (5) Money deposited as security shall, when no longer needed as security for costs, be returned to the person in whose name it is deposited or to any person entitled to receive the same by order of the High Court, which may be made upon motion after notice and proof that all just claims have been satisfied or otherwise sufficiently provided for as the High Court may require.
 
-### PART IV — GENERALPART IV
+### PART IV — GENERAL
 
 (No. 5 of 1969) GENERAL
 
@@ -643,7 +643,7 @@ REFERENDUM THE REFERENDUM REGULATIONS
 
 ARRANGEMENT OF REGULATIONS
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -671,7 +671,7 @@ Form of oath or affimation for referendum officers
 
 Revocation of appointment of referendum officers to be notified
 
-### PART II — PROCEDURE FOR THE POLLPART II
+### PART II — PROCEDURE FOR THE POLL
 
 PROCEDURE FOR THE POLL
 
@@ -815,7 +815,7 @@ Verification of ballot paper counts
 
 Custody and destruction of referendum matter
 
-### PART IV — CORRUPT PRACTICES AND REFERENDUM OFFENCESPART IV
+### PART IV — CORRUPT PRACTICES AND REFERENDUM OFFENCES
 
 CORRUPT PRACTICES AND REFERENDUM OFFENCES
 
@@ -871,7 +871,7 @@ Offences by printers and publishers
 
 Penalties
 
-### PART V — CANVASSINGPART V
+### PART V — CANVASSING
 
 CANVASSING
 
@@ -931,7 +931,7 @@ Statutory Instrument 97 of 1990 Act 13 of 1994
 
 Regulations by the Referendum Commission
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -1057,7 +1057,7 @@ Revocation of appointment of referendum officer to be notified
 
 (2) Where a district referendum officer revokes the appointment of an assistant returning officer, a presiding officer, a counting assistant or a polling assistant, he shall give notice, in writing, of the revocation to the person concerned and shall deliver a copy of the notice to the Director of Elections.
 
-### PART II — PROCEDURE FOR THE POLLPART II
+### PART II — PROCEDURE FOR THE POLL
 
 PROCEDURE FOR THE POLL
 
@@ -1447,7 +1447,7 @@ Persons who may attend counting of votes
 
 (2) Every person authorised to attend the counting of the votes in any constituency, other than the Commission and its members of staff, shall, unless he has taken the oath or made an affirmation under the provisions of regulation 5 or 15, before so attending, take and subscribe an oath, or make an affirmation in lieu thereof, in the form prescribed in regulation 5, and for that purpose the returning officer for that constituency shall have power to administer the oath.
 
-#### Section 30 — Examination of seals of envelopes and ballot boxes received by returning
+#### Section 30
 
 (1) The returning officer for a constituency in which a poll has been taken shall take into his custody, and issue a receipt for, all envelopes and ballot boxes delivered to him in accordance with the provisions of sub-regulation (2) of regulation 27.
 
@@ -1457,7 +1457,7 @@ Examination of seals of envelopes and ballot boxes received by returning officer
 
 (3) The returning officer shall submit to the Director of Elections a written report of the result of the examination carried out under sub-regulation (2) if that examination reveals that the seals of any envelope or ballot box are broken.
 
-#### Section 31 — The count
+#### Section 31
 
 The returning officer for a constituency in which a poll has been taken shall, with the aid of the counting assistants for that constituency, count all the votes cast in the referendum in that constituency according to the following procedure:
 
@@ -1469,19 +1469,23 @@ the returning officer shall open each ballot box and, after removing all the bal
 
 subject to the provisions of regulation 32, the returning officer shall count and record the total number of valid ballot papers signifying the answer "YES", and the total number of valid ballot papers signifying the answer "NO":
 
+The count
+
 Provided that the ballot papers contained in any ballot box shall be mixed with those from at least one other ballot box before being so counted;
 
 (c)
 
 the returning officer shall ensure that, while counting the ballot papers, the counting assistants keep the side of each ballot paper on which the vote is recorded upwards, and shall take all precautions for preventing any person present at the count from seeing the number printed on each ballot paper.
 
-#### Section 32 — Rejection of ballot papers
+#### Section 32
 
 (1) The returning officer shall, subject to sub-regulation (2) reject as invalid, and shall not count, any ballot paper-
 
 (a)
 
 which does not bear the official mark, unless the returning officer is satisfied that the omission was a bona fide error;
+
+Rejection of ballot papers
 
 (b)
 
@@ -1531,11 +1535,13 @@ writing or mark by which voter could be identified; or
 
 unmarked or invalid for uncertainty.
 
-#### Section 33 — Recounting of votes
+#### Section 33
 
 If, when the counting of votes is completed pursuant to the foregoing provisions of these Regulations, the returning officer considers it necessary or desirable, he may cause the votes to be recounted before declaring the result under regulation 34.
 
-#### Section 34 — Declaration of result of poll in constituency and notification of Commission
+Recounting of votes
+
+#### Section 34
 
 When the counting of the votes has been completed and the result of the poll ascertained in respect of a constituency, the returning officer shall(a)
 
@@ -1549,7 +1555,7 @@ read aloud in public, at the place where the counting was conducted the complete
 
 cause to be delivered to the Commission without delay the original of such completed form.
 
-#### Section 35 — Declaration of result of referendum by Commission
+#### Section 35
 
 The Commission, on receipt of Form REF.8 completed under paragraph (a) of regulation 34 in respect of all constituencies shall(a)
 
@@ -1575,9 +1581,11 @@ Declaration of result of Poll in constituency and notification of Commission
 
 Declaration of result of referendum by Commission
 
-#### Section 36 — Form of declaration under section 23 of the Act
+#### Section 36
 
 A declaration made by the Commission at the conclusion of the trial of a referendum petition in accordance with subsection (3) or (4), as the case may be, of section twenty-three of of the Act, shall be as in Form REF.10 in the Schedule.
+
+Form of declaration under section 23 of the Act
 
 #### Section 37 — The decision of a returning officer on any question arising in respect of any
 
@@ -1591,7 +1599,7 @@ constituency, the returning officer for that constituency shall seal up in separ
 
 Ballot papers to be sealed in marked envelopes after completion of counting
 
-#### Section 39 — Verification of ballot paper counts
+#### Section 39
 
 (1) The returning officer for a constituency shall, as soon as possible after the completion of the counting of the votes for that constituency and in the presence of the assistant returning officers for that constituency, proceed with the verification of the ballot paper accounts according to the following procedure:
 
@@ -1615,7 +1623,7 @@ he shall place all ballot paper accounts for that constituency in one envelope m
 
 (2) The returning officer shall then prepare and deliver to the Director of Elections a report on the verification of the ballot paper accounts in Form REF. 11 in the Schedule.
 
-#### Section 40 — Custody and destruction of referendum matter
+#### Section 40
 
 (1) Upon the completion of the verification of the ballot paper accounts under regulation 39, the returning officer shall forthwith deliver to the Commission-
 
@@ -1661,11 +1669,11 @@ Provided that where the Commission has been informed under subsection (4) of sec
 
 Provided that where the Commission has been informed under subsection (4) of section fifteen of the Act that a referendum petition has been presented in respect of the referendum, the envelopes shall not be destroyed until such time as the trial of that referendum petition has been finally determined.
 
-### PART IV — CORRUPT PRACTICES AND REFERENDUM OFFENCESPART IV
+### PART IV — CORRUPT PRACTICES AND REFERENDUM OFFENCES
 
 CORRUPT PRACTICES AND REFERENDUM OFFENCES
 
-#### Section 41 — Bribery
+#### Section 41
 
 (1) Any person who idirectly or indirectly, by himself or any other person-
 
@@ -1707,7 +1715,9 @@ shall be guilty of the offence of bribery.
 
 (2) Nothing in this regulation shall be construed as applying to any money paid or agreed to be paid for or on account of any expenditure bona fide and lawfully incurred in respect of the conduct or management of a referendum.
 
-#### Section 42 — Any person who-
+#### Section 42
+
+Any person who-
 
 (a)
 
@@ -1725,15 +1735,17 @@ Personation
 
 shall be guilty of the offence of personation.
 
-#### Section 43 — Treating
+#### Section 43
 
 Any person who corruptly by himself or by any other person either before, during or after the referendum, directly or indirectly, gives or provides or pays wholly or in part the expenses of giving or providing any food, drink, entertainment, lodging or provisions to, or for, any person for the purpose of corruptly infuencing that person or any other person to give or refrain from giving his vote at a referendum shall be guilty of the offence of treating.
 
-#### Section 44 — Undue influence
+#### Section 44
 
 (1) Any person who directly or indirectly, by himself or by any other person-
 
 Treating
+
+Undue influence
 
 (a)
 
@@ -1751,25 +1763,33 @@ in order to induce or compel that person to vote or refrain from voting or an ac
 
 (2) Any person who, by abduction, duress, or any fraudulent device or contrivance, impedes or prevents the free exercise of his vote by any voter or thereby compels, induces or prevails upon any voter either to give or to refrain from giving his vote at any referendum, shall be guilty of the offence of undue influence.
 
-#### Section 45 — Corrupt practices and penalties
+#### Section 45
 
 Any person who is guilty of the offence of bribery, personation, treating or undue influence shall be guilty of a corrupt practice and shall be liable on conviction to a fine not exceeding sixty penalty units or to imprisonment for a period not exceeding two years, or to both.
 
+Corrupt practices and penalties
+
 (As amended by Act No. 13 of 1994)
 
-#### Section 46 — Obstruction of voter
+#### Section 46
 
 Any person who at a referendum obsetructs a voter either at the polling station or on his way thereto or therefrom shall be guilty of an offence.
 
-#### Section 47 — Unlawful conduct at public meeting
+Obstruction of voter
+
+#### Section 47
 
 Any person who, at a lawful public meeting held in connection with a referendum prior to the holding of that referendum, acts or incites others to act in a disorderly manner for the purpose of preventing the transaction of the business for which the meeting is called, shall be guilty of an offence.
 
-#### Section 48 — Unlawful broadcasting
+Unlawful conduct at public meeting
+
+#### Section 48
 
 Any person who, with intent to influence any person to give or refrain from giving his vote at a referendum, uses or procures the use of any wireless transmitting station outside the Republic shall be guilty of an offence.
 
-#### Section 49 — Referendum offences
+Unlawful broadcasting
+
+#### Section 49
 
 (1) Any person who-
 
@@ -1780,6 +1800,8 @@ forges or counterfeits or fraudulently defaces or fraudulently destroys any ball
 (b)
 
 without due authority supplies any ballot paper to any person;
+
+Referendum offences
 
 (c)
 
@@ -1867,7 +1889,7 @@ shall be guilty of an offence.
 
 (2) In a prosecution for an offence in relation to a ballot box or ballot paper, the property in that ballot box or ballot paper as well as the property in the counterfoil of any ballot paper, may be stated to be in the returning officer for the constituency to which such ballot box or ballot paper, as the case may be, relates.
 
-#### Section 50 — Prohibition of breach of secrecy
+#### Section 50
 
 (1) Every person in attendance at a polling station shall maintain, and aid in maintaining the, secrecy of the voting at that station and shall not communicate, except for some purpose authorised by law, to any person any information as to the name or number on the register of voters of any voter who has or has not applied for a ballot paper or voted at that polling station, or as to the official mark or official seal at that polling station.
 
@@ -1875,15 +1897,21 @@ shall be guilty of an offence.
 
 (3) Every person in attendance at the counting of the votes shall maintain, and aid in maintaining, the secrecy of the voting and shall not ascertain or attempt to ascertain at the counting the number on any ballot paper or communicate any information obtained at that counting as to the vote signified by any particular ballot paper.
 
+Prohibition of breach of secrecy
+
 (4) Any person who contravenes any of the provisions of this regulation shall be guilty of an offence.
 
-#### Section 51 — Offences by referendum officers
+#### Section 51
 
 Any referendum officer who wilfully fails to perform the functions of his office under these Regulations shall be guilty of an offence.
 
-#### Section 52 — Offences by printers and publishers
+Offences by referendum officers
+
+#### Section 52
 
 (1) Every bill, placard, poster, pamphlet, circular or other printed matter having reference to a referendum shall bear upon its face the name and address of the printer and of the publisher and any person who prints, publishes or posts, or causes to be printed, published or posted any matter which fails to bear upon its face such names and addresses shall be guilty of an offence.
+
+Offences by printers and publishers
 
 (2) The proprietor and publisher of every newspaper shall cause the word "advertisement" to be printed as a headline to each article or paragraph appearing in his newspaper containing referendum publicity matter, the insertion of which is or is to be paid for and any proprietor or publisher who fails to comply with this provision shall be guilty of an offence.
 
@@ -1899,27 +1927,31 @@ any process for producing copies of a document, other than by copying it by hand
 
 "referendum publicity matter" shall be deemed to include all matters which, on the face of them, are intended or calculated to affect the result of a referendum.
 
-#### Section 53 — Penalties
+#### Section 53
 
 (1) Except as provided for in regulation 45, any person guilty of an offence under these Regulations shall be liable on conviction to a fine not exceeding sixty penalty units or to imprisonment for a period not exceeding two years, or to both.
 
 (2) Any person who attempts to commit an offence against these Regulations shall be liable to the punishment prescribed for that offence. (As amended by Act No. 13 of 1994)
 
-### PART V — CANVASSINGPART V
+### PART V — CANVASSING
 
 CANVASSING
 
 Penalties
 
-#### Section 54 — Application
+#### Section 54
 
 This Part shall apply to a referendum to be held on the question of whether or not to re-introduce a multi-party system of politics.
 
-#### Section 55 — Interpretation
+Application
+
+#### Section 55
 
 In this Part, "public media" means any newspaper, publication or broadcasting service which is owned or controlled by or on behalf of the State.
 
-#### Section 56 — Functions of Director of Elections
+Interpretation
+
+#### Section 56
 
 The Director of Elections shall-
 
@@ -1943,7 +1975,7 @@ submitted to the referendum under section two of the Act is permitted but shall 
 
 Canvassing
 
-#### Section 58 — Content of written statements
+#### Section 58
 
 (1) Any written statement intended for publication to the public and having reference to the referendum for the purpose of canvassing for votes in favour of or against any question submitted to the referendum under section two of the Act and being a statement not issued by or on behalf of the Commission shall-
 
@@ -1967,7 +1999,7 @@ not be seditious or inflammatory or against any written law and shall not be int
 
 (2) In this Part, a written statement shall include a bill, placard, poster, pamphlet, or any other printed matter having reference to the referendum.
 
-#### Section 59 — Publication of written statements
+#### Section 59
 
 A written statement may be published by or on behalf of any person canvassing for votes in favour or against any any question submitted to the referendum under section two of the Act by(a)
 
@@ -1991,11 +2023,13 @@ any other lawful method.
 
 Publication of written statements
 
-#### Section 60 — Contravention an offence
+#### Section 60
 
 Any person who publishes any written statement having reference to the referendum in contravention of regulation 58 shall be guilty of an offence.
 
-#### Section 61 — Content, etc., of oral statements
+Contravention an offence
+
+#### Section 61
 
 (1) An oral statement made to the public having reference to the referendum for the purpose of canvassing for votes in favour or against any question submitted to the referendum under section two of the Act and not being made by or on behalf of the Commission shall-
 
@@ -2033,13 +2067,15 @@ the district referendum officer shall arrange an equal number of meetings for bo
 
 (6) A public meeting held or proposed to be held under this Part may be discontinued or disallowed only by the Commission or the district referendum officer if satisfied, from their own assessment or on the advice of the officer commanding or officer-in-charge of police in attendance, that the meeting cannot continue or take place by reason of riot, open violence or other similar cause but, where a meeting has been discontinued or disallowed, another meeting shall be convened in its stead at the earliest practicable opportunity.
 
-#### Section 62 — Request to public media
+#### Section 62
 
 The Commission may request any person in charge of the public media, in the case of a newspaper, to allot space, and in the case of broadcasting services, to allot time for the purpose of enabling any person, at his own cost, to canvass in accordance with this Part:
 
+Request to public media
+
 Provided that the Commission may arrange for some broadcasts at its own cost to be alloted equally to both sides of the question.
 
-#### Section 63 — Offences
+#### Section 63
 
 (1) Any district referendum officer who wilfully fails to perform the functions of his office under this Part shall be guilty of an offence.
 
@@ -2048,6 +2084,8 @@ Provided that the Commission may arrange for some broadcasts at its own cost to 
 (3) Any person in charge of the public media who, having received a request from the Commission under regulation 62, wilfully obstructs or prevents the publication of an oral or written statement by any person lawfully canvassing with reference to the referendum in accordance with this Part shall be guilty of an offence.
 
 (4) Any person who, at a lawful public meeting held in connection with the referendum, prior to the holding of such referendum, acts or incites others to act, in a disorderly manner for the purpose of preventing the transaction of the business for which the meeting is called, shall be guilty of an offence.
+
+Offences
 
 (5) Any person who directly or indirectly, himself or by any other person-
 
@@ -2073,7 +2111,7 @@ shall be guilty of an offence.
 
 (6) Any person who, by abduction, duress or any fraudulent device or contrivance, impedes or prevents the free exercise of his right to canvass under this Part, by any person or thereby compels, induces or prevails upon any person either to canvass or to refrain from canvassing with reference to the referendum shall be guilty of an offence.
 
-#### Section 64 — Penalties
+#### Section 64
 
 (1) Any person guilty of an offence under this Part shall be liable on conviction to a fine not exceeding sixty penalty units or imprisonment for a period not exceeding two years or to both.
 

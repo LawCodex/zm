@@ -237,7 +237,9 @@ Control of assemblies
 
 #### Section 28 — Effect of regulations on contracts
 
-#### Section 29 — Attempt to commit offences, etc
+#### Section 29
+
+Attempt to commit offences, etc.
 
 #### Section 30 — Jurisdiction of subordinate courts
 
@@ -889,17 +891,27 @@ Provided that if a magistrate is satisfied that the necessary inquiries cannot b
 
 36\. Any person who harbour or conceals any other person whom he knows or has reason to believe to be a person whose presence, activities or movements constitute a threat to the preservation of public security shall be guilty of an offence and be liable to a fine not exceeding one thousand five hundred penalty units or to imprisonment for a period not exceeding six months, or to both such fine and imprisonment. (No. 335 of 1969 and No. 13 of 1994)
 
-#### Section 37 — Revoked by S.I. No. 39 of 1993
+#### Section 37
 
-#### Section 38 — Revoked by S.I. No. 39 of 1993
+Revoked by S.I. No. 39 of 1993.
+
+#### Section 38
+
+Revoked by S.I. No. 39 of 1993.
 
 Harbouring suspected persons
 
-#### Section 39 — Revoked by S.I. No. 39 of 1993
+#### Section 39
 
-#### Section 40 — Revoked by S.I. No. 39 of 1993
+Revoked by S.I. No. 39 of 1993.
 
-#### Section 41 — Revoked by S.I. No. 39 of 1993
+#### Section 40
+
+Revoked by S.I. No. 39 of 1993.
+
+#### Section 41
+
+Revoked by S.I. No. 39 of 1993.
 
 #### Section 42
 
@@ -935,7 +947,9 @@ Prohibited areas
 
 (8) For the purposes of this regulation, "authorised officer" means any magistrate, police officer or member of the Defence Force. (As amended by Nos. 8 and 66 of 1965)
 
-#### Section 43 — Revoked by S.I. No. 39 of 1993
+#### Section 43
+
+Revoked by S.I. No. 39 of 1993.
 
 #### Section 44
 
@@ -969,7 +983,7 @@ Possession of any petroleum product
 
 (3) For the purposes of this regulation, "petroleum product" means a refined petroleum capable of being used as a motor spirit or diesel fuel or power paraffin or aviation spirit, but does not include illuminating paraffin. (No. 75 of 1966)
 
-#### Section 46 — Any person who incites, instigates, or in any way encourages or persuades,
+#### Section 46
 
 Any person who incites, instigates, or in any way encourages or persuades, any person or class of persons employed in a necessary service to absent himself from such employment or otherwise to fail to perform his work or duties in or about that necessary service, knowing or having reasonable cause to believe that the probable consequence of such absence or failure, either alone or in combination with others, would be to deprive the public wholly or to any extent of that service shall be guilty of an offence.
 

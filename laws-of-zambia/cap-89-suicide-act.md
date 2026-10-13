@@ -71,9 +71,9 @@ An Act to amend the law relating to suicide, and for purposes connected therewit
 
 This Act may be cited as the Suicide Act.
 
-### Section 2 — In this Act-
+### Section 2 — Interpretation
 
-Interpretation
+In this Act-
 
 "officer" means an Administrative Officer, a police officer or any person or class of persons prescribed.
 

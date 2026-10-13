@@ -2113,7 +2113,7 @@ Regulation 1.
 
 Title
 
-### PART II — REGISTRATION OF TITLESPART II
+### PART II — REGISTRATION OF TITLES
 
 REGISTRATION OF TITLES
 
@@ -2155,7 +2155,7 @@ Surrender of sub-lease or under-lease to be entered in register
 
 Abandonment of sub-lease or under-lease
 
-### PART III — MORTGAGESPART III
+### PART III — MORTGAGES
 
 MORTGAGES
 
@@ -2187,7 +2187,7 @@ Discharge of mortgage by deposit of documents
 
 Discharge of mortgage where mortgagee abroad
 
-### PART IV — POWERS OF ATTORNEYPART IV
+### PART IV — POWERS OF ATTORNEY
 
 POWERS OF ATTORNEY
 
@@ -2199,7 +2199,7 @@ Form of power of attorney
 
 Form of revocation of power of attorney
 
-### PART V — TRANSMISSIONSPART V
+### PART V — TRANSMISSIONS
 
 TRANSMISSIONS
 
@@ -2223,7 +2223,7 @@ Transmission after execution
 
 Transmission to transferee preferred by court
 
-### PART VI — GENERALPART VI
+### PART VI — GENERAL
 
 GENERAL
 
@@ -2295,7 +2295,7 @@ SECTION 47-THE HOUSING (STATUTORY AND IMPROVEMENT AREAS) REGULATIONS Regulations
 
 Statutory Instrument 55 of 1975 108 of 1992 124 of 1993 Act No. 13 of 1994
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -2303,7 +2303,7 @@ PRELIMINARY
 
 Title
 
-### PART II — REGISTRATION OF TITLESPART II
+### PART II — REGISTRATION OF TITLES
 
 REGISTRATION OF TITLES
 
@@ -2365,7 +2365,7 @@ Provided that no sub-lease or under-lease subject to a mortgage shall be surrend
 
 Abandonment of sub-lease or under-lease
 
-### PART III — MORTGAGESPART III
+### PART III — MORTGAGES
 
 MORTGAGES
 
@@ -2405,7 +2405,7 @@ Discharge of mortgage by deposit of documents
 
 Discharge of mortgage where mortgagee abroad
 
-### PART IV — POWERS OF ATTORNEYPART IV
+### PART IV — POWERS OF ATTORNEY
 
 POWERS OF ATTORNEY
 
@@ -2453,7 +2453,7 @@ Provided that, until such entry of notice has been made as aforesaid, no sale or
 
 Transmission to transferee preferred by court
 
-### PART VI — GENERALPART VI
+### PART VI — GENERAL
 
 GENERAL
 

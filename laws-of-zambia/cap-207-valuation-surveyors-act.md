@@ -691,7 +691,7 @@ Inventories
 
 Reports on condition of property
 
-#### Section 15 — Expenditure
+#### Section 15
 
 (1) Subject to the provisions of sub-paragraph (5), the fee payable to a surveyor engaged for the purpose of making assessments of buildings for insurance shall be in accordance with the following scale:
 
@@ -733,7 +733,7 @@ On the next K300,000
 
 (5) The minimum fee payable under the provisions of this paragraph shall be three hundred fee units.
 
-#### Section 16 — Auditors
+#### Section 16
 
 (1) Subject to the other provisions of this paragraph, the fee payable as commission to a surveyor engaged for the purpose of selling the items specified in column 1 shall be at the rate or as directly set out opposite thereto in column 2: Column 1
 
@@ -781,13 +781,13 @@ planning work shall be on the basis of time occupied.
 
 Dealing with town and country planning work
 
-#### Section 18 — Appointment of officers of Board
+#### Section 18
 
 In those case where charges are to be assessed on the basis of time occupied by a surveyor in connection with the work for which he is engaged, the fee payable to the surveyor shall be at an hourly rate agreed, by prior arrangement, not exceeding sixteen thousand kwacha per hour, depending on the circumstances and nature of the work involved.
 
 Charges for time occupied
 
-#### Section 19 — Scale
+#### Section 19
 
 An additional charge may, by prior arrangement, be made by a surveyor for time spent by the surveyor in travelling in connection with the work for which he is engaged; such a charge shall be assessed in accordance with the rate set out in paragraph 18 of this Part. (As amended by Act No. 13 of 1994)
 

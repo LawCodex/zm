@@ -153,7 +153,7 @@ DEEDS OF ARRANGEMENT
 
 An Act to make provision for and to regulate deeds of arrangement made in respect of the affairs of a debtor otherwise than in pursuance of the law relating to bankruptcy; and to provide for matters connected with the foregoing. [3rd January, 1969]
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -297,7 +297,7 @@ Any person shall be entitled, at all reasonable times, to search the register on
 
 Provided that the extracts shall be limited to the dates of execution and of registration, the names, addresses, and occupations of the debtor and of the parties to the deed, the business name and address of the debtor, a short statement of the nature and effect of the deed, and any other prescribed particulars.
 
-### PART IV — PROVISIONS AS TO TRUSTEESPART IV
+### PART IV — PROVISIONS AS TO TRUSTEES
 
 PROVISIONS AS TO TRUSTEES
 
@@ -315,7 +315,9 @@ Provided that, when such a dispensation has been so given, the trustee shall for
 
 (5) In calculating a majority of creditors for the purposes of this section, a creditor holding security upon the property of the debtor shall be reckoned as a creditor only in respect of the balance (if any) due to him after deducting the value of such security, and creditors whose debts amount to sums not exceeding one hundred kwacha shall be reckoned in the majority in value but not in the majority in number.
 
-#### Section 12 — If a trustee acts under a deed of arrangement-
+#### Section 12 — Penalty on trustee acting when deed of arrangement void
+
+If a trustee acts under a deed of arrangement-
 
 (a)
 
@@ -324,8 +326,6 @@ after it has to his knowledge become void by reason of non-compliance with any o
 (b)
 
 after he has failed to give security within the time and in the manner provided for by this Act or any enactment repealed by this Act;
-
-Penalty on trustee acting when deed of arrangement void
 
 he shall be liable on conviction to a fine not exceeding fifteen penalty units for every day between the date on which the deed became void or the expiration of the time within which security should have been given, as the case may be, and the last day on which he is proved to have acted as trustee, unless he satisfies the court that his contravention of the law was due to inadvertence, or that his action had been confined to taking such steps as were necessary for the protection of the estate. (As amended by Act No. 13 of 1994)
 
@@ -413,11 +413,11 @@ Application of Part IV
 
 shall not apply to a deed of arrangement made for the benefit of any three or more of the debtor's creditors unless it is in fact for the benefit of the debtor's creditors generally.
 
-### PART V — GENERALPART V
+### PART V — GENERAL
 
 GENERAL
 
-#### Section 23 — Any application by the trustee under a deed of arrangement, which either is
+#### Section 23
 
 Any application by the trustee under a deed of arrangement, which either is expressed to be or is in fact for the benefit of the debtor's creditors generally, or by the debtor or by any creditor entitled to the benefit of such a deed of arrangement, for the enforcement of the trusts or the determination of questions under it, shall be made to the High Court.
 

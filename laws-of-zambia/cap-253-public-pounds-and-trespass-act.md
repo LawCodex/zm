@@ -391,9 +391,9 @@ PUBLIC POUNDS AND TRESPASS An Act to provide for the establishment, management a
 
 This Act may be cited as the Public Pounds and Trespass Act.
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "animal" includes cattle, horses, sheep, goats and pigs;
 
@@ -767,7 +767,9 @@ when the person so delivering the said animals is not himself the owner of the l
 
 when more persons than one have been necessarily employed in conveying the said animals to the pound, mileage shall only be paid by the poundmaster to one of such persons; but the person impounding the animals may recover from the owner thereof, in any competent court, similar mileage in respect of every other such person so employed.
 
-#### Section 34 — The owner of any animal lawfully impounded for trespass upon-
+#### Section 34 — Payment of trespass money in respect of cultivated land
+
+The owner of any animal lawfully impounded for trespass upon-
 
 (a)
 

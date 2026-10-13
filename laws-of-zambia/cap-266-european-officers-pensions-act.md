@@ -31,15 +31,23 @@ Section
 
 #### Section 2 — Interpretation
 
-#### Section 3 — President may make pension regulations
+#### Section 3
 
-#### Section 4 — Pensions, etc., to be charged on general revenues of the Republic
+President may make pension regulations
 
-#### Section 5 — Circumstances in which pension, etc., may be reduced or withheld
+#### Section 4
+
+Pensions, etc., to be charged on general revenues of the Republic
+
+#### Section 5
+
+Circumstances in which pension, etc., may be reduced or withheld
 
 #### Section 6 — Service not qualifying for pension
 
-#### Section 7 — Circumstances in which pension, etc., may be granted
+#### Section 7
+
+Circumstances in which pension, etc., may be granted
 
 #### Section 8 — Termination of employment in the public interest
 
@@ -53,7 +61,9 @@ Section
 
 #### Section 13 — Gratuity affected by re-employment
 
-#### Section 14 — Pensions, etc., not to be assignable
+#### Section 14
+
+Pensions, etc., not to be assignable
 
 #### Section 15 — Pensions, etc., to cease on bankruptcy
 
@@ -63,11 +73,15 @@ Section
 
 #### Section 18 — Gratuity where an officer dies in the service or after retirement
 
-#### Section 19 — Pensions to dependents when a European officer is killed on duty
+#### Section 19
+
+Pensions to dependents when a European officer is killed on duty
 
 #### Section 20 — Application
 
-#### Section 21 — Other service that may count as pensionable service
+#### Section 21
+
+Other service that may count as pensionable service
 
 #### Section 22 — Savings as to officers selected for appointment before but actually appointed
 
@@ -967,7 +981,7 @@ Gratuit where length service does n qualify pension
 
 Injury
 
-#### Section 24 — Where a female officer to whom this Part applies resigns or is required to retire from the public service for the
+#### Section 24
 
 Where a female officer to whom this Part applies resigns or is required to retire from the public service for the reason that she is about to marry or has married, and in consequence(a)
 
@@ -989,7 +1003,7 @@ for the purpose of computing the amount of such a gratuity(a) in relation to a p
 
 for the purpose of computing such an officer's total public service under this regulation, no regard shall be had to any service under a Scheduled Government in respect of which no gratuity is granted to her in consequence of her retirement. (G.N. No. 198 of 1963 as amended by S.I. Nos. 144 of 1965 and 439 of 1966)
 
-#### Section 25 — Where a European officer who is transferred to other public service is not granted a pension or gratuity in respect
+#### Section 25
 
 Where a European officer who is transferred to other public service is not granted a pension or gratuity in respect of his employment in the service in which he is last employed, solely by reason of the fact that he has not completed twelve months' service therein, he shall not, on that account, be disqualified from receiving a pension or gratuity from the funds of the Republic, if otherwise eligible therefor. (As amended by S.I. No. 144 of 1965)
 
@@ -997,7 +1011,7 @@ Europe officers transfe to othe public service and retiring after le than 12 mon
 
 ### PART III — APPLICATION OF NEW PENSION CONSTANT TO CERTAIN EUROPEAN OFFICERS
 
-#### Section 26 — For the purpose of determining any pension or gratuity to be granted in respect of service with the Governments to
+#### Section 26
 
 For the purpose of determining any pension or gratuity to be granted in respect of service with the Governments to any officer to whom this Part applies, regulations 1, 13 and 20 shall have effect as if the expression "one six hundredth" were substituted for the expression "one four hundred and eightieth". (G.N. No. 192 of 1933 as amended by S.I. No. 144 of 1965)
 

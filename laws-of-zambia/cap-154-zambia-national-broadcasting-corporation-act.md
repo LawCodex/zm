@@ -189,7 +189,7 @@ ZAMBIA NATIONAL BROADCASTING CORPORATION
 
 An Act to provide for the establishment of the Zambia National Broadcasting Corporation; to define the functions and powers of the corporation; to provide generally for the control and regulation of broadcasting and diffusion services; and to provide for matters connected with or incidential to the foregoing. [24th April, 1987]
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -197,9 +197,9 @@ PRELIMINARY
 
 This Act may be cited as the Zambia National Broadcasting Corporation Act.
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "Board" means the Board of Directors of the Corporation established by section four;
 
@@ -261,7 +261,7 @@ Cap. 169
 
 "specified building" means a building used for industrial purposes or such other purposes as the Minister may, by statutory notice, specify.
 
-### PART II — ZAMBIA NATIONAL BROADCASTING CORPORATIONPART II
+### PART II — ZAMBIA NATIONAL BROADCASTING CORPORATION
 
 ZAMBIA NATIONAL BROADCASTING CORPORATION
 
@@ -453,7 +453,7 @@ not appoint or terminate the services of the Director General without the approv
 
 (2) The Board may appoint, on such terms and conditions as it may determine, such other staff as it considers necessary for the performance of its functions under this Act.
 
-### PART III — FINANCIAL PROVISIONSPART III
+### PART III — FINANCIAL PROVISIONS
 
 FINANCIAL PROVISIONS
 
@@ -553,7 +553,7 @@ such other information as the Minister may require.
 
 (3) The Minister shall, not later than seven days after the first sitting of the National Assembly next after the receipt of the report referred to in subsection (1), lay it before the National Assembly.
 
-### PART IV — LICENCESPART IV
+### PART IV — LICENCES
 
 LICENCES
 

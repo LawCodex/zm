@@ -117,7 +117,9 @@ This Act may be cited as the Service of Process and Execution of Judgments
 
 Act. (As amended by G.N. No. 335 of 1964)
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
+
+In this Act, unless the context otherwise requires-
 
 "court" means any court (other than the Supreme Court for Zambia, any court established by or under the Local Courts Act, of Zimbabwe, Zambia or Malawi and is required by such law to keep a record of its proceedings;
 
@@ -243,7 +245,7 @@ the officer in charge of any prison and all other persons to carry into effect t
 
 Provided that, if such convicted person tenders to the person executing the warrant the full amount of the fine imposed by the court, the warrant shall not be executed and the full amount of the fine shall be transmitted to the proper officer of the court out of which the warrant was issued. (No. 7 of 1963 as amended by G.N. No. 335 of 1964)
 
-### PART IV — SERVICE OF A SUBPOENAPART IV
+### PART IV — SERVICE OF A SUBPOENA
 
 SERVICE OF A SUBPOENA
 
@@ -271,13 +273,13 @@ the magistrate shall endorse the warrant in the manner prescribed and thereafter
 
 Service of a subpoena in Zambia
 
-### PART V — ENFORCEMENT OF A JUDGMENTPART V
+### PART V — ENFORCEMENT OF A JUDGMENT
 
 ENFORCEMENT OF A JUDGMENT
 
-#### Section 10 — In this Part, unless the context otherwise requires-
+#### Section 10 — Definition of "judgment"
 
-Definition of "judgment"
+In this Part, unless the context otherwise requires-
 
 "judgment" means(a)
 
@@ -377,7 +379,7 @@ the proper officer of that court receives notice in writing from the proper offi
 
 (5) Whenever the proper officer of a court in Zambia receives notice in writing from the proper officer of a court in Zimbabwe or Malawi that a judgment in respect of which a certificate has been registered in the court of such first-mentioned proper officer has been satisfied in whole or in part, the proper officer receiving such notice shall enter such satisfaction upon the certificate so registered. (As amended by G.N. No. 335 of 1964)
 
-### PART VI — GENERALPART VI
+### PART VI — GENERAL
 
 GENERAL
 
@@ -415,7 +417,7 @@ SERVICE OF PROCESS AND EXECUTION OF JUDGMENTS THE SERVICE OF PROCESS AND EXECUTI
 
 ARRANGEMENT OF REGULATIONS
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -427,7 +429,7 @@ Title
 
 Interpretation
 
-### PART II — SERVICE OF PROCESSPART II
+### PART II — SERVICE OF PROCESS
 
 SERVICE OF PROCESS
 
@@ -471,7 +473,7 @@ Proof of service
 
 Fees for the service of process
 
-### PART III — EXECUTION OF JUDGMENTSPART III
+### PART III — EXECUTION OF JUDGMENTS
 
 EXECUTION OF JUDGMENTS
 
@@ -495,7 +497,7 @@ Regulations by the Attorney-General
 
 Federal Government Notices 23 of 1957 50 of 1963 275 of 1963 Government Notices 351 of 1964 497 of 1964 Statutory Instrument 222 of 1965 47 of 1995 48 of 1995
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -517,7 +519,7 @@ Cap. 27 Cap. 29
 
 "sheriff" means a sheriff, deputy sheriff or under-sheriff of the State in which a summons, subpoena or other process is to be served. (As amended by G.N. No. 351 of 1964 and S.I. No. 222 of 1965)
 
-### PART II — SERVICE OF PROCESSPART II
+### PART II — SERVICE OF PROCESS
 
 SERVICE OF PROCESS
 
@@ -697,7 +699,7 @@ a statement of the charges for effecting such service.
 
 Fees for the service of process
 
-### PART III — EXECUTION OF JUDGMENTSPART III
+### PART III — EXECUTION OF JUDGMENTS
 
 EXECUTION OF JUDGMENTS
 

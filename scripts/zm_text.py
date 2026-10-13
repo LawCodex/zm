@@ -418,7 +418,7 @@ def structure(lines, lang="en"):
             while j < n and j <= i + 3 and not lines[j]:
                 j += 1
             if m and not m.group(2).strip() and j < n and 2 < len(lines[j]) <= 100 and lines[j][:1].isupper() \
-                    and not lines[j].endswith((".", ";", ",", ":")) and not EN_SEC.match(lines[j]) and not _div(lines[j], levels) \
+                    and not lines[j].endswith((".", ";", ",", ":", "-", "—", "–")) and not EN_SEC.match(lines[j]) and not _div(lines[j], levels) \
                     and lines[j].count("(") <= lines[j].count(")") and not re.search(  # TITLE_STOP2
                         r"\b(the|of|as|in|this|by|to|and|or|a|an|for|from|with|under|that|which|its)$|\b(is|are|shall|may|be)\b", lines[j]):
                 out.append("#" * art_level + " Section " + lab + " — " + lines[j])

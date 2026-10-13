@@ -131,9 +131,9 @@ An Act to establish the Zambia Law Development Commission; to define the functio
 
 This Act may be cited as the Zambia Law Development Commission Act.
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "Commission" means the Zambia Law Development Commission established under section three;
 
@@ -279,7 +279,7 @@ Tenure of office
 
 (As amended by Act No. 38 of 1996)
 
-#### Section 6A — A member shall be paid such remuneration or allowances as the Commission
+#### Section 6A
 
 A member shall be paid such remuneration or allowances as the Commission may, with the approval of the Minister, determine.
 

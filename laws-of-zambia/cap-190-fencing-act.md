@@ -31,15 +31,21 @@ Section
 
 ### Section 3 — Interpretation
 
-### Section 4 — Fence between lands of different owners to be at cost of each
+### Section 4
+
+Fence between lands of different owners to be at cost of each
 
 ### Section 5 — Notice to any person required to contribute towards construction of fence
 
-### Section 6 — Arbitration provided for
+### Section 6
+
+Arbitration provided for
 
 ### Section 7 — Construction of fence on failure to carry out agreement or award
 
-### Section 8 — When contributions may be paid by instalments
+### Section 8
+
+When contributions may be paid by instalments
 
 ### Section 9 — Proceedings in case of absent owners
 
@@ -53,11 +59,15 @@ money
 
 ### Section 13 — Notice of required repairs to owner of adjoining land
 
-### Section 14 — Bush may be cleared for fencing
+### Section 14
+
+Bush may be cleared for fencing
 
 ### Section 15 — Construction of certain fences
 
-### Section 16 — Provision when river is boundary between lands
+### Section 16
+
+Provision when river is boundary between lands
 
 ### Section 17 — Damages against person neglecting to clear inflammable matter from boundary
 
@@ -65,7 +75,9 @@ line
 
 ### Section 18 — Right of way to construct fences
 
-### Section 19 — Landlord may defend proceedings against tenant
+### Section 19
+
+Landlord may defend proceedings against tenant
 
 ### Section 20 — Subordinate courts to have jurisdiction
 

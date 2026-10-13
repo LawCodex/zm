@@ -169,9 +169,9 @@ ARBITRATION An Act relating to arbitration. [5th April, 1933]
 
 This Act may be cited as the Arbitration Act.
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "the Court" means the High Court;
 
@@ -365,7 +365,9 @@ Notwithstanding anything in Part II herein, if any party to a submission made in
 
 Staying of court proceedings in respect of matters to be referred to arbitration
 
-#### Section 26 — The provisions of this Part apply to any award made after the 28th July, 1924-
+#### Section 26 — Application of Part IV
+
+The provisions of this Part apply to any award made after the 28th July, 1924-
 
 (a)
 

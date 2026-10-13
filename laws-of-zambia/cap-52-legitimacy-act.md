@@ -99,9 +99,9 @@ LEGITIMACY An Act to amend the law relating to children born out of wedlock; and
 
 This Act may be cited as the Legitimacy Act.
 
-### Section 2 — In this Act, unless the context otherwise requires-
+### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "appointed date" means the 1st January, 1966;
 

@@ -95,9 +95,9 @@ An Act to provide for the collection of agricultural statistics; to provide for 
 
 This Act may be cited as the Agricultural Statistics Act.
 
-### Section 2 — In this Act, unless the context otherwise requires-
+### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "statistics" means the information which may be collected of and incidental to matters specified in or prescribed under section three.
 

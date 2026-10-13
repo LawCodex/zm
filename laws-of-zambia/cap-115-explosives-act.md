@@ -119,9 +119,9 @@ An Act to make provision for regulating control over the manufacture, use, posse
 
 This Act may be cited as the Explosives Act.
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "Deputy Chief Inspector" means the Deputy Chief Inspector of Explosives appointed under sub-section (2) of section four;
 
@@ -415,7 +415,7 @@ THE EXPLOSIVES REGULATIONS
 
 ARRANGEMENT OF REGULATIONS
 
-### PART I — PRELIMINARY AND GENERALPART I
+### PART I — PRELIMINARY AND GENERAL
 
 PRELIMINARY AND GENERAL
 
@@ -571,7 +571,7 @@ Revocation and saving
 
 Penalties
 
-### PART II — MANUFACTURE OF EXPLOSIVESPART II
+### PART II — MANUFACTURE OF EXPLOSIVES
 
 MANUFACTURE OF EXPLOSIVES
 
@@ -891,7 +891,7 @@ Authorised vehicles
 
 Authorised vehicle requirements
 
-### PART IV — TRANSPORTATION OF EXPLOSIVES AT ANY MINE OR WORKSPART IV
+### PART IV — TRANSPORTATION OF EXPLOSIVES AT ANY MINE OR WORKS
 
 TRANSPORTATION OF EXPLOSIVES AT ANY MINE OR WORKS
 
@@ -931,7 +931,7 @@ Explosives in transit under a blasting licence holder
 
 Onsetter or cage tender and crew only to travel
 
-### PART V — STORAGE OF EXPLOSIVESPART V
+### PART V — STORAGE OF EXPLOSIVES
 
 STORAGE OF EXPLOSIVES
 
@@ -1095,7 +1095,7 @@ Authorised magazines: General conditions
 
 Authorised boxes: General conditions
 
-### PART VI — IMPORTATION, EXPORTATION, SALE PURCHASE ACQUISITIONPART VI
+### PART VI — IMPORTATION, EXPORTATION, SALE PURCHASE ACQUISITION
 
 IMPORTATION, EXPORTATION, SALE PURCHASE ACQUISITION
 
@@ -1147,7 +1147,7 @@ Tampering with locks of magazines and storage boxes
 
 Explosives not to be taken away
 
-### PART VIII — USE OF EXPLOSIVESPART VIII
+### PART VIII — USE OF EXPLOSIVES
 
 USE OF EXPLOSIVES
 
@@ -1315,7 +1315,7 @@ Pre-charging
 
 Charging of pre-charged holes
 
-### PART IX — MACHINERYPART IX
+### PART IX — MACHINERY
 
 MACHINERY
 
@@ -1647,7 +1647,7 @@ Removing steelwork
 
 When any working place becomes permanent, provisions for safety
 
-### PART XIII — ELECTRICITYPART XIII
+### PART XIII — ELECTRICITY
 
 ELECTRICITY
 
@@ -1731,7 +1731,7 @@ Precautions and offences
 
 Competent person to be available
 
-### PART XIV — PETROL AND FUEL OIL STORAGEPART XIV
+### PART XIV — PETROL AND FUEL OIL STORAGE
 
 PETROL AND FUEL OIL STORAGE
 
@@ -1787,7 +1787,7 @@ No smoking or naked lights
 
 Competent person to be in charge of storage and filling stations
 
-### PART XV — TRANSPORT AND TRAMMING BY VEHICLESPART XV
+### PART XV — TRANSPORT AND TRAMMING BY VEHICLES
 
 TRANSPORT AND TRAMMING BY VEHICLES
 
@@ -1847,7 +1847,7 @@ Offences in connection with vehicles
 
 No riding unless accommodation
 
-### PART XVI — HEALTH, SAFETY AND WELFAREPART XVI
+### PART XVI — HEALTH, SAFETY AND WELFARE
 
 HEALTH, SAFETY AND WELFARE
 
@@ -1911,7 +1911,7 @@ SECTION 18-THE EXPLOSIVES REGULATIONS Regulations by the Minister
 
 Statutory Instrument 71 of 1974 74 of 1974 72 of 1979 Act No. 13 of 1994
 
-### PART I — PRELIMINARY AND GENERALPART I
+### PART I — PRELIMINARY AND GENERAL
 
 PRELIMINARY AND GENERAL
 
@@ -2273,7 +2273,7 @@ Penalties
 
 (As amended by Act No. 13 of 1994)
 
-### PART II — MANUFACTURE OF EXPLOSIVESPART II
+### PART II — MANUFACTURE OF EXPLOSIVES
 
 MANUFACTURE OF EXPLOSIVES
 
@@ -3857,7 +3857,7 @@ Prohibition on explosives in aircraft
 
 Information about aircraft accidents
 
-### PART IV — TRANSPORTATION OF EXPLOSIVES AT ANY MINE OR WORKSPART IV
+### PART IV — TRANSPORTATION OF EXPLOSIVES AT ANY MINE OR WORKS
 
 TRANSPORTATION OF EXPLOSIVES AT ANY MINE OR WORKS
 
@@ -3967,7 +3967,7 @@ Onsetter or cage tender and crew only to travel
 
 Provided that this regulation need not apply to the transportation of fuse igniters.
 
-### PART V — STORAGE OF EXPLOSIVESPART V
+### PART V — STORAGE OF EXPLOSIVES
 
 STORAGE OF EXPLOSIVES
 
@@ -4619,7 +4619,7 @@ Tampering with locks of magazines and storage boxes
 
 Explosives not to be taken away
 
-### PART VIII — USE OF EXPLOSIVESPART VIII
+### PART VIII — USE OF EXPLOSIVES
 
 USE OF EXPLOSIVES
 
@@ -5315,7 +5315,7 @@ instructed to comply with regulation 833 (g).
 
 Prohibition, welding machine and electric detonators
 
-### PART IX — MACHINERYPART IX
+### PART IX — MACHINERY
 
 MACHINERY
 
@@ -5999,7 +5999,7 @@ Fittings of thermometers and pyrometers
 
 Exemption for gas cylinders
 
-### PART XI — LIFTSPART XI
+### PART XI — LIFTS
 
 LIFTS
 
@@ -6083,7 +6083,7 @@ No lift shall be used whilst repairs are being effected in the lift shaft.
 
 Not to be used during repairs
 
-### PART XII — BUILDINGS AND CONSTRUCTIONPART XII
+### PART XII — BUILDINGS AND CONSTRUCTION
 
 BUILDINGS AND CONSTRUCTION
 
@@ -6295,7 +6295,7 @@ provided with a safe means of access and egress;
 
 so constructed as to provide a safe working place for every person employed thereat.
 
-### PART XIII — ELECTRICITYPART XIII
+### PART XIII — ELECTRICITY
 
 ELECTRICITY
 
@@ -6625,7 +6625,7 @@ the live testing of electrical apparatus, in which case suitable equipment shall
 
 1320\. Whenever any electrical apparatus is in use there shall be a competent person to operate such apparatus available or readily available on call.
 
-### PART XIV — PETROL AND FUEL OIL STORAGEPART XIV
+### PART XIV — PETROL AND FUEL OIL STORAGE
 
 PETROL AND FUEL OIL STORAGE
 
@@ -6739,7 +6739,7 @@ No smoking or naked lights
 
 Competent person to be in charge of storage and filling stations
 
-### PART XV — TRANSPORT AND TRAMMING BY VEHICLESPART XV
+### PART XV — TRANSPORT AND TRAMMING BY VEHICLES
 
 TRANSPORT AND TRAMMING BY VEHICLES
 
@@ -6935,7 +6935,7 @@ Offences in connection with vehicles
 
 No riding unless accommodation
 
-### PART XVI — HEALTH, SAFETY AND WELFAREPART XVI
+### PART XVI — HEALTH, SAFETY AND WELFARE
 
 HEALTH, SAFETY AND WELFARE
 

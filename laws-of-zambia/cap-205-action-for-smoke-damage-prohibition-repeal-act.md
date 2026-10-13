@@ -27,11 +27,15 @@ Act 21 of 1996
 
 An Act to repeal the Actions for Smoke Damage (Prohibition) Act. [28th June, 1996]
 
-### Section 1 — This Act may be cited as the Actions for Smoke Damage (Prohibition) (Repeal)
+### Section 1
+
+This Act may be cited as the Actions for Smoke Damage (Prohibition) (Repeal)
 
 Short title
 
-### Section 2 — The Actions for Smoke Damage (Prohibition) Act is hereby repealed
+### Section 2
+
+The Actions for Smoke Damage (Prohibition) Act is hereby repealed.
 
 Repeal of Cap. 327 of the old edition
 

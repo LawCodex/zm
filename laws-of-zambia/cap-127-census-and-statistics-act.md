@@ -93,7 +93,7 @@ CENSUS AND STATISTICS An Act to provide for the taking of a census, for the coll
 
 10 of 1955 2 of 1963 Government Notices 83 of 1964 497 of 1964 Act 57 of 1964 Statutory Instrument 171 of 1965 Act No. 13 of 1994
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -101,15 +101,15 @@ PRELIMINARY
 
 This Act may be cited as the Census and Statistics Act.
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "authorised officer" means the Director and any person appointed as an authorised officer under the provisions of section four;
 
 "Director" means the Director of Census and Statistics.
 
-### PART II — ADMINISTRATIONPART II
+### PART II — ADMINISTRATION
 
 ADMINISTRATION
 
@@ -131,7 +131,7 @@ Every person employed in carrying out any of the provisions of this Act shall, b
 
 Provided that where such person has before the 24th October, 1964, taken and subscribed such an oath he shall, on and after that date, be deemed to have taken and subscribed the oath of secrecy required by this section. (As amended by G.N. No. 83 of 1964 and S.I. No. 171 of 1965)
 
-### PART III — CENSUS AND STATISTICSPART III
+### PART III — CENSUS AND STATISTICS
 
 CENSUS AND STATISTICS
 
@@ -173,7 +173,7 @@ The Director may, if he deems fit, use sampling methods in the taking of any cen
 
 (3) An authorised officer may require any person to supply him with particulars either by interviewing such person personally or by leaving at the last known address or posting to the last known address of such person a form having thereon a notice requiring the form to be filled up and returned in the prescribed manner and within the prescribed time.
 
-### PART IV — MISCELLANEOUSPART IV
+### PART IV — MISCELLANEOUS
 
 MISCELLANEOUS
 
@@ -873,15 +873,15 @@ The description, quantity and value of sales or deliveries classified as to type
 
 14\. The description, quantity and value of orders received during the period of return but on which no work has been done during that period.
 
-#### Section 15 — Number and description of farm buildings
+#### Section 15
 
 The description, quantity and outstanding value of uncompleted orders at the end of the period of return.
 
-#### Section 16 — Particulars of persons working or living on the agricultural unit and wages paid to them in cash or kind
+#### Section 16
 
 The quantity and value of goods purchased and sold without further processing at the establishment.
 
-#### Section 17 — Number, make and type of tractors, farm implements and machinery
+#### Section 17
 
 Depreciation.
 

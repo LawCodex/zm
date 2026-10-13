@@ -221,7 +221,7 @@ where the infant is illegitimate, the father of the infant and any person who wo
 
 Interpretation Cap. 53 Cap. 53 Cap. 53 Cap. 51 Cap. 28
 
-### PART II — MAKING OF ADOPTION ORDERSPART II
+### PART II — MAKING OF ADOPTION ORDERS
 
 MAKING OF ADOPTION ORDERS
 
@@ -359,7 +359,7 @@ An adoption order or an interim order may be made in respect of an infant who ha
 
 (2) For the purpose of any application under this Act and subject to any rules which may be made in that behalf, the court shall appoint some person or body of persons to act as guardian ad litem of the infant upon the hearing of the application with the duty of safeguarding the interests of the infant before the court.
 
-### PART III — REGISTRATION OF ADOPTION ORDERSPART III
+### PART III — REGISTRATION OF ADOPTION ORDERS
 
 REGISTRATION OF ADOPTION ORDERS
 
@@ -417,7 +417,7 @@ and the provisions of subsection (1) shall have effect accordingly.
 
 (5) A copy or extract of an entry in any register, being an entry the marking of which is cancelled under the provisions of this section, shall be deemed to be an accurate copy if and only if both the marking and the cancellation are omitted therefrom.
 
-### PART IV — EFFECT OF ADOPTION ORDERSPART IV
+### PART IV — EFFECT OF ADOPTION ORDERS
 
 EFFECT OF ADOPTION ORDERS
 
@@ -465,7 +465,7 @@ any reference, whether express or implied, to a person related to the adopted pe
 
 Cap. 53
 
-### PART V — ADOPTION SOCIETIESPART V
+### PART V — ADOPTION SOCIETIES
 
 ADOPTION SOCIETIES
 
@@ -565,7 +565,7 @@ Provided that it shall be sufficient compliance with the requirements of this su
 
 (5) Any person who contravenes the provisions of this section shall be guilty of an offence and the court by which an offender is convicted may order any infant in respect of whom the offence is committed to be returned to his parents or guardians or the registered adoption society. (As amended by G.N. No. 276 of 1964 and S.I. No. 53 of 1965)
 
-### PART VI — SUPERVISION BY THE COMMISSIONERPART VI
+### PART VI — SUPERVISION BY THE COMMISSIONER
 
 SUPERVISION BY THE COMMISSIONER
 
@@ -675,7 +675,7 @@ Summary order for removal of infant
 
 Where any person is convicted of an offence under the provisions of this Part, the court may order any infant in respect of whom the offence was committed to be removed to a place of safety until he can be restored to his parents or guardian or until other arrangements can be made for him.
 
-### PART VII — MISCELLANEOUS AND GENERALPART VII
+### PART VII — MISCELLANEOUS AND GENERAL
 
 MISCELLANEOUS AND GENERAL
 

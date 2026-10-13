@@ -79,9 +79,9 @@ An Act to provide for the establishment and maintenance of a Combined Cadet Forc
 
 This Act may be cited as the Combined Cadet Force Act.
 
-### Section 2 — In this Act, unless the context otherwise requires-
+### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "Air Commander" means the person appointed under section one hundred and sixty-five of the Defence Act;
 
@@ -491,7 +491,7 @@ Placing of officers on supernumerary list
 
 Pay of officers
 
-### Section 12 — Annual allowances of officers
+### Section 12
 
 (1) Subject to the provisions of this regulation, an officer who(a)
 
@@ -523,9 +523,11 @@ Provided that an officer of the Auxiliary Air Force appointed to an air cadet co
 
 (5) No allowance shall be payable under this regulation to an officer in respect of any period during which that officer is on leave of absence from his duties in the Cadet Force.
 
-### Section 13 — Leave of absence for officers
+### Section 13
 
 (1) A contingent commander may be granted leave of absence from his duties in the Combined Cadet Force by the Army Commander or the Air Commander, as the case may be.
+
+Leave of absence for officers
 
 (2) An officer other than a contingent commander may be granted leave of absence from his duties in the Cadet Force-
 
@@ -537,11 +539,13 @@ for a period not exceeding thirty days, by his contingent commander;
 
 for a period exceeding thirty days, by the Army Commander or the Air Commander, as the case may be.
 
-### Section 14 — Appointment of cadets as cadet officers
+### Section 14
 
 (1) The Army Commander may appoint a cadet second lieutenant or cadet acting sub-lieutenant.
 
 (2) On the report of a board of inquiry, the Army Commander may cancel the appointment of any cadet second lieutenant or cadet acting sub-lieutenant, but shall not cancel his appointment unless such cadet is notified in writing of the action proposed to be taken against him and is called upon to show cause in relation thereto.
+
+Appointment of cadets as cadet officers
 
 (3) The Army Commander may suspend any cadet second lieutenant or cadet acting sub-lieutenant from duty.
 
@@ -549,9 +553,11 @@ for a period exceeding thirty days, by the Army Commander or the Air Commander, 
 
 (5) A cadet second lieutenant, or cadet acting sub-lieutenant shall, in respect of any period during which he attends for duty at a cadet camp, be paid at the rate of thirty-five ngwee per day.
 
-### Section 15 — Appointment of cadets to warrant and non-commissioned rank
+### Section 15
 
 (1) The Army Commander may appoint any cadet serving in an army cadet contingent or a sea cadet contingent to cadet non-commissioned rank or acting cadet non-commissioned rank.
+
+Appointment of cadets to warrant and non-commissioned rank
 
 (2) The Air Commander may appoint any cadet serving in an air cadet contingent to cadet non-commissioned rank or acting cadet non-commissioned rank:
 
@@ -561,15 +567,15 @@ Provided that, for the purposes of this and the foregoing sub-regulation, "non-c
 
 (4) Any cadet appointed to cadet warrant or non-commissioned rank may, on the recommendation of his contingent commander, be reduced in rank by the Army Commander or the Air Commander, as the case may be.
 
-### Section 16 — Dismissal of cadets
+### Section 16
 
 The Army Commander or the Air Commander, as the case may be, may, on the report of a board of inquiry, may dismiss from any of his contingents any cadet who, in the opinion of such Commander, is guilty of insubordination or misconduct.
 
-### Section 17 — Training year
+### Section 17
 
 The training year for cadets shall be the calendar year.
 
-### Section 18 — Eligibility to join
+### Section 18
 
 (1) The age prescribed for the purposes of paragraph (a) of section six of the Act shall be fourteen years six months.
 
@@ -577,17 +583,23 @@ Dismissal of cadets
 
 Training year
 
+Eligibility to join
+
 (2) Boys who join the Cadet Force must be attending a recognised secondary school in Form III or above.
 
 (3) Notwithstanding the provisions of this regulation, the Army Commander or the Air Commander, as the case may be, may permit any boy to serve in the Cadet Force if, in the opinion of such Commander, it is in the interests of the Cadet Force.
 
-### Section 19 — Discipline at parades
+### Section 19
 
 The senior officer or, in the absence of an officer, the senior cadet present at any parade of cadets shall be responsible for the due observance of discipline by all cadets present.
 
-### Section 20 — Publication of criticism
+Discipline at parades
+
+### Section 20
 
 Officers and cadets of the Cadet Force shall not by public discussion or by communicating anonymously or otherwise to the press or by publishing or being party to the publication of matters concerning the Cadet Force or any contingent thereof-
+
+Publication of criticism
 
 (a)
 
@@ -597,9 +609,11 @@ criticise adversely the conduct of any officer or cadet of the Cadet Force actin
 
 create or express a feeling of discontent among officers or cadets of the Cadet Force against lawful orders or instructions issued under proper authority.
 
-### Section 21 — Redress of wrongs
+### Section 21
 
 (1) If an officer thinks himself wronged by his contingent commander and, on due application made to that officer, does not receive the redress to which he considers himself entitled, he may complain to the Army Commander or the Air Commander, as the case may be.
+
+Redress of wrongs
 
 (2) If any cadet has a complaint against any other cadet or officer, other than his contingent commander, he may complain to his contingent commander and, if such complaint is not redressed or if he has any complaint against his contingent commander, he may complain to the Army Commander or the Air Commander, as the case may be, through his contingent commander.
 
@@ -607,17 +621,23 @@ create or express a feeling of discontent among officers or cadets of the Cadet 
 
 (4) If a complaint is made to the Army Commander or the Air Commander, the Commander to whom such complaint is made shall cause the complaint to be inquired into and, if on inquiry he is satisfied of the justice of the complaint, he shall take such steps as he considers necessary to give full redress to the complainant.
 
-### Section 22 — Boards of inquiry
+### Section 22
 
 Boards of inquiry may be convened by the Army Commander or the Air Commander from time to time for the purpose of investigating and reporting upon any matter concerning the Cadet Force.
 
-### Section 23 — Guards of honour and public functions
+Boards of inquiry
+
+### Section 23
 
 Cadets shall not form guards of honour or take part in any public function in their capacity as cadets without the authority of the Army Commander or the Air Commander, as the case may be.
 
-### Section 24 — Issue and preservation of Government property
+Guards of honour and public functions
+
+### Section 24
 
 (1) An issue of arms, equipment, clothing and stores shall be made to a contingent from time to time at the expense of the Government.
+
+Issue and preservation of Government property
 
 (2) Any arms, equipment and clothing issued to a contingent shall be issued to the members thereof by the contingent commander in accordance with the directions of the Army Commander or the Air Commander, as the case may be.
 
@@ -641,9 +661,11 @@ he shall be liable to pay an amount equal to the cost thereof to the Government,
 
 (7) On ceasing to be a member of the Cadet Force, a chief petty officer or cadet shall hand to his contingent commander any arms, equipment and clothing which have been issued to him free of charge. (As amended by No. 186 of 1966)
 
-### Section 25 — Issue of clothing to officers and chief petty officers
+### Section 25
 
 (1) An issue of clothing shall be made to every officer on his appointment to commissioned rank and to every chief petty officer on his appointment:
+
+Issue of clothing to officers and chief petty officers
 
 Provided that an officer of the Auxiliary Air Force who has received an issue of clothing on his appointment to commissioned rank in that Force, and who has been appointed to an air cadet contingent by the Air Commander under the provisions of paragraph (e) of sub-regulation (1) of regulation 5 shall not, on such appointment, be entitled to an issue of clothing under this regulation.
 
@@ -665,13 +687,17 @@ Provided that an officer of the Auxiliary Air Force appointed to an air cadet co
 
 (1) of regulation 5 shall not be entitled to an allowance under this regulation but shall be paid the appropriate allowance for the purpose of maintaining his clothing prescribed by regulations relating to the Auxiliary Air Force. (As amended by No. 186 of 1966)
 
-### Section 26 — Rations
+### Section 26
 
 Officers and cadets of the Cadet Force attending for duty at a cadet camp shall be issued with rations at the expense of the Government.
 
-### Section 27 — Illness and injury in the course of duty
+Rations
+
+### Section 27
 
 (1) An illness contracted or injury sustained by an officer, chief petty officer or cadet in the course of duties in the Cadet Force shall be reported immediately to a medical officer in the Defence Force.
+
+Illness and injury in the course of duty
 
 (2) An officer, chief petty officer or cadet who, in the course of his duties in the Cadet Force-
 
@@ -693,17 +719,21 @@ in the case of an officer or chief petty officer, receive from Government the pa
 
 (3) Any expenses incurred in the treatment of an officer or cadet referred to in sub-regulation (2) by a medical practitioner, other than a medical officer of the Defence Force or a Government medical officer, shall only be paid by the Government if the treatment has been authorised and approved by the Senior Medical Officer of the Defence Force or the Permanent Secretary, Department of Health, as the case may be. (As amended by No. 186 of 1966)
 
-### Section 28 — Death in the course of duty
+### Section 28
 
 If an officer, chief petty officer or cadet dies as a result of an illness contracted or an injury sustained in the course of his duties in the Cadet Force, the amount of any reasonable expenses incurred in burying him shall be paid by the Government.
 
+Death in the course of duty
+
 (As amended by No. 186 of 1966)
 
-### Section 29 — Benefits on death or disability
+### Section 29
 
 (1) Every disabled officer or chief petty officer and the widow, child or other dependant of a deceased officer or chief petty officer shall be entitled to such disablement benefits and allowances as may be prescribed by regulation from time to time.
 
 (2) For the purposes of this regulation"deceased officer or chief petty officer" means a person who was an officer or chief petty officer and who dies owing to an injury received or from an illness contracted in and by the discharge of his duties in the Cadet Force without any misconduct or serious negligence on his part; "disabled officer or chief petty officer" means-
+
+Benefits on death or disability
 
 (a)
 
@@ -721,9 +751,11 @@ Commander in respect of air cadets will prescribe the courses of instruction to 
 
 Training and proficiency
 
-### Section 31 — Standards of proficiency
+### Section 31
 
 The Army Commander, or the Air Commander, as the case may be, shall prescribe the standards of proficiency to be attained by cadets, which shall be recognised by the granting of appropriate certificates or other awards, and the conditions in which such awards shall count towards the status of a cadet who later joins the Territorial Force.
+
+Standards of proficiency
 
 ## SCHEDULE
 

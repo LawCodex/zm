@@ -1973,13 +1973,13 @@ PART I PRELIMINARY
 
 These Regulations may be cited as the Pesticides and Toxic Substances Regulations.
 
-#### Section 2 — In these Regulations unless the context otherwise requires-
+#### Section 2 — Interpretation
+
+In these Regulations unless the context otherwise requires-
 
 "application" means the way and means of using the pesticide or toxic substance on its intended target as prescribed by the manufacturer;
 
 Title
-
-Interpretation
 
 "banned pesticide or toxic substance" means a pesticide or toxic substance for which all registered uses are prohibited or for which requests for registration have not been granted;
 
@@ -4415,7 +4415,7 @@ Statutory Instrument 28 of 1997
 
 Regulations by the Minister
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -4463,7 +4463,7 @@ Interpretation
 
 "proprietary information" means information relating to any manufacturing process, trade secret, trademark, patent, copyright, breeder's right, or formula protected by law or by any international treaty to which Zambia is a party.
 
-### PART II — PROJECT BRIEFSPART II
+### PART II — PROJECT BRIEFS
 
 PROJECT BRIEFS
 
@@ -4543,7 +4543,7 @@ Submission of project brief to Council
 
 Consideration of project brief and decision by Council
 
-### PART III — ENVIRONMENTAL IMPACT STATEMENTPART III
+### PART III — ENVIRONMENTAL IMPACT STATEMENT
 
 ENVIRONMENTAL IMPACT STATEMENT
 
@@ -4655,7 +4655,7 @@ Transmission of environmental impact statement to neighbouring state and review 
 
 (2) The Council shall consider comments received under sub-regulation (1) and, state the review process of an environmental impact statement
 
-### PART IV — REVIEW PROCESS OF ENVIRONMENTAL IMPACT STATEMENTPART IV
+### PART IV — REVIEW PROCESS OF ENVIRONMENTAL IMPACT STATEMENT
 
 REVIEW PROCESS OF ENVIRONMENTAL IMPACT STATEMENT
 
@@ -4753,7 +4753,7 @@ Provided that the person presiding at the public hearing shall have the right to
 
 (2) The Council shall determine the procedure for making presentations at a public hearing.
 
-### PART V — DECISION OF THE COUNCILPART V
+### PART V — DECISION OF THE COUNCIL
 
 DECISION OF THE COUNCIL
 
@@ -4865,7 +4865,7 @@ Protection of proprietary information
 
 withdraw the information submitted under these Regulations from the assessment process.
 
-### PART VII — POST-ASSESSMENT ENVIRONMENTAL AUDITSPART VII
+### PART VII — POST-ASSESSMENT ENVIRONMENTAL AUDITS
 
 POST-ASSESSMENT ENVIRONMENTAL AUDITS
 
@@ -4899,7 +4899,7 @@ Role of inspector
 
 (2) An inspector acting under this Regulation may examine and copy any record and exercise all or any of the powers provided for under section eighty-four of the Act.
 
-### PART VIII — PERIOD OF VALIDITYPART VIII
+### PART VIII — PERIOD OF VALIDITY
 
 PERIOD OF VALIDITY
 
@@ -4939,7 +4939,7 @@ On receipt of any comment under sub-regulation (4) of regulation 32, the Council
 
 Issues of decision letter
 
-### PART IX — PENALTIESPART IX
+### PART IX — PENALTIES
 
 PENALTIES
 
@@ -4987,7 +4987,7 @@ Remedial costs
 
 (2) If remedial measures cannot be undertaken immediately by a developer, the Council shall undertake the remedial measures and shall charge the costs to the developer to pay within a specified reasonable time.
 
-### PART X — MISCELLANEOUS PROVISIONSPART X
+### PART X — MISCELLANEOUS PROVISIONS
 
 MISCELLANEOUS PROVISIONS
 

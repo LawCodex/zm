@@ -287,9 +287,9 @@ PART I PRELIMINARYPART I PRELIMINARY
 
 This Act may be cited as the Subordinate Courts Act.
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "cause" includes any action, suit or other original proceeding between a plaintiff and a defendant, and any criminal proceeding;
 
@@ -329,7 +329,7 @@ Suit
 
 (As amended by S.I. No. 63 of 1964)
 
-### PART II — CONSTITUTION OF SUBORDINATE COURTSPART II
+### PART II — CONSTITUTION OF SUBORDINATE COURTS
 
 CONSTITUTION OF SUBORDINATE COURTS
 
@@ -393,7 +393,7 @@ The sittings of Subordinate Courts shall usually be held in such buildings withi
 
 (As amended by G.N. No. 303 of 1964)
 
-### PART III — JURISDICTION AND LAWPART III
+### PART III — JURISDICTION AND LAW
 
 JURISDICTION AND LAW
 
@@ -577,7 +577,7 @@ The Chief Justice may, by order under his hand and the seal of the High Court, a
 
 (As amended by No. 16 of 1937, G.N. No. 444 of 1964 and No. 28 of 1965)
 
-### PART IV — SITTINGS AND DISTRIBUTION OF BUSINESSPART IV
+### PART IV — SITTINGS AND DISTRIBUTION OF BUSINESS
 
 SITTINGS AND DISTRIBUTION OF BUSINESS
 
@@ -607,7 +607,7 @@ Provided that the judgment shall be dated and signed by the magistrate at the ti
 
 (3) Where a magistrate is transferred to another District, he shall complete any proceedings already commenced before him. (No. 4 of 1972)
 
-### PART V — APPEALSPART V
+### PART V — APPEALS
 
 APPEALS
 
@@ -659,7 +659,7 @@ Appeals in criminal cases shall lie from Subordinate Courts in accordance with t
 
 Right of appeal in criminal cases. Cap. 88
 
-### PART VI — OFFICERS OF SUBORDINATE COURTSPART VI
+### PART VI — OFFICERS OF SUBORDINATE COURTS
 
 OFFICERS OF SUBORDINATE COURTS
 
@@ -681,7 +681,7 @@ Every clerk of the court shall, before entering upon the duties of his office, t
 
 "I do swear I will truly, faithfully and honestly execute the office of clerk of the court without fear, favour or affection for anyone. So help me God."
 
-### PART VII — CONTEMPT OF COURTPART VII
+### PART VII — CONTEMPT OF COURT
 
 CONTEMPT OF COURT
 
@@ -701,7 +701,7 @@ Whenever any punishment as for a contempt of court shall be imposed by a magistr
 
 (3) Whenever any order is made by a magistrate under this section, the provisions of the last preceding section shall apply thereto. (As amended by Act No. 13 of 1994)
 
-### PART VIII — EVIDENCEPART VIII
+### PART VIII — EVIDENCE
 
 EVIDENCE
 
@@ -789,7 +789,7 @@ after preliminary inquiry, commit him for trial upon information for perjury, an
 
 (3) Except where the order of the Subordinate Court is set aside by the High Court, any penalty imposed under this section shall be a bar to any other criminal proceedings in respect of the same offence. (As amended by Act No. 13 of 1994)
 
-### PART IX — COMPOSITION ORDERSPART IX
+### PART IX — COMPOSITION ORDERS
 
 COMPOSITION ORDERS
 
@@ -833,7 +833,7 @@ Cap. 82
 
 (As amended by No. 12 of 1952 and Act No. 13 of 1994)
 
-### PART X — MISCELLANEOUSPART X
+### PART X — MISCELLANEOUS
 
 MISCELLANEOUS
 
@@ -849,7 +849,7 @@ No action shall be brought against any magistrate in respect of any act done or 
 
 At the end of every month, every Subordinate Court shall forward to the High Court, in such form as the High Court may, from time to time, direct, a complete list of all criminal cases decided by or brought before such court during that month.
 
-### PART XI — RULES OF COURTPART XI
+### PART XI — RULES OF COURT
 
 RULES OF COURT
 
@@ -4435,7 +4435,7 @@ General Title of Writs and other Documents in a Suit. Writ of Summons. (O. 6, r.
 
 18\. 19. 20. 21. 22. 23. 24. 25. 26. 27. 28. 29. 30. 31. 32. 33. 34. 35. 36. 37. 38. 39. 40. 41. 42. 43. 44. 45. 46. 47. 48. 49. 50. 51. 52. 53. 54. 55. 56. 57.
 
-#### Section 58 — Property in the custody or under the control of any public officer in his official
+#### Section 58
 
 59\. 60. 61. 62. 63. 64. 65. 66. 67. 68. 69. 70. 71. 72. 73. 74. 75. 76.
 
@@ -6105,7 +6105,7 @@ To: The Clerk of the Court. I desire to make personal search in the Judgments Re
 
 *Delete whiche inapplic
 
-#### Section 69 — APPLICATION FOR PERMIT FOR GENERAL SEARCHES IN JUDGMENTS REGISTERS (AGAINST UNSPECIFIED
+#### Section 69
 
 APPLICATION FOR PERMIT FOR GENERAL SEARCHES IN JUDGMENTS REGISTERS (AGAINST UNSPECIFIED NUMBER OF NAMES)
 

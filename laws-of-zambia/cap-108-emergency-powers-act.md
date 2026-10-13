@@ -59,9 +59,9 @@ An Act to empower the President to make emergency regulations whenever an emerge
 
 This Act may be cited as the Emergency Powers Act.
 
-### Section 2 — In this Act, unless the context otherwise requires-
+### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "the Constitution" means the Constitution of the Republic;
 
@@ -309,7 +309,7 @@ Disposal of goods and commodities
 
 Cap. 421
 
-### Section 7 — Where any of the powers contained in regulation 6 are exercised, the Minister
+### Section 7
 
 Where any of the powers contained in regulation 6 are exercised, the Minister responsible for finance shall, on behalf of the Republic, pay-
 
@@ -333,13 +333,13 @@ Disputes
 
 (3) The existence of any dispute shall not affect the right of the President and persons authorised by him to take possession of, or control of, any property or dispose of any goods or commodities confiscated.
 
-### Section 9 — In determining the amount of any compensation (including costs or expenses)
+### Section 9
 
 Where a dispute as to the amount of compensation is referred to the National Assembly and either party wishes to adduce evidence, such evidence shall be heard by a select committee of the National Assembly. The powers, duties and proceedings of such select committee shall be governed by the Standing Orders of the National Assembly for the time being in force.
 
 Procedure in National Assembly
 
-### Section 10 — Any person who wilfully fails to comply with an order to yield up possession, or
+### Section 10
 
 Any person who wilfully fails to comply with an order to yield up possession, or who wilfully hinders or obstructs any duly authorised person taking possession of, or control of, any undertaking or property in terms of these Regulations or exercising any rights or performing any functions under these Regulations shall be guilty of an offence and liable on conviction to a fine not exceeding five thousand penalty units or to imprisonment for a term not exceeding two years, or to both.
 
@@ -347,7 +347,7 @@ Offences and penalties
 
 (As amended by Act No. 13 of 1994)
 
-### Section 11 — The Minister responsible for industry may, by statutory instrument, make
+### Section 11
 
 The Minister responsible for commerce may, by statutory instrument, make orders for the better carrying out of the provisions of these Regulations.
 

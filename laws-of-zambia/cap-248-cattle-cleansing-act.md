@@ -107,9 +107,9 @@ CATTLE CLEANSING An Act to provide for the cleansing of cattle; to provide for a
 
 This Act may be cited as the Cattle Cleansing Act.
 
-### Section 2 — In this Act, unless the context otherwise requires-
+### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "cattle" means bulls, cows, heifers, calves and oxen, and any other animals to which this Act may be applied by the Minister by statutory notice;
 

@@ -33,7 +33,9 @@ Ensigns
 
 #### Section 3 — Insulting the National Flag, etc., an offence
 
-#### Section 4 — Prohibition of improper use of National Flag, etc
+#### Section 4
+
+Prohibition of improper use of National Flag, etc.
 
 #### Section 5 — Forfeiture
 
@@ -215,19 +217,19 @@ Manner of flying and maintaining National Flag
 
 (3) Any person who contravenes the provisions of this regulation shall be guilty of an offence.
 
-#### Section 7 — The National Flag shall be flown only between the hours of sunrise and sunset,
+#### Section 7
 
 The National Flag shall be flown only between the hours of sunrise and sunset, and any person who contravenes the provisions of this regulation shall be guilty of an offence.
 
 National Flag to be flown during the day-time
 
-#### Section 8 — Except for Government purposes, no person shall use the National Flag for any
+#### Section 8
 
 Except for Government purposes, no person shall use the National Flag for any purpose whatsoever without first obtaining written permission from the Minister, and any person who contravenes the provisions of this regulation shall be guilty of an offence.
 
 Use of National Flag
 
-#### Section 9 — The Armorial Ensigns shall not be displayed without written permission from the
+#### Section 9
 
 The Armorial Ensigns shall not be displayed without written permission from the Minister, except on Government buildings.
 
@@ -239,13 +241,13 @@ Ensigns shall not be used or reproduced without written permission from the Mini
 
 Use of design
 
-#### Section 11 — An application for any permission required under the Act or these Regulations
+#### Section 11
 
 An application for any permission required under the Act or these Regulations shall be made in writing to the Permanent Secretary, in the Ministry responsible for Commerce, Trade and Industry, giving full particulars of the proposed use and, where appropriate, an illustration of the proposed use.
 
 Application for permission
 
-#### Section 12 — Any person who is found guilty of an offence under these Regulations shall be
+#### Section 12
 
 Any person who is found guilty of an offence under these Regulations shall be liable to a fine not exceeding seven hundred and fifty penalty units or to imprisonment for a period not exceeding three months, or to both.
 

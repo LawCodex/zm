@@ -185,7 +185,7 @@ HOME GUARD
 
 An Act to make provision for the establishment, maintenance, discipline and administration of the Home Guard; and to provide for matters incidental thereto or connected therewith. [21st January, 1972]
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -341,7 +341,7 @@ he may claim his discharge at any time, and, if he makes such claim, the claim s
 
 Cap. 106
 
-### PART IV — HOME GUARD PROBING COMMITTEEPART IV
+### PART IV — HOME GUARD PROBING COMMITTEE
 
 HOME GUARD PROBING COMMITTEE
 
@@ -447,7 +447,7 @@ likely to bring discredit upon the Home Guard.
 
 Where the time at which a member of the Home Guard would otherwise be entitled to be discharged occurs at a time when the Home Guard or any part thereof is employed in terms of section nineteen, he may be required to prolong his service for such further term as the President may order.
 
-### PART VI — DISCIPLINEPART VI
+### PART VI — DISCIPLINE
 
 DISCIPLINE
 
@@ -477,7 +477,9 @@ Where a member of the Home Guard, except with leave lawfully granted or on accou
 
 (As amended by Act No. 13 of 1994)
 
-#### Section 24 — Any person who-
+#### Section 24 — Person causing disaffection amongst members of the Home Guard
+
+Any person who-
 
 (a)
 
@@ -489,7 +491,7 @@ induces or attempts to induce, or does any act calculated to induce, any member 
 
 shall be guilty of an offence and liable on conviction to a fine not exceeding five thousand penalty units or to imprisonment for a term not exceeding two years, or to both. (As amended by Act No. 13 of 1994)
 
-### PART VII — MISCELLANEOUSPART VII
+### PART VII — MISCELLANEOUS
 
 MISCELLANEOUS
 
@@ -515,7 +517,7 @@ Nothing in this Act shall exempt any person from being prosecuted under any othe
 
 Provided that no person shall be punished twice for the same offence on account of the same facts.
 
-### PART VIII — EMPLOYER'S OBLIGATIONPART VIII
+### PART VIII — EMPLOYER'S OBLIGATION
 
 EMPLOYER'S OBLIGATION
 
@@ -525,7 +527,7 @@ EMPLOYER'S OBLIGATION
 
 (2) Any employer, manager or person in charge of an employee who by words, conduct or otherwise compels, induces or prevails upon such employee to refrain from joining, or doing any service or training in, the Home Guard, shall be guilty of an offence and liable on conviction to a fine not exceeding two thousand penalty units or to imprisonment for a term not exceeding six months, or to both. (As amended by Act No. 13 of 1994)
 
-### PART IX — REGULATIONSPART IX
+### PART IX — REGULATIONS
 
 REGULATIONS
 
@@ -597,7 +599,7 @@ the preservation of property of the Government issued to the Home Guard or any p
 
 generally for the good order and management of the Home Guard.
 
-### PART X — APPLICATION OF THE DEFENCE ACT TO THE HOME GUARDPART X
+### PART X — APPLICATION OF THE DEFENCE ACT TO THE HOME GUARD
 
 APPLICATION OF THE DEFENCE ACT TO THE HOME GUARD
 
@@ -629,7 +631,7 @@ ranks of officers in the Home Guard shall correspond to such ranks of officers i
 
 (3) Where there is a conflict, in relation to the Home Guard or members thereof, between the provisions of this Act and the provisions of the Defence Act, the provisions of this Act shall prevail.
 
-#### Section 32 — Application of the
+#### Section 32
 
 Application of the Defence Act. Cap. 106
 

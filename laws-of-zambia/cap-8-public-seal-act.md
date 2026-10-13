@@ -55,9 +55,9 @@ An Act to prescribe the Public Seal of the Republic; to provide for the custody 
 
 This Act may be cited as the Public Seal Act.
 
-### Section 2 — In this Act, unless the context otherwise requires-
+### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "the President" means the President of the Republic;
 

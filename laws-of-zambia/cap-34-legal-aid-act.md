@@ -159,9 +159,9 @@ An Act to provide for the granting of legal aid in civil and criminal matters an
 
 This Act may be cited as the Legal Aid Act.
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "court" shall include any court or tribunal before which a practitioner may represent a client, but shall not include a local court established under the Local Courts Act;
 

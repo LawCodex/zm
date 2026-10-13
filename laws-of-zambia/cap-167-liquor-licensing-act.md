@@ -395,7 +395,7 @@ CHAPTER 167 LIQUOR LICENSING An Act to make provision for the regulation of the 
 
 1 of 1959 19 of 1959 35 of 1960 45 of 1961 26 of 1963 57 of 1964 69 of 1965 17 of 1967 6 of 1968 53 of 1968 25 of 1969 47 of 1970 62 of 1970 40 of 1971 20 of 1972 Government Notices 304 of 1964 497 of 1964 502 of 1964 Statutory Instrument 91 of 1965 Act No. 53 of 1968 20 of 1970 34 of 1970 47 of 1970 4 of 1971 20 of 1972 7 of 1973 12 of 1975 8 of 1976 11 of 1976 2 of 1977 24 of 1977 6 of 1983 5 of 1988 34 of 1990 6 of 1992 8 of 1993 7 of 1994 13 of 1994
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -403,9 +403,9 @@ PRELIMINARY
 
 This Act may be cited as the Liquor Licensing Act.
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "appropriate fee", in relation to any matter, means the fee specified in respect of such matter in the Schedule;
 
@@ -515,7 +515,7 @@ the sale of intoxicating liquor to members of the Defence Force by any bona fide
 
 the sale of intoxicating liquor, in any canteen approved for such purpose by the Minister, to members of the Zambia Police Force, Defence Force or Zambia Prison Service. (As amended by S.I. No. 91 of 1965 and 11 of 1976)
 
-### PART II — TYPES OF LICENCESPART II
+### PART II — TYPES OF LICENCES
 
 TYPES OF LICENCES
 
@@ -707,7 +707,7 @@ Provided that the Minister may, by statutory instrument, prescribe the hours dur
 
 Provided that where the Minister has given the Board a direction in writing to consider such an application, the Board may consider the application and grant a licence. (As amended by Act 4 of 1971 and 20 of 1972)
 
-### PART III — ESTABLISHMENT AND POWERS OF LICENSING BOARDSPART III
+### PART III — ESTABLISHMENT AND POWERS OF LICENSING BOARDS
 
 ESTABLISHMENT AND POWERS OF LICENSING BOARDS
 
@@ -1007,7 +1007,7 @@ A licensing authority shall, at the request of an applicant other than an applic
 
 (2) No extension shall be granted under the provisions of this section in respect of more than one period of twenty-four hours at any one time.
 
-### PART IV — TRANSFER AND REMOVAL OF LICENCESPART IV
+### PART IV — TRANSFER AND REMOVAL OF LICENCES
 
 TRANSFER AND REMOVAL OF LICENCES
 
@@ -1115,7 +1115,7 @@ Provided that, where application is made for the transfer of the licence affecte
 
 (6) The provisions of this section shall not apply to a railway restaurant car licence, a passenger vessel licence or to a temporary licence.
 
-### PART V — LICENCE REGISTERSPART V
+### PART V — LICENCE REGISTERS
 
 LICENCE REGISTERS
 
@@ -1151,7 +1151,7 @@ Any register shall be open to inspection by members of the public at all reasona
 
 Provided that no public officer shall be required to pay any fee for inspection of a register.
 
-### PART VI — APPEALSPART VI
+### PART VI — APPEALS
 
 APPEALS
 
@@ -1663,7 +1663,9 @@ to any other person approved by the master between the hours of ten o'clock in t
 
 (3) If any person hinders or prevents any inspecting officer in pursuance of this section from going on board or impedes him in carrying out any inspection under this section, he shall be guilty of an offence and shall be liable, on a first conviction to a fine not exceeding seven hundred and fifty penalty units and, on a subsequent conviction, to a fine not exceeding one thousand five hundred penalty units. (As amended by G.N. No. 502 of 1964, No. 24 of 1977 and Act No. 13 of 1994)
 
-#### Section 68 — In the application of Lake Kariba of-
+#### Section 68 — Application and modification of sections 20, 28, 30, 41, 45, 47, Part VII,
+
+In the application of Lake Kariba of-
 
 (a)
 
@@ -1691,7 +1693,7 @@ sections forty-five and forty-seven, there shall for the words "under the age of
 
 Part VII and sections sixty-nine, seventy-six, eighty and eighty-one, "licence" shall include a currently valid licence for the sale of intoxicating liquor on a passenger vessel granted under the laws of Southern Rhodesia and "licence" and "licensed premises" shall be construed accordingly.
 
-### PART IX — SUPPLEMENTALPART IX
+### PART IX — SUPPLEMENTAL
 
 SUPPLEMENTAL
 

@@ -31,7 +31,7 @@ Section
 
 #### Section 2 — Interpretation
 
-### PART II — PROCEEDINGS FROM ACT OF BANKRUPTCY TO DISCHARGEPART II
+### PART II — PROCEEDINGS FROM ACT OF BANKRUPTCY TO DISCHARGE
 
 PROCEEDINGS FROM ACT OF BANKRUPTCY TO DISCHARGE
 
@@ -45,7 +45,9 @@ Receiving Order
 
 #### Section 5 — Jurisdiction to make receiving order
 
-#### Section 6 — Conditions on which creditor may petition
+#### Section 6
+
+Conditions on which creditor may petition
 
 #### Section 7 — Proceedings and order on creditor's petition
 
@@ -93,7 +95,9 @@ Control over Person and Property of Debtor
 
 #### Section 23 — Duties of debtor as to discovery and realisation of property
 
-#### Section 24 — Address and certain particulars to be furnished
+#### Section 24
+
+Address and certain particulars to be furnished
 
 #### Section 25 — Arrest of debtor under certain circumstances
 
@@ -111,7 +115,7 @@ Control over Person and Property of Debtor
 
 #### Section 32 — Bankrupt not to act as director or manager of company or to manage business
 
-### PART III — ADMINISTRATION OF PROPERTYPART III
+### PART III — ADMINISTRATION OF PROPERTY
 
 ADMINISTRATION OF PROPERTY
 
@@ -181,7 +185,9 @@ Realisation of Property
 
 #### Section 60 — Allowance to bankrupt for maintenance or service
 
-#### Section 61 — Right of trustee to inspect goods pawned, etc
+#### Section 61
+
+Right of trustee to inspect goods pawned, etc.
 
 #### Section 62 — Limitation of trustee's powers in relation to copyright
 
@@ -191,7 +197,7 @@ cases Distribution of Property
 
 #### Section 64 — Declaration and distribution of dividends
 
-### PART IV — OFFICIAL RECEIVER AND STAFFPART IV
+### PART IV — OFFICIAL RECEIVER AND STAFF
 
 OFFICIAL RECEIVER AND STAFF
 
@@ -215,7 +221,7 @@ Duties of official receiver as regards debtor's conduct
 
 Duties of official receiver as regards debtor's estate
 
-### PART V — TRUSTEES IN BANKRUPTCYPART V
+### PART V — TRUSTEES IN BANKRUPTCY
 
 TRUSTEES IN BANKRUPTCY
 
@@ -295,7 +301,7 @@ Office of trustee vacated by insolvency
 
 Removal of trustee
 
-### PART VI — CONSTITUTION, PROCEDURE AND POWERS OF COURTPART VI
+### PART VI — CONSTITUTION, PROCEDURE AND POWERS OF COURT
 
 CONSTITUTION, PROCEDURE AND POWERS OF COURT
 
@@ -375,7 +381,7 @@ Courts to be auxiliary to other Commonwealth courts
 
 Commitment to prison
 
-### PART VII — SUPPLEMENT PROVISIONSPART VII
+### PART VII — SUPPLEMENT PROVISIONS
 
 SUPPLEMENT PROVISIONS
 
@@ -475,7 +481,7 @@ Unclaimed and undistributed dividends or funds
 
 Indivisible balances
 
-### PART VIII — BANKRUPTCY OFFENCESPART VIII
+### PART VIII — BANKRUPTCY OFFENCES
 
 BANKRUPTCY OFFENCES
 
@@ -523,7 +529,7 @@ Form of charge
 
 Evidence as to frauds by directors and officers of corporations or companies
 
-### PART IX — PROVISIONS FOR RECIPROCITY WITH OTHER COUNTRIESPART IX
+### PART IX — PROVISIONS FOR RECIPROCITY WITH OTHER COUNTRIES
 
 PROVISIONS FOR RECIPROCITY WITH OTHER COUNTRIES
 
@@ -583,7 +589,7 @@ Power of official receiver, etc., to require official receiver in reciprocating 
 
 Power to make rules under Part IX
 
-### PART X — REPEALSPART X
+### PART X — REPEALS
 
 REPEALS
 
@@ -607,7 +613,7 @@ An Act to make provision for the administration in bankruptcy of the estates of 
 
 [14th April, 1967]
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -663,7 +669,7 @@ Interpretation
 
 "trustee" means the trustee in bankruptcy of a debtor's estate.
 
-### PART II — PROCEEDINGS FROM ACT OF BANKRUPTCY TO DISCHARGEPART II
+### PART II — PROCEEDINGS FROM ACT OF BANKRUPTCY TO DISCHARGE
 
 PROCEEDINGS FROM ACT OF BANKRUPTCY TO DISCHARGE
 
@@ -1229,7 +1235,7 @@ unless he has first made application to the court for permission so to do, and o
 
 Bankrupt not to act as director or manager of company or to manage business with relative
 
-### PART III — ADMINISTRATION OF PROPERTYPART III
+### PART III — ADMINISTRATION OF PROPERTY
 
 ADMINISTRATION OF PROPERTY
 
@@ -1655,7 +1661,7 @@ Provision for creditors residing at a distance, etc.
 
 (3) Subject to the foregoing provisions and to section one hundred and thirty-seven, he shall distribute as dividends all money in hand.
 
-#### Section 67 — Any creditor who has not proved his debt by the latest date for lodging proofs
+#### Section 67
 
 Any creditor who has not proved his debt by the latest date for lodging proofs as specified in the notice of intention to declare a dividend shall not participate in that dividend, but shall be entitled to be paid out of any money for the time being in the hands of the trustee any dividend or dividends he may have failed to receive before that money is applied to the payment of any future dividend or dividends.
 
@@ -1681,25 +1687,27 @@ any payments made by the debtor to the creditor before the receiving order, whet
 
 where the debt due is secured and the security is realised after the receiving order, or the value thereof is assessed in the proof, the amount realised or assessed shall be appropriated to the satisfaction of principal and interest in the proportion that the principal bears to the sum payable as interest at the agreed rate.
 
-#### Section 69 — No action for a dividend shall lie against the trustee, but, if the trustee refuses
+#### Section 69
 
 No action for a dividend shall lie against the trustee, but, if the trustee refuses to pay, or unreasonably delays in paying, any dividend, the court may, if it thinks fit, order him to pay it, and also to pay out of his own money interest thereon for the time that it is withheld, and the costs of the application.
 
 No action for dividend
 
-#### Section 70 — The bankrupt shall be entitled to any surplus remaining after payment in full of
+#### Section 70
 
 The bankrupt shall be entitled to any surplus remaining after payment in full of his creditors as by this Act provided, and of the costs, charges and expenses of the proceedings under the bankruptcy petition.
 
 Right of bankrupt to surplus
 
-### PART IV — OFFICIAL RECEIVER AND STAFFPART IV
+### PART IV — OFFICIAL RECEIVER AND STAFF
 
 OFFICIAL RECEIVER AND STAFF
 
-#### Section 71 — Appointment of official receiver and assistant official receivers
+#### Section 71
 
 (1) There shall be an official receiver of debtors' estates for Zambia, and as many assistant official receivers as may be required from time to time.
+
+Appointment of official receiver and assistant official receivers
 
 (2) The official receiver and the assistant official receivers shall be appointed and be removable by the Public Service Commission acting in the name of, and on behalf of, the President and they shall be officers of the court.
 
@@ -1709,9 +1717,11 @@ OFFICIAL RECEIVER AND STAFF
 
 (5) Where, at the commencement of this Act, any property is vested in any person by virtue of his office of official receiver, the said property shall, by virtue of this Act, vest in the official receiver in his corporate name.
 
-#### Section 72 — Appointment of acting and deputy official receiver
+#### Section 72
 
 (1) A fit and proper person may be appointed to act in the office of, and to discharge the duties of, the official receiver during any temporary vacancy in that office, or during the temporary absence of the official receiver through illness or otherwise.
+
+Appointment of acting and deputy official receiver
 
 (2) A fit and proper person may at any time be appointed by the official receiver to be a deputy official receiver, under such conditions as to remuneration and otherwise as the circumstances may require, and a person so appointed shall have the same powers, rights and duties, and shall be subject to the same liabilities as the official receiver.
 
@@ -1721,9 +1731,11 @@ OFFICIAL RECEIVER AND STAFF
 
 (4) The appointment of any person as deputy official receiver in pursuance of subsection (2) may be terminated where the circumstances shall so require.
 
-#### Section 73 — Status of official receiver
+#### Section 73
 
 (1) The duties of the official receiver shall have relation both to the conduct of the debtor and to the administration of his estate.
+
+Status of official receiver
 
 (2) The official receiver may, for the purpose of affidavits, verifying proofs, petitions, or other proceedings under this Act, administer oaths.
 
@@ -1731,7 +1743,7 @@ OFFICIAL RECEIVER AND STAFF
 
 (4) The trustee shall supply the official receiver with such information, and give him such access to and facilities for inspecting the bankrupt's books and documents, and generally shall give him such aid, as may be requisite for enabling the official receiver to perform his duties under this Act.
 
-#### Section 74 — Duties of official receiver as regards debtor's conduct
+#### Section 74
 
 As regards the debtor, it shall be the duty of the official receiver-
 
@@ -1751,13 +1763,15 @@ to take such part as may be directed by the court in the public examination of t
 
 to take such part and give such assistance in relation to the prosecution of any fraudulent debtor as by law provided.
 
-#### Section 75 — Duties of official receiver as regards debtor's estate
+#### Section 75
 
 (1) As regards the estate of a debtor, it shall be the duty of the official receiver(a)
 
 on the making of a receiving order and prior to an order of adjudication, to act as interim receiver of the debtor's estate, and, where a special manager is not appointed, as manager thereof;
 
 Duties of official receiver as regards debtor's conduct
+
+Duties of official receiver as regards debtor's estate
 
 (b)
 
@@ -1787,31 +1801,37 @@ to act as trustee until a trustee be appointed and during any vacancy in the off
 
 Provided that, when the debtor cannot himself prepare a proper statement of affairs, the official receiver may, subject to any prescribed conditions and at the expense of the estate, employ some person or persons to assist in the preparation of the statement of affairs.
 
-### PART V — TRUSTEES IN BANKRUPTCYPART V
+### PART V — TRUSTEES IN BANKRUPTCY
 
 TRUSTEES IN BANKRUPTCY
 
 Official Name
 
-#### Section 76 — Official name of trustee
+#### Section 76
 
 The official name of a trustee in bankruptcy shall be "the trustee of the property of ...................a bankrupt" (inserting the name of the bankrupt), and by that name the trustee may hold property of every description, make contracts, sue and be sued, enter into any engagements binding on himself and his successors in office, and do all other acts necessary or expedient to be done in the execution of his office.
 
+Official name of trustee
+
 Appointment
 
-#### Section 77 — Power to appoint joint or successive trustees
+#### Section 77
 
 (1) The creditors may, if they think fit, appoint more persons than one to the office of trustee, and when more persons than one are appointed they shall declare whether any act required or authorised to be done by the trustee is to be done by all or any one or more of such persons, but all such persons are in this Act included under the term "trustee", and shall be joint tenants of the property of the bankrupt.
 
+Power to appoint joint or successive trustees
+
 (2) The creditors may also appoint persons to act as trustees in succession in the event of one or more of the persons first named declining to accept the office of trustee, or failing to give security, or of the appointment of any such person not being certified by the official receiver.
 
-#### Section 78 — Proceedings in case of vacancy in office of trustee
+#### Section 78
 
 (1) If a vacancy occurs in the office of a trustee, the creditors in general meeting may appoint a person to fill the vacancy, and thereupon the same proceedings shall be taken as in the case of a first appointment.
 
+Proceedings in case of vacancy in office of trustee
+
 (2) The official receiver shall, on the requisition of any creditor, summon a meeting for the purpose of filling any such vacancy.
 
-#### Section 79 — Discretionary powers of trustee and control thereof
+#### Section 79
 
 (1) Subject to the provisions of this Act, the trustee shall, in the administration of the property of the bankrupt and in the distribution thereof amongst his creditors, have regard to any directions that may be given by resolution of the creditors at any general meeting, or by the committee of inspection, and any directions so given by the creditors at any general meeting shall, in case of conflict, be deemed to override any directions given by the committee of inspection.
 
@@ -1819,17 +1839,23 @@ Appointment
 
 Provided that the persons at whose instance the meeting is summoned shall deposit with the trustee or the official receiver, as the case may be, a sum sufficient to pay the costs of summoning the meeting, such sum to be repaid to him out of the estate if the creditors or the court so direct.
 
+Discretionary powers of trustee and control thereof
+
 (3) The trustee may apply to the court in manner prescribed for directions in relation to any particular matter arising under the bankruptcy.
 
 (4) Subject to the provisions of this Act, the trustee shall use his own discretion in the management of the estate and its distribution among the creditors.
 
-#### Section 80 — Appeal to court against trustee or official receiver
+#### Section 80
 
 If the bankrupt or any creditor, or any other person, is aggrieved by any act or decision of the trustee or official receiver, he may apply to the court, and the court may confirm, reverse or modify the act or decision complained of, and make such order in the premises at it thinks just.
 
-#### Section 81 — Control of official receiver over trustees
+Appeal to court against trustee or official receiver
+
+#### Section 81
 
 (1) The official receiver shall take cognizance of the conduct of trustees, and, in the event of any trustee not faithfully performing his duties and duly observing all the requirements imposed on him by statute, rules, or otherwise with respect to the performance of his duties, or in the event of any complaint being made to the official receiver by any creditor in regard thereto, the official receiver shall inquire into the matter and take such action thereon as may be deemed expedient.
+
+Control of official receiver over trustees
 
 (2) The official receiver may at any time require any trustee to answer any inquiry made by him in relation to any bankruptcy in which the trustee is engaged, and may, if the official receiver thinks fit, apply to the court to examine on oath the trustee or any other person concerning the bankruptcy.
 
@@ -1837,7 +1863,7 @@ If the bankrupt or any creditor, or any other person, is aggrieved by any act or
 
 Provided that where the court so orders such expense shall be paid by the trustee personally. Remuneration and Costs
 
-#### Section 82 — Remuneration of trustee
+#### Section 82
 
 (1) Where the creditors appoint any person to be trustee of a debtor's estate, his remuneration (if any) shall be fixed by an ordinary resolution of the creditors, or, if the creditors so resolve, by the committee of inspection.
 
@@ -1845,13 +1871,17 @@ Provided that where the court so orders such expense shall be paid by the truste
 
 (3) The resolution shall express what expenses the remuneration is to cover, and no liability shall attach to the bankrupt's estate, or the creditors, in respect of any expenses which the remuneration is expressed to cover.
 
+Remuneration of trustee
+
 (4) Where a trustee acts without remuneration, he shall be allowed out of the bankrupt's estate such proper expenses incurred by him in or about the proceedings of the bankruptcy as the creditors may, with the sanction of the court, approve.
 
 (5) A trustee shall not, under any circumstances whatever, make any arrangement for or accept from the bankrupt, or any legal practitioner, auctioneer, or any other person that may be employed about a bankruptcy, any gift, remuneration, or pecuniary or other consideration or benefit whatever beyond the remuneration fixed by the creditors and payable out of the estate, nor shall he make any arrangement for giving up, or give up, any part of his remuneration, either as receiver, manager, or trustee, to the bankrupt or any legal practitioner or other person that may be employed about a bankruptcy.
 
-#### Section 83 — Allowance and taxation of costs
+#### Section 83
 
 (1) Where a trustee or manager receives remuneration for his services as such, no payment shall be allowed in his accounts in respect of the performance by any other person of the ordinary duties which are required by statute or rules to be performed by himself.
+
+Allowance and taxation of costs
 
 (2) Where the trustee is a legal practitioner, he may contract that the remuneration for his services as trustee shall include all professional services.
 
@@ -1859,11 +1889,13 @@ Provided that where the court so orders such expense shall be paid by the truste
 
 (4) Every such person shall, on being so required by the trustee, or by the official receiver, or by one-fourth in number or value of the creditors (which request shall be made a sufficient time before declaring a dividend), deliver his bill of costs or charges to the proper officer for taxation, and, if he fails to do so within seven days after the receipt of the request, or such further time as the court, on application, may grant, the trustee shall declare and distribute the dividend without regard to any claim by him, and thereupon any such claim shall be forfeited as well against the trustee personally as against the estate. Receipts, Payments, Accounts, Audit
 
-#### Section 84 — Trustee to furnish list of creditors
+#### Section 84
 
 The trustee or official receiver shall, whenever required by any creditor so to do, furnish and transmit to him by post a list of creditors showing the amount of the debt due to each creditor, and shall be entitled to charge for such list the sum of fifteen fee units and the further sum of three fee units for every folio of seventy-two words in excess of five folios, together with the cost of the postage thereof. (As amended by Act No. 13 of 1994)
 
-#### Section 85 — Trustee to furnish statement of accounts
+Trustee to furnish list of creditors
+
+#### Section 85
 
 It shall be lawful for any creditor, with the concurrence of one-sixth of the creditors (including himself), at any time to call upon the trustee or official receiver to furnish and transmit to the creditors a statement of the accounts up to the date of such notice, and the trustee shall, upon receipt of such notice, furnish and transmit such statement of the accounts:
 
@@ -1871,23 +1903,31 @@ Trustee to furnish statement of creditors
 
 Provided that the person at whose instance the accounts are furnished shall deposit with the trustee or official receiver, as the case may be, a sum sufficient to pay the costs of furnishing and transmitting the accounts, which sum shall be repaid to him out of the estate if the creditors or the court so direct.
 
-#### Section 86 — Books to be kept by trustee
+#### Section 86
 
 The trustee shall keep, in manner prescribed, proper books, in which he shall from time to time cause to be made entries or minutes of proceedings at meetings, and such other matters as may be prescribed, and any creditor of the bankrupt may, subject to the control of the court, personally or by his agent, inspect any such books.
 
-#### Section 87 — Annual statement of proceedings
+Books to be kept by trustee
+
+#### Section 87
 
 (1) Every trustee in a bankruptcy shall from time to time, as may be prescribed, and not less than once in every year during the continuance of the bankruptcy, transmit to the official receiver a statement showing the proceedings in the bankruptcy up to the date of the statement, containing the prescribed particulars and made out in the prescribed form.
 
+Annual statement of proceedings
+
 (2) The official receiver shall cause the statements so transmitted to be examined, and shall call the trustee to account for any misfeasance, neglect or omission which may appear on the said statements or in his accounts or otherwise, and may require the trustee to make good any loss which the estate of the bankrupt may have sustained by the misfeasance, neglect or omission.
 
-#### Section 88 — Trustee not to pay into private account
+#### Section 88
 
 No trustee in a bankruptcy or under any composition or scheme of arrangement shall pay any sums received by him as trustee into his private banking account.
 
-#### Section 89 — Bankruptcy Estates Account
+Trustee not to pay into private account
+
+#### Section 89
 
 (1) A Bankruptcy Estates Account shall be kept by the official receiver with a prescribed bank, and all moneys received by him in respect of proceedings under this Act shall be paid to that account.
+
+Bankruptcy Estates Account
 
 (2) Every trustee in bankruptcy shall, in such manner and at such times as the official receiver shall direct, pay the money received by him to the Bankruptcy Estates Account at the prescribed bank, and the official receiver shall furnish him with a certificate of receipt of the money so paid:
 
@@ -1905,17 +1945,21 @@ in any bankruptcy, composition or scheme of arrangement in which the official re
 
 (4) If a trustee at any time retains for more than ten days a sum exceeding one hundred kwacha, or such other amount as the court in any particular case authorises him to retain, then, unless he explains the retention to the satisfaction of the court, he shall pay interest on the amount so retained in excess at the rate of twenty per centum per annum, and shall have no claim to remuneration, and may be removed from his office by the court, and shall be liable to pay any expenses occasioned by reason of his default.
 
-#### Section 90 — Investment of surplus funds
+#### Section 90
 
 (1) Whenever the cash balance standing to the credit of the Bankruptcy Estates Account is in excess of the amount which in the opinion of the official receiver is required for the time being to answer demands in respect of bankrupts' estates, the official receiver may invest the excess of such cash balance or any part thereof by placing the same on deposit or in a savings account with the prescribed bank or on deposit in the Post Office Savings Bank and such deposit or savings account shall be held in the name of the official receiver for the credit of the Bankruptcy Estates Account.
+
+Investment of surplus funds
 
 (2) Whenever any part of the money so invested is, in the opinion of the official receiver, required to answer any demands in respect of bankrupts' estates, the official receiver shall withdraw from deposit or from such savings account such sum as may be required and shall pay the same to the credit of the Bankruptcy Estates Account at the prescribed bank.
 
 (3) The interest on such deposit or savings account shall be transferred to the credit of the general revenues of the Republic, and regard shall be had to the amount thus derived in fixing the fees payable in respect of bankruptcy proceedings.
 
-#### Section 91 — Audit of trustee's accounts
+#### Section 91
 
 (1) Every trustee shall, at such times as may be prescribed, but not less than twice in each year during his tenure of office, send to the official receiver or as he may direct, an account of his receipts and payments as such trustee.
+
+Audit of trustee's accounts
 
 (2) The account shall be in a prescribed form, shall be made in duplicate, and shall be verified by a statutory declaration in the prescribed form.
 
@@ -1923,7 +1967,7 @@ in any bankruptcy, composition or scheme of arrangement in which the official re
 
 (4) When any such account has been audited, one copy thereof shall be filed and kept by the official receiver, and the other copy shall be filed with the court, and each copy shall be open to the inspection of any creditor, or of the bankrupt, or of any person interested. Vacation of Office by Trustee
 
-#### Section 92 — Release of trustee
+#### Section 92
 
 (1) When the trustee has realised all the property of the bankrupt, or so much thereof as can, in his opinion, be realised without needlessly protracting the trusteeship, and distributed a final dividend, if any, or has ceased to act by reason of a composition having been approved, or has resigned, or has been removed from his office, the official receiver shall, on his application, cause a report on his accounts to be prepared, and, on his complying with all the requirements of the official receiver, shall take into consideration the report, and any objection which may be urged, by any creditor or person interested against the release of the trustee, and shall either grant or withhold the release accordingly, subject nevertheless to an appeal to the court.
 
@@ -1935,13 +1979,19 @@ in any bankruptcy, composition or scheme of arrangement in which the official re
 
 (5) Where, on the release of a trustee, the official receiver is, or is acting as, trustee, no liability shall attach to him personally in respect of any act done, or default made, or liability incurred, by any prior trustee.
 
-#### Section 93 — Office of trustee vacated by insolvency
+Release of trustee
+
+#### Section 93
 
 If a receiving order is made against a trustee, he shall thereby vacate his office of trustee.
 
-#### Section 94 — Removal of trustee
+Office of trustee vacated by insolvency
+
+#### Section 94
 
 (1) The creditors may, by ordinary resolution, at a meeting specially called for that purpose, of which fourteen days' notice has been given, remove a trustee appointed by them, and may, at the same or any subsequent meeting, appoint another person to fill the vacancy as hereinafter provided in case of a vacancy in the office of trustee.
+
+Removal of trustee
 
 (2) If the official receiver is of opinion-
 
@@ -1963,25 +2013,31 @@ that his connection with or relation to the bankrupt or his estate, or any parti
 
 where in any other matter he has been removed from office on the ground of misconduct, the official receiver may remove the trustee from his office, subject nevertheless to an appeal to the court.
 
-### PART VI — CONSTITUTION, PROCEDURE AND POWERS OF COURTPART VI
+### PART VI — CONSTITUTION, PROCEDURE AND POWERS OF COURT
 
 CONSTITUTION, PROCEDURE AND POWERS OF COURT
 
 Jurisdiction
 
-#### Section 95 — Jurisdiction in bankruptcy
+#### Section 95
 
 (1) The court having jurisdiction in bankruptcy shall be the High Court.
 
+Jurisdiction in bankruptcy
+
 (2) Subject to general rules, all bankruptcy matters shall be entitled "In bankruptcy".
 
-#### Section 96 — Judge may exercise his powers in chambers
+#### Section 96
 
 Subject to the provisions of this Act and to general rules, a Judge of the court may exercise in chambers the whole or any part of his jurisdiction.
 
-#### Section 97 — Jurisdiction in bankruptcy of registrar
+Judge may exercise his powers in chambers
+
+#### Section 97
 
 (1) The registrars of the court shall have the powers and jurisdiction in this section mentioned, and any order made or act done by such registrars in exercise of the said powers and jurisdiction shall be deemed the order or act of the court.
+
+Jurisdiction in bankruptcy of registrar
 
 (2) Subject to general rules limiting the powers conferred by this section, a registrar shall have power-
 
@@ -2027,9 +2083,11 @@ to grant certificates of removal of disqualifications.
 
 (3) A registrar shall not have power to commit for contempt of court.
 
-#### Section 98 — General powers of bankruptcy courts
+#### Section 98
 
 (1) Subject to the provisions of this Act, the court shall have full power to decide all questions of priorities, and all other questions whatsoever, whether of law or fact, which may arise in any case of bankruptcy coming within the cognizance of the court, or which the court may deem it expedient or necessary to decide for the purpose of doing complete justice or making a complete distribution of property in any such case.
+
+General powers of bankruptcy courts
 
 (2) The court in the exercise of its jurisdiction in bankruptcy under this Act shall not be subject to be restrained in the execution of its powers under this Act by the order of any other court, nor shall any appeal lie from its decisions, except in manner directed by this Act and by the Supreme Court of Zambia Act.
 
@@ -2039,25 +2097,31 @@ Cap. 25
 
 Provided that the power given by this subsection shall be in addition to and not in substitution for any other right or remedy in respect of such default.
 
-#### Section 99 — Power to make receiving order in lieu of committal order
+#### Section 99
 
 Where application is made by a judgment creditor to the court for the committal of a judgment debtor, the court may, if it thinks fit, decline to commit, and in lieu thereof, with the consent of the judgment creditor and on payment by him of the prescribed fee, make a receiving order against the debtor; and in such case the judgment debtor shall be deemed to have committed an act of bankruptcy at the time the order is made, and the provisions of this Act shall apply as if for references to the presentation of a petition by or against a person there were substituted references to the making of such a receiving order.
 
+Power to make receiving order in lieu of committal order
+
 Appeals
 
-#### Section 100 — Appeals in bankruptcy
+#### Section 100
 
 (1) The court may at any time review, rescind or vary any order made by it under its bankruptcy jurisdiction.
+
+Appeals in bankruptcy
 
 (2) Orders of the court in bankruptcy matters shall, at the instance of any person aggrieved, be subject to appeal, but no appeal shall be entertained except in conformity with such rules as may for the time being be in force in relation to the appeal.
 
 (3) Where by this Act an appeal to the court is given against any decision of the official receiver, the appeal shall be brought within twenty-one days from the time when the decision appealed against is pronounced or made. Procedure
 
-#### Section 101 — Discretionary powers of court
+#### Section 101
 
 (1) Subject to the provisions of this Act and to general rules, the costs of and incidental to any proceeding in court under this Act shall be in the discretion of the court.
 
 (2) The court may at any time adjourn any proceedings before it upon such terms, if any, as it may think fit to impose.
+
+Discretionary powers of court
 
 (3) The court may at any time amend any written process or proceeding under this Act upon such terms, if any, as it may think fit to impose.
 
@@ -2065,79 +2129,109 @@ Appeals
 
 (5) Subject to general rules under this Act, the court may in any matter take the whole or any part of the evidence either viva voce, or by interrogatories, or upon affidavit, or, out of Zambia, by commission.
 
-#### Section 102 — Consolidation of petitions
+#### Section 102
 
 Where two or more bankruptcy petitions are presented against the same debtor or against joint debtors, the court may consolidate the proceedings, or any of them, on such terms as the court thinks fit.
 
-#### Section 103 — Power to change carriage of proceedings
+Consolidation of petitions
+
+#### Section 103
 
 Where the petitioner does not proceed with due diligence on his petition, the court may substitute as petitioner any other creditor to whom the debtor may be indebted in the amount required by this Act in the case of the petitioning creditor.
 
-#### Section 104 — Continuance of proceedings on death of debtor
+Power to change carriage of proceedings
+
+#### Section 104
 
 If a debtor by or against whom a bankruptcy petition has been presented dies, the proceedings in the matter shall, unless the court otherwise orders, be continued as if he were alive.
 
-#### Section 105 — Power to stay proceedings
+Continuance of proceedings on death of debtor
+
+#### Section 105
 
 The court may at any time, for sufficient reason, make an order staying the proceedings under a bankruptcy petition, either altogether or for a limited time, on such terms and subject to such conditions as the court may think just.
 
-#### Section 106 — Power to present petition against one partner
+Power to stay proceedings
+
+#### Section 106
 
 Any creditor whose debt is sufficient to entitle him to present a bankruptcy petition against all the partners of a firm may present a petition against any one or more partners of the firm without including the others.
 
-#### Section 107 — Power to dismiss petition against some respondents only
+Power to present petition against one partner
+
+#### Section 107
 
 Where there are more respondents than one to a petition, the court may dismiss the petition as to one or more of them, without prejudice to the effect of the petition as against the other or others of them.
 
-#### Section 108 — Property of partners to vest in same trustee
+Power to dismiss petition against some respondents only
+
+#### Section 108
 
 Where a receiving order has been made on a bankruptcy petition by or against one member of a partnership, any other bankruptcy petition by or against a member of the same partnership shall be filed with the first-mentioned petition, and, unless the court otherwise directs, the same trustee or receiver shall be appointed as may have been appointed in respect of the property of the first-mentioned member of the partnership, and the court may give such directions for consolidating the proceedings as it thinks just.
 
-#### Section 109 — Actions by trustee and bankrupt's partners
+Property of partners to vest in same trustee
+
+#### Section 109
 
 Where a member of a partnership is adjudged bankrupt, the court may authorise the trustee to commence and prosecute any action in the names of the trustee and of the bankrupt's partner; and any release by such partner of the debt or demand to which the action relates shall be void; but notice of the application for authority to commence the action shall be given to him, and he may show cause against it, and on his application the court may, if it thinks fit, direct that he shall receive his proper share of the proceeds of the action, and, if he does not claim any benefit therefrom, he shall be indemnified against costs in respect thereof as the court directs.
 
-#### Section 110 — Actions on joint contracts
+Actions by trustee and bankrupt's partners
+
+#### Section 110
 
 Where a bankrupt is a contractor in respect of any contract jointly with any person or persons, such person or persons may sue or be sued in respect of the contract without the joinder of the bankrupt.
 
-#### Section 111 — Proceedings in partnership name
+Actions on joint contracts
+
+#### Section 111
 
 Any two or more persons, being partners, or any person carrying on business under a partnership name, may take proceedings or be proceeded against under this Act in the name of the firm, but in such case the court may, on application by any person interested, order the names of the persons who are partners in such firm or the name of such person to be disclosed in such manner, and verified on oath or otherwise, as the court may direct.
 
+Proceedings in partnership name
+
 Orders and Warrants of Court
 
-#### Section 112 — Courts to be auxiliary to other Commonwealth courts
+#### Section 112
 
 The court and all the officers thereof shall, in all matters of bankruptcy, act in aid of and be auxiliary to every court elsewhere in the Commonwealth having jurisdiction in bankruptcy or insolvency, and an order of the court seeking aid, with a request to this court, shall be deemed sufficient to enable this court to exercise, in regard to the matters directed by the order, such jurisdiction as either the court which made the request or this court could exercise in regard to similar matters within their respective jurisdictions, save that to enable the official receiver of Zambia to act as the agent of an officer of a reciprocating court, or to enable an officer of this court to seek the aid of an official receiver of a reciprocating court, in the manner provided in Part IX, it shall not be necessary for this court, or any reciprocating court, to make any order, or send any request, under this section.
 
-#### Section 113 — Commitment to prison
+Courts to be auxiliary to other Commonwealth courts
+
+#### Section 113
 
 Where the court commits any person to prison, the commitment may be to such convenient prison as the court thinks expedient.
 
-### PART VII — SUPPLEMENTAL PROVISIONSPART VII
+Commitment to prison
+
+### PART VII — SUPPLEMENTAL PROVISIONS
 
 SUPPLEMENTAL PROVISIONS
 
 Application of Act
 
-#### Section 114 — Exclusions of companies
+#### Section 114
 
 A receiving order shall not be made against any corporation or against any partnership or association or company registered under the Companies Act, or any enactment repealed by that Act.
 
 Exclusion of companies Cap. 388
 
-#### Section 115 — Limited partnerships
+#### Section 115
 
 Subject to such modifications as may be made by general rules under this Act, the provisions of this Act shall apply to limited partnerships in like manner as if limited partnerships were ordinary partnerships, and, on all the general partners of a limited partnership being adjudged bankrupt, the assets of the limited partnership shall vest in the trustee.
 
-#### Section 116 — Privilege of Parliament
+Limited partnerships
+
+#### Section 116
 
 If a person having privilege of Parliament commits an act of bankruptcy, he may be dealt with under this Act in like manner as if he had not such privilege.
 
-#### Section 117 — Small estates
+Privilege of Parliament
+
+#### Section 117
 
 Where a petition is presented by or against a debtor, if the court is satisfied by affidavit or otherwise, or the official receiver reports to the court, that the amount of the unsecured liabilities of the debtor is not likely to exceed in value four thousand kwacha, the court may make an order that the debtor's estate be administered in a summary manner, and thereupon the provisions of this Act shall be subject to the following modifications:
+
+Small estates
 
 (a)
 
@@ -2153,11 +2247,13 @@ such other modifications may be made in the provisions of this Act as may be pre
 
 Provided that if the creditors at any time resolve that a trustee be appointed in the bankruptcy, thereupon the bankruptcy shall proceed as if an order for summary administration had not been made.
 
-#### Section 118 — Administration in bankruptcy of estate of person dying insolvent
+#### Section 118
 
 (1) Any creditor of a deceased debtor whose debt would have been sufficient to support a bankruptcy petition against the debtor, had he been alive, may present to the court a petition in the prescribed form praying for an order for the administration of the estate of the deceased debtor, according to the law of bankruptcy.
 
 (2) Upon the prescribed notice being given to the legal personal representative of the deceased debtor, if probate or letters of administration have been granted, the court may, in the prescribed manner, either before probate or letters of administration have been granted or afterwards, upon proof of the petitioner's debt, unless the court is satisfied that there is a reasonable probability that the estate will be sufficient for the payment of the debts owing by the deceased, make an order for the administration in bankruptcy of the deceased debtor's estate, or may, upon cause shown, dismiss the petition with or without costs.
+
+Administration in bankruptcy of estate of person dying insolvent
 
 (3) A petition for administration under this section shall not be presented to the court after proceedings have been commenced in any court of justice for the administration of the deceased debtor's estate, but that court may, when satisfied that the estate is insufficient to pay its debts, transfer the proceedings to the court in the exercise of its jurisdiction in bankruptcy, and thereupon the last-mentioned court may, in the prescribed manner, make an order for the administration of the estate of the deceased debtor, and the like consequences shall ensue as under an administration order made on the petition of a creditor.
 
@@ -2179,17 +2275,21 @@ Provided that the creditors shall have the same powers as to appointment of trus
 
 (11) General rules for carrying into effect the provisions of this section may be made in the same manner and to the like effect and extent as in bankruptcy. General Rules
 
-#### Section 119 — Power to make general rules
+#### Section 119
 
 The Chief Justice may, from time to time, by statutory instrument, make general rules for carrying into effect the objects of this Act; and may, from time to time, alter, amend, or revoke all or any of such general rules, as occasion may require.
 
+Power to make general rules
+
 Fees, Remuneration and Audit
 
-#### Section 120 — Fees and percentages
+#### Section 120
 
 The Chief Justice may prescribe a scale of fees and percentages to be charged in respect of proceedings under this Act; and may, by statutory instrument, make general rules, regulating the deposits payable and by whom and in what manner such deposits, fees and percentages are to be collected and accounted for; and may, from time to time, vary, increase or diminish such fees and percentages and alter, amend or revoke all or any of such general rules, as occassion may require.
 
-#### Section 121 — Remuneration
+Fees and percentages
+
+#### Section 121
 
 (1) The Chief Justice, on the recommendation of the Remuneration Committee appointed pursuant to the Legal Practitioners Act, may prescribe and regulate, in such manner as he may think fit, the remuneration of legal practitioners in respect of business done under this Act; and may vary, increase or diminish such remuneration as he may think fit, on such recommendation as aforesaid.
 
@@ -2197,13 +2297,15 @@ Remuneration Cap. 30
 
 (2) The Chief Justice may prescribe whether any and what remuneration is to be allowed to any person (other than a public officer or a legal practitioner) performing any duties under this Act; and may vary, increase or diminish such remuneration, as he may think fit.
 
-#### Section 122 — Audit of accounts of official receiver
+#### Section 122
 
 The accounts of the official receiver in connection with proceedings under this Act shall be audited in such manner as the Minister responsible for finance may direct; and, for such purpose, the official receiver shall make such returns and give such information as the auditor appointed by the said Minister for the purpose may require.
 
+Audit of accounts of official receiver
+
 Evidence
 
-#### Section 123 — Gazette to be evidence
+#### Section 123
 
 (1) A copy of the Gazette containing any notice inserted therein in pursuance of this Act shall be evidence of the facts stated in the notice.
 
@@ -2211,19 +2313,25 @@ Gazetteto be evidence
 
 (2) The production of a copy of the Gazette containing any notice of a receiving order, or of an order adjudging a debtor bankrupt, shall be conclusive evidence in all legal proceedings of the order having been duly made, and of its date.
 
-#### Section 124 — Evidence of proceedings at meetings of creditors
+#### Section 124
 
 (1) A minute of proceedings at a meeting of creditors under this Act, signed at the same or the next ensuing meeting, by a person describing himself as, or appearing to be, chairman of the meeting at which the minute is signed, shall be received in evidence without further proof.
 
+Evidence of proceedings at meetings of creditors
+
 (2) Until the contrary is proved, every meeting of creditors in respect of the proceedings whereof a minute has been so signed shall be deemed to have been duly convened and held, and all resolutions passed or proceedings had thereat to have been duly passed or had.
 
-#### Section 125 — Evidence of proceedings in bankruptcy
+#### Section 125
 
 Any petition or copy of a petition in bankruptcy, any order or certificate or copy of an order or certificate made by the court, any instrument or copy of an instrument, affidavit or document made or used in the course of any bankruptcy proceedings or other proceedings had under this Act, shall, if it appears to be sealed with the seal of the court, or purports to be signed by any Judge thereof, or is certified as a true copy by any registrar thereof, be receivable in evidence in all legal proceedings whatever.
 
-#### Section 126 — Swearing of affidavits
+Evidence of proceedings in bankruptcy
+
+#### Section 126
 
 Subject to general rules, any affidavit to be used in the court may be sworn before any person authorised to administer oaths in the High Court, or before any registrar in bankruptcy, or a magistrate, or, in the case of a person residing out of Zambia, before any person qualified to administer oaths in the country where he resides (he being certified to be qualified as aforesaid by a Zambian diplomatic representative or other diplomatic representative acting for the Republic of Zambia, or by a notary public).
+
+Swearing of affidavits
 
 #### Section 127 — In the case of the death of the debtor or his wife, or of a witness whose
 
@@ -2231,9 +2339,11 @@ evidence has been received by the court in any proceeding under this Act, the de
 
 Death of debtor or witness
 
-#### Section 128 — Certificate of appointment of trustee
+#### Section 128
 
 A certificate of the official receiver that a person has been appointed trustee under this Act shall be conclusive evidence of his appointment.
+
+Certificate of appointment of trustee
 
 #### Section 129 — A certificate signed by the official receiver that any order made, certificate
 
@@ -2243,41 +2353,53 @@ Certificate of acts of official receiver
 
 Miscellaneous
 
-#### Section 130 — Computation of time
+#### Section 130
 
 (1) Where by this Act or general rules any limited time from or after any date or event is appointed or allowed for the doing of any act or the taking of any proceeding, then in the computation of that limited time the same shall be taken as exclusive of the day of that date or of the happening of that event, and as commencing at the beginning of the next following day; and the act or proceeding shall be done or taken at latest on the last day of that limited time as so computed, unless the last day is a Saturday, Sunday, public holiday or any other day on which the offices of the court are wholly closed, in which case any act or proceeding shall be considered as done or taken in due time if it is done or taken on the next day afterwards which is not one of the days in this section specified.
+
+Computation of time
 
 (2) Where by this Act or general rules the time limited for doing any act or thing is less than six days, a Saturday, Sunday, public holiday or any other day on which the offices of the court are wholly closed shall be excluded in computing such time.
 
 (3) Where by this Act or general rules any act or proceeding is directed to be done or taken on a certain day, then, if that day happens to be one of the days in this section specified, the act or proceeding shall be considered as done or taken in due time if it is done or taken on the next day afterwards which is not one of the days in this section specified.
 
-#### Section 131 — Service of notices
+#### Section 131
 
 All notices and documents for the service of which no special mode is directed shall be sufficiently served if sent by post to the last known address of the person to be served therewith.
 
-#### Section 132 — Formal defects not to invalidate proceedings
+Service of notices
+
+#### Section 132
 
 (1) No proceeding in bankruptcy shall be invalidated by any formal defect or by any irregularity, unless the court before which no objection is made to the proceeding is of opinion that substantial injustice has been caused by the defect or irregularity, and that the injustice cannot be remedied by any order of that court.
 
+Formal defects not to invalidate proceedings
+
 (2) No defect or irregularity in the appointment or election of a receiver, special manager, trustee or member of a committee of inspection shall vitiate any act done by him in good faith.
 
-#### Section 133 — Repealed by Act No. 17 of 1994
+#### Section 133
 
-#### Section 134 — Acting of corporations, partners, etc
+Repealed by Act No. 17 of 1994.
+
+#### Section 134
 
 For all or any of the purposes of this Act, a corporation may act by any of its officers authorised in that behalf under the seal of the corporation, a firm may act by any of its members, and a mentally disordered person may act by his receiver.
 
 Acting as corporations, partners, etc.
 
-#### Section 135 — Certain provisions to bind the State
+#### Section 135
 
 Save as provided in this Act, the provisions of this Act relating to the remedies against the property of a debtor, the priorities of debts, the effect of a composition or scheme of arrangement, and the effect of a discharge, shall bind the State.
 
+Certain provisions to bind the State
+
 Unclaimed Dividends and Indivisible Balances
 
-#### Section 136 — Unclaimed and undistributed dividends or funds
+#### Section 136
 
 (1) Where the trustee, under any bankruptcy, composition or scheme, pursuant to this Act or any enactment referred to in the Third Schedule, has in his hands or under his control any unclaimed dividend which has remained unclaimed for more than six months, or where, after making a final dividend, he has in his hands or under his control any unclaimed or undistributed money arising from the property of the debtor, he shall forthwith pay it to the Bankruptcy Estates Account at the prescribed bank; and the official receiver shall furnish him with a certificate of receipt of the money so paid, which shall be an effectual discharge to him in respect thereof.
+
+Unclaimed and undistributed dividends or funds
 
 (2) The provisions of this section shall not, except as expressly declared herein, deprive any person of any larger or other right or remedy to which he may be entitled against such trustee or the official receiver or other person.
 
@@ -2287,9 +2409,11 @@ Unclaimed Dividends and Indivisible Balances
 
 (5) Any person dissatisfied with the decision of the official receiver in respect of his claim may appeal to the court.
 
-#### Section 137 — Indivisible balances
+#### Section 137
 
 (1) Where the trustee, under any bankruptcy, composition or scheme, pursuant to this Act or any enactment referred to in the Third Schedule, has in his hands or under his control, after payment of all debts directed to be paid in priority in the distribution of the property of a bankrupt, any sum of money, not exceeding two hundred kwacha in amount, which is insufficient to pay a dividend of at least two and a half ngwee in the kwacha to creditors who have proved their debts, and it appears to him that retention of such money will needlessly protract the trusteeship, he may pay such money to the Bankruptcy Estates Account at the prescribed bank; and the official receiver shall furnish him with a certificate of receipt of the money so paid, which shall be an effectual discharge to him in respect thereof.
+
+Indivisible balances
 
 (2) The money to which subsection (1) relates and any money under the control of the official receiver acting as trustee which, after payment of all debts directed to be paid in priority in the distribution of the property of a bankrupt, does not exceed two hundred kwacha in amount and is insufficient to pay a dividend of at least two and a half ngwee in the kwacha to creditors who have proved their debts, shall continue to be an asset of the estate of the bankrupt, or the debtor, as the case may be, but if it shall appear to the official receiver that there will be no addition to such money from further money coming to the credit of the said estate, the official receiver may transfer such money to the credit of the general revenues of the Republic.
 
@@ -2297,11 +2421,11 @@ Unclaimed Dividends and Indivisible Balances
 
 (2), shall exceed two hundred kwacha or shall be sufficient to pay a dividend of at least two and a half ngwee in the kwacha to creditors who have proved their debts, the Permanent Secretary, Ministry of Finance, shall direct that such money so transferred be repaid into the Bankruptcy Estates Account for division between such creditors by way of dividend.
 
-### PART VIII — BANKRUPTCY OFFENCESPART VIII
+### PART VIII — BANKRUPTCY OFFENCES
 
 BANKRUPTCY OFFENCES
 
-#### Section 138 — Fraudulent debtors
+#### Section 138
 
 (1) Any person who has been adjudged bankrupt or in respect of whose estate a receiving order has been made shall in each of the cases following be guilty of a misdemeanour:
 
@@ -2407,7 +2531,7 @@ Undischarged bankrupt obtaining credit
 
 he shall be guilty of a misdemeanour.
 
-#### Section 140 — Frauds by bankrupts, etc
+#### Section 140
 
 (1) If any person who has been adjudged bankrupt or in respect of whose estate a receiving order has been made-
 
@@ -2429,7 +2553,7 @@ he shall be guilty of a misdemeanour.
 
 Frauds by bankrupts, etc.
 
-#### Section 141 — Bankrupt guilty of gambling, etc
+#### Section 141
 
 Any person who has been adjudged bankrupt, or in respect of whose estate a receiving order has been made, shall be guilty of a misdemeanour, if, having been engaged in any trade or business, and having outstanding at the date of the receiving order any debts contracted in the course and for the purposes of such trade or business(a)
 
@@ -2447,7 +2571,7 @@ Bankrupt guilty of gambling, etc.
 
 Provided that in determining for the purposes of this section whether any speculations were rash and hazardous, the financial position of the accused person at the time when he entered into the speculations shall be taken into consideration.
 
-#### Section 142 — Bankrupt failing to keep proper accounts
+#### Section 142
 
 (1) Any person who has been adjudged bankrupt or in respect of whose estate a receiving order has been made shall be guilty of a misdemeanour, if, having been engaged in any trade or business during any period in the two years immediately preceding the date of the presentation of the bankruptcy petition, he has not kept proper books of account throughout that period and throughout any further period in which he was so engaged between the date of the presentation of the petition and the date of the receiving order, or has not preserved all books of account so kept:
 
@@ -2455,27 +2579,37 @@ Provided that a person who has not kept or has not preserved such books of accou
 
 (2) For the purposes of this section, a person shall be deemed not to have kept proper books of account if he has not kept such books or accounts as are necessary to exhibit and explain his transactions and financial position in his trade or business, including a book or books containing entries from day to day in sufficient detail of all cash received and cash paid, and, where the trade or business has involved dealings in goods, statements of annual stock-takings, and accounts of all goods sold and purchased, showing the goods and the buyers and sellers thereof in sufficient detail to enable those goods and those buyers and sellers to be identified, except that it shall not be necessary to record the name and address of each customer and the article sold in the case of goods sold by way of retail trade to the actual consumer for cash at a price not lower than cost.
 
-#### Section 143 — Bankrupt absconding with property
+Bankrupt failing to keep proper accounts
+
+#### Section 143
 
 If any person who is adjudged bankrupt, or in respect of whose estate a receiving order has been made, after the presentation of a bankruptcy petition by or against him or within six months before such presentation, quits Zambia and takes with him, or attempts or makes preparations to quit Zambia and take with him, any part of his property to the amount of forty kwacha or upwards, which ought by law to be divided amongst his creditors, he shall (unless he proves that he had no intent to defraud) be guilty of felony.
 
-#### Section 144 — False claim, etc
+Bankrupt absconding with property
+
+#### Section 144
 
 If any creditor, or any person claiming to be a creditor, in any bankruptcy proceedings, makes any false claim, or any proof, declaration or statement of account, which is untrue in any material particular, he shall be guilty of a misdemeanour unless he proves that he had no intent to defraud.
 
-#### Section 145 — Criminal liability after discharge or composition
+False claim, etc.
+
+#### Section 145
 
 Where a debtor has been guilty of any criminal offence, he shall not be exempt from being proceeded against therefor by reason that he has obtained his discharge or that a composition or scheme of arrangement has been accepted or approved or that the adjudication of bankruptcy has been annulled.
 
+Criminal liability after discharge or composition
+
 General penaltyGeneral penalty
 
-#### Section 146 — General penalty
+#### Section 146
 
 A person guilty of an offence declared to be a felony or misdemeanour under this Act in respect of which no special penalty is imposed by this Act shall be liable on conviction to imprisonment for a term not exceeding two years.
 
-#### Section 147 — Form of charge
+#### Section 147
 
 In a charge for an offence under this Act it shall be sufficient to set forth the substance of the offence charged in the words of this Act specifying the offence, or as near thereto as circumstances admit, without alleging or setting forth any debt, act of bankruptcy, trading, adjudication, or any proceedings in, or order, warrant or document of, the court acting under this Act or any enactment referred to in the Third Schedule.
+
+Form of charge
 
 #### Section 148 — A statement or admission made by any person in any compulsory
 
@@ -2483,39 +2617,45 @@ examination or deposition before any court on the hearing of any matter in bankr
 
 Evidence as to frauds by directors and officers of corporations or companies Cap. 87
 
-### PART IX — PROVISIONS FOR RECIPROCITY WITH OTHER COUNTRIESPART IX
+### PART IX — PROVISIONS FOR RECIPROCITY WITH OTHER COUNTRIES
 
 PROVISIONS FOR RECIPROCITY WITH OTHER COUNTRIES
 
-#### Section 149 — Declaration of reciprocating countries and courts
+#### Section 149
 
 Where the Attorney-General is satisfied that the legislature of any other country has enacted provisions for reciprocity in bankruptcy which in that country have the like effect as the provisions contained in this Part, he may, by statutory order, declare such country to be a reciprocating country, and the court thereof having jurisdiction in bankruptcy a reciprocating court for the purposes of this Act, and the provisions of this Part shall then apply to all bankruptcy proceedings subsequently instituted in the declared country against a debtor having property in Zambia.
 
-#### Section 150 — Effect of receiving order, etc., made by reciprocating court against debtor with
+Declaration of reciprocating countries and courts
+
+#### Section 150
 
 Where a receiving order or order of adjudication or any appointment of a special manager or interim receiver has been made in any reciprocating country in bankruptcy proceedings against a debtor having property in Zambia, such order or appointment shall, subject to the other provisions of this Part, have the like effect as if it had been made in bankruptcy proceedings against the debtor in Zambia, and the debtor and his creditors shall be deemed to be in the same position and have the same rights and privileges, and be subject to the same disqualifications, restrictions, obligations and liabilities, in every respect as if such order or appointment had been made under this Act.
 
 Effect of receiving order, etc., made by reciprocating court against debtor with property in Zambia
 
-#### Section 151 — Vesting of bankruptcy's property in trustee appointed in reciprocating country
+#### Section 151
 
 Where an order of adjudication is made by a reciprocating court, the property of the bankrupt situated in Zambia shall, by virtue of such order, vest in the person from time to time discharging the office of trustee of the property of the bankrupt in the reciprocating country, in the same manner as if the order of adjudication and the appointment of trustee had been made in Zambia, and the superintendence of such trustee shall continue to be exercised by the committee of inspection appointed in the reciprocating country or, if there be no such committee, by the reciprocating court.
 
 Vesting of bankrupt's property in trustee appointed in reciprocating country
 
-#### Section 152 — Powers of official receiver, etc., appointed in reciprocating country
+#### Section 152
 
 The official receiver, interim receiver, special manager or trustee of a reciprocating country officiating in bankruptcy proceedings against a debtor having property in Zambia shall, subject to the control of the court by which he is appointed, be solely responsible for conducting those proceedings, and managing the affairs of the debtor or bankrupt within Zambia, and for such purposes shall, each in his respective capacity, have the same powers, rights, duties, obligations and liabilities as if he had derived his authority under this Act, and in any such proceedings where by this Act a debtor, creditor or other person interested is required to do any act at the direction of the official receiver, interim receiver, special manager or trustee, or is permitted by this Act to move in any matter in connection with such proceedings, every such debtor, creditor or person interested shall do such act at the direction of, and in all such matters treat and negotiate with or proceed against, the official receiver, interim receiver, special manager or trustee, as the case may be, of the reciprocating country, except in so far as any such official may have delegated his authority to the official receiver of Zambia as his agent in the manner hereinafter provided.
 
-#### Section 153 — Official receiver to act as agent of official receiver, etc., of reciprocating country
+Powers of official receiver, etc., appointed in reciprocating country
+
+#### Section 153
 
 Every official receiver, interim receiver, special manager or trustee of or appointed in a reciprocating country officiating in bankruptcy proceedings against a debtor having property in Zambia may require the official receiver of Zambia to act as his agent either in regard to any specific matter, or generally to take all such steps as may be lawful under this Act, for the discovery, seizure, protection, disclaimer or realisation of any property of the bankrupt situated within Zambia, and in such event it shall be the duty of the official receiver of Zambia to act accordingly.
 
 Official receiver to act as agent of official receiver etc., of reciprocating country
 
-#### Section 154 — Mode of requesting official receiver to act as agent
+#### Section 154
 
 (1) Every request to act as agent as aforesaid shall be made in the manner prescribed under this Act, and shall be gazetted, and as from the date of such request and without further formality or authority the official receiver shall, as regards the debtor or bankrupt and his property and creditors situated in Zambia and for the purposes for which he is authorised, have the same rights, powers and duties as are conferred under the provisions of this Act upon the official receiver, interim receiver, special manager or trustee, as the case may be:
+
+Mode of requesting official receiver to act as agent
 
 Provided that nothing herein contained shall confer on the official receiver any interest or title in any such property otherwise than as an agent as aforesaid.
 
@@ -2537,15 +2677,19 @@ he has been indemnified against all costs, charges and expenses to be incurred b
 
 (4) Unless the contrary intention appears, every request to act as agent sent to the official receiver of Zambia shall be deemed to permit him to delegate at his discretion the powers and duties vested in him as such agent to any deputy or assistant official receiver appointed in pursuance of this Act.
 
-#### Section 155 — Duties of official receiver acting as agent
+#### Section 155
 
 It shall be the duty of the official receiver of Zambia to remit the proceeds of the realisation of the property of the bankrupt, and all other money of the estate coming into his hands as such agent as aforesaid, to the person for whom he is acting, or as such person may direct, after deducting such expenses as may have been properly incurred by him; and the distribution among the creditors of all such money shall be carried out in accordance with the law of the reciprocating country in which the adjudication order was made:
 
 Provided that the provisions of this section shall not be in derogation of any law.
 
-#### Section 156 — Transmission of proofs of debt
+Duties of official receiver acting as agent
+
+#### Section 156
 
 Where a receiving order or an order of adjudication has been made in a reciprocating country and the official receiver in Zambia is acting as agent in the manner hereinbefore provided, proofs of debts contracted by the debtor in Zambia may be filed with the official receiver of Zambia in the form prescribed by the law of such reciprocating country, and in every such case it shall be his duty to receive, deal with and forward, in the manner prescribed by rules made under this Part, such proofs to the official receiver or trustee, as the case may be, in such reciprocating country.
+
+Transmission of proofs of debt
 
 #### Section 157 — If, on the application of the official receiver or any creditor or other person
 
@@ -2553,13 +2697,17 @@ interested, it appears to the court that bankruptcy proceedings have been instit
 
 Power of court to make orders under sections 11 and 25
 
-#### Section 158 — Enforcement of warrants of reciprocating court
+#### Section 158
 
 Any order, warrant or search warrant made or issued by a reciprocating court shall be enforced by the court in Zambia in the same manner in all respects as if such order, warrant or search warrant had been made or issued by itself.
 
-#### Section 159 — Limitation on powers of court to entertain proceedings
+Enforcement of warrants of reciprocating court
+
+#### Section 159
 
 Subject to the other provisions of this section, a reciprocating court shall have sole jurisdiction in all matters in or arising out of any bankruptcy proceedings taken before such court against a debtor having property in Zambia, and no court in Zambia shall entertain any suit, application or other matter arising in or out of such proceedings, except-
+
+Limitation on powers of court to entertain proceedings
 
 (a)
 
@@ -2593,9 +2741,11 @@ upon the institution of any proceedings for or arising out of the enforcement or
 
 upon an application for the exercise of the powers conferred on the court by sections eleven, twenty-five, twenty-six and fifty-four.
 
-#### Section 160 — Concurrent bankruptcies
+#### Section 160
 
 (1) For the purposes of this section, "concurrent bankruptcy proceedings" means bankruptcy or insolvency proceedings instituted concurrently against the same debtor in any two or more reciprocating countries, one of which may or may not be Zambia.
+
+Concurrent bankruptcies
 
 (2) Where concurrent bankruptcy proceedings have been instituted affecting property in Zambia, all such property shall vest in the trustee appointed in the country where the order of adjudication first is made; but if two or more such orders bear the same date or if for any reason no such adjudication order is made, then such property shall vest in or be administered by the trustee or receiver of the country where the receiving order first is made.
 
@@ -2603,7 +2753,7 @@ upon an application for the exercise of the powers conferred on the court by sec
 
 (4) Notwithstanding the other provisions of this section, in any case where concurrent bankruptcy proceedings have been instituted in Zambia, the court may, after such inquiry and reference to such reciprocating courts as it deems fit, order that the property of the debtor situated in Zambia shall vest in or be administered by a trustee or receiver in Zambia or in some reciprocating country other than that determined under the provisions of subsection (2) if, upon an application by the official receiver or any creditor or other person interested it appears that a majority of the creditors in number and in value are resident in Zambia, or such other reciprocating country, and that from the situation of the property of the debtor or bankrupt or other causes his estate and effects may be more conveniently administered, managed and distributed in Zambia or such other reciprocating country.
 
-#### Section 161 — Power of official receiver, etc., to require official receiver in reciprocating
+#### Section 161
 
 (1) Where a receiving order or an order of adjudication is made in Zambia against a debtor or bankrupt having property situated in a reciprocating country and where, under the provisions of this Act, the property of the debtor or bankrupt is administered by or vested in the official receiver, or a trustee, of or appointed in Zambia, it shall be the duty of the official receiver or such trustee and any interim receiver or special manager appointed in pursuance of this Act to take all such steps as may be lawful in any reciprocating country for the proper administration of any property of the debtor or bankrupt situated in such country, and at his discretion and without further authority to request in the prescribed manner any bankruptcy official in such country empowered in that behalf to act as his agent either generally or for any specific purpose, and to give such directions and to publish such notices and to do all such things in the reciprocating country as may be lawful for the administration of the estate.
 
@@ -2613,25 +2763,29 @@ Power of official receiver, etc. to require official receiver in reciprocating c
 
 (3) Where, in any proceedings mentioned in subsection (1), the official receiver, interim receiver, special manager or trustee has completed and despatched to a reciprocating country a request to a bankruptcy official therein to act as his agent as aforesaid, and where the circumstances of the case so require, he may request such bankruptcy official in the reciprocating country by telegram or otherwise to act as agent until such time as the prescribed request arrives in the ordinary course of post, provided that he undertakes to indemnify such bankruptcy official against any costs, charges and expenses which the latter may incur in acting as such agent as aforesaid.
 
-#### Section 162 — Power to make rules under Part IX
+#### Section 162
 
 (1) The Chief Justice may, by statutory instrument, make rules for the purpose of carrying into effect all or any of the objects of this Part, and, in addition and for such purpose, shall have power to make rules extending or varying the time limited under this Act or any general rules made under section one hundred and nineteen, for the doing of any act or taking any proceeding, in so far as such limitation of time affects persons ordinarily resident or carrying on business in a reciprocating country who are or may be interested in any bankruptcy proceedings in Zambia against a debtor having property in such reciprocating country:
+
+Power to make rules under Part IX
 
 Provided that no rules made under the powers conferred by this subsection shall come into force until the Chief Justice, by statutory notice, declares himself satisfied that the rule-making authorities in reciprocating countries have made rules having the like effect within their respective countries.
 
 (2) Notwithstanding the provisions of subsection (1), the court may in respect of any particular matter exercise its general powers of extension of time under subsection (4) of section one hundred and one in favour of a person ordinarily residing or carrying on business in a reciprocating country who is interested in bankruptcy proceedings instituted in Zambia against a debtor having property in such reciprocating country.
 
-### PART X — REPEALSPART X
+### PART X — REPEALS
 
 REPEALS
 
-#### Section 163 — Repeals and savings
+#### Section 163
 
 (1) The British Acts set forth in the Third Schedule are hereby repealed in so far as they apply to Zambia.
 
 (2) This Act shall apply to proceedings commenced under any enactment referred to in the Third Schedule and pending at the commencement of this Act, as if commenced under this Act.
 
 (3) The provisions of this Act shall apply to, and in respect of, the property of a debtor against whom a receiving order has been made, or who has been adjudged bankrupt, under any enactment referred to in the Third Schedule, and to, and in respect of, such debtor, as if such receiving order had been made, or such debtor had been adjudged bankrupt, under the provisions of this Act:
+
+Repeals and savings
 
 Provided that-
 

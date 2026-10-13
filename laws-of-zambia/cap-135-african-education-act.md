@@ -337,7 +337,9 @@ PART I PRELIMINARYPART I PRELIMINARY
 
 These Regulations may be cited as the Unified African Teaching Service Regulations, and shall be deemed to have come into force on the 1st July, 1953.
 
-##### Section 2 — In these Regulations, unless the context otherwise requires-
+##### Section 2 — Interpretation
+
+In these Regulations, unless the context otherwise requires-
 
 "class I employee" means an employee mentioned in Part I of the Schedule;
 
@@ -346,8 +348,6 @@ These Regulations may be cited as the Unified African Teaching Service Regulatio
 "class III employee" means an employee mentioned in Part III of the Schedule;
 
 Title and commencement
-
-Interpretation
 
 "confirm" means to confirm a class I or class II employee in a permanent and pensionable appointment in the Service, and "confirmed" and "confirmation" shall be construed accordingly;
 
@@ -383,7 +383,7 @@ in the case of an employee who has been confirmed, three months' notice, and sha
 
 "service", for the purpose of computation of leave, shall not include any other period of leave, whether vacation leave, sick leave or leave on urgent private affairs. (As amended by No. 345 of 1957, No. 34 of 1961 and No. 314 of 1966)
 
-### PART II — THE SERVICEPART II
+### PART II — THE SERVICE
 
 THE SERVICE
 
@@ -507,7 +507,7 @@ the Secretary may in any particular case waive the giving of notice by such empl
 
 (6) For the purposes of this regulation, "service" shall include all periods of continuous service in the Service, in the African Civil Service or as an aided employee in an assisted school, prior to the introduction of these Regulations. (As amended by No. 345 of 1957, No. 34 of 1961 and No. 314 of 1966)
 
-### PART III — DISCIPLINEPART III
+### PART III — DISCIPLINE
 
 DISCIPLINE
 
@@ -783,7 +783,7 @@ any employee, other than a manager, discharged or dismissed by a manager.
 
 (5) Any appeal under this regulation shall be notified by the appellant to the person or body hearing the appeal within twenty-one days after the notification of the decision appealed against. (As amended by No. 34 of 1961 and No. 314 of 1966)
 
-### PART IV — ADMINISTRATIONPART IV
+### PART IV — ADMINISTRATION
 
 ADMINISTRATION
 
@@ -821,7 +821,7 @@ for conscientious or other reasons considered adequate by the Secretary. (As ame
 
 Liability to serve in any part of Zambia
 
-### PART V — LEAVE AND TRANSPORTPART V
+### PART V — LEAVE AND TRANSPORT
 
 LEAVE AND TRANSPORT
 
@@ -941,7 +941,7 @@ in the case of an employee, other than a manager who is a member of the Service,
 
 in the case of a manager who is a member of the Service, his proprietor may authorise travel by another route. (As amended by No. 34 of 1961 and No. 314 of 1966)
 
-### PART VI — PENSIONS AND GRATUITIESPART VI
+### PART VI — PENSIONS AND GRATUITIES
 
 PENSIONS AND GRATUITIES
 
@@ -1111,7 +1111,7 @@ Title and commencement
 
 Interpretation
 
-### PART II — THE SERVICEPART II
+### PART II — THE SERVICE
 
 THE SERVICE
 
@@ -1175,7 +1175,7 @@ Functions of the Teaching Service Commission
 
 Powers and procedure
 
-### PART IV — CONDUCT AND DISCIPLINEPART IV
+### PART IV — CONDUCT AND DISCIPLINE
 
 CONDUCT AND DISCIPLINE
 
@@ -1251,7 +1251,7 @@ Complaints
 
 Appeals
 
-### PART V — ADMINISTRATIONPART V
+### PART V — ADMINISTRATION
 
 ADMINISTRATION
 
@@ -1267,7 +1267,7 @@ Records of service
 
 Postings
 
-### PART VI — LEAVEPART VI
+### PART VI — LEAVE
 
 LEAVE
 
@@ -1291,7 +1291,7 @@ Special leave
 
 Study leave
 
-### PART VII — TRANSPORT AND ALLOWANCESPART VII
+### PART VII — TRANSPORT AND ALLOWANCES
 
 TRANSPORT AND ALLOWANCES
 
@@ -1427,7 +1427,7 @@ in the case of an employee who is not on the staff of a school, the proprietor;
 
 "temporary employee" means an employee serving on agreement. (As amended by No.123 of 1965 and No.315 of 1966)
 
-### PART II — THE SERVICEPART II
+### PART II — THE SERVICE
 
 THE SERVICE
 
@@ -1781,7 +1781,7 @@ Powers and procedure
 
 (6) The Teaching Service Commission shall make an annual report to the Secretary.
 
-### PART IV — CONDUCT AND DISCIPLINEPART IV
+### PART IV — CONDUCT AND DISCIPLINE
 
 CONDUCT AND DISCIPLINE
 
@@ -2119,7 +2119,7 @@ any employee discharged or dismissed or reduced in rank by his employer.
 
 (4) Any appeal under this regulation shall be notified by the appellant to the person or body hearing the appeal within twenty-one days of his receipt of notification of the decision against which he wishes to appeal. (As amended by No. 315 of 1966)
 
-### PART V — ADMINISTRATIONPART V
+### PART V — ADMINISTRATION
 
 ADMINISTRATION
 
@@ -2183,7 +2183,7 @@ no employee shall be required to work for an employer if unwilling to do so;
 
 for conscientious or other reasons considered adequate by the Secretary. (As amended by No. 315 of 1966)
 
-### PART VI — LEAVEPART VI
+### PART VI — LEAVE
 
 LEAVE
 
@@ -2323,7 +2323,7 @@ for secondment to the Zambia Council for the handicapped.
 
 Study leave
 
-### PART VII — TRANSPORT AND ALLOWANCESPART VII
+### PART VII — TRANSPORT AND ALLOWANCES
 
 TRANSPORT AND ALLOWANCES
 
@@ -2667,7 +2667,7 @@ Pension on loss of office
 
 Benefits on retirement in the interests of the Teaching Service
 
-### PART III — RETIREMENT AND DEATH BENEFITSPART III
+### PART III — RETIREMENT AND DEATH BENEFITS
 
 RETIREMENT AND DEATH BENEFITS
 
@@ -3439,7 +3439,7 @@ no additional pension granted under this sub-regulation shall exceed the differe
 
 Benefits on retirement in the interests of the Teaching Service
 
-### PART III — RETIREMENT AND DEATH BENEFITSPART III
+### PART III — RETIREMENT AND DEATH BENEFITS
 
 RETIREMENT AND DEATH BENEFITS
 
@@ -3949,7 +3949,7 @@ Application of these Regulations in respect of officers transferred
 
 Provided that this paragraph shall not apply in the case of an officer who is retired from the Service or from a Scheduled Government if such officer is retired on grounds mentioned in paragraph (a) of sub-regulation (4) of regulation 11. An officer who is retired on such grounds shall be eligible for a pension calculated in accordance with paragraph (d) and if he is retired from the Service and is qualified therefore shall be eligible for an additional pension calculated in accordance with sub-regulation (2) of regulation 24. (As amended by S.I. No. 98 of 1987)
 
-##### Section 41 — Special leave
+##### Section 41
 
 (1) If a transferred officer dies and leaves a widow, or a widow and a child or children, or does not leave a widow but leaves a child or children, and the aggregate of the officer's pensionable service and pensionable employment is more than ten years, there shall be paid in respect of the widow, or in respect of the widow and child or children, or in respect of the child or children, as the case may be, an amount or amounts arrived at by multiplying the pension or pensions which would have been paid had the officer's pensionable service and pensionable employment been wholly service in the Service by the emoluments factor.
 
@@ -3961,7 +3961,9 @@ Rights of dependants of officers transferred
 
 APPLICABLE ONLY TO OFFICERS TRANSFERRED FROM SERVICE IN ZAMBPART VI PROVISIONS RELATING TO PENSIONS AND OTHER BENEFITS APPLICABLE ONLY TO OFFICERS TRANSFERRED FROM SERVICE IN ZAMBIA
 
-##### Section 42 — In this Part, unless the context otherwise requires-
+##### Section 42
+
+In this Part, unless the context otherwise requires-
 
 "approved scheme" means an approved scheme as defined in the Widows and Orphans Pension Act;
 
@@ -3989,13 +3991,13 @@ Cap. 266
 
 "guaranteed officer" means an officer transferred to the Service from service in the former Protectorate of Northern Rhodesia or the Republic and for the purposes of this Part includes an officer who immediately before the date of his transfer to the Service was a guaranteed officer under the Zambia Civil Service (Local Conditions) Contributory Pensions Act, Chapter 48 of the 1965 Edition of the Laws, provided that an officer subsequently transferred from the Service shall thereupon cease to be a guaranteed officer; "pensionable employment" means service in the former Protectorate of Northern Rhodesia or the Republic and any period of employment in the public service which counts as pensionable service for the purposes of the European Officers' Pensions Act or the African Civil Servants' Pensions Regulations, Chapter 57 of the 1964 Edition of the Laws, or the Subordinate Police (Pensions) Regulations or the Unified African Teaching Service Regulations, as the case may be. (As amended by No. 123 of 1965)
 
-##### Section 43 — Class of travel
+##### Section 43
 
 The provisions of this Part shall, notwithstanding anything to the contrary in these Regulations contained, apply to officers who are transferred from service in Zambia to the Service and are not subsequently transferred from the Service.
 
 Application of this Part
 
-##### Section 44 — Baggage allowance
+##### Section 44
 
 (1) If the pension payable to a guaranteed officer on retirement calculated under these Regulations or the pension payable to a guaranteed officer on retirement calculated under these Regulations together with the pension payable in respect of his pensionable employment, as the case may be, is less than the pension which would have been payable to him on retirement from service in Zambia calculated in accordance with the provisions of the European Officers' Pensions Act or the African Civil Servants' Pensions Regulations, Chapter 57 of the 1964 Edition of the Laws, or the Subordinate Police (Pensions) Regulations or the Unified African Teaching Service Regulations, as the case may be, on the date of his retirement his pension under these Regulations shall be increased by the difference.
 
@@ -4007,11 +4009,11 @@ Cap. 266 Cap. 133
 
 (As amended by S.I. No. 98 of 1987)
 
-##### Section 45 — Travelling on first appointment, transfer or retirement
+##### Section 45
 
 (Revoked by S.I. No. 26 of 1990).
 
-##### Section 46 — Travelling on leave
+##### Section 46
 
 The provisions of these Regulations shall apply in relation to any pension or other benefit payable to a guaranteed officer or his widow, child, beneficiary or estate, subject to the following modifications:
 
@@ -4123,7 +4125,7 @@ the emoluments which are accepted as pensionable in his pensionable employment;
 
 during the period of three years immediately preceding that date: Provided that the officer shall be deemed to have enjoyed the benefit of any increase due to a revision of salaries in the pensionable emoluments of any office held by him as if such increase had been payable throughout such period. (As amended by S.I. No. 98 of 1987)
 
-##### Section 47 — Upset allowance
+##### Section 47
 
 (1) Subject to the provisions of sub-regulation (6), if a guaranteed officer dies and leaves a widow, child or beneficiary and his pensionable service as determined under paragraph (b) of regulation 46 amounts to less than ten years, there shall be paid to the widow, or, if there is no widow, in respect of the child or beneficiary, as the case may be, a special pension equal to the deficit.
 
@@ -4227,7 +4229,7 @@ there are no other beneficiaries, the special pension payable in respect of the 
 
 there are other beneficiaries, the special pension or the portion of that pension, if any, payable in respect of that beneficiary shall, subject to the provisions of sub-regulation (3), be payable in respect of the other beneficiaries. (As amended by S.I. No. 98 of 1987)
 
-##### Section 48 — Travelling and subsistence allowances
+##### Section 48
 
 (1) A guaranteed officer who, immediately before the date of transfer, was making voluntary payments under the Widows and Orphans Pension Act for the purpose of securing additional benefits for his widow or child, shall, if he so elects in writing on or before that date, in addition to the contributions payable under regulation 46, pay monthly an amount equal to that paid by him immediately before that date for the aforesaid purpose.
 
@@ -4247,7 +4249,7 @@ Cap. 279
 
 whichever is the earlier.
 
-##### Section 49 — Special responsibility allowance
+##### Section 49
 
 Subject to regulation 33, a gratuity shall be payable in respect of an officer in Division I, II or III who dies, and whose death, in the opinion of the appropriate Commission, was not caused by any wrongful act or omission on the part of such officer in discharging his official duties.
 
@@ -4267,7 +4269,7 @@ where there is no spouse or child remaining, to the estate of the deceased
 
 (As amended by S.I. No. 98 of 87)
 
-##### Section 50 — Acting allowances
+##### Section 50
 
 There shall be a review of pensions before the 1st October, 1986, and at such inverals thereafter as the Board may decide. (As amended by S.I. No. 98 of 1987)
 

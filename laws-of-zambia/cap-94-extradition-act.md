@@ -341,7 +341,7 @@ EXTRADITION
 
 An Act to amend and consolidate the law relating to extradition to and from foreign and Commonwealth countries; to provide for the reciprocal backing of warrants; to repeal the Extradition and Fugitive Offenders Act and the Fugitive Offenders (Interim Provision) Act; and also to repeal the Fugitive Offenders Act, 1881, and the Extradition Acts, 1870 to 1906, of the United Kingdom, in their application to the Republic; and to provide for matters connected with and related to the foregoing. [Parts I and IX-25th October, 1968] [Rest*(1)] *Not in operation pending statutory order by the Attorney-General.
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -377,7 +377,7 @@ Interpretation
 
 (3) Where a person, who has been arrested in pursuance of the provisions of this Act, is brought before a magistrate who has no power to exercise jurisdiction under this Act, that magistrate shall have power to order such person to be brought before some magistrate having such jurisdiction and to remand or admit such person to bail, and effect shall be given to any such order.
 
-### PART II — EXTRADITION TO AND FROM FOREIGN COUNTRIESPART II
+### PART II — EXTRADITION TO AND FROM FOREIGN COUNTRIES
 
 EXTRADITION TO AND FROM FOREIGN COUNTRIES
 
@@ -851,7 +851,7 @@ Where a person accused or convicted of an extraditable crime is, or is suspected
 
 Where a person accused or convicted of an extraditable crime is surrendered by a declared Commonwealth country, the person may be brought into the Republic and delivered to the proper authorities to be dealt with according to law.
 
-### PART IV — GENERAL PROVISIONS ON EXTRADITIONPART IV
+### PART IV — GENERAL PROVISIONS ON EXTRADITION
 
 GENERAL PROVISIONS ON EXTRADITION
 
@@ -1075,7 +1075,7 @@ where that person, having had an opportunity to leave the Republic, has not done
 
 If extradition is requested concurrently by more than one country, either for the same offence or for different offences, the Attorney-General shall decide which, if any, of the requests is to be proceeded with, having regard to all the circumstances and especially the relative seriousness and place of commission of the offences, the respective dates of the requests, the citizenship or nationality, and the ordinary place of residence of the person claimed and the possibility of subsequent surrender to another country.
 
-### PART V — RECIPROCAL BACKING OF WARRANTSPART V
+### PART V — RECIPROCAL BACKING OF WARRANTS
 
 RECIPROCAL BACKING OF WARRANTS
 
@@ -1293,7 +1293,9 @@ Miscellaneous
 
 If a person, who is under arrest, escapes, by breach of prison or otherwise, out of the custody of a person acting under a warrant issued or endorsed in pursuance of this Act or out of the custody of a person to whose custody he had been committed in accordance with this Act, he may be retaken in the same manner as a person accused of a crime against the law of the Republic may be retaken upon an escape.
 
-#### Section 56 — The laws with respect to-
+#### Section 56 — Conditions of imprisonment
+
+The laws with respect to-
 
 (a)
 
@@ -1345,7 +1347,7 @@ any offence in respect of which the country by which he was surrendered to the R
 
 (3) Any person who, pursuant to this Act, has been delivered into the custody of another person for the purpose of being conveyed to the country to which his surrender has been ordered, shall, while in transit in such custody through any part of the Republic, be in lawful custody.
 
-### PART VII — OFFENCES COMMITTED ABROAD BY ZAMBIAN CITIZENSPART VII
+### PART VII — OFFENCES COMMITTED ABROAD BY ZAMBIAN CITIZENS
 
 OFFENCES COMMITTED ABROAD BY ZAMBIAN CITIZENS
 
@@ -1371,7 +1373,7 @@ Transit
 
 "the like punishment" means punishment of the same form as, or of a less stringent form than, the punishment prescribed for such offence by the law of the requesting country.
 
-### PART VIII — FORMS, REGULATIONS, RULESPART VIII
+### PART VIII — FORMS, REGULATIONS, RULES
 
 FORMS, REGULATIONS, RULES
 
@@ -1393,7 +1395,7 @@ The Chief Justice may, by statutory instrument, make rules providing for the pra
 
 The Attorney-General shall have an embossed official seal for the purpose of authentication of documents in respect of extradition to or from the Republic under Part II or III, respectively.
 
-### PART IX — INTERIM PROVISIONSPART IX
+### PART IX — INTERIM PROVISIONS
 
 INTERIM PROVISIONS
 
@@ -1413,7 +1415,7 @@ INTERIM PROVISIONS
 
 Pending the coming into operation of Part X, nothing in section sixty-four or sixty-five shall be deemed to have the effect of repealing or disapplying, in whole or in part, the Acts intended to be repealed or disapplied by section sixty-seven.
 
-### PART X — REPEALSPART X
+### PART X — REPEALS
 
 REPEALS
 

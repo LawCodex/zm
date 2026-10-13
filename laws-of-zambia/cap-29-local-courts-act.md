@@ -1067,7 +1067,9 @@ Provided that nothing in this subsection shall be deemed to prohibit any African
 
 ### PART VI — TRANSFER OF CASES, REVISION AND APPEALS
 
-#### Section 51 — In this Part, unless the context otherwise requires-
+#### Section 51 — Interpretation
+
+In this Part, unless the context otherwise requires-
 
 "adverse award" means a judgment, order or decision against a party which is not a sentence of fine, imprisonment or corporal punishment;
 

@@ -305,9 +305,9 @@ PART I PRELIMINARYPART I PRELIMINARY
 
 This Act may be cited as the Firearms Act.
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "acquire" means hire, accept as a gift or borrow, and "acquisition" shall be construed accordingly;
 
@@ -465,7 +465,7 @@ in any other area, such authority or person as the Minister may prescribe.
 
 (As amended by No. 11 of 1970)
 
-### PART II — IMPORT AND EXPORT OF FIREARMS AND AMMUNITIONPART II
+### PART II — IMPORT AND EXPORT OF FIREARMS AND AMMUNITION
 
 IMPORT AND EXPORT OF FIREARMS AND AMMUNITION
 
@@ -587,7 +587,7 @@ the procedures for their re-export.
 
 (4) Any person who exports any firearm or ammunition otherwise than in accordance with the provisions of this section shall be guilty of an offence.
 
-### PART III — FIREARM LICENSESPART III
+### PART III — FIREARM LICENSES
 
 FIREARM LICENSES
 
@@ -1347,7 +1347,7 @@ convert or modify any firearm so that the method of loading or discharge thereof
 
 (3) Any person who contravenes any provision of this section shall be guilty of an offence and liable on conviction to a fine not exceeding fifteen thousand penalty units or to imprisonment for a term not exceeding two years, or to both. (As amended by Act No. 13 of 1994)
 
-### PART VI — MISCELLANEOUSPART VI
+### PART VI — MISCELLANEOUS
 
 MISCELLANEOUS
 
@@ -1519,7 +1519,7 @@ Carrying firarms when drunk, etc.
 
 (6) In this section, "imitation firearm" means anything which has the appearance of being a firearm, whether or not it is capable of discharging any missile or noxious liquid or gas, as the case may be.
 
-### PART VII — GENERALPART VII
+### PART VII — GENERAL
 
 GENERAL
 

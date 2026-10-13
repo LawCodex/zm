@@ -85,9 +85,9 @@ This Act may be cited as the Theatres and Cinematograph Exhibition Act.
 
 (As amended by No. 1 of 1932)
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "cinematograph exhibition" means any exhibition of pictures or other optical effects presented by means of a cinematograph or other similar apparatus;
 
@@ -329,7 +329,7 @@ THE THEATRES AND CINEMATOGRAPH EXHIBITION REGULATIONS
 
 ARRANGEMENT OF REGULATIONS
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY Regulation 1.
 
@@ -339,7 +339,7 @@ Title
 
 Application
 
-### PART II — GENERAL BUILDING REQUIREMENTSPART II
+### PART II — GENERAL BUILDING REQUIREMENTS
 
 GENERAL BUILDING REQUIREMENTS
 
@@ -423,7 +423,7 @@ Seating accommodation
 
 Entrance hall, etc.
 
-### PART III — FIRE APPLIANCESPART III
+### PART III — FIRE APPLIANCES
 
 FIRE APPLIANCES
 
@@ -443,7 +443,7 @@ Fire appliances
 
 Footlights
 
-### PART IV — CINEMATOGRAPH EXHIBITIONSPART IV
+### PART IV — CINEMATOGRAPH EXHIBITIONS
 
 CINEMATOGRAPH EXHIBITIONS
 
@@ -535,7 +535,7 @@ Position of screen
 
 Movable buildings
 
-### PART V — GENERALPART V
+### PART V — GENERAL
 
 GENERAL
 
@@ -553,7 +553,7 @@ SECTION 12-THE THEATRES AND CINEMATOGRAPH EXHIBITION REGULATIONS Regulations by 
 
 Government Notices 98 of 1930 33 of 1937 143 of 1937 2 of 1949 322 of 1954 129 of 1955 282 of 1958 118 of 1959 170 of1959 373 of 1961 400 of 1962 497 of 1964
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -567,7 +567,7 @@ Application
 
 (No. 2 of 1949 as amended by No. 322 of 1954 and No. 118 of 1959)
 
-### PART II — GENERAL BUILDING REQUIREMENTSPART II
+### PART II — GENERAL BUILDING REQUIREMENTS
 
 GENERAL BUILDING REQUIREMENTS
 
@@ -647,9 +647,11 @@ Dressing-rooms to be in separate block
 
 Dressing-rooms to have windows
 
-#### Section 13 — Space above stage
+#### Section 13
 
 (1) The space above the stage shall be of sufficient height to allow of all scenes and the fire-resisting screen being raised above the top of the proscenium opening in one piece and without rolling.
+
+Space above stage
 
 (2) The roof of the stage shall not be of fire-resisting material or of heavy construction and shall be provided with one or more skylights in the top thereof, equal together to one-tenth of the area of the stage. Such skylights shall be glazed with sheet glass weighing not more than 0.588 litres per metre superficial. Immediately underneath the glass there shall be wire netting, but wire glass shall not be used.
 
@@ -659,25 +661,33 @@ Roof
 
 Skylight
 
-#### Section 14 — Scene dock, property room, etc
+#### Section 14
 
 A scene dock, property room or store room shall not be permitted in any theatre unless the same be separated from the rest of the building by brick or other fire-resisting material.
 
-#### Section 15 — Flies of theatre
+Scene dock, property room, etc.
+
+#### Section 15
 
 The flies of theatres shall be constructed of fire-resisting material to the satisfaction of the Inspector of Fire Services. Adequate means of escape shall be provided from the flies and the gridiron to the satisfaction of the Inspector of Fire Services.
 
+Flies of theatre
+
 (As amended by No. 282 of 1958 and No. 373 of 1961)
 
-#### Section 16 — Ventilation
+#### Section 16
 
 All openings for the ventilation of theatres shall be shown on the plans and properly described in the specifications, and such openings shall be made in such manner as may be approved by the Inspector of Fire Services.
 
+Ventilation
+
 (As amended by No. 282 of 1958 and No. 373 of 1961)
 
-#### Section 17 — Doors
+#### Section 17
 
 (1) All outer doors which are used as ordinary and usual means of public access to theatres shall open both inwards and outwards and shall be provided with proper and adequate means of locking or bolting back, to afford the full width of the doorway as a means of ingress and egress, and such outer doors shall be kept open during the time that the theatre is in use. All other outer doors used as emergency exists, whether connected directly with the means provided for leaving such building or not, shall be made so as to open outwards. All doors used by the public in the interior of a theatre shall be made to open both ways.
+
+Doors
 
 (2) Main entrance and exit doors shall be provided with panic bolts. If the door is in one leaf, a drawback lock (without any catch pin to keep the door locked) shall be used, and such lock shall be capable of being opened from inside without a key. If the door is in two leaves, an ordinary lock may be used.
 
@@ -725,29 +735,39 @@ Notice on escape doors
 
 (As amended by No. 282 of 1958, No. 373 of 1961 and S.I. No. 11 of 1971).
 
-#### Section 18 — Separate means of egress for different floors, etc
+#### Section 18
 
 In any theatre where the public using the same is to be accommodated on different floors, tiers or levels, a separate means of egress, of the width hereinbefore described for staircases, internal corridors or passage-ways, shall communicate directly with the street or an open passage approved by the Inspector of Fire Services
 
+Separate means of egress for different floors, etc.
+
 Provided that separate tiers of boxes in a theatre shall, for the purposes of these Regulations, be regarded as forming one floor or level with the floor or level on which they are situated. (As amended by No. 282 of 1958, No. 373 of 1961 and S.I. No. 11 of 1971)
 
-#### Section 19 — One additional exit to be provided
+#### Section 19
 
 At least one additional exit communicating with each different floor, level or tier and opening directly into the street or passageway, as above set forth, must also be provided; such additional exit shall open on to the street at least 6.1 metres from the first exit and shall be separated from any other exit by fire-proof walls.
 
-#### Section 20 — Passages, gangways, etc., to be kept in good repair
+One additional exit to be provided
+
+#### Section 20
 
 All passages, gangways, corridors, staircases and other means of ingress and egress for the use of the public shall be kept at all times in good order and repair and free from chairs or any other obstruction whatsoever, whether of a temporary or permanent character, or any projection of any description whatsoever other than handrails. All carpets or other stair or floor coverings shall be kept securely fixed and in good order and repair.
 
-#### Section 21 — Seating accommodation
+Passages, gangways, etc., to be kept in good repair
+
+#### Section 21
 
 When the seating accommodation for the public consists of chairs, these shall be fastened to one another, row by row, by means of a wooden batten or battens of sufficient strength running beneath the seats, in such a manner that, should a panic arise, there shall be no danger of the chairs being upset so as to cause any hindrance to egress. Such chairs shall be battened together at a distance of not less than 51 centimetres from centre to centre where they have arms, and 46 centimetres where they are without arms, and in lengths of not less than four nor more than twelve in a section. The centre line of any seat in a row shall not be more than 3.7 metres from the aisle nearest to such seat, measured along the line of seating in such row. No platform formed to receive seats shall be more than 53 centimetres in height of riser, nor less than 81 centimetres in width of platform.
 
+Seating accommodation
+
 (As amended by No. 129 of 1955)
 
-#### Section 22 — Entrance hall, etc
+#### Section 22
 
 (1) All entrance halls, passages, staircases, gangways or other means of approach to a public room or rooms in a theatre shall be efficiently lit during the whole time the theatre is being used.
+
+Entrance hall, etc.
 
 (2) When artificial light is used in any theatre, provisions approved by the Licensing Officer shall be made so that the public may not be left in darkness through any breakdown or accident.
 
@@ -759,49 +779,59 @@ Two complete systems of electric lighting
 
 (As amended by No. 282 of 1958 No. 373 of 1961 and S.I. No. 11 of 1971)
 
-### PART III — FIRE APPLIANCESPART III
+### PART III — FIRE APPLIANCES
 
 FIRE APPLIANCES
 
-#### Section 23 — Water supply
+#### Section 23
 
 Unless the Inspector of Fire Services is satisfied that an adequate water supply is available for any theatre, there shall be provided on the top of the proscenium wall, or at some other place to be approved by the Inspector of Fire Services, two or more cisterns, together capable of holding at least 909.2 litres of water for every 100 persons to be accommodated in the auditorium.
 
+Water supply
+
 (As amended by No. 282 of 1958 No. 373 of 1961 and S.I. No. 11 of 1971)
 
-#### Section 24 — Wet blankets and sand
+#### Section 24
 
 Wet blankets or rugs and buckets or other receptacles, filled some with water and some with sand, shall always be kept in the wings, and shall have placards of legibly printed fire instructions fixed immediately above them.
 
-#### Section 25 — Fire appliances
+Wet blankets and sand
+
+#### Section 25
 
 (1) Fire appliances adequate for the protection of the theatre shall be provided and shall include a sufficient number of hand grenades or other portable fire extinguishers. Chemical fire extinguishers shall be of such a number and so available that there shall be adequate means of dealing promptly with an outbreak of fire.
+
+Fire appliances
 
 (2) All fire appliances shall be of makes approved by the Inspector of Fire Services and shall be inspected at least once a month and kept at all times in fit and proper order by the licensee.
 
 (3) During any performance, all fire appliances shall be in charge of some responsible person specially appointed for that purpose, who shall see that such appliances are kept constantly in a serviceable condition and available for use. (As amended by No. 282 of 1958, No. 373 of 1961 and S.I. No. 11 of 1971)
 
-#### Section 26 — Footlights
+#### Section 26
 
 The footlights (if of oil or candles) in front of the stage or the portion of the theatre used as a stage shall be protected by wire guards approved by the Inspector of Fire Services. Hatchets, hooks and other means of taking down hanging scenery in case of fire shall always be kept in readiness in the wings. (As amended by No. 282 of 1958 No. 373 of 1961 and S.I. No. 11 of 1971)
 
-### PART IV — CINEMATOGRAPH EXHIBITIONSPART IV
+### PART IV — CINEMATOGRAPH EXHIBITIONS
 
 CINEMATOGRAPH EXHIBITIONS
 
 Footlights
 
-#### Section 27 — Operating chamber to be separated from combustible material
+#### Section 27
 
 A cinematograph apparatus shall not be fixed, nor shall any display be given in any theatre unless the operating chamber is distant from any external combustible material by at least 3 metres.
 
-#### Section 28 — Walls, floor and roof of chamber
+Operating chamber to be separated from combustible material
+
+#### Section 28
 
 The walls, floor and roof of the chamber shall be constructed of brick, reinforced concrete, plate walling or other fire-resisting material of a nature and thickness approved by the Inspector of Fire Services.
 
+Walls, floor and roof of chamber
+
 (As amended by No. 282 of 1958, No. 373 of 1961 and S.I. No. 11 of 1971)
 
-#### Section 29 — Size of chamber
+#### Section 29
 
 (1) The operating chamber shall be at least 2.4 metres in height from the floor to the ceiling and 2.1 metres wide parallel to the line of projection, and shall be of minimum length, varying in accordance with the number of machines installed in such chamber, as follows:
 
@@ -829,15 +859,19 @@ An additional 1.2 metres length shall be provided for each additional picture ma
 
 Ventilation of chamber
 
-#### Section 30 — Exits to be clear
+#### Section 30
 
 any exit.
 
+Exits to be clear
+
 No operating chamber shall be placed so as to interfere with the free use of
 
-#### Section 31 — Temporary and portable chambers
+#### Section 31
 
 (1) Where cinematograph exhibitions do not form a regular feature of the entertainment, a temporary operating chamber or a portable chamber may be used. A temporary operating chamber shall be constructed throughout with walls (including door), floor and roof of 3.8 centimetres angle-iron framing and sheet iron of at least No. 16 gauge, securely fixed with 5 centimetres lapped and riveted or bolted joints. A portable operating chamber shall be constructed throughout (including door) with teak or other hardwood framing not less than 5 centimetres thick strengthened by rails or braces, and covered with sheet asbestos not less than 95 millimetres thick on each side. The sides, roof and floor shall be fastened together with angle-iron and thumb-screws at each corner, such thumb-screws to screw into metal sockets, or with bolts and thumb-screws, or bolts and nuts.
+
+Temporary and portable chambers
 
 (2) Portable and temporary operating chambers shall only contain one picture machine, and such chambers shall have a minimum floor area of 2.8 square metres, and the height shall not be less than 1.8 metres. Such chambers shall, when erected and in use, be both dust and smoke proof, and, where practicable, shall be placed outside the auditorium.
 
@@ -845,59 +879,75 @@ No operating chamber shall be placed so as to interfere with the free use of
 
 (4) In the event of an operating chamber of any description, in-cluding permanent operating chambers, being inside the auditorium, a suitable barrier shall be firmly fixed round the operating chamber at a distance of not less than 61 centimetres from any part thereof.
 
-#### Section 32 — Escape from chamber
+#### Section 32
 
 Direct means of escape from the operating chamber to the external air shall be provided by a passage-way at least 91 centimetres in width. In cases where the chamber is fixed above the level of the ground or main floor, the stair or ladder from the operating chamber to the floor shall be constructed of incombustible material at least 68.5 centimetres in width.
 
-#### Section 33 — Projection openings
+Escape from chamber
+
+#### Section 33
 
 (1) Only openings which are necessary for projection, operation and observation shall be allowed in the front wall of the chamber. There shall not be more than three such openings for each lantern and they shall not exceed 30.5 centimetres by 30.5 centimetres, 30.5 centimetres by 61 centimetres, and 61 centimetres by 61 centimetres respectively. All openings shall be provided with a sheet of 65 millimetres plate glass built in and fixed so as effectively to prevent the escape of smoke into the auditorium. In addition, all openings shall be provided with falling shutters of metal at least 32 millimetres thick which, when closed, shall overlap the opening at least 2.5 centimetres on all sides. The shutters shall be arranged to cover the openings closely and to slide in properly constructed metal grooves, the lower groove being packed with a rubber pad at least 1.3 centimetres thick.
 
+Projection openings
+
 (2) Such screens or shutters shall be so fitted that they will all close without noise at one and the same time by the action of one release. The apparatus for releasing such screens or shutters shall be provided with suitable handles, which shall be fixed in such positions inside the operating chamber that the operator can release the shutters when standing in the usual position for operating each one of the cinematograph projectors and rewinding films, if such rewinding is carried out in the chamber, and shall be provided with a link of fusible metal or section of quick-burning film fixed directly over the film gate. A similar releasing handle shall be fixed outside the operating chamber in a position to be approved by the Licensing Officer. (As amended by No. 33 of 1937)
 
-#### Section 34 — Openings for pipes
+#### Section 34
 
 The necessary pipes, electric cables, etc., shall enter the operating chamber through properly bushed openings.
 
-#### Section 35 — Lanterns
+Openings for pipes
+
+#### Section 35
 
 (1) The lantern shall be placed on firm supports of fireresisting construction. The lamp or jet shall stand on an iron tray, with an upturned vertical edge at least 2.5 centimetres in depth. The lantern shall be provided with an automatic metal shutter to act between the source of light and the film gate. The action of this shutter shall be such that it shall close automatically immediately the film becomes stationary. A sliding metal shutter shall be provided in addition to the automatic shutter.
+
+Lanterns
 
 (2) The film gate shall be of massive construction and provided with ample heat-radiating surface, and the passage for the film shall be sufficiently narrow to prevent flame travelling upwards or downwards from the light opening. The film spools when in use shall be fixed in incombustible smokeproof boxes.
 
 Precautions for films
 
-#### Section 36 — Electric illumination
+#### Section 36
 
 Where possible, the electric arc light shall be adopted as the illuminant, and all regulations in force for securing safety in an electric installation shall be observed. Circuits in which there is a pressure exceeding 250 volts between the terminals, or from either terminal to earth, shall not be allowed in connection with the apparatus. Where the apparatus is used in a portable box, a permanently installed circuit shall be carried to a convenient point, having regard to the position of the apparatus. Resistances shall be placed in an approved position and, where practicable, outside the operating chamber. A small resistance for regulating purposes may be allowed within the chamber, but such resistance shall be fixed above the level of and behind the lantern.
 
-#### Section 37 — Projections for cables
+Electric illumination
+
+#### Section 37
 
 (1) The main cable must be enclosed in steel tubing, and must be run without joint or tapping from feeding point to apparatus. For temporary performances, the cables may be carried on porcelain cleats or bobbins, if they are placed out of reach and the pair run parallel and are separated by a space of not less than 15 centimetres.
+
+Projections for cables
 
 (2) The porcelain cleat or bobbin insulators carrying the cables must be securely fixed and placed sufficiently close together to prevent the cables touching the walls, woodwork or other surfaces. The whole of the wiring must be carried out in a thoroughly workmanlike manner, and all cables, fuses, switches, resistances and apparatus must be so fixed as to be out of reach of any unauthorized person. The lantern resistances and any other current-carrying devices must be of proper design and well suited for the work required to the satisfaction of the Licensing Officer; each must be self-contained and enclosed in iron cases; all current-carrying metal parts must be well insulated from the iron frames and covers and these in turn must be so supported that while in operation they shall be at least 76 centimetres from any wood or other inflammable material. Pilot lights used within the operating chamber must be provided with two single pole fuses and one single pole switch.
 
 Insulators
 
-#### Section 38 — Limelight
+#### Section 38
 
 (1) If limelight be used in the lantern, the gas cylinders shall be tested and filled in conformity with the requirements set out in the Schedule. The tubing shall be of sufficient strength to resist pressure from without and shall be properly connected up.
 
+Limelight
+
 (2) No gas shall be stored or used save in containers constructed in accordance with the requirements contained in the Schedule.
 
-#### Section 39 — Film-boxes
+#### Section 39
 
 (1) All cinematograph projectors shall be fitted with two film-boxes of substantial construction to and from which the films shall travel. Such boxes shall be made to close in a manner which shall prevent the ingress of fire, and shall be fitted with a film-slot capable of preventing the passage of flame to the interior of the film-box, and shall be kept closed except for the insertion or removal of films. Spools shall be chain or gear driven, and films shall be wound upon spools so that the wound films shall not at any time reach or project beyond the edges of the flanges of the spool.
+
+Film-boxes
 
 (2) All films, when not in the machine and while still in the operating chamber, shall be contained in closed metal boxes of self-closing pattern. Films shall not be stored nor rewound nor repaired in any other place on the premises than in the operating chamber or in some other approved fire-proof enclosure.
 
 (3) No film shall be removed from the operating chamber or other approved fire-proof chamber except in closed metal boxes.
 
-#### Section 40 — Ether saturators
+#### Section 40
 
 Ether saturators and gas generators must be placed in the open air, and the filling of ether saturators must be carried out in the open air.
 
-#### Section 41 — Rules of running
+#### Section 41
 
 (1) No smoking shall be permitted within the operating chamber.
 
@@ -923,21 +973,29 @@ Provided that, with the consent of the licensee and of the Licensing Officer fir
 
 (9) The operator or duly appointed assistant shall always be in the operating chamber during a cinematograph exhibition, and in no circumstances shall there be at any time more than four persons in the operating chamber during the exhibition.
 
-#### Section 42 — Outside chambers included
+#### Section 42
 
 These Regulations shall apply to buildings and cine-matograph operating chambers, whether or not the apparatus is fixed inside or outside the hall or structure accommodating the audience.
 
-#### Section 43 — Alterations prohibited without permission
+Outside chambers included
+
+#### Section 43
 
 After any licence has been granted, it shall not be per-missible for the licensee to make any alteration to the building, operating chamber, fixtures or contents without the sanction of the Licensing Officer, under penalty of revocation of the licence.
 
-#### Section 44 — Exhibitions authorised prior to 14th November, 1930
+Alterations prohibited without permission
+
+#### Section 44
 
 Where existing cinematograph exhibitions have been authorised prior to the commencement of these Regulations, no picture machines or stereopticons shall be installed in any existing operating chamber beyond the number installed at the commencement of these Regulations, unless such chambers comply with the requirements in regard to size and shape for such additional machines or stereopticons, and then only with the permission of the Licensing Officer.
 
-#### Section 45 — Miniature machines
+Exhibitions authorised prior to 14th November, 1930
+
+#### Section 45
 
 Notwithstanding anything herein to the contrary, it shall not be necessary to provide an operating chamber for the projection of motion pictures in the case of-
+
+Miniature machines
 
 (a)
 
@@ -947,13 +1005,17 @@ any miniature picture machine in which the maximum electric current used for the
 
 the use or operation of any so-called miniature picture apparatus which uses only an enclosed incandescent electric lamp and non-inflammable or slow-burning films, and is of such construction that films of ordinary standard size cannot be used therewith.
 
-#### Section 46 — Position of miniature machines
+#### Section 46
 
 A miniature picture machine as described in the last preceding regulation shall not be placed or fixed within 1.5 metres of any hangings, curtains or furniture of an inflammable nature or construction, and the rewinding or repair of films used in connection with such miniature machine shall not be effected in the building whilst any member of the audience is present therein.
 
-#### Section 47 — Position of screen
+Position of miniature machines
+
+#### Section 47
 
 In all places of entertainment where cinematograph ex-hibitions form, or are intended to form, the whole or any portion of the entertainment, the angle of elevation of the top edge of the screen at any point in the auditorium 1.07 metres above the floor shall not exceed 35 degrees; and the horizontal angle made by the screen and a line connecting the vertical edge of the screen and the seat in the front row furthest therefrom shall not be less than 25 degrees:
+
+Position of screen
 
 Provided that nothing herein contained shall require the alteration of the seating arrangements of any building existing at the commencement of these Regulations and which has been duly licensed for cinematograph exhibitions.
 
@@ -967,15 +1029,17 @@ Movable buildings
 
 (As amended by No. 400 of 1962)
 
-### PART V — GENERALPART V
+### PART V — GENERAL
 
 GENERAL
 
-#### Section 49 — Compliance with Regulations
+#### Section 49
 
 The licensee shall be responsible for the compliance with these Regulations in every respect, and for the employment of competent, experienced and trustworthy operators, and may be required at any time to supply to the Licensing Officer satisfactory credentials in this respect.
 
-#### Section 50 — Municipality to have similar powers as Inspector of Fire Services
+Compliance with Regulations
+
+#### Section 50
 
 In regard to any theatre situated in any municipality constituted under the provisions of the Local Government Act, the council of such municipality shall exercise all the powers conferred by these Regulations on the Inspector of Fire Services.
 

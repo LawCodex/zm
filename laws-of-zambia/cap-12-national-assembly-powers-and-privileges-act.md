@@ -181,7 +181,7 @@ NATIONAL ASSEMBLY (POWERS AND PRIVILEGES) An Act to declare and define certain p
 
 [28th September, 1956]
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -189,9 +189,9 @@ PRELIMINARY
 
 This Act may be cited as the National Assembly (Powers and Privileges) Act.
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "Assembly" means the National Assembly;
 
@@ -217,7 +217,7 @@ Cap. 1
 
 "votes and proceedings" means the official daily record of the proceedings in the Assembly. (As amended by No. 68 of 1957, S.I. No. 174 of 1965 and No. 23 of 1976)
 
-### PART II — PRIVILEGES OF THE ASSEMBLY AND ITS OFFICERSPART II
+### PART II — PRIVILEGES OF THE ASSEMBLY AND ITS OFFICERS
 
 PRIVILEGES OF THE ASSEMBLY AND ITS OFFICERS
 
@@ -263,7 +263,7 @@ Notwithstanding anything to the contrary, no process issued by any court of Zamb
 
 Civil process not to be served nor members arrested on civil process within precincts of the Assembly Chamber
 
-### PART III — EVIDENCEPART III
+### PART III — EVIDENCE
 
 EVIDENCE
 
@@ -407,7 +407,7 @@ Questions relating to evidence and production of documents before the Assembly o
 
 that question shall, subject to the preceding provisions of this Act, and except in so far as express provision is made in those provisions for the determination of that question, be determined in accordance with the usage and practice of other Commonwealth Parliaments. (As amended by Act No. 23 of 1976)
 
-### PART IV — OFFENCES AND PENALTIESPART IV
+### PART IV — OFFENCES AND PENALTIES
 
 OFFENCES AND PENALTIES
 
@@ -517,7 +517,7 @@ Provided that such period shall not extend beyond the last day of the meeting ne
 
 (3) If any person not being a member commits a contempt, whether specified in section nineteen or otherwise, the Assembly may, by resolution, direct that the Speaker shall order such person to appear before the Assembly and that he shall, upon such attendance, reprimand him at the Bar of the Assembly. (As amended by No. 68 of 1957)
 
-### PART V — MISCELLANEOUSPART V
+### PART V — MISCELLANEOUS
 
 MISCELLANEOUS
 

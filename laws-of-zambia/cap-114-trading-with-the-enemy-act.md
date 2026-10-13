@@ -101,7 +101,7 @@ TRADING WITH THE ENEMY
 
 An Act to impose penalties for trading with the enemy; to make provision as respects the property of enemies and enemy subjects; and to provide for purposes connected with the matters aforesaid. [3rd September, 1939]
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -135,7 +135,7 @@ a body of persons constituted or incorporated in, or under the laws of, any such
 
 Provided that a person shall not, by reason only that the directors of a body corporate act on advice given by him in a professional capacity, be taken to be a person in accordance with whose directions or instructions those directors act. (As amended by No. 34 of 1947 and S.I. No. 5 of 1965)
 
-### PART II — TRADING WITH THE ENEMY AND MATTERS RELATING THERETOPART II
+### PART II — TRADING WITH THE ENEMY AND MATTERS RELATING THERETO
 
 TRADING WITH THE ENEMY AND MATTERS RELATING THERETO
 
@@ -353,7 +353,7 @@ to intercept and confiscate any postal order remitted in contravention of the pr
 
 to cancel the advice to the paying authorities in respect of any International Money Order remitted in contravention of this Act. (No. 34 of 1947)
 
-### PART III — PROPERTY OF ENEMIES AND ENEMY SUBJECTSPART III
+### PART III — PROPERTY OF ENEMIES AND ENEMY SUBJECTS
 
 PROPERTY OF ENEMIES AND ENEMY SUBJECTS
 

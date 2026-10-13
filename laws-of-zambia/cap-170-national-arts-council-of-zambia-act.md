@@ -33,7 +33,7 @@ Section
 
 #### Section 3 — Interpretation
 
-### PART II — NATIONAL ARTS COUNCIL OF ZAMBIAPART II
+### PART II — NATIONAL ARTS COUNCIL OF ZAMBIA
 
 NATIONAL ARTS COUNCIL OF ZAMBIA
 
@@ -45,7 +45,9 @@ NATIONAL ARTS COUNCIL OF ZAMBIA
 
 #### Section 7 — Powers to order suspension of activities of registered body
 
-#### Section 8 — Power to appoint committee to inquire into activities of registered body
+#### Section 8
+
+Power to appoint committee to inquire into activities of registered body.
 
 #### Section 9 — Power to order suspension of office bearers
 
@@ -55,13 +57,15 @@ NATIONAL ARTS COUNCIL OF ZAMBIA
 
 #### Section 12 — Conditions applicable to members of committees
 
-#### Section 13 — Prohibition of publication or disclosure of information to unauthorised persons
+#### Section 13
+
+Prohibition of publication or disclosure of information to unauthorised persons.
 
 #### Section 14 — General matters relating to committees
 
 #### Section 15 — Associate bodies
 
-### PART III — REGISTRATION OF NATIONAL ARTS ASSOCIATIONPART III
+### PART III — REGISTRATION OF NATIONAL ARTS ASSOCIATION
 
 REGISTRATION OF NATIONAL ARTS ASSOCIATION
 
@@ -87,7 +91,7 @@ Section
 
 #### Section 25 — Affiliation to Council of registered body
 
-### PART IV — GENERAL PROVISIONSPART IV
+### PART IV — GENERAL PROVISIONS
 
 GENERAL PROVISIONS
 
@@ -187,7 +191,7 @@ Act No. 31 of 1994 13 of 1994
 
 [21st October, 1994
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -227,7 +231,7 @@ Interpretation
 
 "Vice-Chairperson" means the person elected as Vice-Chairperson of the Council under sub-paragraph (2) of paragraph 2 of Part I of the Schedule.
 
-### PART II — NATIONAL ARTS COUNCIL OF ZAMBIAPART II
+### PART II — NATIONAL ARTS COUNCIL OF ZAMBIA
 
 NATIONAL ARTS COUNCIL OF ZAMBIA
 
@@ -413,7 +417,7 @@ General matters relating to committees
 
 Associate bodies
 
-### PART III — REGISTRATION OF NATIONAL ARTS ASSOCIATIONSPART III
+### PART III — REGISTRATION OF NATIONAL ARTS ASSOCIATIONS
 
 REGISTRATION OF NATIONAL ARTS ASSOCIATIONS
 
@@ -541,7 +545,7 @@ Affiliation to Council of registered body
 
 (2) A registered body may form subsidiary bodies in provinces and these bodies shall be affiliated to the Council by virtue of the affiliation of the registered body.
 
-### PART IV — GENERAL PROVISIONSPART IV
+### PART IV — GENERAL PROVISIONS
 
 GENERAL PROVISIONS
 
@@ -927,7 +931,7 @@ Statutory Instrument 128 of 1995
 
 Regulations by the Minister
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -1063,7 +1067,7 @@ Fee units 50
 
 ARRANGEMENT OF RULES
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -1071,7 +1075,7 @@ Rule 1.
 
 Title
 
-### PART II — REGISTRATION, FEES AND CHARGESPART II
+### PART II — REGISTRATION, FEES AND CHARGES
 
 REGISTRATION, FEES AND CHARGES
 
@@ -1083,7 +1087,7 @@ Application for registration
 
 Fees and Charges
 
-### PART III — CODE OF CODUCTPART III
+### PART III — CODE OF CODUCT
 
 CODE OF CODUCT
 
@@ -1111,7 +1115,7 @@ Standards
 
 Promotion of artists
 
-### PART IV — COMPETITIONS, HONOURS AND AWARDSPART IV
+### PART IV — COMPETITIONS, HONOURS AND AWARDS
 
 COMPETITIONS, HONOURS AND AWARDS
 
@@ -1131,7 +1135,7 @@ Publicity for competition
 
 Adjudicators guidelines
 
-### PART V — LICENCESPART V
+### PART V — LICENCES
 
 LICENCES
 
@@ -1179,7 +1183,7 @@ Application for temporary licence
 
 Refund
 
-### PART VI — FOREIGN ARTISTS UNDERTAKING ACTIVITIES IN ZAMBIAPART VI
+### PART VI — FOREIGN ARTISTS UNDERTAKING ACTIVITIES IN ZAMBIA
 
 FOREIGN ARTISTS UNDERTAKING ACTIVITIES IN ZAMBIA
 
@@ -1215,7 +1219,7 @@ Cancellation of clearance
 
 #### Section 33 — Cultural exchanges
 
-### PART VII — GENERALPART VII
+### PART VII — GENERAL
 
 GENERAL
 
@@ -1231,7 +1235,7 @@ Statutory Instrument 129 of 1995
 
 Rules by the Minister
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -1241,7 +1245,7 @@ These Rules may be cited as the National Arts Council of Zambia Rules.
 
 Title
 
-### PART II — REGISTRATION, FEES AND CHARGESPART II
+### PART II — REGISTRATION, FEES AND CHARGES
 
 REGISTRATION, FEES AND CHARGES
 
@@ -1253,7 +1257,7 @@ Application for registration
 
 Fees and charges
 
-### PART III — CODE OF CONDUCTPART III
+### PART III — CODE OF CONDUCT
 
 CODE OF CONDUCT
 
@@ -1279,7 +1283,7 @@ Prohibition of representation without authorisation
 
 Standards
 
-### PART IV — COMPETITIONS, HONOURS AND AWARDSPART IV
+### PART IV — COMPETITIONS, HONOURS AND AWARDS
 
 COMPETITIONS, HONOURS AND AWARDS
 
@@ -1303,7 +1307,7 @@ Publicity for competition
 
 Adjudicators guidelines
 
-### PART V — LICENCESPART V
+### PART V — LICENCES
 
 LICENCES
 
@@ -1437,7 +1441,7 @@ Clearance fee
 
 Cutlural exchanges
 
-### PART VII — GENERALPART VII
+### PART VII — GENERAL
 
 GENERAL
 
@@ -1453,7 +1457,7 @@ Inspection of accounts
 
 Validity period
 
-#### Section 37 — Any person who contravenes any of the provisions of these rules shall be guilty
+#### Section 37
 
 Any person who contravenes any of the provisions of these rules shall be guilty of an offence and shall be liable upon conviction to a fine not exeeding five thousand penalty units.
 

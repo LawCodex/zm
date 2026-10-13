@@ -121,7 +121,7 @@ Act No. 35 of 1994
 
 An Act to establish a code of conduct for Ministers and Deputy Ministers for the purposes of Article 52 of the Constitution; to establish a code of conduct for Members of the National Assembly for the purposes of Article 71 of the Constitution; and to provide for matters connected with or incidental to the foregoing. [21st October, 1994]
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -129,9 +129,9 @@ PRELIMINARY
 
 This Act may be cited as the Parliamentary and Ministerial Code of Conduct Act.
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "Constitution" means the Constitution of the Republic of Zambia;
 
@@ -143,7 +143,7 @@ Cap. 1
 
 "tribunal" means a tribunal appointed under section thirteen.
 
-### PART II — CODE OF CONDUCT APPLICABLE TO ALL MEMBERSPART II
+### PART II — CODE OF CONDUCT APPLICABLE TO ALL MEMBERS
 
 CODE OF CONDUCT APPLICABLE TO ALL MEMBERS
 
@@ -359,7 +359,7 @@ the declaration date; and
 
 the total income of the Officer, together with his income from each source, for the period since the date referred to in sub-paragraph (a) (i) or the date twelve months before the commencement of this Act, whichever is earlier.
 
-### PART IV — ADMINISTRATION AND ENFORCEMENTPART IV
+### PART IV — ADMINISTRATION AND ENFORCEMENT
 
 ADMINISTRATION AND ENFORCEMENT
 
@@ -437,7 +437,7 @@ Complaints of breaches of section 8
 
 (2) The President shall give a copy of the allegation to the Minister concerned.
 
-### PART V — MISCELLANEOUSPART V
+### PART V — MISCELLANEOUS
 
 MISCELLANEOUS
 

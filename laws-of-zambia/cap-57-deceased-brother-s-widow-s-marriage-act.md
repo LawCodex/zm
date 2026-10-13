@@ -57,9 +57,9 @@ DECEASED BROTHER'S WIDOW'S MARRIAGE An Act to amend the law relating to marriage
 
 This Act may be cited as the Deceased Brother's Widow's Marriage Act.
 
-### Section 2 — In this Act, unless the context otherwise requires-
+### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "brother" includes a brother of the half-blood.
 

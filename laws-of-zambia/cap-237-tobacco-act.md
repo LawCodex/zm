@@ -505,9 +505,9 @@ PART I PRELIMINARYPART I PRELIMINARY
 
 This Act may be cited as the Tobacco Act.
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "auction floor" means premises used for the sale by auction of auctionable tobacco;
 
@@ -583,7 +583,7 @@ experiments in the planting, handling and curing of tobacco;
 
 "weight" means the weight which is known in the usage of the trade as wet weight.
 
-### PART II — ESTABLISHMENT OF TOBACCO BOARDPART II
+### PART II — ESTABLISHMENT OF TOBACCO BOARD
 
 ESTABLISHMENT OF TOBACCO BOARD
 
@@ -783,7 +783,7 @@ Powers of inspector
 
 Contracts and instruments of Board
 
-### PART III — FUNCTIONS, DUTIES AND POWERS OF THE BOARDPART III
+### PART III — FUNCTIONS, DUTIES AND POWERS OF THE BOARD
 
 FUNCTIONS, DUTIES AND POWERS OF THE BOARD
 
@@ -835,7 +835,7 @@ If at any time it appears to the Minister that the Board is in default in the pe
 
 (2) The Minister shall lay each such annual report before the National Assembly.
 
-### PART IV — FUNDS OF THE BOARDPART IV
+### PART IV — FUNDS OF THE BOARD
 
 FUNDS OF THE BOARD
 
@@ -899,7 +899,7 @@ the Board has complied with the provisions of this Part with which it is its dut
 
 Duties of auditors
 
-### PART V — REGISTRATION OF GROWERSPART V
+### PART V — REGISTRATION OF GROWERS
 
 REGISTRATION OF GROWERS
 
@@ -1001,7 +1001,9 @@ made with the permission of the owner referred to in paragraph (c); or
 
 made with the authority of the Minister or of the Board.
 
-#### Section 30 — Any grower who-
+#### Section 30 — Only registered growers to sell or export tobacco on consignment
+
+Any grower who-
 
 (a)
 
@@ -1129,7 +1131,7 @@ Cancellation of registration
 
 (2) No appeal shall lie to any court from the decision of the Minister on any appeal pursuant to subsection (1).
 
-### PART VI — LICENSING OF GRADERSPART VI
+### PART VI — LICENSING OF GRADERS
 
 LICENSING OF GRADERS
 
@@ -1177,7 +1179,7 @@ Cancellation and suspension of grader's licence
 
 (2) No appeal shall lie to any court from the decision of the Minister on any appeal pursuant to subsection (1).
 
-### PART VII — LICENSING OF BUYERSPART VII
+### PART VII — LICENSING OF BUYERS
 
 LICENSING OF BUYERS
 
@@ -1259,7 +1261,7 @@ having considered a report from an inspector or sales supervisor that the said l
 
 (2) No appeal shall lie to any court against the decision of the Minister on any appeal pursuant to subsection (1).
 
-### PART VIII — LICENSING OF AUCTION FLOORSPART VIII
+### PART VIII — LICENSING OF AUCTION FLOORS
 
 LICENSING OF AUCTION FLOORS
 
@@ -1361,7 +1363,7 @@ authority issued pursuant to section fifty-six is in substantial conformity with
 
 Licensing of improvements
 
-### PART IX — SALE OF TOBACCOPART IX
+### PART IX — SALE OF TOBACCO
 
 SALE OF TOBACCO
 
@@ -1653,7 +1655,9 @@ Duties of licensed buyers on purchase of auctionable tobacco
 
 Prohibition against resale of auctionable tobacco bought at less than internal market minimum price
 
-#### Section 77 — Any person who, without the authority in writing of the Minister-
+#### Section 77 — Prohibition against manufacture or keeping of auctionable tobacco not sold on
+
+Any person who, without the authority in writing of the Minister-
 
 (a)
 
@@ -1667,7 +1671,7 @@ Prohibition against manufacture or keeping of auctionable tobacco not sold on li
 
 unless the said tobacco was initially purchased on a licensed auction floor, shall be guilty of an offence.
 
-### PART X — MARKETING QUOTAS AND POOLSPART X
+### PART X — MARKETING QUOTAS AND POOLS
 
 MARKETING: QUOTAS AND POOLS
 
@@ -1713,7 +1717,7 @@ Prohibition against sale or export of surplus tobacco by grower except through B
 
 shall be guilty of an offence.
 
-### PART XI — PRESCRIBED VARIETIES OF TOBACCOPART XI
+### PART XI — PRESCRIBED VARIETIES OF TOBACCO
 
 PRESCRIBED VARIETIES OF TOBACCO
 
@@ -1735,7 +1739,7 @@ PRESCRIBED VARIETIES OF TOBACCO
 
 (3) Upon the conviction of any person of an offence under this section, the court may, at the request of the prosecution and in addition to any other penalty imposed, declare any such tobacco not of a prescribed variety, or any such varietal sport, found in the possession or under the control of the defendant to be forfeited, or may order it to be destroyed, without compensation, or may both declare it to be so forfeited and order it to be so destroyed, without compensation.
 
-### PART XII — EXPORT OF TOBACCOPART XII
+### PART XII — EXPORT OF TOBACCO
 
 EXPORT OF TOBACCO
 
@@ -1769,7 +1773,7 @@ Subject to the provisions of sections eighty-five, eighty-eight and eight-nine, 
 
 Nothing contained in this Part shall apply to, or operate to prevent, the bona fide export of a sample of tobacco by any person, when such sample does not exceed two kilogrammes and three hundred grammes in weight.
 
-### PART XIII — MISCELLANEOUS AND OFFENCESPART XIII
+### PART XIII — MISCELLANEOUS AND OFFENCES
 
 MISCELLANEOUS AND OFFENCES
 
@@ -1799,7 +1803,9 @@ being in possession of any information which to his knowledge has been disclosed
 
 he shall be guilty of an offence and upon conviction shall be liable to a fine not exceeding fifteen thousand penalty units or to a term of imprisonment not exceeding two years, or to both. (As amended by Act No. 13 of 1994)
 
-#### Section 94 — Any person who, without lawful authority, alters, defaces or removes-
+#### Section 94 — Prohibition against altering, defacing or removing official records
+
+Any person who, without lawful authority, alters, defaces or removes-
 
 (a)
 
@@ -1808,8 +1814,6 @@ any register, index or other such official record maintained in pursuance of thi
 (b)
 
 any entry appearing in any such register, index or other such official record;
-
-Prohibition against altering, defacing or removing official records
 
 shall be guilty of an offence.
 
@@ -1859,7 +1863,7 @@ shall be guilty of an offence.
 
 Prohibition against failure to furnish returns, etc.
 
-### PART XIV — PROCEEDINGS AND PENALTYPART XIV
+### PART XIV — PROCEEDINGS AND PENALTY
 
 PROCEEDINGS AND PENALTY
 
@@ -1873,7 +1877,7 @@ Save where otherwise expressly provided by this Act, any person who is convicted
 
 (As amended by Act No. 13 of 1994)
 
-### PART XV — REGULATIONSPART XV
+### PART XV — REGULATIONS
 
 REGULATIONS
 
@@ -1929,7 +1933,7 @@ requiring licensed buyers or persons who process or prepare tobacco for sale or 
 
 Regulations
 
-### PART XVI — TRANSITIONAL PROVISIONSPART XVI
+### PART XVI — TRANSITIONAL PROVISIONS
 
 TRANSITIONAL PROVISIONS
 
@@ -2033,7 +2037,7 @@ THE TOBACCO (MARKETING AND LICENSING) RULES
 
 ARRANGEMENT OF RULES
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -2045,7 +2049,7 @@ Title
 
 Interpretation
 
-### PART II — RETURNS BY REGISTERED GROWERSPART II
+### PART II — RETURNS BY REGISTERED GROWERS
 
 RETURNS BY REGISTERED GROWERS
 
@@ -2053,7 +2057,7 @@ RETURNS BY REGISTERED GROWERS
 
 Crop forecast returns
 
-### PART III — LICENSING OF GRADERSPART III
+### PART III — LICENSING OF GRADERS
 
 LICENSING OF GRADERS
 
@@ -2085,7 +2089,7 @@ Copies of returns to Board
 
 Duties of licensed graders
 
-### PART IV — LICENSING OF BUYERSPART IV
+### PART IV — LICENSING OF BUYERS
 
 LICENSING OF BUYERS
 
@@ -2101,7 +2105,7 @@ Grounds for refusal
 
 Returns by buyers
 
-### PART V — LICENSING OF AUCTION FLOORSPART V
+### PART V — LICENSING OF AUCTION FLOORS
 
 LICENSING OF AUCTION FLOORS
 
@@ -2125,7 +2129,7 @@ Returns to be submitted
 
 Duties of holders of auction floor licences
 
-### PART VI — MARKING OF BALES FOR SALEPART VI
+### PART VI — MARKING OF BALES FOR SALE
 
 MARKING OF BALES FOR SALE
 
@@ -2149,7 +2153,7 @@ Labelling of bales by graders
 
 Prohibition of any other markings
 
-### PART VII — PACKING OF TOBACCO FOR SALEPART VII
+### PART VII — PACKING OF TOBACCO FOR SALE
 
 PACKING OF TOBACCO FOR SALE
 
@@ -2165,7 +2169,7 @@ Wrapping and sewing materials
 
 Weights and dimensions of bales
 
-### PART VIII — SALE OF TOBACCO BY AUCTIONPART VIII
+### PART VIII — SALE OF TOBACCO BY AUCTION
 
 SALE OF TOBACCO BY AUCTION
 
@@ -2335,7 +2339,7 @@ SECTION 15 AND PARAGRAPHS 18, 19, 22-24, 29, 31, 33-37 AND 40-42 OF THE SCHEDULE
 
 Statutory Instruments 142 of 1968 353 of 1969 70 of 1992Act No. 13 of 1994
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -2425,7 +2429,7 @@ Interpretation
 
 "tobacco" means unmanufactured tobacco of a class prescribed by the Minister pursuant to section fifty-nine of the Act.
 
-### PART II — RETURNS BY REGISTERED GROWERSPART II
+### PART II — RETURNS BY REGISTERED GROWERS
 
 RETURNS BY REGISTERED GROWERS
 
@@ -2501,7 +2505,7 @@ exceeds the quantity of such tobacco sold by him or on his behalf in that sellin
 
 falls short of the quantity of such tobacco sold by him or on his behalf in that selling season by more than twenty per centum of such estimate.
 
-### PART III — LICENSING OF GRADERSPART III
+### PART III — LICENSING OF GRADERS
 
 LICENSING OF GRADERS
 
@@ -2609,7 +2613,7 @@ use all reasonable care in handling, storing grading and packing tobacco so as t
 
 Duties of licensed graders
 
-### PART IV — LICENSING OF BUYERSPART IV
+### PART IV — LICENSING OF BUYERS
 
 LICENSING OF BUYERS
 
@@ -2675,7 +2679,7 @@ that the Board has in respect of any particular class of tobacco granted an excl
 
 Returns by buyers Form 7
 
-### PART V — LICENSING OF AUCTION FLOORSPART V
+### PART V — LICENSING OF AUCTION FLOORS
 
 LICENSING OF AUCTION FLOORS
 
@@ -2787,7 +2791,7 @@ effect at his own expense insurance to cover loss of or damage to any seller's t
 
 Duties of holders of auction floor licences
 
-### PART VI — MARKING OF BALES FOR SALEPART VI
+### PART VI — MARKING OF BALES FOR SALE
 
 MARKING OF BALES FOR SALE
 
@@ -2853,7 +2857,7 @@ Prohibition of any other markings
 
 Provided however that should he so wish a seller of a bale of Oriental tobacco may, in addition to his registered number, mark on the outside of the wrapping material the lot number of the bale.
 
-### PART VII — PACKING OF TOBACCO FOR SALEPART VII
+### PART VII — PACKING OF TOBACCO FOR SALE
 
 PACKING OF TOBACCO FOR SALE
 
@@ -2923,7 +2927,7 @@ a split bale of Virginia flue-cured tobacco weighing less than forty-five kilogr
 
 a split bale of Burley tobacco weighing less than fourteen kilogrammes net.
 
-### PART VIII — SALE OF TOBACCO BY AUCTIONPART VIII
+### PART VIII — SALE OF TOBACCO BY AUCTION
 
 SALE OF TOBACCO BY AUCTION
 

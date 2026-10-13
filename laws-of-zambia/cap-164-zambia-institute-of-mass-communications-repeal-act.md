@@ -33,7 +33,9 @@ Clause
 
 ### Section 4 — Vesting of assets and transfer of liabilities
 
-### Section 5 — Registration of property to be transferred
+### Section 5
+
+Registration of property to be transferred
 
 ### Section 6 — Legal proceedings
 
@@ -1851,13 +1853,17 @@ Eng. Date
 
 01/04/95
 
-### Section 25 — Makungo Grace Z
+### Section 25
+
+Makungo Grace Z.
 
 139724/68/1
 
 08/05/95
 
-### Section 26 — Milanzi Alec E.P
+### Section 26
+
+Milanzi Alec E.P.
 
 239378/52/1
 

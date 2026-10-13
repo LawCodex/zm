@@ -125,9 +125,9 @@ PIG INDUSTRY An Act to provide for the imposition and collection of levies on pi
 
 This Act may be cited as the Pig Industry Act.
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "bacon" means any part of the carcass of a pig, excluding the feet and the offal and all parts of the head except the chaps, which has been salted or smoked or salted and smoked or picked and smoked;
 
@@ -277,7 +277,9 @@ The costs payable by the Minister in an action referred to in section nine shall
 
 ### PART III — DEVELOPMENT OF THE PIG INDUSTRY IN ZAMBIA
 
-#### Section 11 — The carcasses of all pigs slaughtered in Zambia for-
+#### Section 11 — Certain pig carcasses to be graded throughout Zambia
+
+The carcasses of all pigs slaughtered in Zambia for-
 
 (a)
 
@@ -286,8 +288,6 @@ export or sale as carcasses; or
 (b)
 
 making into bacon, ham or other products for human consumption;
-
-Certain pig carcasses to be graded throughout Zambia
 
 shall be graded immediately after slaughter in accordance with the provisions of this Act. (As amended by No. 15 of 1960 and G.N. No. 89 of 1964)
 
@@ -449,7 +449,9 @@ the fixing of maximum, minimum or specified prices determined by reference to de
 
 (1) make different provision with respect to different classes of pigs, pig carcasses and pig products and in respect of different producers, dealers who slaughter pigs or classes of producers, and dealers who slaughter pigs. (As amended by No. 15 of 1960 and G.N. No. 89 of 1964)
 
-#### Section 20 — A person who-
+#### Section 20 — Offences and penalties
+
+A person who-
 
 (a)
 

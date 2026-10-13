@@ -603,13 +603,13 @@ SECTION 10-THE PROFESSIONAL BOXING CONTROL REGULATIONS Regulations by the Minist
 
 These Regulations may be cited as the Professional Boxing Control Regulations.
 
-### Section 2 — In these Regulations, unless the context otherwise requires-
+### Section 2 — Interpretation
+
+In these Regulations, unless the context otherwise requires-
 
 Government Notices 235 of 1962 497 of 1964 Statutory Instrument 53 of 1965 51 of 1978 52 of 1978 160 of 1978 161 of 1978 12 off 1984 58 of 1984 65 of 1989 41 of 1991 Act No.13 of 1994
 
 Title
-
-Interpretation
 
 "Board" means the Zambia Professional Boxing Control Board established by paragraph (a) of section three of the Act.
 

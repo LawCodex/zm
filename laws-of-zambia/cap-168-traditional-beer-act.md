@@ -91,7 +91,9 @@ This Act may be cited as the Traditional Beer Act.
 
 (As amended by No. 25 of 1969)
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
+
+In this Act, unless the context otherwise requires-
 
 "Board" means a Board appointed under section four, and includes and shall be deemed always to have included any person so appointed as a Board;
 
@@ -233,7 +235,7 @@ TRADITIONAL BEER THE TRADITIONAL BEER REGULATIONS
 
 ARRANGEMENT OF REGULATIONS
 
-### PART I — GENERALPART I
+### PART I — GENERAL
 
 GENERAL
 
@@ -257,7 +259,7 @@ Prohibition on making, etc., of traditional beer
 
 Guard areas
 
-### PART II — SALE OF TRADITIONAL BEERPART II
+### PART II — SALE OF TRADITIONAL BEER
 
 SALE OF TRADITIONAL BEER
 
@@ -277,7 +279,7 @@ Regulation of manufacture of beer sold by Board
 
 Conditions of sale
 
-### PART III — PERMITS TO MANUFACTURE, ETC., TRADITIONAL BEERPART III
+### PART III — PERMITS TO MANUFACTURE, ETC., TRADITIONAL BEER
 
 PERMITS TO MANUFACTURE, ETC., TRADITIONAL BEER
 
@@ -293,7 +295,7 @@ Interpretation for purposes of Part III
 
 Permits
 
-### PART IV — TRADITIONAL BEER RATIONSPART IV
+### PART IV — TRADITIONAL BEER RATIONS
 
 TRADITIONAL BEER RATIONS
 
@@ -321,7 +323,7 @@ Conditions of supply
 
 Inspection of brewery premises
 
-### PART V — MISCELLANEOUSPART V
+### PART V — MISCELLANEOUS
 
 MISCELLANEOUS
 
@@ -353,7 +355,7 @@ SECTIONS 4 AND 7-THE TRADITIONAL BEER REGULATIONS Regulations by the Minister
 
 Government Notices 195 of 1933 109 of 1934 78 of 1935 99 of 1936 122 of 1936 16 of 1938 102 of 1938 106 of 1939 118 of 1939 167 of 1939 224 of 1945 73 of 1947 110 of 1947 23 of 1949 46 of 1949 254 of 1949 30 of 1950 197 of 1950 200 of 1951 26 of 1952 74 of 1952 101 of 1952 223 of 1952 60 of 1953 234 of 1953 316 of 1953 18 of 1954 39 of 1954 85 of 1954 223 of 1954 324 of 1954 87 of 1955 191 of 1955 279 of 1955 95 of 1956 128 of 1956 258 of 1956 275 of 1956 251 of 1957 250 of 1958 342 of 1958 202 of 1960 213 of 1960 269 of 1960 105 of 1962 304 of 1964 502 of 1964 Statutory Instruments 91 of 1965 286 of 1965
 
-### PART I — GENERALPART I
+### PART I — GENERAL
 
 GENERAL
 
@@ -409,7 +411,7 @@ Guard areas
 
 (4) Such limitation of quantity and such conditions shall be endorsed on the permit and any breach or non-observance thereof shall be deemed to be a contravention of these Regulations. (No. 224 of 1945)
 
-### PART II — SALE OF TRADITIONAL BEERPART II
+### PART II — SALE OF TRADITIONAL BEER
 
 SALE OF TRADITIONAL BEER
 
@@ -455,7 +457,7 @@ be consumed only in a place where traditional beer is sold and not be removed th
 
 (2) Spent. (As amended by No. 101 of 1952, 60 of 1953 and 85 of 1954)
 
-### PART III — PERMITS TO MANUFACTURE, ETC., TRADITIONAL BEERPART III
+### PART III — PERMITS TO MANUFACTURE, ETC., TRADITIONAL BEER
 
 PERMITS TO MANUFACTURE, ETC., TRADITIONAL BEER
 
@@ -481,7 +483,7 @@ Permits
 
 (3) Such limitation of quantity and such conditions shall be endorsed on the permit and any breach or non-observance thereof shall be deemed to be contravention of these Regulations.
 
-### PART IV — TRADITIONAL BEER RATIONSPART IV
+### PART IV — TRADITIONAL BEER RATIONS
 
 TRADITIONAL BEER RATIONS
 
@@ -489,9 +491,11 @@ TRADITIONAL BEER RATIONS
 
 Traditional beer ration permit
 
-#### Section 14 — Granting of permits
+#### Section 14
 
 (1) Permits shall only be granted by a Resident Secretary, and the granting or refusal thereof shall be in his absolute discretion.
+
+Granting of permits
 
 (2) An application for a permit shall be made by the employer to an Administrative Officer stationed in the District in which the employees are working and shall be forwarded by the Administrative Officer with his recommendation to the Permanent Secretary of the Province within which such District is situate.
 
@@ -501,19 +505,25 @@ Traditional beer ration permit
 
 (5) The Permanent Secretary may, if he thinks fit, without assigning any reason, revoke a permit at any time. (As amended by No. 502 of 1964)
 
-#### Section 15 — Brewery premises
+#### Section 15
 
 Every employer to whom a permit has been issued shall set aside and designate a separate building or separate buildings for the purpose of the brewing and supplying of traditional beer, and such building or buildings shall be enclosed with a fence. The area so enclosed shall be known as the brewery premises.
 
-#### Section 16 — Inspection of permit
+Brewery premises
+
+#### Section 16
 
 Every employer to whom a permit has been issued shall keep such permit on the brewery premises, and such permit shall be produced on demand for inspection by any Administrative Officer or police officer of or above the rank of Sub-Inspector.
 
+Inspection of permit
+
 (As amended by No. 502 of 1964 and No. 91 of 1965)
 
-#### Section 17 — Conditions of supply
+#### Section 17
 
 (1) Traditional beer brewed and supplied as rations shall be consumed on the brewery premises and supplied only to employees of the holder of a permit.
+
+Conditions of supply
 
 (2) No traditional beer shall be supplied to any employee apparently under the age of sixteen years.
 
@@ -527,21 +537,23 @@ Every employer to whom a permit has been issued shall keep such permit on the br
 
 (7) The brewery premises and all utensils and receptacles used for the brewing and supply of traditional beer shall be kept in a clean and sanitary condition.
 
-#### Section 18 — Inspection of brewery premises
+#### Section 18
 
 Every employer to whom a permit has been issued shall at all times allow any Administrative Officer, police officer of or above the rank of Sub Inspector, Medical Officer or Sanitary Inspector full access to all parts of the brewery premises for the purpose of inspection. (As amended by No. 502 of 1964 and No. 91 of 1965)
 
-### PART V — MISCELLANEOUSPART V
+### PART V — MISCELLANEOUS
 
 MISCELLANEOUS
 
 Inspection of brewery premises
 
-#### Section 19 — Contravention of regulations
+#### Section 19
 
 The omission to do any act, matter or thing required to be done under and in accordance with the provisions hereof shall be deemed to be a contravention of these Regulations.
 
-#### Section 20 — Cancellation of permits
+Contravention of regulations
+
+#### Section 20
 
 Any person contravening any of these Regulations shall be liable, on conviction, in addition to any other penalties, to have any permit issued to him cancelled.
 

@@ -587,7 +587,7 @@ Cap. 435
 
 (2) The provisions of this section have effect notwithstanding any right, title or interest which any person may possess in or over the soil in, on or under which minerals are found
 
-### PART II — MINING RIGHTS GENERALLYPART II
+### PART II — MINING RIGHTS GENERALLY
 
 MINING RIGHTS GENERALLY
 
@@ -713,7 +713,7 @@ the privatisation of the Zambia Consolidated Copper Mines Limited and any matter
 
 Before a mining right is issued, the Director may require that the land over which the mining right is to be issued be properly surveyed in accordance with legal requirements
 
-### PART III — LARGE-SCALE MINING OPERATIONSPART III
+### PART III — LARGE-SCALE MINING OPERATIONS
 
 LARGE-SCALE MINING OPERATIONS
 
@@ -809,7 +809,9 @@ Provided that the Minister shall not reject an application for renewal by virtue
 
 (2) Where the Minister considers it necessary for the completion of a feasibility study commenced by the holder into the prospects for recovery of any mineral deposit and its commercial significance, the licence may be renewed for such further period as the Minister may authorise but not exceeding one year.
 
-#### Section 16 — The holder of a prospecting licence-
+#### Section 16 — Obligations of holder of prospecting licence
+
+The holder of a prospecting licence-
 
 (a)
 
@@ -1117,7 +1119,7 @@ give his approval, on such conditions as he may determine (including provision f
 
 direct the holder to resume full production at the mine within such date as he may specify.
 
-### PART IV — SMALL-SCALE MINING OPERATIONSPART IV
+### PART IV — SMALL-SCALE MINING OPERATIONS
 
 SMALL-SCALE MINING OPERATIONS
 
@@ -1465,7 +1467,7 @@ Requirement to convert gemstone licence to large-scale mining licence
 
 to apply for a large-scale mining licence, and, in any such case, the provisions of this Act shall apply, with any necessary modifications, to the applicant as if he were the holder of a prospecting licence who applies for a large-scale mining licence.
 
-### PART V — VARIATION, ETC. OF LICENCES AND PERMITSPART V
+### PART V — VARIATION, ETC. OF LICENCES AND PERMITS
 
 VARIATION, ETC. OF LICENCES AND PERMITS
 
@@ -1613,7 +1615,9 @@ operations in accordance with his proposed plan of mining operations and the gro
 
 Termination of gemstone licence for insufficient production
 
-#### Section 53 — Where-
+#### Section 53 — Transitional extension of licences or permits pending certain applications
+
+Where-
 
 (a)
 
@@ -1691,7 +1695,7 @@ if the person is entitled to appoint, or to prevent the appointment of, half or 
 
 Cap. 388
 
-### PART VI — MINING RIGHTS AND SURFACE RIGHTSPART VI
+### PART VI — MINING RIGHTS AND SURFACE RIGHTS
 
 MINING RIGHTS AND SURFACE RIGHTS
 
@@ -1851,7 +1855,7 @@ Cap. 184
 
 where the value of any land has been enhanced by the fact that prospecting or mining operations are taking place or have taken place on the land or nearby, the amount of any compensation payable under this section in relation to that land shall not exceed the amount that would have been payable if such value had not been so enhanced.
 
-### PART VII — ARTISANAL MININGPART VII
+### PART VII — ARTISANAL MINING
 
 ARTISANAL MINING
 
@@ -1909,7 +1913,7 @@ Cap. 464
 
 (2) The provisions of this section shall not affect any requirement of this or any other Act to obtain any requisite consent from any owner or occupier of land or any public authority or other person.
 
-### PART VIII — ROYALTIES AND CHARGESPART VIII
+### PART VIII — ROYALTIES AND CHARGES
 
 ROYALTIES AND CHARGES
 
@@ -2053,7 +2057,7 @@ in any other case, rent shall be paid annually in an amount equal to five per ce
 
 There shall be payable to the Republic by the holder of an artisan's mining right such charge as may be prescribed, or as may be calculated in the manner prescribed, by the Minister by statutory instrument, and such charge shall be payable on the grant of the right.
 
-### PART IX — ENVIRONMENTAL PROTECTIONPART IX
+### PART IX — ENVIRONMENTAL PROTECTION
 
 ENVIRONMENTAL PROTECTION
 
@@ -2205,7 +2209,7 @@ Provided that, in the case of any particular debtor, the amount of any moneys ex
 
 (As amended by Act No. 8 of 1997)
 
-### PART X — ADMINISTRATIONPART X
+### PART X — ADMINISTRATION
 
 ADMINISTRATION
 
@@ -2385,7 +2389,7 @@ Provided that a disclosure authorised by this paragraph shall be no more specifi
 
 No officer of the Ministry or other public officer shall be liable for anything done or omitted to be done in good faith in the exercise or performance, of purported exercise or performance, of any power or function vested in him by, or in accordance with an appointment made under, this Act.
 
-### PART XI — APPEALSPART XI
+### PART XI — APPEALS
 
 APPEALS
 
@@ -2473,7 +2477,7 @@ Appeals in relation to licences under Part III
 
 Whenever the Minister, the Director or any authorised officer makes a decision against which an appeal lies by virtue of a provision of this Part, the licensee or applicant affected by the decision shall be informed by notice in writing of the decision and of the reasons therefor and any such notice shall inform the person so notified of his rights of appeal.
 
-### PART XII — INVESTMENT INCENTIVESPART XII
+### PART XII — INVESTMENT INCENTIVES
 
 INVESTMENT INCENTIVES
 
@@ -2495,7 +2499,7 @@ Cap. 322
 
 (Repealed by Act No. 1 of 1997)
 
-### PART XIII — MISCELLANEOUSPART XIII
+### PART XIII — MISCELLANEOUS
 
 MISCELLANEOUS
 
@@ -3287,7 +3291,7 @@ THE MINES AND MINERALS (TRADING IN RESERVED MINERALS) REGULATIONS
 
 ARRANGEMENT OF REGULATIONS
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -3299,7 +3303,7 @@ Title
 
 Interpretation
 
-### PART II — TRADING IN RESERVED MINERALSPART II
+### PART II — TRADING IN RESERVED MINERALS
 
 TRADING IN RESERVED MINERALS
 
@@ -3371,7 +3375,7 @@ Statutory Instrument 110 of 1995
 
 Regulations by the Minister
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -3401,7 +3405,7 @@ Interpretation
 
 Cap. 385
 
-### PART II — TRADING IN RESERVED MINERALSPART II
+### PART II — TRADING IN RESERVED MINERALS
 
 TRADING IN RESERVED MINERALS
 
@@ -3891,7 +3895,7 @@ Title
 
 Interpretation
 
-### PART II — ENVIRONMENTAL IMPACT ASSESSMENTPART II
+### PART II — ENVIRONMENTAL IMPACT ASSESSMENT
 
 ENVIRONMENTAL IMPACT ASSESSMENT
 
@@ -3923,7 +3927,7 @@ Audit of environmental impact
 
 Minister's powers to exempt
 
-### PART III — MINE DUMPSPART III
+### PART III — MINE DUMPS
 
 MINE DUMPS
 
@@ -3987,7 +3991,7 @@ Keeping of plans, section, etc. of decommissioned classified dump
 
 Submission of reports for closed dump
 
-### PART IV — AIR QUALITY AND EMISSION STANDARDSPART IV
+### PART IV — AIR QUALITY AND EMISSION STANDARDS
 
 AIR QUALITY AND EMISSION STANDARDS
 
@@ -4015,7 +4019,7 @@ Removal of toxic substances or dust
 
 Determination of air quality in surface plants
 
-### PART V — WATER STANDARDSPART V
+### PART V — WATER STANDARDS
 
 WATER STANDARDS
 
@@ -4151,7 +4155,7 @@ Repairs to vessel
 
 Ionisation and radiation
 
-### PART VII — INSPECTIONPART VII
+### PART VII — INSPECTION
 
 INSPECTION
 
@@ -4163,7 +4167,7 @@ Inspection of mining operations
 
 Powers of inspector
 
-### PART VIII — THE ENVIRONMENTAL PROTECTION FUNDPART VIII
+### PART VIII — THE ENVIRONMENTAL PROTECTION FUND
 
 THE ENVIRONMENTAL PROTECTION FUND
 
@@ -4179,7 +4183,7 @@ Fund contributions
 
 Concessions by Director
 
-### PART IX — MISCELLANEOUSPART IX
+### PART IX — MISCELLANEOUS
 
 MISCELLANEOUS
 
@@ -4241,7 +4245,7 @@ SECTION 76-MINES AND MINERALS (ENVIRONMENTAL) REGULATIONS
 
 Regulations by the Minister
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -4289,7 +4293,7 @@ Cap. 326
 
 "workings" means an excavation made for the purpose of searching of winning minerals;
 
-### PART II — ENVIRONMENTAL IMPACT ASSESSMENTPART II
+### PART II — ENVIRONMENTAL IMPACT ASSESSMENT
 
 ENVIRONMENTAL IMPACT ASSESSMENT
 
@@ -4489,7 +4493,7 @@ Minister's powers to exempt
 
 (2) The Minister may delegate his function under sub-regulation (1) to the Director.
 
-### PART III — MINE DUMPSPART III
+### PART III — MINE DUMPS
 
 MINE DUMPS
 
@@ -4995,7 +4999,7 @@ the final audit on the environment conducted by an independent person.
 
 Submission of reports for closed dump
 
-### PART IV — AIR QUALITY AND EMISSION STANDARDSPART IV
+### PART IV — AIR QUALITY AND EMISSION STANDARDS
 
 AIR QUALITY AND EMISSION STANDARDS
 
@@ -5085,7 +5089,7 @@ concentrations of the gases specified in the Second Schedule of the regulations;
 
 concentrations of any other toxic substance which is known or suspected to be present.
 
-### PART V — WATER STANDARDSPART V
+### PART V — WATER STANDARDS
 
 WATER STANDARDS
 
@@ -5613,7 +5617,7 @@ Repairs to vessel
 
 Ionising radiation Cap. 311
 
-### PART VII — INSPECTIONPART VII
+### PART VII — INSPECTION
 
 INSPECTION
 
@@ -5635,7 +5639,7 @@ Power of authorised person
 
 (4) An authorised person shall furnish the Director with such reports and such other information relating to the matters referred to in sub-regulation (2) as the Director may direct.
 
-### PART VIII — THE ENVIRONMENTAL PROTECTION FUNDPART VIII
+### PART VIII — THE ENVIRONMENTAL PROTECTION FUND
 
 THE ENVIRONMENTAL PROTECTION FUND
 
@@ -5675,7 +5679,7 @@ any inspection or investigation that the Director may consider necessary for env
 
 Concessions by Director
 
-### PART IX — MISCELLANEOUSPART IX
+### PART IX — MISCELLANEOUS
 
 MISCELLANEOUS
 

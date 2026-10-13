@@ -2109,7 +2109,7 @@ Provided that, where it appears expedient, the Commission may at any time during
 
 (8) In this regulation"criminal proceedings" include investigations into malpractices and embezzlement of public funds: "salary" includes any personal allowance, inducement allowance and direct payments made under assistance schemes. (As amended by No. 250 of 1973)
 
-##### Section 33 — Suspension of disciplinary proceedings pending final determination of criminal
+##### Section 33
 
 Where criminal proceedings are instituted against a public officer, no disciplinary proceedings shall be instituted against such public officer upon any ground which is the subject of such criminal proceedings, or, if such disciplinary proceedings have been instituted, they shall be suspended, until the conclusion of such criminal proceedings and the determination of any appeal therefrom.
 
@@ -2301,9 +2301,11 @@ exculpate the accused officer and inform him accordingly in writing.
 
 (6) Except in the case of a severe reprimand or a reprimand, every notice given under sub-regulation (5) shall inform the accused officer of his right to appeal under regulation 42.
 
-##### Section 39A — Procedure after conviction of officers whose basic salary is less than GS 7
+##### Section 39A
 
 If an officer, other than an officer to whom regulation 35 applies, is adjudged guilty in any court of a criminal charge likely to warrant disciplinary proceedings against him, the responsible officer shall forward a copy of the charge and of the judgment (and of the record of the court if available) to the Permanent Secretary (Establishment Division) who will refer them, with his comments, to the Secretary. The Commission shall determine whether the officer be dismissed or subjected to some lesser disciplinary punishment on account of the conviction for the offence of which he has been adjudged guilty, without any of the proceedings prescribed in regulation 37, 38 or 39 being instituted.
+
+Procedure after conviction of officers whose basic salary is less than GS 7
 
 (As amended by S.I. No. 250 of 1973)
 
@@ -3687,7 +3689,7 @@ Reports and records of disciplinary proceedings determined by disciplinary autho
 
 (3) The responsible officer shall make a report to the secretary, from time to time as the Commission may direct, of every case where disciplinary proceedings are determined by him or by the disciplinary authority, and shall submit therewith any report made to him under the foregoing provisions of this regulation, together with the copy of the relevant charge or charges, a copy of the relevant exculpatory statement, if any, and a copy of any notice required to be given under regulation 38 or 39, of the result of such disciplinary proceedings.
 
-##### Section 42 — Appeals against punishment imposed by disciplinary authority or responsible
+##### Section 42
 
 (1) Except in the case of punishment imposed by the Commission, an officer may appeal to the Commission against any punishment other than a severe reprimand or a reprimand imposed on him under these Regulations.
 
@@ -3715,7 +3717,7 @@ submitted to the responsible officer under paragraph (a); be submitted by the re
 
 Appeals against punishment imposed by disciplinary authority or responsible officer
 
-##### Section 43 — Retirement in Public interest
+##### Section 43
 
 The provisions of this Part shall apply to every officer including an officer serving on contract or agreement, whether on a temporary basis or otherwise, and any term or condition in such contract or agreement providing for the termination of the services of such officer shall be construed to be in addition to, and not in derogation of, the provisions of this Part.
 
@@ -3735,7 +3737,7 @@ persons shall be addressed to the secretary unless otherwise provided by these R
 
 Service of documents
 
-##### Section 46 — Production of relevant documents, etc
+##### Section 46
 
 (a)
 
@@ -3753,7 +3755,7 @@ to communicate any information to any officer by reason of such officer having a
 
 it is not possible to effect such delivery or service, or to communicate such information, to such officer personally; it shall be sufficient if such notice, charge or other document, or a letter containing such information, be served upon such officer by post to his last known address.
 
-##### Section 47 — Correspondence
+##### Section 47
 
 Any case not covered by these Regulations shall be reported to the secretary, and the Commission shall determine the procedure to be adopted.
 
@@ -4719,9 +4721,11 @@ Production of relevant documents, etc.
 
 Correspondence
 
-##### Section 48 — Cases not otherwise provided for
+##### Section 48
 
 Any case not covered by these Regulations shall be reported to the secretary and the Commission shall determine the procedure to be adopted.
+
+Cases not otherwise provided for
 
 ## FIRST SCHEDULE
 

@@ -49,7 +49,9 @@ Section
 
 #### Section 8 — Sale of designated commodities
 
-#### Section 9 — Receipt of designated commodity and non designated commodity
+#### Section 9
+
+Receipt of designated commodity and non designated commodity.
 
 ### PART IV — MARKET INFORMATION SYSTEM FOR DESIGNATED COMMODITIES
 
@@ -93,7 +95,9 @@ Section
 
 #### Section 24 — Vesting of assets and transfer of liabilities
 
-#### Section 25 — Registration of property to be transferred
+#### Section 25
+
+Registration of property to be transferred
 
 #### Section 26 — Legal proceedings
 
@@ -1997,13 +2001,13 @@ Shelled ground
 
 Broken shells
 
-#### Section 29 — For the purposes of determining the percentage of kernels, the shells or cortices shall then be removed from the
+#### Section 29
 
 For the purposes of determining the percentage of kernels, the shells or cortices shall then be removed from the kernels of the groundnuts in the representative sample and shall be weighed and shall then be discarded.
 
 Kernels
 
-#### Section 30 — From the kernels obtained from the representative sample referred to in paragraph 29, a working sample weighing
+#### Section 30
 
 From the kernels obtained from the representative sample referred to in paragraph 29, a working sample weighing not less than 200 grammes shall then be obtained in the manner described in paragraph 4, and the precise weight of the working sample shall be determined.
 
@@ -2013,7 +2017,9 @@ Workin sample
 
 Split grain shall then be removed from the working sample and weighed.
 
-#### Section 32 — Insect-damaged grain shall then be removed from the working sample and weighed
+#### Section 32
+
+Insect-damaged grain shall then be removed from the working sample and weighed.
 
 Insectgrain
 
@@ -2023,7 +2029,7 @@ grain
 
 Defective grain shall then be removed from the working sample and weighed.
 
-#### Section 34 — Wherever detailed examination is necessary, at least two replicate tests shall be made and the average taken, the
+#### Section 34
 
 Wherever detailed examination is necessary, at least two replicate tests shall be made and the average taken, the limit of variation in respect of the percentages of defective grain when comparing and averaging duplicate tests being calculated in accordance with the following table: Limit of Percentage of Defective Grain Variation Up to 5 per cent
 
@@ -2087,33 +2093,45 @@ Replica tests
 
 CANADIAN WONDER BEANS, HARICOT BEANS, MIXED BEANS, SUGAR BEANS, VELVET BEANS, COWPEAS, SOYA BEANS, SUNFLOWER SEED AND SUNNHEMP
 
-#### Section 35 — A representative sample weighing not less than 2 lb. shall be taken in the manner described in paragraph 3
+#### Section 35
+
+A representative sample weighing not less than 2 lb. shall be taken in the manner described in paragraph 3.
 
 Repres sample
 
-#### Section 36 — From the representative sample so obtained, a working sample weighing not less than 200 grammes shall then be
+#### Section 36
 
 From the representative sample so obtained, a working sample weighing not less than 200 grammes shall then be obtained in the manner described in paragraph 4, and the precise weight of the working sample shall be determined.
 
 Workin sample
 
-#### Section 37 — Extraneous matter as defined in regulation 4 shall then be removed from the working sample and weighed
+#### Section 37
+
+Extraneous matter as defined in regulation 4 shall then be removed from the working sample and weighed.
 
 Extrane matter
 
-#### Section 38 — Damaged grain shall then be removed from the working sample and weighed
+#### Section 38
+
+Damaged grain shall then be removed from the working sample and weighed.
 
 Damag grain
 
-#### Section 39 — Dirty grain shall then be removed from the working sample and weighed
+#### Section 39
+
+Dirty grain shall then be removed from the working sample and weighed.
 
 Dirty gr
 
-#### Section 40 — Immature grain shall then be removed from the working sample and weighed
+#### Section 40
+
+Immature grain shall then be removed from the working sample and weighed.
 
 Immatu grain
 
-#### Section 41 — Other coloured grain shall then be removed from the working sample and weighed
+#### Section 41
+
+Other coloured grain shall then be removed from the working sample and weighed.
 
 Other coloure grain
 
@@ -2121,7 +2139,7 @@ Other coloure grain
 
 Split grain shall then be removed from the working sample and weighed.
 
-#### Section 43 — Wherever detailed examination is necessary, at least two replicate tests shall be made and the average taken, the
+#### Section 43
 
 Wherever detailed examination is necessary, at least two replicate tests shall be made and the average taken, the limit of variation in respect of the percentage of defective grain when comparing and averaging duplicate tests being calculated in accordance with the following table: Limit of Percentage of Defective Grain Variation Up to 5 per cent
 
@@ -2173,33 +2191,43 @@ Replica tests
 
 ### PART VI — SORGHUM
 
-#### Section 44 — A representative sample weighing not less than 1 kg shall be taken in the manner described in paragraph 3
+#### Section 44
+
+A representative sample weighing not less than 1 kg shall be taken in the manner described in paragraph 3.
 
 Repres sample
 
-#### Section 45 — From the representative sample so obtained, a working sample weighing not less than 50 grammes shall be
+#### Section 45
 
 From the representative sample so obtained, a working sample weighing not less than 50 grammes shall be obtained in the manner described in paragraph 4, and the precise weight of the working sample shall be determined.
 
 Workin sample
 
-#### Section 46 — Extraneous matter as defined in regulation 4 (3) shall then be removed from the working sample and weighed
+#### Section 46
+
+Extraneous matter as defined in regulation 4 (3) shall then be removed from the working sample and weighed.
 
 Extrane matter
 
-#### Section 47 — Insect-damaged sorghum shall then be removed from the working sample and weighed
+#### Section 47
+
+Insect-damaged sorghum shall then be removed from the working sample and weighed.
 
 Insectsorghu
 
-#### Section 48 — Other varieties shall then be removed from the working sample and weighed
+#### Section 48
+
+Other varieties shall then be removed from the working sample and weighed.
 
 Other varietie
 
-#### Section 49 — Defective sorghum as defined in regulation 3 shall then be removed and weighed
+#### Section 49
+
+Defective sorghum as defined in regulation 3 shall then be removed and weighed.
 
 Defecti sorghu
 
-#### Section 50 — Wherever detailed examination is necessary, at least two replicate tests shall be made and the average taken, the
+#### Section 50
 
 Wherever detailed examination is necessary, at least two replicate tests shall be made and the average taken, the limit of variation in respect of the percentages of defective sorghum when comparing and averaging duplicate tests being calculated in accordance with the following table: Limit of Percentage of Defective Sorghum Variation Up to 5 per cent
 

@@ -61,9 +61,9 @@ Acts No. 29 of 1966 13 of 1994
 
 This Act may be cited as the Employment (Special Provisions) Act.
 
-### Section 2 — In this Act, unless the context otherwise requires-
+### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "employee" means any person who has entered into or works under a contract of service, whether the contract is express or implied, is oral or in writing, and whether the remuneration is calculated by time or by work done, or is in cash or in kind.
 
@@ -241,7 +241,7 @@ Prohibition of variation of conditions of service
 
 Decision of proper officer to be made promptly
 
-### Section 7 — Establishment and Constitution of Employment Review tribunal
+### Section 7
 
 (1) For the purpose of these Regulations, there shall be established a tribunal to be known as "the Employment Review Tribunal".
 
@@ -261,7 +261,7 @@ such number of alternate members of the Tribunal as he thinks fit, and an altern
 
 an alternate Chairman from among the alternate members and the alternate Chairman may perform all the functions of the Chairman, when the latter is unable to do so for any reason.
 
-### Section 8 — Meetings and Proceedings of tribunal
+### Section 8
 
 (1) Meetings of the Tribunal shall be convened by the Secretary, acting in accordance with the directions of the Chairman, and may be adjourned from time to time and from place to place.
 
@@ -277,7 +277,7 @@ Meetings and proceedings of Tribunal
 
 (6) Subject to the provisions of these Regulations, the Tribunal may regulate its meetings and procedure in any manner it considers fit.
 
-### Section 9 — Application for Review
+### Section 9
 
 (1) Where any application for the approval of any matter under these Regulations is refused by the proper officer, the applicant may, not later than fourteen days after his being notified of the refusal, apply to the Tribunal for a review of the decision of the proper officer.
 
@@ -287,7 +287,7 @@ Application for review
 
 (3) On receiving an application for review, the Secretary shall inform the applicant and the employee concerned of the place, date and time at which the application will be heard by the Tribunal.
 
-### Section 10 — Hearing and determination of Review
+### Section 10
 
 (1) The Tribunal shall consider every application for review made under regulation 9 and may, after due inquiry-
 
@@ -311,6 +311,8 @@ Provided that, except with the leave of the Tribunal, no person shall be entitle
 
 (4) The decision of the Tribunal on any application reviewed under these regulations shall be binding and final.
 
-### Section 11 — Penalty
+### Section 11
 
 A person guilty of any offence under any provision of these Regulations is liable on conviction, to a fine not exceeding ninety thousand penalty units. (As amended by Act No. 13 of 1994)
+
+Penalty

@@ -13,7 +13,7 @@ import re
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from zm_text import pdf_text, clean_pages, structure, write_md, slug, text_quality, pdf_ok  # noqa: E402
+from zm_text import _sec_runs, pdf_text, clean_pages, structure, write_md, slug, text_quality, pdf_ok  # noqa: E402
 
 RAW = os.environ.get("ZM_RAW", os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", "_raw", "zm"))
 TODAY = datetime.date.today().isoformat()
@@ -26,9 +26,12 @@ def clean_title(t):
 
 
 def toc_titles(lines):
-    """Section titles from the "ARRANGEMENT OF SECTIONS": "12." + next line, or "12. Title" (first occurrence)."""
+    """Section titles from the "ARRANGEMENT OF SECTIONS": "12." + next line, or "12. Title" (first occurrence),
+    looking only at the lines before the body of the Act (the run of section numbers chosen by _sec_runs)."""
     titles = {}
-    for i, x in enumerate(lines):
+    secs = _sec_runs(lines)
+    end = min(secs) if secs else 0
+    for i, x in enumerate(lines[:end]):
         m = re.match(r"^(\d{1,3}[A-Z]?)\.\s*(.*)$", x)
         if not m:
             continue
@@ -140,6 +143,7 @@ def main(repo):
         lines = [x for x in clean_pages(pages) if "Copyright Ministry of Legal Affairs" not in x and x != "The Laws of Zambia"]
         body = structure(lines, "en")
         body = add_titles(body, toc_titles(lines))
+        body = [re.sub(r"(?<=[A-Z])(PART|CHAPTER) [IVXLC]+$", "", x) if x.startswith("#") else x for x in body]
         write_md(path, meta, title, body)
         n += 1
     print("written", n, "skipped", skipped, "not downloaded yet", missing)

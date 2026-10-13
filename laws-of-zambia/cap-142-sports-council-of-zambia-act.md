@@ -203,7 +203,7 @@ Act No. 29 of 1988 Act No. 13 of 1994
 
 [30th December, 1988]
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -211,9 +211,9 @@ PRELIMINARY
 
 This Act may be cited as the Sports Council of Zambia Act.
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "associate body" means an associate body of the Council, referred to in section eleven;
 
@@ -235,7 +235,7 @@ Interpretation
 
 "Vice-Chairman" means the person elected Vice-Chairman of the Council, under section five.
 
-### PART II — SPORTS COUNCIL OF ZAMBIAPART II
+### PART II — SPORTS COUNCIL OF ZAMBIA
 
 SPORTS COUNCIL OF ZAMBIA
 
@@ -495,7 +495,7 @@ Proceedings of Council
 
 No action or other proceedings shall lie or be instituted against any member, member of a committee of the Council or of the Board or member of the staff of the Council for or in respect of any act or thing done or omitted do be done in good faith in the exercise or purported exercise of his duties under this Act.
 
-### PART III — ADMINISTRATIONPART III
+### PART III — ADMINISTRATION
 
 ADMINISTRATION
 
@@ -599,7 +599,7 @@ Prohibition of publication or disclosure of information to unauthorised persons
 
 (3) If any person having information which to his knowledge has been published in contravention of subsection (1) unlawfully publishes or communicates any such information to any other person, he shall be guilty of an offence and shall be liable, upon conviction, to a fine not exceeding two thousand five hundred penalty units or to imprisonment for a term not exceeding three years, or to both. (As amended by Act No. 13 of 1994)
 
-### PART VI — REGISTRATION OF NATIONAL SPORTS ASSOCIATIONSPART VI
+### PART VI — REGISTRATION OF NATIONAL SPORTS ASSOCIATIONS
 
 REGISTRATION OF NATIONAL SPORTS ASSOCIATIONS
 
@@ -705,7 +705,7 @@ Where an application for registration as a national sports association is refuse
 
 (3) On any appeal made under subsection (1), the Minister may confirm, set aside or vary the decision of the Director, and the decision of the Minister shall be final.
 
-### PART V — FINANCEPART V
+### PART V — FINANCE
 
 FINANCE
 
@@ -795,7 +795,7 @@ such other information as the Minister may require.
 
 (3) The Minister shall, not later than seven days after the first sitting of the National Assembly next after the receipt of the report referred to in subsection (1), lay it before the National Assembly.
 
-### PART VI — MISCELLANEOUSPART VI
+### PART VI — MISCELLANEOUS
 
 MISCELLANEOUS
 

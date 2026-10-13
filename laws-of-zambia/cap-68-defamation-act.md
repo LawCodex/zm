@@ -113,9 +113,9 @@ DEFAMATION An Act to consolidate and amend the law relating to libel, other than
 
 This Act may be cited as the Defamation Act.
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "authenticated report" means a report, paper, votes or proceedings published by the order or under the authority of the President, the Cabinet or the National Assembly;
 

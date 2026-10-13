@@ -143,9 +143,9 @@ An Act to establish the Zambia Institute of Advanced Legal Education; to constit
 
 This Act may be cited as the Zambia Institute of Advanced Legal Education Act.
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "Chairperson" means the person appointed under section five;
 

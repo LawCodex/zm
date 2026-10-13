@@ -315,7 +315,7 @@ Act No. 46 of 1996 Statutory Instrument 33 of 1997
 
 [12th December, 1996
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -391,7 +391,7 @@ Act No. 14 of 1980
 
 "Vice-Chairperson" means the person appointed as Vice-Chairperson under section seven.
 
-### PART II — THE ANTI-CORRUPTION COMMISSIONPART II
+### PART II — THE ANTI-CORRUPTION COMMISSION
 
 THE ANTI-CORRUPTION COMMISSION
 
@@ -581,7 +581,7 @@ Prohibition of disclosure of information to unauthorised persons
 
 (3) For the avoidance of any doubts, nothing in this section shall protect any Commissioner, for anything done outside the functions of the person's office.
 
-### PART III — THE DIRECTORATE OF THE COMMISSIONPART III
+### PART III — THE DIRECTORATE OF THE COMMISSION
 
 THE DIRECTORATE OF THE COMMISSION
 
@@ -757,7 +757,9 @@ Prohibition of disclosure or publication of information to unauthorised persons 
 
 Section fifteen shall apply with necessary modifications to the Director-General, Deputy Director-General and other staff of the Commission.
 
-#### Section 27 — Any person who-
+#### Section 27 — Obstructing officers of Commission and false reports to Commission
+
+Any person who-
 
 (a)
 
@@ -785,7 +787,9 @@ Obstructing officers of Commission and false reports to Commission
 
 shall be guilty of an offence and shall be liable, upon conviction, to a fine not exceeding ten thousand penalty units, or to imprisonment for a term not exceeding ten years or to both.
 
-#### Section 28 — Any person who pretends that-
+#### Section 28 — Impersonation and procurement of Commission's officers
+
+Any person who pretends that-
 
 (a)
 
@@ -799,7 +803,7 @@ shall be guilty of an offence and shall be liable, upon conviction, to imprisonm
 
 Impersonation and procurement of Commission's officer
 
-### PART IV — OFFENCES, PENALTIES AND RECOVERY OF GRATIFICATIONPART IV
+### PART IV — OFFENCES, PENALTIES AND RECOVERY OF GRATIFICATION
 
 OFFENCES, PENALTIES AND RECOVERY OF GRATIFICATION
 
@@ -1027,7 +1031,7 @@ Officer or other specialist valuer with respect to the value of any gratificatio
 
 Certificate of Government Valuation Officer or other specialist valuer
 
-### PART V — POWERS OF THE DIRECTOR OF PUBLIC PROSECUTIONSPART V
+### PART V — POWERS OF THE DIRECTOR OF PUBLIC PROSECUTIONS
 
 POWERS OF THE DIRECTOR OF PUBLIC PROSECUTIONS
 
@@ -1053,7 +1057,7 @@ If, in the course of any investigation into or proceeding relating to any offenc
 
 (3) A right of appeal against an order made under this section shall lie to a higher court.
 
-### PART VI — EVIDENCE, PRESUMPTIONS AND OTHER MATTERSPART VI
+### PART VI — EVIDENCE, PRESUMPTIONS AND OTHER MATTERS
 
 EVIDENCE, PRESUMPTIONS AND OTHER MATTERS
 
@@ -1147,7 +1151,7 @@ Liability of public officers, citizens of Zambia, etc for offences committed out
 
 (2) Any proceedings against any person under this section which would be a bar to subsequent proceedings against such person for the same offence, if such offence had been committed in Zambia, shall be a bar to further proceedings against him, under any written law for the time being in force relating to the extradition of persons, in respect of the same offence outside Zambia.
 
-### PART VII — MISCELLANEOUSPART VII
+### PART VII — MISCELLANEOUS
 
 MISCELLANEOUS
 

@@ -187,7 +187,7 @@ THE ZAMBIA SECURITY INTELLIGENCE SERVICE REGULATIONS
 
 ARRANGEMENT OF REGULATIONS
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -241,7 +241,9 @@ Appointments to the Service
 
 #### Section 12 — Probation
 
-#### Section 13 — Persons appointed to the Service to be given a letter
+#### Section 13
+
+Persons appointed to the Service to be given a letter
 
 #### Section 14 — Director-General to determine suitability of candidate
 
@@ -263,7 +265,7 @@ Appointments to the Service
 
 #### Section 23 — Qualification for retirement
 
-### PART III — DISCIPLINEPART III
+### PART III — DISCIPLINE
 
 DISCIPLINE
 
@@ -281,7 +283,9 @@ proceedings.
 
 #### Section 29 — Offences against discipline
 
-#### Section 30 — Punishments which may be imposed by an Officer in Charge
+#### Section 30
+
+Punishments which may be imposed by an Officer in Charge
 
 #### Section 31 — Report and review of disciplinary proceedings
 
@@ -295,7 +299,7 @@ proceedings.
 
 #### Section 36 — Service of documents
 
-### PART IV — MISCELLANEOUSPART IV
+### PART IV — MISCELLANEOUS
 
 MISCELLANEOUS
 
@@ -305,7 +309,9 @@ MISCELLANEOUS
 
 #### Section 39 — Annual Reports
 
-#### Section 40 — Responsibility for stores etc
+#### Section 40
+
+Responsibility for stores etc.
 
 #### Section 41 — Every officer to perform all lawful duties and obey all lawful instructions
 
@@ -313,7 +319,7 @@ MISCELLANEOUS
 
 #### Section 43 — Declarations on joining the Service
 
-#### Section 44 — Provisions of the Civil Service (Local Conditions) Pensions Act to apply to
+#### Section 44
 
 Provisions of the Civil Service (Local Conditions) Pensions Act to apply to officers in the Service
 
@@ -323,7 +329,7 @@ Statutory Instrument 94 of 1988
 
 Regulations by the President
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -523,7 +529,7 @@ Resignation by an officer on probation
 
 Qualification for retirement. Cap. 260
 
-### PART III — DISCIPLINEPART III
+### PART III — DISCIPLINE
 
 DISCIPLINE
 
@@ -989,7 +995,7 @@ Service of documents
 
 it shall be sufficient if the notice, charge or other documents, or a letter containing that information, be served upon the officer by post to his last known address.
 
-### PART IV — MISCELLANEOUSPART IV
+### PART IV — MISCELLANEOUS
 
 MISCELLANEOUS
 
@@ -1037,7 +1043,7 @@ Declarations on joining the Service
 
 (1) answer truthfully all questions put to him as to his previous service in any military, naval, airforce, police force, security or intelligence service or similar force or service, and as to whether at any time he has been convicted of or charged with any criminal offence.
 
-#### Section 45 — Notwithstanding anything to the contrary in these Regulations, the provisions of
+#### Section 45
 
 Notwithstanding anything to the contrary in these Regulations, the provisions of the Civil Service (Local Conditions) Pensions Act shall apply to officers in the Service and, reference to the term "Civil Servant" contained therein shall, unless the context otherwise requires, refer to "Officers" of the Zambia Security Intelligence Service.
 

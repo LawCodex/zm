@@ -145,9 +145,9 @@ PART I PRELIMINARY
 
 This Act may be cited as the Law Association of Zambia Act.
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "the Association"means the Law Association of Zambia established by section three;
 
@@ -1097,23 +1097,29 @@ unmarked or invalid for uncertainty.
 
 Questions arising on decision of Returning Officer
 
-#### Section 25 — Recounting of votes
+#### Section 25
 
 (1) Where a candidate or his election agent disputes the results of the votes counted, the candidate, or his election agent may, if present when the counting or any recounting of the votes is completed, require the Returning Officer to have the votes recounted or again recounted.
+
+Recounting of votes
 
 (2) The Returning Officer, if not satisfied with the results of votes counted may, on his own initiative, have the votes recounted.
 
 (3) The Returning Officer may refuse the request under sub-rule (1) if in his opinion, it is unreasonable to do so.
 
-#### Section 26 — Equality of votes
+#### Section 26
 
 The poll shall be repeated if there is an equality of votes between two or more leading candidates.
 
-#### Section 27 — Results of elections
+Equality of votes
+
+#### Section 27
 
 The results of the poll shall be announced at the Annual General Meeting at which the Poll is conducted as soon as the votes are counted.
 
-#### Section 28 — Control of persons during Polling
+Results of elections
+
+#### Section 28
 
 The Presiding Officer shall keep order during voting and may require persons who are not eligible to vote to leave the Annual General Meeting during voting.
 
@@ -1127,7 +1133,7 @@ Officer shall seal separate marked packets of ballot papers counted in respect o
 
 Ballot papers to be sealed in packets after counting
 
-#### Section 30 — Custody and destruction of election matters
+#### Section 30
 
 (1) The ballot papers sealed in accordance with Rule 29 and all other election material shall be delivered to the secretariat of the Association and the Committee shall ensure that the ballot papers and all election materials are retained for a period of thirty days after the day on which the results of an election are declared, and shall cause them to be destroyed after thirty days.
 
@@ -1137,7 +1143,7 @@ Custody and destruction of election matter
 
 ### PART VI — MISCELLANEOUS
 
-#### Section 31 — Election Petitions
+#### Section 31
 
 (1) Any election of a candidate or any decision made under these Rules shall be questioned by an election petition filed under these Rules.
 
@@ -1149,13 +1155,17 @@ Election petition
 
 Cap. 13
 
-#### Section 32 — Amendment of Rules
+#### Section 32
 
 These Rules may be amended by a resolution of the Council, but no such amendment shall come into force until the Rules are approved by a resolution of the Association at a general meeting.
 
-#### Section 33 — Indemnity
+Amendment of Rules
+
+#### Section 33
 
 Members of the Committee, Returning Officers and Election Officers shall not be personally liable for anything done or omitted to be done in the performance of their duties under these Rules.
+
+Indemnity
 
 LAW ASSOCIATION OF ZAMBIA (ELECTORAL) RULES (Rule 10) NOMINATION PAPER
 

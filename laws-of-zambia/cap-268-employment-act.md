@@ -427,7 +427,9 @@ members of the Zambia Police Force;
 
 members of the Zambia Prison Service. (As amended by Acts No. 28 of 1971 and No. 15 of 1997)
 
-#### Section 3 — In this Act, unless the context otherwise requires-
+#### Section 3 — Interpretation
+
+In this Act, unless the context otherwise requires-
 
 "advance" includes any payment in money to any person upon condition that he repays or makes good the same by his labour or out of the wages to be received by him under a contract of service;
 

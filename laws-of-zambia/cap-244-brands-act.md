@@ -95,9 +95,9 @@ BRANDS An Act to provide for the registration of brands; to provide for a Regist
 
 This Act may be cited as the Brands Act.
 
-### Section 2 — In this Act, unless the context otherwise requires-
+### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "brand" means the impression of any letter, sign or character branded upon any horse or cattle, and the impression of any letter, sign or mark branded or tattooed on the body of any sheep or goat or made upon the wool of any sheep or goat by pitch, paint, tar or other substance;
 
@@ -479,17 +479,23 @@ Cancellation of brand
 
 Re-allotment of brand
 
-### Section 16 — Annual return of brands registered
+### Section 16
 
 The Registrar shall, at the end of each year or as soon thereafter as possible, transmit for publication in the Gazette a statement, as set out in the Third Schedule, of all brands registered under the Act during the previous twelve months.
 
-### Section 17 — Public pound
+Annual return of brands registered
+
+### Section 17
 
 The Registrar shall allot a brand to every public pound already or hereafter to be established, and shall register the same.
 
-### Section 18 — Branding by pound-masters
+Public pound
+
+### Section 18
 
 (1) A brand allotted to a public pound shall be in the form set out in regulation 5, except that the set of letters shall comprise the letter O horizontally followed by the letter (or the first of the letters) designating the Brand District in which the pound is located.
+
+Branding by pound-masters
 
 (2) On the sale of any stock which was impounded, the poundmaster shall brand the same with the brand allotted to such pound, in accordance with these Regulations so as to show clearly that the said brand is the last brand imprinted on such stock.
 

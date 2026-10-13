@@ -89,9 +89,9 @@ CHAPTER 162 CLUBS' REGISTRATION An Act to provide for the registration and contr
 
 This Act may be cited as the Clubs' Registration Act.
 
-### Section 2 — In this Act, unless the context otherwise requires-
+### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "club" means any community or society consisting of not less than twenty-five members who assemble or meet together in pursuit of a common object;
 

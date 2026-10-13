@@ -55,9 +55,9 @@ An Act to facilitate the incorporation under the laws of Bermuda of a company hi
 
 This Act may be cited as the Mines Acquisition (Special Provisions) (No. 2) Act.
 
-### Section 2 — In this Act, unless the context otherwise requires-
+### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "the Company" means Zambian Anglo American Limited, a company incorporated at the commencement of this Act under the Companies Act;
 

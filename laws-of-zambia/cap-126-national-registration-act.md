@@ -91,9 +91,9 @@ NATIONAL REGISTRATION An Act to provide for the registration of persons; and to 
 
 This Act may be cited as the National Registration Act.
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "Chief Registrar" means the person appointed as such in pursuance of the provisions of section four;
 
@@ -555,23 +555,31 @@ Surrender of national registration card
 
 Surrender of national registration card on leaving the country
 
-#### Section 15 — Death of registered person
+#### Section 15
 
 Within thirty days of the death of a registered person, his national registration card shall be delivered by the person in possession thereof to a registrar who shall forward it to the Chief Registrar.
 
-#### Section 16 — Alteration to register
+Death of registered person
+
+#### Section 16
 
 (1) No person may insert, delete, alter or cause to be altered any material particular in the register relating to any registered person unless authorised in writing to do so by the Chief Registrar.
 
+Alteration to register
+
 (2) Any person duly authorised by the Chief Registrar to insert, delete or alter any particular in the register shall notify the Chief Registrar in writing when such insertion, deletion or alteration has been completed.
 
-#### Section 17 — Prescribed fees
+#### Section 17
 
 The fees specified in the Third Schedule shall be charged in respect of the matters set out therein and shall be payable to the Chief Registrar.
 
-#### Section 18 — Extra particulars of aliens to be registered
+Prescribed fees
+
+#### Section 18
 
 The residential and postal addresses of every person to whom the Act applies, other than persons described in sub-regulation (1) of regulation 3, are prescribed in accordance with the provisions of section five of the Act for inclusion in the register maintained by the Chief Registrar under that section.
+
+Extra particulars of aliens to be registered
 
 (No. 346 of 1966)
 

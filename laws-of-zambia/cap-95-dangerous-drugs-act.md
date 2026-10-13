@@ -189,7 +189,9 @@ prescribe measures to be taken for the eradication of plants, to which regulatio
 
 Power to control production, sale, etc., of drugs to which Part II applies
 
-#### Section 7 — If a person-
+#### Section 7 — Penalisation of permitting premises to be used for smoking cannabis, etc
+
+If a person-
 
 (a)
 
@@ -199,8 +201,6 @@ being the occupier of any premises, permits those premises to be used for the pu
 
 is concerned in the management of any premises used for any such purpose as aforesaid;
 
-Penalisation of permitting premises to be used for smoking cannabis, etc.
-
 he shall be guilty of an offence against this Act.
 
 #### Section 8 — A person who, except under a licence granted by the Minister, knowingly
@@ -209,7 +209,7 @@ cultivates any plant of the genus cannabis shall be guilty of an offence against
 
 Penalisation of intentional cultivation of cannabis plant
 
-### PART III — PREPARED OPIUMPART III
+### PART III — PREPARED OPIUM
 
 PREPARED OPIUM
 
@@ -217,7 +217,9 @@ PREPARED OPIUM
 
 It shall not be lawful for a person to import into, or to export from, Zambia, any prepared opium.
 
-#### Section 10 — If a person-
+#### Section 10 — Penalisation of manufacture, sale, use, etc., of prepared opium
+
+If a person-
 
 (a)
 
@@ -321,7 +323,7 @@ it appears to the Minister probable that there will be taken such a decision as 
 
 the Minister may, by statutory order, make the requisite modifications in the said Schedule.
 
-### PART V — GENERALPART V
+### PART V — GENERAL
 
 GENERAL
 
@@ -433,7 +435,7 @@ THE DANGEROUS DRUGS REGULATIONS
 
 ARRANGEMENT OF REGULATIONS
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -545,7 +547,7 @@ Production of order in writing to supplier
 
 Keeping of register
 
-### PART IV — GENERALPART IV
+### PART IV — GENERAL
 
 GENERAL
 
@@ -621,7 +623,7 @@ SECTION 6-DANGEROUS DRUGS REGULATIONS Regulations by the Minister
 
 Statutory Instrument 128 of 1971 50 of 1976 65 of 1993 Act No. 13 of 1994
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -1193,7 +1195,7 @@ Treatment of drug addicts
 
 (5) No person generally authorised, licensed, or authorised as a member of a group to have in his possession a drug or preparation, shall use that drug or preparation by way of self-administration, otherwise than in accordance with these Regulations.
 
-#### Section 23 — Markings of packets and bottles
+#### Section 23
 
 (1) Subject to the provisions of this regulation, no person shall-
 
@@ -1215,7 +1217,7 @@ Markings of packages and bottles
 
 (2) Nothing in this regulation shall apply in a case where a drug or preparation is lawfully supplied in accordance with this Part, by, or on a prescription lawfully given by, a medical practitioner.
 
-#### Section 24 — Production of order in writing to supplier
+#### Section 24
 
 A person generally authorised, licensed, or authorised as a member of a group, shall not procure a drug or preparation unless he produces to the supplier an order in writing signed and dated by him, in which it is stated(a)
 
@@ -1229,7 +1231,7 @@ the name and quantity of the drug or preparation required; and
 
 the name and address and profession or qualification of the person signing the order.
 
-#### Section 25 — Keeping of register
+#### Section 25
 
 (1) Every person generally authorised, licensed or authorised as a member of a group, to supply drugs or preparations, other than a preparation for the time being specified in Part I of the Schedule to the Act, except a nurse who is generally so authorised by virtue of regulation 14 (1) (e), shall comply with the following provisions, that is to say-
 
@@ -1238,6 +1240,8 @@ the name and address and profession or qualification of the person signing the o
 he shall, in accordance with the provisions of this regulation and of regulation 32, keep a register and enter therein, in chronological sequence in the form specified in the Second Schedule to these Regulations, true particulars with respect to every quantity of any drug or preparation obtained by him, and with respect to every quantity of any drug or preparation supplied by him, whether to persons within or outside Zambia;
 
 Production of order in writing to supplier
+
+Keeping of register
 
 (b)
 
@@ -1287,21 +1291,27 @@ if he enters the amount which he has obtained or supplied, as the case may be, o
 
 (8) Notwithstanding the provisions of paragraph (a) of sub-regulation (1), an authorised seller of poisons may use drugs or preparations for the dispensing of medicines containing such amount of drugs and preparations as is sufficient to make the medicine a drug to which Part III of the Act applies, but only if the transaction and the date of the transaction are recorded in his register.
 
-### PART IV — GENERALPART IV
+### PART IV — GENERAL
 
 GENERAL
 
-#### Section 26 — Definition of "drug"
+#### Section 26
 
 In this Part of these Regulations, the expression "drug" means a drug to which Part II of these Regulations or a substance to which Part III of these Regulations applies.
 
-#### Section 27 — Definition of "possession"
+Definition of "drug"
+
+#### Section 27
 
 For the purposes of these Regulations, a person shall be deemed to be in possession of a drug, if it is in his actual custody, or is held, by some other person subject to his control, for him or on his behalf.
 
-#### Section 28 — Supply otherwise than on prescription
+Definition of "possession"
+
+#### Section 28
 
 (1) Where a drug other than a substance specified in Part I of the Schedule to the Act, is to be lawfully supplied to any person (hereinafter in this regulation referred to as "the recipient"), otherwise than by, or on a prescription given by, a medical practitioner, the person supplying the drug (hereinafter in this regulation referred to as "the supplier") shall not deliver it to the person who purports to be sent by, or on behalf of the recipient, unless that person either-
+
+Supply otherwise than on prescription
 
 (a)
 
@@ -1313,7 +1323,7 @@ produces to the supplier a statement in writing signed by the recipient to the e
 
 (2) A person to whom a drug is lawfully delivered in the circumstances mentioned in sub-regulation (1), shall be deemed to be a person authorised to be in possession thereof, but for such period only, as in the circumstances of the case, is reasonably sufficient to enable delivery to the recipient to be effected.
 
-#### Section 29 — Withdrawal of authority
+#### Section 29
 
 (1) Where any person generally authorised
 
@@ -1339,21 +1349,25 @@ the Minister may, if he is of the opinion that that person cannot properly be al
 
 Withdrawal of authority
 
-#### Section 30 — Consignment between places outside Zambia
+#### Section 30
 
 (1) If any drugs permitted under the law of any country outside Zambia to be exported therefrom to any destination outside Zambia, are brought into Zambia, no person shall cause or procure those drugs to be diverted to any other destination, unless he is licensed under this regulation by the Permanent Secretary and otherwise than in accordance with the terms and conditions of his licence.
 
+Consignment between places outside Zambia
+
 (2) For the purposes of this regulation the destination to which any drugs are permitted to be exported shall be taken to be the destination stated in the permission for the export thereof from the country of export.
 
-#### Section 31 — Revocation or amendment of licence or group authority
+#### Section 31
 
 The Minister may revoke or amend, at any time, a licence or group authority given under these Regulations.
 
 Revocation or amendment of licence of group authority
 
-#### Section 32 — Requirements as to registers
+#### Section 32
 
 The following requirements shall be complied with by any person required to keep a register under, as the case may be, regulation 9 or 25, that is to say-
+
+Requirements as to registers
 
 (a)
 
@@ -1399,13 +1413,15 @@ a separate register shall be kept in respect of each set of premises at which th
 
 every such register shall be kept at the premises to which it relates, so as to be at all times available for inspection.
 
-#### Section 33 — Preservation of documents
+#### Section 33
 
 (1) All registers, records, books, prescriptions, orders in writing, and other documents which are kept, issued, or made in pursuance of the requirements, or for the purposes of these Regulations, shall be preserved, in the case of a register, book, or other like record for a period of two years from the date on which the last entry therein is made, and in the case of any other document, for a period of two years from the date on which it is issued or made.
 
+Preservation of documents
+
 (2) In the case of any document kept in pursuance of sub-regulations (6) and (7) of regulation 25, the keeping of a copy thereof made at any time during the said period of two years, shall be treated for the purposes of sub-regulation (1) as if it were the keeping of the original document.
 
-#### Section 34 — Exemption of police officers and carriers
+#### Section 34
 
 Nothing in these Regulations as respects the possession of a drug shall apply
 
@@ -1419,13 +1435,17 @@ a person carrying on the business of a carrier, or to any servant of such a pers
 
 Exception of police officers and carriers
 
-#### Section 35 — Exemption of certain classes of agents
+#### Section 35
 
 For the purposes of these Regulations, a person shall not be treated as procuring or offering to procure a drug for any person by reason only that he, in the course of his business as agent for another, offers for transfer, or acts in the transfer of, a business and stock-in-trade therewith which comprises a drug.
 
-#### Section 36 — Requirements in respect of cessation of practice, etc
+Exemption of certain classes of agents
+
+#### Section 36
 
 (1) Any person lawfully in possession of drugs shall, before ceasing to practice or exercise his profession, function, or employment, at any place-
+
+Requirements in respect of cessation of practice, etc.
 
 (a)
 
@@ -1457,7 +1477,7 @@ immediately after disposing of the drugs in accordance with those arrangements o
 
 (2) Where the arrangements referred to in paragraph (b) of sub-regulation (1) have not been made or are not to the satisfaction of the Permanent Secretary, the drugs shall be disposed of in such manner as the Permanent Secretary shall order.
 
-#### Section 37 — Construction of licence or authority
+#### Section 37
 
 For the purposes of these Regulations, but subject in each case to the express terms of the regulation by which he is generally authorised or, as the case may be, to any limitation attached to his licence, or group authority(a)
 
@@ -1467,11 +1487,13 @@ a person generally authorised or licensed to manufacture a drug shall be deemed 
 
 a person generally authorised, licensed, or authorised as a member of a group, to supply a drug, shall be deemed to be generally authorised or, as the case may be, licensed or authorised as a member of a group to be in possession of, to procure, to offer to supply or procure, and to advertise for sale, that drug.
 
-#### Section 38 — Movement licence
+#### Section 38
 
 (1) No person shall in the course of supplying a drug to a person in Zambia consign that drug, by road or rail, by a route which entails the carriage of that drug beyond the borders of Zambia, unless he is in possession of a movement licence issued by the Permanent Secretary for the purposes of this regulation.
 
 Construction of licence or authority
+
+Movement licence
 
 (2) The holder of a movement licence shall-
 
@@ -1507,7 +1529,7 @@ accompanied, if the application is for a licence to export any drug from Zambia,
 
 accompanied by the appropriate fee, if any, prescribed in the Third Schedule.
 
-#### Section 40 — Revocation of F.G.N. No. 59 of 1956 and savings
+#### Section 40
 
 (1) The Dangerous Drugs Regulations, 1956, are hereby revoked.
 
@@ -1516,6 +1538,8 @@ accompanied by the appropriate fee, if any, prescribed in the Third Schedule.
 (3) Any register, record, book, prescription, or other document, which is required to be kept under any regulation revoked by these Regulations, shall be kept in the same manner and for the same period, and every person shall be subject to the same requirements in regard thereto, as if these Regulations had not been made.
 
 Form of application for licence
+
+Revocation of F.G.N. No. 59 of 1956 and savings
 
 Cap. A.L. 28
 

@@ -31,7 +31,9 @@ Section
 
 ### Section 3 — Sealing of probates and letters of administration granted outside Zambia
 
-### Section 4 — Conditions to be fulfilled before sealing
+### Section 4
+
+Conditions to be fulfilled before sealing
 
 ### Section 5 — Security for payment of debts
 
@@ -153,19 +155,19 @@ Domicile outside jurisdiction
 
 Letters of Administration Executor Testamentary
 
-### Section 9 — When application to seal a grant of probate or letters of administration is made
+### Section 9
 
 When application to seal a grant of probate or letters of administration is made after the lapse of three years from the death of deceased, the reason of delay must be certified to the Registrar. Should the certificate be unsatisfactory, the Registrar shall require such proof of the alleged cause of delay as he may think fit.
 
 Delay in application to seal
 
-### Section 10 — Notice of the sealing of a grant by the High Court shall be sent by the Registrar
+### Section 10
 
 Notice of the sealing of a grant by the High Court shall be sent by the Registrar to the court from which the grant issued.
 
 Notice of sealing
 
-### Section 11 — When intimation has been received of the resealing of a grant issued from the
+### Section 11
 
 When intimation has been received of the resealing of a grant issued from the High Court, notice of any revocation of, or any alteration in, such grant shall be sent by the Registrar to the court by whose authority such grant was resealed.
 

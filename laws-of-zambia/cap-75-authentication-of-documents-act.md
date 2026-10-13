@@ -53,9 +53,9 @@ AUTHENTICATION OF DOCUMENTS An Act to provide for the authentication of document
 
 This Act may be cited as the Authentication of Documents Act.
 
-### Section 2 — In this Act, unless the context otherwise requires-
+### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "authentication", when applied to a document, means the verification of any signature thereon;
 

@@ -71,9 +71,9 @@ An Act to amend the law of evidence. [27th January, 1967]
 
 This Act may be cited as the Evidence Act.
 
-### Section 2 — In this Act, unless the context otherwise requires-
+### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "business" includes any public transport, public utility or similar undertaking carried on by a local authority and the activities of the General Post Office;
 

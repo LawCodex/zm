@@ -115,7 +115,7 @@ ELECTORAL COMMISSION
 
 An Act to provide for the composition of the Electoral Commission; and to provide for matters connected with or incidental to the foregoing. [16th October, 1996]
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -123,9 +123,9 @@ PRELIMINARY
 
 This Act may be cited as the Electoral Commission Act.
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "Chairperson" means the person appointed as Chairperson under section four;
 
@@ -149,7 +149,7 @@ Cap. 1
 
 "member" means a person appointed as member of the Commission under section four.
 
-### PART II — THE ELECTORAL COMMISSIONPART II
+### PART II — THE ELECTORAL COMMISSION
 
 THE ELECTORAL COMMISSION
 
@@ -253,7 +253,7 @@ in the absence of the Chairperson, such member as the members present may elect 
 
 (3) If any person having information which to that person's knowledge has been published or disclosed in contravention of subsection (1) unlawfully publishes or communicates any such information to any other person, that person shall be guilty of an offence and shall be liable, upon conviction, to a fine not exceeding ten thousand penalty units or to imprisonment for a term not exceeding three years or to both.
 
-### PART III — ADMINISTRATIONPART III
+### PART III — ADMINISTRATION
 
 ADMINISTRATION
 
@@ -275,7 +275,7 @@ implementation of the decisions of the Commission.
 
 Director and other staff
 
-### PART IV — FINANCIAL AND OTHER PROVISIONSPART IV
+### PART IV — FINANCIAL AND OTHER PROVISIONS
 
 FINANCIAL AND OTHER PROVISIONS
 

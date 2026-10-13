@@ -591,9 +591,9 @@ CHAPTER 271 WORKERS' COMPENSATION An Act to make provision for the establishment
 
 This Act may be cited as the Workers' Compensation Act.
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "accident" means an accident resulting in injury to a worker or in damage to, or destruction of, any artificial aid used by a worker in the course of his or her employment;
 
@@ -1483,7 +1483,9 @@ the act was done for the purposes of and in connection with the employer's trade
 
 (6) For the purposes of this Act, an accident arising in the course of a worker's employment shall be deemed, in the absence of evidence of the contrary, also to have arisen out of that employment. (As amended by No. 37 of 1969 and No. 19 of 1976)
 
-#### Section 42 — When a worker meets with an accident-
+#### Section 42 — Accident during first aid training or rescue work
+
+When a worker meets with an accident-
 
 (a)
 

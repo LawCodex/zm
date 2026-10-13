@@ -115,7 +115,7 @@ MAINTENANCE ORDERS An Act to make provision for the registration in the High Cou
 
 39 of 1960 13 of 1994 Government Notice 497 of 1964 Statutory Instrument 72 of 1964
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -329,7 +329,7 @@ in the case of an order registered in a subordinate court, that no proceedings f
 
 (5) On the cancellation of the registration of an order, any order made in relation thereto under subsection (7) of section four shall cease to have effect, but until the defendant receives the prescribed notice of the cancellation he shall be deemed to comply with the order if he makes payments in accordance with any order under the said subsection (7) which was in force immediately before the cancellation and of which he has notice.
 
-### PART III — ATTACHMENT OF EARNINGS ORDERSPART III
+### PART III — ATTACHMENT OF EARNINGS ORDERS
 
 ATTACHMENT OF EARNINGS ORDERS
 
@@ -565,7 +565,7 @@ shall, subject to subsection (2), be liable on summary conviction to a fine not 
 
 (1) of section twelve to prove that he took all reasonable steps to comply with the attachment of earnings order to which the failure relates. (As amended by Act No. 13 of 1994)
 
-### PART IV — MISCELLANEOUS AND SUPPLEMENTALPART IV
+### PART IV — MISCELLANEOUS AND SUPPLEMENTAL
 
 MISCELLANEOUS AND SUPPLEMENTAL
 

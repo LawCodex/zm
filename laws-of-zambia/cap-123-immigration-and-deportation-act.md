@@ -207,9 +207,9 @@ PART I PRELIMINARYPART I PRELIMINARY
 
 This Act may be cited as the Immigration and Deportation Act.
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "Chief Immigration Officer" means the person appointed as Chief Immigration Officer in accordance with section four;
 
@@ -313,7 +313,7 @@ arriving in or departing from Zambia until he satisfies an immigration officer t
 
 who is an established resident for the purpose of the exercise by the Minister of his powers under section twenty-two or twenty-six.
 
-### PART II — APPOINTMENTS AND POWERSPART II
+### PART II — APPOINTMENTS AND POWERS
 
 APPOINTMENTS AND POWERS
 
@@ -465,7 +465,7 @@ to make and sign such declaration as may be prescribed;
 
 in writing or otherwise to answer such questions relating to his identity or departure as may be put to him by the immigration officer.
 
-### PART IV — ISSUE, VARIATION AND REVOCATION OF PERMITSPART IV
+### PART IV — ISSUE, VARIATION AND REVOCATION OF PERMITS
 
 ISSUE, VARIATION AND REVOCATION OF PERMITS
 
@@ -673,7 +673,7 @@ and the permit shall cease to be valid on the specified date.
 
 (4) Every permit, other than a temporary permit, issued under this Act to a person who thereafter becomes a prohibited immigrant shall cease to be of force and effect at such time as the holder became a prohibited immigrant.
 
-### PART V — PROHIBITED IMMIGRANTS AND DEPORTATIONPART V
+### PART V — PROHIBITED IMMIGRANTS AND DEPORTATION
 
 PROHIBITED IMMIGRANTS AND DEPORTATION
 
@@ -791,7 +791,7 @@ in writing or otherwise to answer such questions as the immigration officer may 
 
 to produce any passport and any other pertinent document in his possession. (As amended by No. 16 of 1967 and No. 31 of 1972)
 
-### PART VI — MISCELLANEOUSPART VI
+### PART VI — MISCELLANEOUS
 
 MISCELLANEOUS
 
@@ -921,7 +921,7 @@ Any written notice required under this Act to be served in person on any person 
 
 (3) Any person detained under this Act and not serving a sentence of imprisonment shall be treated as a person awaiting trial.
 
-### PART VII — REPEALS AND SAVINGSPART VII
+### PART VII — REPEALS AND SAVINGS
 
 REPEALS AND SAVINGS
 

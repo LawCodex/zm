@@ -129,7 +129,9 @@ PART I PRELIMINARYPART I PRELIMINARY
 
 This Act may be cited as the Zambia Institute of Diplomacy and International Studies Act.
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
+
+In this Act, unless the context otherwise requires-
 
 "auditor" means the auditor appointed under section nineteen;
 
@@ -161,7 +163,7 @@ Interpretation
 
 There is hereby established the Zambia Institute of Diplomacy and International Studies for the purpose of conducting training in diplomacy and international relations.
 
-### PART III — THE BOARD OF GOVERNORSPART III
+### PART III — THE BOARD OF GOVERNORS
 
 THE BOARD OF GOVERNORS
 
@@ -317,7 +319,7 @@ Proceedings of Board
 
 No action or other proceedings shall lie against any member for or in respect of, any act or anything done or omitted to be done in good faith in the exercise or purported exercise of his functions under this Act.
 
-### PART IV — ADMINISTRATIONPART IV
+### PART IV — ADMINISTRATION
 
 ADMINISTRATION
 
@@ -343,7 +345,7 @@ Provided that the person presiding at any meeting of the Board may, for good cau
 
 (3) If any person having information which to his knowledge has been published or disclosed in contravention of subsection (1) unlawfully publishes or communicates any such information to any person he shall be guilty of an offence and shall be liable upon conviction to a fine not exceeding ten thousand penalty units or to imprisonment for a period not exceeding twelve months, or to both.
 
-### PART IV — FINANCIAL AND OTHER PROVISIONSPART IV
+### PART IV — FINANCIAL AND OTHER PROVISIONS
 
 FINANCIAL AND OTHER PROVISIONS
 

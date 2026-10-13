@@ -703,7 +703,9 @@ PART I PRELIMINARYPART I PRELIMINARY
 
 These Regulations may be cited as the Lands (Land Development Fund) Regulations.
 
-#### Section 2 — In these Regulations, unless the context otherwise requires-
+#### Section 2 — Interpretation
+
+In these Regulations, unless the context otherwise requires-
 
 "Chairperson" means the Chairperson of the Committee;
 
@@ -715,7 +717,7 @@ These Regulations may be cited as the Lands (Land Development Fund) Regulations.
 
 "Secretary" means the Secretary appointed under regulation 3.
 
-### PART II — DISBURSEMENT OF FUNDS FROM THE FUNDPART II
+### PART II — DISBURSEMENT OF FUNDS FROM THE FUND
 
 DISBURSEMENT OF FUNDS FROM THE FUND
 
@@ -903,7 +905,7 @@ The Fund shall be audited every year.
 
 Auditing of Fund
 
-### PART III — MISCELLANEOUSPART III
+### PART III — MISCELLANEOUS
 
 MISCELLANEOUS
 
@@ -1083,7 +1085,7 @@ Statutory Instrument 90 of 1996
 
 Rules by the Chief Justice
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -1107,7 +1109,7 @@ Interpretation
 
 "Office" means the office for the time being of the Lands Tribunal.
 
-### PART II — PROCEEDINGS OF THE TRIBUNALPART II
+### PART II — PROCEEDINGS OF THE TRIBUNAL
 
 PROCEEDINGS OF THE TRIBUNAL
 
@@ -1313,7 +1315,7 @@ Decision of Tribunal
 
 Consent order
 
-### PART III — GENERAL PROVISIONSPART III
+### PART III — GENERAL PROVISIONS
 
 GENERAL PROVISIONS
 

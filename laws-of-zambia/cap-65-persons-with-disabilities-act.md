@@ -213,7 +213,7 @@ Act No. 33 of 1996
 
 An Act to establish the Zambia Agency for Persons with Disabilities; to define the functions of the Agency; to establish Management Boards; to establish the National Trust Fund; and to provide for matters connected with or incidental to the foregoing. [12th December, 1996
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -259,7 +259,7 @@ Cap. 551 of the old edition
 
 "repealed Act" means the Handicapped Persons Act.
 
-### PART II — THE ZAMBIA AGENCY FOR PERSONS WITH DISABILITIESPART II
+### PART II — THE ZAMBIA AGENCY FOR PERSONS WITH DISABILITIES
 
 THE ZAMBIA AGENCY FOR PERSONS WITH DISABILITIES
 
@@ -381,7 +381,7 @@ Director-General and other staff
 
 (5) The Agency may appoint on such terms and conditions as it may determine such other staff as it considers necessary for the performance of its functions under this Act.
 
-### PART III — MANAGEMENT BOARDSPART III
+### PART III — MANAGEMENT BOARDS
 
 MANAGEMENT BOARDS
 
@@ -445,7 +445,7 @@ Director and other staff
 
 (5) The Board may appoint on such terms and conditions as it may determine such other staff as it considers necessary for the performance of its functions under this Act.
 
-### PART IV — REGISTRATIONPART IV
+### PART IV — REGISTRATION
 
 REGISTRATION
 
@@ -519,7 +519,7 @@ keep records of persons with disabilities admitted as boarders at any institutio
 
 regulate the conditions under which persons with disabilities may be admitted to any institution.
 
-### PART V — INSPECTIONPART V
+### PART V — INSPECTION
 
 INSPECTION
 
@@ -547,7 +547,7 @@ Powers of inspector
 
 (2) The Director-General shall forward the reports and other information referred to in subsection (1) to the Minister.
 
-### PART VI — DISCRIMINATION ON GROUNDS OF DISABILITYPART VI
+### PART VI — DISCRIMINATION ON GROUNDS OF DISABILITY
 
 DISCRIMINATION ON GROUNDS OF DISABILITY
 
@@ -701,7 +701,7 @@ that the owner may make representations to the Agency if he so wishes within thi
 
 approved, after the commencement of this Act, under the Town and Country Planning Act, shall provide facilities that are accessible to persons with a disability.
 
-### PART VII — MISCELLANEOUSPART VII
+### PART VII — MISCELLANEOUS
 
 MISCELLANEOUS
 

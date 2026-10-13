@@ -189,7 +189,7 @@ CHAPTER 119 SOCIETIES An Act to provide for the better control of societies by r
 
 65 of 1957 46 of 1958 26 of 1960 7 of 1962 9 of 1974 21 of 1990 13 of 1994 Government Notices 314 of 1964 497 of 1964 Statutory Instruments 66 of 1965 96 of 1969
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -291,7 +291,7 @@ no register of all or any of the members of such association is kept in Zambia; 
 
 no subscriptions are collected or solicited in Zambia by the society or by any person in its behalf.
 
-### PART II — REGISTRATION OR EXEMPTION FROM REGISTRATIONPART II
+### PART II — REGISTRATION OR EXEMPTION FROM REGISTRATION
 
 REGISTRATION OR EXEMPTION FROM REGISTRATION
 
@@ -497,7 +497,7 @@ Any society, other than a society the registration of which has been cancelled u
 
 (As amended by No. 26 of 1960 and G.N. No. 314 of 1964)
 
-### PART III — DUTY OF SOCIETIES TO FURNISH INFORMATIONPART III
+### PART III — DUTY OF SOCIETIES TO FURNISH INFORMATION
 
 DUTY OF SOCIETIES TO FURNISH INFORMATION
 
@@ -583,7 +583,7 @@ The Minister may, where it appears to him to be in the interests of the members 
 
 (As amended by G.N. No. 314 of 1964)
 
-### PART IV — UNLAWFUL SOCIETIESPART IV
+### PART IV — UNLAWFUL SOCIETIES
 
 UNLAWFUL SOCIETIES
 
@@ -643,7 +643,9 @@ shall be guilty of an offence and shall be liable to a fine not exceeding fiftee
 
 Any person who knowingly allows a meeting of an unlawful society, or of members of an unlawful society, to be held in any place belonging to or occupied by him, or over which he has control, shall be guilty of an offence and shall be liable to a fine not exceeding seven thousand five hundred penalty units or to imprisonment for a period not exceeding three years, or to both. (As amended by Act No. 13 of 1994)
 
-#### Section 26 — In any proceedings under the provisions of this Act-
+#### Section 26 — Presumptions as to societies
+
+In any proceedings under the provisions of this Act-
 
 (a)
 
@@ -681,7 +683,7 @@ Presumptions as to societies
 
 (6) The provisions of this section shall not apply to any property forfeited under the provisions of section thirty-three. (As amended by No. 26 of 1960 and G.N. No. 314 of 1964)
 
-### PART V — GENERALPART V
+### PART V — GENERAL
 
 GENERAL
 

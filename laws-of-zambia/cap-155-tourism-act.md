@@ -165,7 +165,7 @@ Act No. 29 of 1979 22 of 1985 13 of 1994
 
 [31st December, 1979]
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -173,9 +173,9 @@ PRELIMINARY
 
 This Act may be cited as the Tourism Act.
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "authorisation" means the written consent of the Board;
 
@@ -203,7 +203,7 @@ Cap. 153
 
 "tourist manager" means any manager appointed under section eleven. (As amended by Act 22 of 1985)
 
-### PART II — ZAMBIA NATIONAL TOURIST BOARDPART II
+### PART II — ZAMBIA NATIONAL TOURIST BOARD
 
 ZAMBIA NATIONAL TOURIST BOARD
 
@@ -303,7 +303,7 @@ do such other things as are necessary for the development and promotion of touri
 
 (3) The Board shall have power, subject as herein provided, to do anything and to enter into any transaction which in its opinion is calculated to facilitate the discharge of its duties under this Act or which is incidental or conducive thereto.
 
-### PART III — OFFICERSPART III
+### PART III — OFFICERS
 
 OFFICERS
 
@@ -337,7 +337,7 @@ Terms and conditions of officers
 
 (As amended by Act 22 of 1985)
 
-### PART IV — LICENSING AND AUTHORISATIONPART IV
+### PART IV — LICENSING AND AUTHORISATION
 
 LICENSING AND AUTHORISATION
 
@@ -439,7 +439,7 @@ it shall issue a licence or an authorisation, as the case may be, to the applica
 
 Every person who, at the commencement of this Act, is carrying on any tourist enterprise other than the management of an hotel, shall, within six months after such commencement, apply to the Board for a licence.
 
-### PART V — MISCELLANEOUSPART V
+### PART V — MISCELLANEOUS
 
 MISCELLANEOUS
 
@@ -537,7 +537,7 @@ the tourist enterprise, its manager or servant has previously been guilty of a s
 
 and that it is in the interest of tourism in Zambia that the licence or authorisation be revoked.
 
-#### Section 24B — Offences and
+#### Section 24B
 
 Offences and penalties
 

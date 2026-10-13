@@ -819,7 +819,9 @@ stocks, securities or funds issued by or on behalf of the Government or in stock
 
 such other investment as may be approved generally or specially, by the Authority.
 
-#### Section 42 — Scheme-
+#### Section 42 — Application of funds of Scheme
+
+Scheme-
 
 There shall be charged on, and discharged from, the liquid assets of the
 

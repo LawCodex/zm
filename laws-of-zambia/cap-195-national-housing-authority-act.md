@@ -355,9 +355,9 @@ NATIONAL HOUSING AUTHORITY An Act to make better provisions for the development 
 
 This Act may be cited as the National Housing Authority Act.
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "apparatus" includes sewers, drains, culverts, watercourses, mains, pipes, valves, tubes, cables, wires, transformers and other apparatus laid down or used for or in connection with the carrying, conveying or supplying to any premises of a supply of water, water for hydraulic power, gas or electricity, and the standards and brackets carrying street lamps;
 
@@ -1117,7 +1117,9 @@ The Authority shall make safe and efficient arrangements for the receipt of mone
 
 (3) A cheque upon any banking account kept by the Authority shall be signed by such officers of the Authority, not being less than two in number, as may be authorised in that behalf by resolution of the Authority.
 
-#### Section 44 — In addition to the annual report mentioned in section fifty-six, the Authority-
+#### Section 44 — Report of the Authority
+
+In addition to the annual report mentioned in section fifty-six, the Authority-
 
 (a)
 
@@ -1126,8 +1128,6 @@ may submit to the Minister such other reports as the Authority may deem advisabl
 (b)
 
 shall submit to the Minister such other reports as the Minister may require;
-
-Report of the Authority
 
 in regard to the activities, work, operation and property of the Authority.
 
@@ -1335,7 +1335,7 @@ Exemption from local by-laws, etc., of approved house, housing estate and scheme
 
 The Authority shall be exempt from the payment of income tax or any similar tax on profits or capital accretions earned or gained in the course of the discharge of its functions under this Act.
 
-#### Section 62 — Exemption from
+#### Section 62
 
 Exemption from income tax
 
@@ -1447,7 +1447,9 @@ The *(2)Minister, at any time after the commencement of this Act, but prior to t
 
 Upon the making of an order pursuant to section sixty-seven, the Board shall be dissolved and shall cease to exist for all purposes except for the purpose of performing any act or executing any transfer or document necessary to implement any of the provisions of this Part, and for such purpose the Minister may, by statutory order, nominate any person to perform any such act or to execute any such transfer or document on behalf of and in the name of the Board, and such act, transfer or document so performed or so executed by such person shall be deemed to be the act, transfer or document of the Board.
 
-#### Section 69 — Upon the dissolution of the Board pursuant to section sixty-eight-
+#### Section 69 — Vesting of lands and personal property in, and transfer of contractual and other
+
+Upon the dissolution of the Board pursuant to section sixty-eight-
 
 Dissolution of the Board
 

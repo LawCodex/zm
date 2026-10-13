@@ -105,9 +105,9 @@ An act to facilitate the borrowing of money on the security of charges created u
 
 This Act may be cited as the Agricultural Credits Act.
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "additional assets" means any tangible assets, excluding land, that belong to a farmer, trader or related business, pertaining directly or indirectly to agricultural production, processing or trade, all accounts receivable, chattel paper, warehouse receipts, both negotiable and non-negotiable, promissory notes and includes savings accounts on deposit with any bank, credit union, savings institution or other similar organisation;
 

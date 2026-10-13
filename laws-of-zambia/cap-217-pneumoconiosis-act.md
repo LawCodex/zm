@@ -449,7 +449,7 @@ PNEUMOCONIOSIS An Act to make new provision for the assessment and payment of co
 
 27 of 1950 1 of 1951 31 of 1951 25 of 1952 6 of 1954 15 of 1955 15 of 1956 42 of 1956 3 of 1957 3 of 1959 12 of 1960 52 of 1960 30 of 1962 76 of 1963 77 of 1965 25 of 1971 13 of 1994 Government Notices 233 of 1963 497 of 1964 Statutory Instrument 124 of 1965 165 of 1983 63 of 1996
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -569,7 +569,7 @@ his grandparents and grandchildren; and
 
 any other relation of his by consanguinity or affinity. (As amended by No. 31 of 1951 and No. 77 of 1965)
 
-### PART II — ADMINISTRATIONPART II
+### PART II — ADMINISTRATION
 
 ADMINISTRATION
 
@@ -943,7 +943,9 @@ General
 
 Reference of questions for opinion of Board of Appeal
 
-#### Section 34 — Any person who-
+#### Section 34 — No employment without, or in breach of, a certificate of fitness
+
+Any person who-
 
 (a)
 
@@ -1437,7 +1439,7 @@ send the heart and lungs of the deceased to the Bureau accompanied by such repor
 
 (3) A post-mortem examination may, for the purposes of this section, be made by any registered medical practitioner in accordance with arrangements made by the Bureau. (As amended by No 15 of 1955)
 
-### PART IV — BENEFITS AND OTHER FORMS OF ASSISTANCEPART IV
+### PART IV — BENEFITS AND OTHER FORMS OF ASSISTANCE
 
 BENEFITS AND OTHER FORMS OF ASSISTANCE
 
@@ -1953,7 +1955,7 @@ any part of any award which remains in the custody of the Board in accordance wi
 
 In respect of any money which is, on behalf of any person, in the custody of the Board in accordance with the provisions of subsection (2) of section eighty-one or of section eighty-four, the Board shall have all the discretionary powers as to payment of such money as are provided by section eighty-one in respect of the payment of benefits. (As amended by No. 77 of 1965)
 
-### PART VI — COMPENSATION FUND, LEVIES AND OUTSTANDING LIABILITIESPART VI
+### PART VI — COMPENSATION FUND, LEVIES AND OUTSTANDING LIABILITIES
 
 COMPENSATION FUND, LEVIES AND OUTSTANDING LIABILITIES
 
@@ -2059,7 +2061,7 @@ In the event of the winding up or insolvency of the owner or former owner of a s
 
 Priority of Board's claims Cap. 83
 
-### PART VII — GENERALPART VII
+### PART VII — GENERAL
 
 GENERAL
 

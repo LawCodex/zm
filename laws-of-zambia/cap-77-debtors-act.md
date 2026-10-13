@@ -81,9 +81,9 @@ DEBTORS An Act in restriction of imprisonment for debt. [21st June, 1938]
 
 This Act may be cited as the Debtors Act.
 
-### Section 2 — In this Act, unless the context otherwise requires-
+### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "prescribed" means-
 

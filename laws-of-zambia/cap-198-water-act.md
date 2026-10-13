@@ -285,9 +285,9 @@ WATER An Act to consolidate and amend the law in respect of the ownership, contr
 
 This Act may be cited as the Water Act.
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "arbitration" means arbitration in accordance with the terms and provisions of the Arbitration Act;
 
@@ -875,7 +875,9 @@ Any notice, order or other document required by this Act to be given to or serve
 
 Provided that nothing in this section shall prevent any person who has not been personally served with a notice, order or other document from proving that, through no fault of his own or of his representative, such notice, order or other document never came to his knowledge.
 
-#### Section 53 — Any person who, without lawful right or authority-
+#### Section 53 — Offences and penalties
+
+Any person who, without lawful right or authority-
 
 (a)
 

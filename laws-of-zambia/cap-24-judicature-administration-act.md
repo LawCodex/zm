@@ -99,7 +99,7 @@ Act 42 of 1994 Statutory Instrument 44 of 1995
 
 JUDICATURE ADMINISTRATION An Act to provide for the administration of the courts; to confer on the Judicial Service Commission power to appoint staff of the Judicature; and to provide for matters connected with or incidental to the foregoing. [31st December, 1994
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -107,9 +107,9 @@ PRELIMINARY
 
 This Act may be cited as the Judicature Administration Act.
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "Commission" means the Judicial Service Commission referred to in the Constitution and the Service Commission Act;
 
@@ -155,7 +155,7 @@ any person appointed under subsection (2) of section four.
 
 Cap. 1 Cap. 259
 
-### PART II — ADMINISTRATION OF JUDICATUREPART II
+### PART II — ADMINISTRATION OF JUDICATURE
 
 ADMINISTRATION OF JUDICATURE
 
@@ -303,7 +303,7 @@ such other information as the President may require.
 
 (3) The President shall, not later than the end of the first session of the National Assembly that begins after the receipt of the report, cause it to be laid before the National Assembly.
 
-### PART III — MISCELLANEOUSPART III
+### PART III — MISCELLANEOUS
 
 MISCELLANEOUS
 

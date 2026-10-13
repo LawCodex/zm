@@ -1709,7 +1709,7 @@ Transfer of pupils between schools
 
 Powers of Minister
 
-### PART III — FEESPART III
+### PART III — FEES
 
 FEES
 
@@ -1717,7 +1717,7 @@ FEES
 
 No tuition or boarding fees
 
-### PART IV — SCHOOL CALENDAR AND INSTRUCTION AT SCHOOLSPART IV
+### PART IV — SCHOOL CALENDAR AND INSTRUCTION AT SCHOOLS
 
 SCHOOL CALENDAR AND INSTRUCTION AT SCHOOLS
 
@@ -1737,7 +1737,7 @@ Instruction at secondary schools
 
 National Anthem and National Flag
 
-### PART V — CORPORAL PUNISHMENTPART V
+### PART V — CORPORAL PUNISHMENT
 
 CORPORAL PUNISHMENT
 
@@ -1791,7 +1791,7 @@ Regulations by the Minister
 
 Statutory Instrument 254 of 1973 58 of 1977 3 of 1985 173 of1985 76 of 1986 55 of 1990 2 of 1994 Act No. 13 of 1994
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -2021,7 +2021,7 @@ the clothing with which children may be required to be provided under regulation
 
 Powers of Minister
 
-### PART III — FEESPART III
+### PART III — FEES
 
 FEES
 
@@ -2049,7 +2049,7 @@ is a Zambian; or
 
 is an employee of the Government of the Republic of Zambian; and in the case of any other pupil, the fees set out in Part II of the Second Schedule shall be payable. (As amended by S.I. No. 3 and 173 of 1985)
 
-### PART IV — SCHOOL CALENDAR AND INSTRUCTION AT SCHOOLSPART IV
+### PART IV — SCHOOL CALENDAR AND INSTRUCTION AT SCHOOLS
 
 SCHOOL CALENDAR AND INSTRUCTION AT SCHOOLS
 
@@ -2109,7 +2109,7 @@ National Anthem and National Flag
 
 (4) No pupil shall be required to sing the National Anthem or to salute the National Flag as part of any religious ceremony or observance.
 
-### PART V — CORPORAL PUNISHMENTPART V
+### PART V — CORPORAL PUNISHMENT
 
 CORPORAL PUNISHMENT
 
@@ -2397,7 +2397,7 @@ Title
 
 Interpretation
 
-### PART II — CONDITIONS OF ENROLMENT AND ADMISSIONPART II
+### PART II — CONDITIONS OF ENROLMENT AND ADMISSION
 
 CONDITIONS OF ENROLMENT AND ADMISSION
 
@@ -2475,7 +2475,7 @@ SECTION 12-THE EDUCATION (TEACHER TRAINING INSTITUTIONS) REGULATIONS Regulations
 
 Statutory Instrument 253 of 1973 Act No. 13 of 1994
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -2491,7 +2491,7 @@ Interpretation
 
 (2) References in these Regulations to the National Anthem or the National Flag are references to the National Anthem of Zambia or the National Flag of Zambia, as the case may be.
 
-### PART II — CONDITIONS OF ENROLMENT AND ADMISSIONPART II
+### PART II — CONDITIONS OF ENROLMENT AND ADMISSION
 
 CONDITIONS OF ENROLMENT AND ADMISSION
 
@@ -4249,7 +4249,7 @@ Statutory Instrument 182 of 1973
 
 Regulations by the Minister
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -4279,7 +4279,7 @@ Cap. 134
 
 Application
 
-### PART II — THE BURSARIES COMMITTEEPART II
+### PART II — THE BURSARIES COMMITTEE
 
 THE BURSARIES COMMITTEE
 
@@ -4333,7 +4333,7 @@ Meetings
 
 (5) The decisions of the Committee may be made by circulating the relevant papers amongst the members and registering their view in writing.
 
-### PART III — FUNCTIONS OF THE COMMITTEEPART III
+### PART III — FUNCTIONS OF THE COMMITTEE
 
 FUNCTIONS OF THE COMMITTEE
 

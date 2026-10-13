@@ -33,7 +33,7 @@ Section
 
 ##### Section 3 — Trial of offences under Penal Code and other written laws
 
-### PART II — POWERS OF COURTSPART II
+### PART II — POWERS OF COURTS
 
 POWERS OF COURTS
 
@@ -41,7 +41,9 @@ POWERS OF COURTS
 
 ##### Section 5 — Offences under other written laws
 
-##### Section 6 — Sentences which High Court may pass
+##### Section 6
+
+Sentences which High Court may pass
 
 ##### Section 7 — Powers of subordinate courts
 
@@ -51,7 +53,9 @@ POWERS OF COURTS
 
 ##### Section 10 — Power of High Court to order preliminary inquiry
 
-##### Section 11 — Cases to be tried only by High Court
+##### Section 11
+
+Cases to be tried only by High Court
 
 ##### Section 12 — Combination of sentences or orders
 
@@ -65,7 +69,7 @@ POWERS OF COURTS
 
 ##### Section 17 — Medical examination of accused persons
 
-### PART III — GENERAL PROVISIONSPART III
+### PART III — GENERAL PROVISIONS
 
 GENERAL PROVISIONS
 
@@ -73,7 +77,9 @@ Arrest, Escape and Retaking Arrest Generally
 
 ##### Section 18 — Arrest, how made
 
-##### Section 19 — Search of place entered by person sought to be arrested
+##### Section 19
+
+Search of place entered by person sought to be arrested
 
 ##### Section 20 — Power to break out of any house for purposes of liberation
 
@@ -93,7 +99,9 @@ Arrest without Warrant
 
 ##### Section 26 — Arrest by police officer without warrant
 
-##### Section 27 — Arrest of vagabonds, habitual robbers, etc
+##### Section 27
+
+Arrest of vagabonds, habitual robbers, etc.
 
 ##### Section 28 — Procedure when police officer deputes subordinate to arrest without warrant
 
@@ -119,7 +127,7 @@ Escape and Retaking
 
 ##### Section 38 — Provisions of sections 19 and 20 to apply to arrests under section 37
 
-##### Section 39 — Duty to assist magistrate, etc
+##### Section 39
 
 Duty to assist magistrate, etc. Prevention of Offences Security for Keeping the Peace and for Good Behaviour
 
@@ -133,7 +141,9 @@ Duty to assist magistrate, etc. Prevention of Offences Security for Keeping the 
 
 ##### Section 44 — Security for good behaviour from habitual offenders
 
-##### Section 45 — Order to be made
+##### Section 45
+
+Order to be made
 
 ##### Section 46 — Procedure in respect of person present in court
 
@@ -147,7 +157,7 @@ Section
 
 ##### Section 50 — Inquiry as to truth of information
 
-### PART IV — PROVISIONS RELATING TO ALL CRIMINAL INVESTIGATIONSPART IV
+### PART IV — PROVISIONS RELATING TO ALL CRIMINAL INVESTIGATIONS
 
 PROVISIONS RELATING TO ALL CRIMINAL INVESTIGATIONS
 
@@ -297,7 +307,7 @@ Interpretation of evidence to accused or his advocate
 
 Remarks respecting demeanour of witness
 
-### PART VI — PROCEDURE IN TRIALS BEFORE SUBORDINATE COURTSPART VI
+### PART VI — PROCEDURE IN TRIALS BEFORE SUBORDINATE COURTS
 
 PROCEDURE IN TRIALS BEFORE SUBORDINATE COURTS
 
@@ -561,7 +571,7 @@ Statements, etc., to be supplied to the accused
 
 Affidavit of medical witness may be read as evidence
 
-### PART IX — PROCEDURE IN TRIALS BEFORE THE HIGH COURTPART IX
+### PART IX — PROCEDURE IN TRIALS BEFORE THE HIGH COURT
 
 PROCEDURE IN TRIALS BEFORE THE HIGH COURT
 
@@ -693,7 +703,7 @@ Statement or evidence of accused
 
 Close of case for prosecution
 
-### PART X — SENTENCES AND THEIR EXECUTIONPART X
+### PART X — SENTENCES AND THEIR EXECUTION
 
 SENTENCES AND THEIR EXECUTION
 
@@ -769,7 +779,7 @@ Section 320.
 
 Errors and omissions in orders and warrants
 
-### PART XI — APPEALSPART XI
+### PART XI — APPEALS
 
 APPEALS
 
@@ -899,7 +909,7 @@ High Court may enlarge time
 
 351A. Interpretation
 
-### PART XII — SUPPLEMENTARY PROVISIONSPART XII
+### PART XII — SUPPLEMENTARY PROVISIONS
 
 SUPPLEMENTARY PROVISIONS
 
@@ -953,7 +963,7 @@ Non-application
 
 An Act to make provision for the procedure to be followed in criminal cases [1st April, 1934]
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -1013,7 +1023,7 @@ Trial of offences under Penal Code
 
 Trial of offences under other written laws
 
-### PART II — POWERS OF COURTSPART II
+### PART II — POWERS OF COURTS
 
 POWERS OF COURTS
 
@@ -1139,7 +1149,7 @@ Medical examination of accused persons
 
 Provided that the court may summon such medical officer to give evidence orally. (No. 11 of 1963)
 
-### PART III — GENERAL PROVISIONSPART III
+### PART III — GENERAL PROVISIONS
 
 GENERAL PROVISIONS
 
@@ -1455,7 +1465,7 @@ when the person in respect of whom the inquiry is made is a minor, the bond shal
 
 (2) Any person ordered to give security for good behaviour under this section may appeal to the High Court, and the provisions of Part XI (relating to appeals) shall apply to every such appeal.
 
-##### Section 52 — If, on an inquiry under section fifty, it is not proved that it is necessary for
+##### Section 52
 
 If, on an inquiry under section fifty, it is not proved that it is necessary for keeping the peace or maintaining good behaviour, as the case may be, that the person in respect of whom the inquiry is made should execute a bond, the magistrate shall make an entry on the record to that effect, and, if such person is in custody only for the purposes of the inquiry, shall release him, or, if such person is not in custody, shall discharge him.
 
@@ -1471,13 +1481,13 @@ Commencement of period for which security is required
 
 (2) In other cases, such period shall commence on the date of such order, unless the magistrate, for sufficient reason, fixes a later date.
 
-##### Section 54 — The bond to be executed by any such person shall bind him to keep the peace
+##### Section 54
 
 The bond to be executed by any such person shall bind him to keep the peace or to be of good behaviour, as the case may be, and, in the latter case, the commission or attempt to commit, or the aiding, abetting, counselling or procuring the commission of any offence punishable with imprisonment, wherever it may be committed, shall be a breach of the bond.
 
 Contents of bond
 
-##### Section 55 — A magistrate may refuse to accept any surety offered under any of the
+##### Section 55
 
 A magistrate may refuse to accept any surety offered under any of the preceding sections, on the ground that, for reasons to be recorded by the magistrate, such surety is an unfit person.
 
@@ -1501,13 +1511,13 @@ Procedure on failure of person to give security
 
 (7) Imprisonment for failure to give security for good behaviour may be with or without hard labour, as the court or magistrate, in each case, directs.
 
-##### Section 57 — Whenever a magistrate empowered to hold a subordinate court of the first or
+##### Section 57
 
 Whenever a magistrate empowered to hold a subordinate court of the first or second class is of opinion that any person imprisoned for failing to give security may be released without hazard to the community, such magistrate shall make an immediate report of the case for the orders of the High Court, and such Court may, if it thinks fit, order such person to be discharged.
 
 Power to release persons imprisoned for failure to give security
 
-##### Section 58 — The High Court may, at any time, for sufficient reasons to be recorded in
+##### Section 58
 
 The High Court may, at any time, for sufficient reasons to be recorded in writing, cancel any bond for keeping the peace or for good behaviour executed under any of the preceding sections by order of any court or magistrate.
 
@@ -1533,39 +1543,41 @@ Forfeiture
 
 (3) A warrant of distress under this section may be executed within the local limits of the jurisdiction of the court which issued it, and it shall authorise the distress and sale of any property belonging to such person and his surety or sureties without such limits, when endorsed by a magistrate holding a subordinate court of the first or second class within the local limits of whose jurisdiction such property is found. Preventive Action of the Police
 
-##### Section 61 — Every police officer may interpose for the purpose of preventing, and shall, to
+##### Section 61
 
 Every police officer may interpose for the purpose of preventing, and shall, to the best of his ability, prevent the commission of any cognizable offence.
 
 Police to prevent cognizable offences
 
-##### Section 62 — Every police officer receiving information of a design to commit any cognizable
+##### Section 62
 
 Every police officer receiving information of a design to commit any cognizable offence shall communicate such information to the police officer to whom he is subordinate, and to any other officer whose duty it is to prevent or take cognizance of the commission of any such offence.
 
 Information of design to commit such offences
 
-##### Section 63 — A police officer knowing of a design to commit any cognizable offence may
+##### Section 63
 
 A police officer knowing of a design to commit any cognizable offence may arrest, without orders from a magistrate and without a warrant, the person so designing, if it appears to such officer that the commission of the offence cannot otherwise be prevented.
 
 Arrest to prevent such offences
 
-##### Section 64 — A police officer may, of his own authority, interpose to prevent any injury
+##### Section 64
 
 A police officer may, of his own authority, interpose to prevent any injury attempted to be committed, in his presence, to any public property, movable or immovable, or the removal of or injury to any public landmark, or buoy, or other mark used for navigation.
 
 Prevention of injury to public property
 
-### PART IV — PROVISIONS RELATING TO ALL CRIMINAL INVESTIGATIONSPART IV
+### PART IV — PROVISIONS RELATING TO ALL CRIMINAL INVESTIGATIONS
 
 PROVISIONS RELATING TO ALL CRIMINAL INVESTIGATIONS
 
 Place of Inquiry or Trial
 
-##### Section 65 — General authority of courts of Zambia
+##### Section 65
 
 Every court has authority to cause to be brought before it any person who is within the local limits of its jurisdiction, and is charged with an offence committed within Zambia, or which, according to law, may be dealt with as if it has been committed within Zambia, and to deal with the accused person according to its jurisdiction.
+
+General authority of courts of Zambia
 
 ##### Section 66 — Where a person accused of having committed an offence within Zambia has
 
@@ -1573,13 +1585,17 @@ escaped or removed from the district within which the offence was committed, and
 
 Accused person to be sent ot district where offence committed
 
-##### Section 67 — Removal of accused person under warrant
+##### Section 67
 
 Where any person is to be sent in custody in pursuance of the last preceding section, a warrant shall be issued by the court within whose jurisdiction he is found, and that warrant shall be sufficient authority to any person to whom it is directed to receive and detain the person therein named, and to carry him and deliver him up to the court within whose district the offence was committed or may be tried.
 
-##### Section 68 — Mode of trial before High Court
+Removal of accused person under warrant
+
+##### Section 68
 
 (1) The High Court may inquire of and try any offence subject to its jurisdiction, at any place where it has power to hold sittings.
+
+Mode of trial before High Court
 
 (2) Criminal cases in the High Court shall, subject to the provisions of subsection
 
@@ -1597,15 +1613,21 @@ conferred by sections seventy-eight and eighty, every offence shall be inquired 
 
 Ordinary place of inquiry and trial
 
-##### Section 70 — Trial at place where act done or where consequence of offence ensues
+##### Section 70
 
 When a person is accused of the commission of any offence, by reason of anything which has been done, or omitted to be done, or of any consequence which has ensued, such offence may be inquired into or tried by a court within the local limits of whose jurisdiction any such thing has been done, or omitted to be done, or any such consequence has ensued.
 
-##### Section 71 — Trial where offence is connected with another offence
+Trial at place where act done or where consequence of offence ensues
+
+##### Section 71
 
 When an act or ommission is an offence by reason of its relation to any other act or omission which is also an offence, or which would be an offence if the doer were capable of committing an offence, a charge of the first-mentioned offence may be inquired into or tried by a court within the local limits of whose jurisdiction either act was done.
 
-##### Section 72 — Trial where place of offence is uncertain
+Trial where offence is connected with another offence
+
+##### Section 72
+
+Trial where place of offence is uncertain
 
 When-
 
@@ -1627,7 +1649,7 @@ an offence consists of several acts or omissions done in different districts;
 
 such offence may be inquired into or tried by a court having jurisdiction in any of such districts.
 
-##### Section 73 — Offence near boundary of district or on or near railway
+##### Section 73
 
 (1) When an offence is committed on or near the boundary or boundaries of two or more districts, or within a distance of ten miles from any such boundary or boundaries, it may be inquired into or tried by a court having jurisdiction in any of the said districts, in the same manner as if it had been wholly committed therein.
 
@@ -1637,17 +1659,23 @@ Offence near boundary of district
 
 Offence on or near railway
 
-##### Section 74 — Offence committed on a journey
+##### Section 74
 
 An offence committed whilst the offender is in the course of performing a journey or voyage may be inquired into or tried by a court through or into the local limits of whose jurisdiction the offender, or the person against whom, or the thing in respect of which, the offence was committed passed in the course of that journey or voyage.
 
-##### Section 75 — High Court to decide in cases of doubt
+Offence committed on a journey
+
+##### Section 75
 
 Whenever any doubt arises as to the court by which any offence should be inquired into or tried, the High Court may decide by which court the offence shall be inquired into or tried.
 
-##### Section 76 — Court to be open
+High Court to decide in cases of doubt
+
+##### Section 76
 
 The place in which any court is held, for the purpose of inquiring into or trying any offence shall, unless the contrary is expressly provided by any Act for the time being in force, be deemed an open court to which the public generally may have access, so far as the same can conveniently contain them:
+
+Court to be open
 
 Provided that the presiding Judge or magistrate may, if he considers it necessary or expedient(a)
 
@@ -1669,7 +1697,7 @@ order, at any stage of the inquiry into or trial of any particular case, that pe
 
 Transfer of Cases
 
-##### Section 77 — Transfer of case where offence committed outside jurisdiction
+##### Section 77
 
 (1) If, upon the hearing of any complaint, it appears that the cause of complaint arose out of the limits of the jurisdiction of the court before which such complaint has been brought, the court may, on being satisfied that it has no jurisdiction, direct the case to be transferred to the court having jurisdiction where the cause of complaint arose.
 
@@ -1677,7 +1705,11 @@ Transfer of Cases
 
 (3) If the accused person is not continued or placed in custody as aforesaid, the court shall inform him that it has directed the transfer of the case as aforesaid, and, thereupon, the provisions of subsection (2) respecting the transmission and validity of the documents in the case shall apply.
 
-##### Section 78 — Any magistrate holding a subordinate court of the first class-
+Transfer of case where offence committed outside jurisdiction
+
+##### Section 78
+
+Any magistrate holding a subordinate court of the first class-
 
 (a)
 
@@ -1691,7 +1723,7 @@ Transfer of cases between magistrates
 
 (As amended by No. 16 of 1959)
 
-##### Section 79 — Procedure when, after commencement of inquiry or trial, magistrate finds case
+##### Section 79
 
 (1) If, in the course of any inquiry or trial before a magistrate, the evidence appears to warrant a presumption that the case is one which should be tried or committed for trial by some other magistrate, he shall stay proceedings and submit the case, with a brief report thereon, to a magistrate holding a subordinate court of the first class and empowered to direct the transfer of the case under the last preceding section.
 
@@ -1703,7 +1735,7 @@ Cap. 27
 
 (As amended by No. 16 of 1959)
 
-##### Section 80 — Power of High Court to change venue
+##### Section 80
 
 (1) Whenever it is made to appear to the High Court-
 
@@ -1753,33 +1785,41 @@ that an accused person be committed for trial before itself.
 
 Criminal Proceedings
 
-##### Section 81 — Power of Director of Public Prosecutions to enter nolle prosequi
+##### Section 81
 
 (1) In any criminal case and at any stage thereof before verdict or judgment, as the case may be, the Director of Public Prosecutions may enter a nolle prosequi, either by stating in court, or by informing the court in writing, that the People intend that the proceedings shall not continue, and, thereupon, the accused shall stand discharged in respect of the charge for which the nolle prosequi is entered, and, if he has been committed to prison, shall be released, or, if he is on bail, his recognizances shall be treated as being discharged; but such discharge of an accused person shall not operate as a bar to any subsequent proceedings against him on account of the same facts.
 
 (2) If the accused shall not be before the court when such nolle prosequi is entered, the Registrar or clerk of such court shall forthwith cause notice in writing of the entry of such nolle prosequi to be given to the keeper of the prison in which such accused may be detained, and also, if the accused person has been committed for trial, to the subordinate court by which he was so committed, and such subordinate court shall forthwith cause a similar notice in writing to be given to any witnesses bound over to prosecute and give evidence and to their sureties (if any), and also to the accused and his sureties, in case he shall have been admitted to bail. (As amended by No. 28 of 1940, No. 5 of 1962, S.I. No. 63 of 1964 and S.I. No. 152 of 1965)
 
-##### Section 82 — Delegation of powers by Director of Public Prosecutions
+Power of Director of Public Prosecutions to enter nolle prosequi
+
+##### Section 82
 
 The Director of Public Prosecutions may order in writing that all or any of the powers vested in him by the last preceding section, by section eighty-eight and by Parts VII and VIII, may be exercised also by the Solicitor-General, the Parliamentary Draftsmen and State Advocates and the exercise of these powers by the Solicitor-General, the Parliamentary Draftsmen and State Advocates shall then operate as if they had been exercised by the Director of Public Prosecutions:
 
+Delegation of powers by Director of Public Prosecutions
+
 Provided that the Director of Public Prosecutions may in writing revoke any order made by him under this section. (No. 47 of 1955 as amended by No. 50 of 1957, No. 23 of 1960, No. 27 of 1964 and S.I. No. 63 of 1964)
 
-##### Section 83 — Criminal informations by Director of Public Prosecutions
+##### Section 83
 
 (1) Notwithstanding anything in this Code contained, the Director of Public Prosecutions may exhibit on behalf of the People in the High Court against persons subject to the jurisdiction of the High Court, informations for all purposes for which Her Britannic Majesty's Attorney-General for England may exhibit informations on behalf of the Crown in the High Court of Justice in England.
+
+Criminal informations by Director of Public Prosecutions
 
 (2) Such proceedings may be taken upon every such information as may lawfully be taken in the case of similar informations filed by Her Britannic Majesty's Attorney-General for England, so far as the circumstances of the case and the practice and procedure of the High Court will admit.
 
 (3) The Chief Justice may, by statutory instrument, make rules for carrying into effect the provisions of this section. (As amended by No. 2 of 1960 and S.I. No. 63 of 1964)
 
-##### Section 84 — Signature of Director of Public Prosecutions to be evidence
+##### Section 84
 
 Where, by any written law, the sanction, fiat or written consent of the Director of Public Prosecutions is necessary for the commencement or continuance of the prosecution of any offence, a document purporting to give such sanction, fiat or consent placed before the court by the prosecutor and purporting to be signed by the person for the time being exercising the powers and performing the duties of the Director of Public Prosecutions shall be prima facie evidence that such sanction, fiat or consent has been given.
 
+Signature of Director of Public Prosecutions to be evidence
+
 (No. 50 of 1957 as amended by S.I. No. 63 of 1964)
 
-##### Section 85 — Arrest of persons for offences requiring the consent of the Director of Public
+##### Section 85
 
 (1) Where any written law provides that no prosecution shall be instituted against any person for an offence without the sanction, fiat or written consent of the Director of Public Prosecutions, such person may be arrested or a warrant for such arrest may be issued and executed and such person may be remanded in custody or on bail, notwithstanding that such sanction, fiat or written consent has not been first obtained, but no further proceedings shall be taken until such sanction, fiat or written consent has been obtained and produced to the court.
 
@@ -1789,21 +1829,27 @@ Arrest of persons for offences requiring the consent of the Director of Public P
 
 Appointment of Public Prosecutors and Conduct of Prosecutions
 
-##### Section 86 — Power to appoint public prosecutors
+##### Section 86
 
 (1) The Director of Public Prosecutions may appoint generally, or in any case, or for any specified class of cases, in any district, one or more officers to be called public prosecutors.
+
+Power to appoint public prosecutors
 
 (2) The Director of Public Prosecutions may appoint any person employed in the public service to be a public prosecutor for the purposes of any proceedings instituted on behalf of the People.
 
 (3) Every public prosecutor shall be subject to the express directions of the Director of Public Prosecutions. (As amended by No. 28 of 1940, No. 16 of 1959, No. 23 of 1960, S.I. No. 63 of 1964 and S.I. No. 152 of 1965)
 
-##### Section 87 — Powers of public prosecutors
+##### Section 87
 
 A public prosecutor may appear and plead without any written authority before any court in which any case of which he has charge is under inquiry, trial or appeal; and, if any private person instructs an advocate to prosecute in any such case, the public prosecutor may conduct the prosecution, and the advocate so instructed shall act therein under his directions.
 
-##### Section 88 — Withdrawal from prosecution in trials before subordinate courts
+Powers of public prosecutors
+
+##### Section 88
 
 In any trial before a subordinate court, any public prosecutor may, with the consent of the court or on the instructions of the Director of Public Prosecutions, at any time before judgment is pronounced, withdraw from the prosecution of any person; and upon such withdrawal-
+
+Withdrawal from prosecution in trials before subordinate courts
 
 (a)
 
@@ -1813,9 +1859,11 @@ if it is made before the accused person is called upon to make his defence, he s
 
 if it is made after the accused person is called upon to make his defence, he shall be acquitted. (As amended by S.I. No. 63 of 1964)
 
-##### Section 89 — Permission to conduct prosecution
+##### Section 89
 
 (1) Any magistrate inquiring into or trying any case may permit the prosecution to be conducted by any person, but no person, other than a public prosecutor or other officer generally or specially authorised by the Director of Public Prosecutions in this behalf, shall be entitled to do so without permission.
+
+Permission to conduct prosecution
 
 (2) Any such person or officer shall have the like power of withdrawing from the prosecution as is provided by the last preceding section, and the provisions of that section shall apply to any withdrawal by such person or officer.
 
@@ -1823,7 +1871,7 @@ if it is made after the accused person is called upon to make his defence, he sh
 
 Institution of Proceedings Making of Complaint
 
-##### Section 90 — Institution of proceedings
+##### Section 90
 
 (1) Proceedings may be instituted either by the making of a complaint or by the bringing before a magistrate of a person who has been arrested without warrant.
 
@@ -1855,9 +1903,11 @@ Institution of proceedings
 
 (7) Any person aggrieved by an order made by a magistrate under subsection (6) may appeal to the High Court within fourteen days of the date of such order and the High Court may, if satisfied that the formal charge or complaint, in respect of which the order was made, disclose an offence, direct the magistrate to admit the formal charge or complaint, or may dismiss the appeal. (No. 28 of 1940 as amended by No. 5 of 1962)
 
-##### Section 91 — Issue of summons or warrant
+##### Section 91
 
 (1) Where a charge has been drawn up and signed in accordance with subsection (4) of the last preceding section, the magistrate may, in his discretion, issue either a summons or a warrant to compel the attendance of the accused person before a court having jurisdiction to inquire into or try the offence alleged to have been committed:
+
+Issue of summons or warrant
 
 Provided that a warrant shall not be issued in the first instance unless the complaint has been made upon oath before the magistrate, either by the complainant or by a witness or witnesses.
 
@@ -1865,13 +1915,15 @@ Provided that a warrant shall not be issued in the first instance unless the com
 
 Processes to Compel the Appearance of Accused Persons Summons
 
-##### Section 92 — Form and contents of summons
+##### Section 92
 
 (1) Every summons issued by a court under this Code shall be in writing, in duplicate, and signed by the presiding officer of such court or by such other officer as the Chief Justice may, from time to time, by rule, direct.
 
+Form and contents of summons
+
 (2) Every summons shall be directed to the person summoned, and shall require him to appear, at a time and place to be therein appointed, before a court having jurisdiction to inquire into and deal with the complaint or charge. It shall state shortly the offence with which the person against whom it is issued is charged. (As amended by No. 2 of 1960)
 
-##### Section 93 — Service of summons
+##### Section 93
 
 (1) Every summons shall be served by a police officer, or by an officer of the court issuing it, or other public servant, and shall, if practicable, be served personally on the person summoned, by delivering or tendering to him one of the duplicates of the summons.
 
@@ -1879,13 +1931,13 @@ Processes to Compel the Appearance of Accused Persons Summons
 
 Services of summons
 
-##### Section 94 — Where the person summoned cannot, by the exercise of due diligence, be
+##### Section 94
 
 Where the person summoned cannot, by the exercise of due diligence, be found, the summons may be served by leaving one of the duplicates for him with some adult male member of his family, or with his servant residing with him; and the person with whom the summons is so left shall, if so required by the serving officer, sign a receipt therefor on the back of the other duplicate.
 
 Service when person summoned cannot be found
 
-##### Section 95 — If service, in the manner provided by the two last preceding sections, cannot,
+##### Section 95
 
 If service, in the manner provided by the two last preceding sections, cannot, by the exercise of due diligence, be effected, the serving officer shall affix one of the duplicates of the summons to some conspicuous part of the house or homestead in which the person summoned ordinarily resides, and, thereupon, the summons shall be deemed to have been duly served.
 
@@ -1897,13 +1949,13 @@ may be effected by serving it on the secretary, local manager or other principal
 
 Service on company
 
-##### Section 97 — When a court desires that a summons issued by it shall be served at any place
+##### Section 97
 
 When a court desires that a summons issued by it shall be served at any place outside the local limits of its jurisdiction, it shall send such summons in duplicate to a magistrate within the local limits of whose jurisdiction the person summoned resides or is, to be there served.
 
 Service outside local limits of jurisdiction
 
-##### Section 98 — False claims by
+##### Section 98
 
 (1) Where the officer who has served a summons is not present at the hearing of the case, and in any case where a summons issued by a court has been served outside the local limits of its jurisdiction, an affidavit, purporting to be made before a magistrate, that such summons has been served, and a duplicate of the summons, purporting to be endorsed, in the manner hereinbefore provided, by the person to whom it was delivered or tendered or with whom it was left, shall be admissible in evidence, and the statements made therein shall be deemed to be correct, unless and until the contrary is proved.
 
@@ -1911,7 +1963,7 @@ Proof of service when serving officer not present
 
 (2) The affidavit mentioned in this section may be attached to the duplicate of the summons and returned to the court.
 
-##### Section 99 — Abuse of office
+##### Section 99
 
 (1) Whenever a summons is issued in respect of any offence other than a felony, a magistrate may, if he sees reason to do so, and shall, when the offence with which the accused is charged is punishable only by fine or only by fine and/or imprisonment not exceeding three months, dispense with the personal attendance of the accused, if he pleads guilty in writing or appears by an advocate.
 
@@ -1925,19 +1977,19 @@ Power to dispense with personal attendance of accused
 
 (5) Whenever the attendance of an accused person has been so dispensed with, and his attendance is subsequently required, the cost of any adjournment for such purpose shall be borne, in any event, by the accused. Warrant of Arrest
 
-##### Section 100 — Nothwithstanding the issue of a summons, a warrant may be issued at any
+##### Section 100
 
 Nothwithstanding the issue of a summons, a warrant may be issued at any time before or after the time appointed in the summons for the appearance of the accused. But no such warrant shall be issued unless a complaint or charge has been made upon oath.
 
 Warrant after issue of summons
 
-##### Section 101 — If the accused does not appear at the time and place appointed in and by the
+##### Section 101
 
 If the accused does not appear at the time and place appointed in and by the summons, and his personal attendance has not been dispensed with under section ninety-nine, the court may issue a warrant to apprehend him and cause him to be brought before such court. But no such warrant shall be issued unless a complaint or charge has been made upon oath.
 
 Summons disobeyed
 
-##### Section 102 — Personating public officers
+##### Section 102
 
 (1) Every warrant of arrest shall be under the hand of the Judge or magistrate issuing the same.
 
@@ -1947,7 +1999,7 @@ Form, contents and duration of warrant of arrest
 
 (3) Every such warrant shall remain in force until it is executed, or until it is cancelled by the court which issued it.
 
-##### Section 103 — Threat of injury to persons
+##### Section 103
 
 (1) Any court issuing a warrant for the arrest of any person, in respect of any offence other than murder or treason, may, in its discretion, direct by endorsement on the warrant that, if such person executes a bond with sufficient sureties for his attendance before the court at a specified time and thereafter until otherwise directed by the court, the officer to whom the warrant is directed shall take such security and shall release such person from custody.
 
@@ -1977,7 +2029,7 @@ Warrants to whom directed
 
 (2) When a warrant is directed to more officers or persons than one, it may be executed by all or by any one or more of them.
 
-##### Section 105 — False statements by
+##### Section 105
 
 (1) A magistrate empowered to hold a subordinate court of the first or second class may order any land-holder, farmer or manager of land, within the local limits of his jurisdiction, to assist in the arrest of any escaped convict, or person who has been accused of a cognizable offence and has eluded pursuit.
 
@@ -1991,27 +2043,29 @@ Order for assistance directed to land-holder
 
 (5) If any land-holder, farmer or manager of land to whom such order is directed fails to comply therewith, he shall be liable, on conviction, to a fine not exceeding seven hundred and fifty penalty units or, in default of payment, to imprisonment with or without hard labour for a period not exceeding six months. (As amended by Act No. 13 of 1994)
 
-##### Section 106 — A warrant directed to any police officer may also be executed by any other
+##### Section 106
 
 A warrant directed to any police officer may also be executed by any other police officer whose name is endorsed upon the warrant by the officer to whom it is directed or endorsed.
 
 Execution of warrant directed to police officer
 
-##### Section 107 — The police officer or other person executing a warrant of arrest shall notify the
+##### Section 107
 
 The police officer or other person executing a warrant of arrest shall notify the substance thereof to the person to be arrested, and, if so required, shall show him the warrant.
 
 Notification of substance of warrant
 
-##### Section 108 — The police officer or other person executing a warrant of arrest shall (subject
+##### Section 108
 
 The police officer or other person executing a warrant of arrest shall (subject to the provisions of section one hundred and three as to security), without unnecessary delay, bring the person arrested before the court before which he is required by law to produce such person.
 
 Person arrested to be brought before court without delay
 
-##### Section 109 — A warrant of arrest may be executed at any place in Zambia
+##### Section 109
 
-##### Section 110 — Deceiving witnesses
+A warrant of arrest may be executed at any place in Zambia.
+
+##### Section 110
 
 (1) When a warrant of arrest is to be executed outside the local limits of the jurisdiction of the court issuing the same, such court may, instead of directing such warrant to a police officer, forward the same, by post or otherwise, to any magistrate within the local limits of whose jurisdiction it is to be executed.
 
@@ -2021,7 +2075,7 @@ Forwarding of warrants for execution outside jurisdiction
 
 (2) The magistrate to whom such warrant is so forwarded shall endorse his name thereon, and, if practicable, cause it to be executed in the manner hereinbefore provided within the local limits of his jurisdiction.
 
-##### Section 111 — Destroying evidence
+##### Section 111
 
 (1) When a warrant of arrest directed to a police officer is to be executed outside the local limits of the jurisdiction of the court issuing the same, he shall take it for endorsement to a magistrate within the local limits of whose jurisdiction it is to be executed.
 
@@ -2031,7 +2085,7 @@ Procedure in case of warrant directed to police officer for execution outside ju
 
 (3) Whenever there is reason to believe that the delay occasioned by obtaining the endorsement of the magistrate within the local limits of whose jurisdiction the warrant is to be executed will prevent such execution, the police officer to whom it is directed may execute the same without such endorsement, in any place outside the local limits of the jurisdiction of the court which issued it.
 
-##### Section 112 — Conspiracy to defeat
+##### Section 112
 
 (1) When a warrant of arrest is executed outside the local limits of the jurisdiction of the court by which it was issued, the person arrested shall, unless the court which issued the warrant is within twenty miles of the place of arrest, or is nearer than the magistrate within the local limits of whose jurisdiction the arrest was made, or unless security is taken under section one hundred and three, be taken before the magistrate within the local limits of whose jurisdiction the arrest was made.
 
@@ -2051,13 +2105,13 @@ Irregularities in warrant
 
 Miscellaneous Provisions Regarding Processes
 
-##### Section 114 — Where any person for whose appearance or arrest the magistrate presiding in
+##### Section 114
 
 Where any person for whose appearance or arrest the magistrate presiding in any court is empowered to issue a summons or warrant is present in such court, such magistrate may require such person to execute a bond, with or without sureties, for his appearance in such court.
 
 Power to take bond for appearance
 
-##### Section 115 — When any person who is bound by any bond taken under this Code to appear
+##### Section 115
 
 When any person who is bound by any bond taken under this Code to appear before a court does not so appear, the magistrate presiding in such court may issue a warrant directing that such person be arrested and produced before him.
 
@@ -2073,7 +2127,7 @@ Power of court to order prisoner to be brought before it
 
 (3) Notwithstanding anything to the contrary contained in this Code or in any written law, it is declared for the avoidance of doubt that upon a person being convicted or sentenced by a subordinate court and before the entering of an appeal by such person against the conviction or sentence or both, the subordinate court which convicted or sentenced such person or the High Court has and shall have no power to release that person on bail with or without securities. (As amended by Act No. 6 of 1972)
 
-##### Section 117 — The provisions contained in this Part relating to a summons and warrant, and
+##### Section 117
 
 The provisions contained in this Part relating to a summons and warrant, and their issue, service and execution, shall so far as may be apply to every summons and every warrant of arrest issued under this Code.
 
@@ -2081,7 +2135,7 @@ Provisions of this Part generally applicable to summonses and warrants
 
 Search Warrants
 
-##### Section 118 — Where it is proved on oath to a magistrate that, in fact or according to
+##### Section 118
 
 Where it is proved on oath to a magistrate that, in fact or according to reasonable suspicion, anything upon, by or in respect of which an offence has been committed or anything which is necessary to the conduct of an investigation into any offence is in any building, vessel, carriage, box, receptacle or place, the magistrate may, by warrant (called a search warrant), authorise a police officer or other person therein named to search the building, vessel, carriage, box, receptable or place (which shall be named or described in the warrant) for any such thing, and, if anything searched for be found, to seize it and carry it before the court of the magistrate issuing the warrant or some other court, to be dealt with according to law.
 
@@ -2089,13 +2143,13 @@ Power to issue search warrant
 
 (As amended by No. 28 of 1940)
 
-##### Section 119 — Every search warrant may be issued and executed on a Sunday, and shall be
+##### Section 119
 
 Every search warrant may be issued and executed on a Sunday, and shall be executed between the hours of sunrise and sunset, but a magistrate may, by the warrant, in his discretion, authorise the police officer or other person to whom it is addressed to execute it at any hour.
 
 Execution of search warrant
 
-##### Section 120 — Aiding prisoners to escape
+##### Section 120
 
 (1) Whenever any building or other place liable to search is closed, any person residing in or being in charge of such building or place shall, on demand of the police officer or other person executing the search warrant, and on production of the warrant, allow him free ingress thereto and egress therefrom, and afford all reasonable facilities for a search therein.
 
@@ -2105,7 +2159,7 @@ Persons in charge of closed place to allow ingress thereto and egress therefrom
 
 (3) Where any person in or about such building or place is reasonably suspected of concealing about his person any article for which search should be made, such person may be searched. If such person is a woman, the provisions of section twenty-four shall be observed.
 
-##### Section 121 — Removal, etc., of property
+##### Section 121
 
 (1) When any article is seized and brought before a court, it may be detained until the conclusion of the case or the investigation, reasonable care being taken for its preservation.
 
@@ -2115,7 +2169,7 @@ Detention of property seized
 
 (3) If no appeal is made, or if no person is committed for trail, the court shall direct such thing to be restored to the person from whom it was taken, unless the court sees fit or is authorised or required by law to dispose of it otherwise.
 
-##### Section 122 — The provisions of section one hundred and two (1) and (3), one hundred and
+##### Section 122
 
 The provisions of section one hundred and two (1) and (3), one hundred and four, one hundred and six, one hundred and nine, one hundred and ten and one hundred and eleven shall, so far as may be, apply to all search warrants issued under section one hundred and eighteen.
 
@@ -2123,7 +2177,7 @@ Provisions applicable to search warrants
 
 Provisions as to Bail
 
-##### Section 123 — Frauds and breaches of
+##### Section 123
 
 (1) When any person is arrested or detained, or appears before or is brought before a subordinate court, the High Court or Supreme Court he may, at any time while he is in custody, or at any stage of the proceedings before such court, be admitted to bail upon providing a surety or sureties sufficient, in the opinion of the police officer concerned or court, to secure his appearance, or be released upon his own recognizance if such officer or court thinks fit:
 
@@ -2163,7 +2217,7 @@ Additional conditions of bail bond
 
 (No. 50 of 1957)
 
-##### Section 125 — False information to public
+##### Section 125
 
 (1) As soon as a bail bond has been executed, the person for whose appearance it has been executed shall be released, and, when he is in prison, the court admitting him to bail shall issue an order of release to the officer in charge of the prison, and such officer, on receipt of the order, shall release him.
 
@@ -2171,7 +2225,7 @@ Release from custody
 
 (2) Nothing in this section or in section one hundred and twenty-three shall be deemed to require the release of any person liable to be detained for some matter other than that in respect of which a bail bond was executed. (As amended by No. 50 of 1957)
 
-##### Section 126 — Disobedience of statutory
+##### Section 126
 
 (1) The amount of bail shall, in every case, be fixed with due regard to the circumstances of the case, but shall not be excessive.
 
@@ -2187,7 +2241,7 @@ accepted, or if they afterwards become insufficient, the court may issue a warra
 
 Power to order sufficient bail when that first taken is insufficient
 
-##### Section 128 — Insult to religion of any
+##### Section 128
 
 (1) All or any of the sureties for the appearance and attendance of a person released on bail may, at any time, apply to a magistrate to discharge the bail bond either wholly or so far as it relates to the applicant or applicants.
 
@@ -2197,19 +2251,19 @@ Discharge of sureties
 
 (3) On the appearance of such person pursuant to the warrant, or on his voluntary surrender, the magistrate shall direct the bail bond to be discharged either wholly or so far as it relates to the applicant or applicants, and shall call upon such person to find other sufficient sureties, and, if he fails to do so, may commit him to prison. (As amended by No. 50 of 1957)
 
-##### Section 129 — Where a surety to a bail bond dies before the bond is forfeited, his estate
+##### Section 129
 
 Where a surety to a bail bond dies before the bond is forfeited, his estate shall be discharged from all liability in respect of the bond, but the party who gave the bond may be required to find a new surety. (As amended by No. 50 of 1957)
 
 Death of surety
 
-##### Section 130 — If it is made to appear to any court, by information on oath, that any person
+##### Section 130
 
 If it is made to appear to any court, by information on oath, that any person bound by recognizance is about to leave Zambia, the court may cause him to be arrested, and may commit him to prison until the trial, unless the court shall see fit to admit him to bail upon further recognizance.
 
 Persons bound by recognizance absconding may be committed
 
-##### Section 131 — Uttering words with intent
+##### Section 131
 
 (1) Whenever any person shall not appear at the time and place mentioned in any recognizance entered into by him, the court may, by order, endorse such recognizance and declare the same to be forfeited.
 
@@ -2219,13 +2273,13 @@ Forfeiture of recognizance
 
 (3) A warrant of distress under this section may be executed within the local limits of the jurisdiction of the court which issued it, and it shall authorise the distress and sale of any property belonging to such person and his surety or sureties, without such limits, when endorsed by a magistrate holding a subordinate court of the first or second class within the local limits of whose jurisdiction such property is found.
 
-##### Section 132 — All orders passed under the last preceding section by any magistrate shall be
+##### Section 132
 
 All orders passed under the last preceding section by any magistrate shall be appealable to and may be revised by the High Court.
 
 Appeal from and revision of orders
 
-##### Section 133 — The High Court may direct any magistrate to levy the amount due on a
+##### Section 133
 
 The High Court may direct any magistrate to levy the amount due on a recognizance to appear and attend at the High Court.
 
@@ -2233,7 +2287,7 @@ Power to direct levy of amount due on recognizance
 
 Charges and Informations
 
-##### Section 134 — Every charge or information shall contain, and shall be sufficient if it contains,
+##### Section 134
 
 Every charge or information shall contain, and shall be sufficient if it contains, a statement of the specific offence or offences with which the accused person is charged, together with such particulars as may be necessary for giving reasonable information as to the nature of the offence charged.
 
@@ -2241,7 +2295,7 @@ Offence to be specified in charge or information with necessary particulars
 
 (No. 28 of 1940)
 
-##### Section 135 — Abduction
+##### Section 135
 
 (1) Any offences, whether felonies or misdemeanours, may be charged together in the same cahrge of or information if the offences charged are founded on the same facts or form, or are a part of, a series of offences of the same or a similar character.
 
@@ -2251,7 +2305,7 @@ Joinder of counts in a charge or information
 
 (3) Where, before trial, or at any stage of a trial, the court is of opinion that a person accused may be embarrassed in his defence by reason of being charged with more than one offence in the same charge or information, or that for any other reason it is desirable to direct that any person should be tried separately for any one or more offences charged in a charge or information, the court may order a separate trial of any count or counts of such charge or information. (No. 28 of 1940)
 
-##### Section 136 — The following persons may be joined in one charge or information and may be
+##### Section 136
 
 The following persons may be joined in one charge or information and may be tried together, namely:
 
@@ -2279,7 +2333,7 @@ Joinder of two or more accused in one charge or information Cap. 87 Cap. 87
 
 (No. 28 of 1940)
 
-##### Section 137 — The following provisions shall apply to all charges and informations and,
+##### Section 137
 
 The following provisions shall apply to all charges and informations and, notwithstanding any rule of law or practice, a charge or an information shall, subject to the provisions of this Code, not be open to objection in respect of its form or contents if it is framed in accordance with the provisions of this Code:
 
@@ -2357,13 +2411,13 @@ Figures and abbreviations may be used for expressing anything which is commonly 
 
 Previous Conviction or Acquittal
 
-##### Section 138 — A person who has been once tried by a court of competent jurisdiction for an
+##### Section 138
 
 A person who has been once tried by a court of competent jurisdiction for an offence, and convicted or acquitted of such offence, shall, while such conviction or acquittal remains in force, not be liable to be tried again on the same facts for the same offence.
 
 Persons convicted or acquitted not to be tried again for same offence
 
-##### Section 139 — A person convicted or acquitted of any offence may be afterwards tried for
+##### Section 139
 
 A person convicted or acquitted of any offence may be afterwards tried for any other offence with which he might have been charged on the former trial under subsection (1) of section one hundred and thirty-five.
 
@@ -2371,19 +2425,19 @@ Person may be tried again for separate offence
 
 (No. 28 of 1940)
 
-##### Section 140 — A person convicted or acquitted of any act causing consequences which,
+##### Section 140
 
 A person convicted or acquitted of any act causing consequences which, together with such act, constitute a different offence from that for which such person was convicted or acquitted, may be afterwards tried for such different offence, if the consequences had not happened, or were not known to the court to have happened, at the time when he was acquitted or convicted.
 
 Consequences supervening or not known at time of former trial
 
-##### Section 141 — A person convicted or acquitted of any offence constituted by any acts may,
+##### Section 141
 
 A person convicted or acquitted of any offence constituted by any acts may, notwithstanding such conviction or acquittal, be subsequently charged with and tried for any other offence constituted by the same acts which he may have committed, if the court by which he was first tried was not competent to try the offence with which he is subsequently charged.
 
 Where original court was not competent to try subsequent charge
 
-##### Section 142 — Householder permitting
+##### Section 142
 
 (1) In any inquiry, trial or other proceeding under this Code, a previous conviction may be proved, in addition to any other mode provided by any law for the time being in force-
 
@@ -2411,7 +2465,7 @@ In this section, "prescribed" means prescribed by rules made by the Chief (As am
 
 Compelling Attendance of Witnesses
 
-##### Section 143 — If it is made to appear that material evidence can be given by, or is in the
+##### Section 143
 
 If it is made to appear that material evidence can be given by, or is in the possession of, any person, it shall be lawful for a court having cognizance of any criminal cause or matter to issue a summons to such person requiring his attendance before such court, or requiring him to bring and produce to such court, for the purpose of evidence, all documents and writings in his possession or power, which may be specified or otherwise sufficiently described in the summons.
 
@@ -2419,25 +2473,25 @@ Summons for witness
 
 (As amended by No. 28 of 1940)
 
-##### Section 144 — If, without sufficient excuse, a witness does not appear in obedience to the
+##### Section 144
 
 If, without sufficient excuse, a witness does not appear in obedience to the summons, the court, on proof of the proper service of the summons a reasonable time before, may issue a warrant to bring him before the court at such time and place as shall be therein specified.
 
 Warrant for witness who disobeys summons
 
-##### Section 145 — If the court is satisfied that any person will not attend as a witness unless
+##### Section 145
 
 If the court is satisfied that any person will not attend as a witness unless compelled to do so, it may at once issue a warrant for the arrest and production of such person before the court at a time and place to be therein specified.
 
 Warrant for witness in first instance
 
-##### Section 146 — When any witness is arrested under a warrant, the court may, on his
+##### Section 146
 
 When any witness is arrested under a warrant, the court may, on his furnishing security by recognizance, to the satisfaction of the court, for his appearance at the hearing of the case, order him to be released from custody, or shall, on his failing to furnish such security, order him to be detained for production at such hearing.
 
 Mode of dealing with witness arrested under warrant
 
-##### Section 147 — Woman aiding, etc., for
+##### Section 147
 
 (1) Any court, desirous of examining as a witness, in any case pending before it, any person confined in any prison within Zambia, may issue an order to the officer in charge of such prison requiring him to bring such prisoner in proper custody, at a time to be named in the order, before the court for examination.
 
@@ -2459,7 +2513,7 @@ Penalty for non-attendance of witness
 
 Examination of Witnesses
 
-##### Section 149 — Where the person charged is called by the defence as a witness to the facts
+##### Section 149
 
 Where the person charged is called by the defence as a witness to the facts of the case or to make a statement without being sworn he shall be heard immediately after the close of the evidence for the prosecution.
 
@@ -2467,7 +2521,7 @@ Procedure where person charged is called for defence
 
 (As amended by Act No. 6 of 1972)
 
-##### Section 150 — Conspiracy to defile
+##### Section 150
 
 (1) Whenever any person, appearing either in obedience to a summons or by virtue of a warrant, or being present in court and being verbally required by the court to give evidence-
 
@@ -2495,7 +2549,7 @@ without, in any such case, offering any sufficient excuse for such refusal or ne
 
 (3) Nothing herein contained shall affect the liability of any such person to any other punishment or proceeding for refusing or neglecting to do what is so required of him, or shall prevent the court from disposing of the case in the meantime, according to any other sufficient evidence taken before it.
 
-##### Section 151 — Attempt to procure
+##### Section 151
 
 (1) In any inquiry or trial, the wife or husband of the person charged shall be a competent witness for the prosecution or defence without the consent of such person-
 
@@ -2527,7 +2581,7 @@ Cases where wife or husband may be called without consent of accused
 
 Cap. 87
 
-##### Section 152 — Woman attempting to
+##### Section 152
 
 (1) Whenever, in the course of any inquiry, trial or other proceeding under this Code, the High Court is satisfied that the examination of a witness is necessary for the ends of justice, and that the attendance of such witness cannot be procured without an amount of delay, expense or inconvenience which, in the circumstances of the case, would be unreasonable, the court may issue a commission to any magistrate, within the local limits of whose jurisdiction such witness resides, to take the evidence of such witness.
 
@@ -2535,7 +2589,7 @@ Issue of commission for examination of witness
 
 (2) The magistrate to whom the commission is issued shall proceed to the place where the witness is, or shall summon the witness before him, and shall take down his evidence in the same manner and may, for this purpose, execise the same powers as in the case of a trial.
 
-##### Section 153 — Supplying drugs or
+##### Section 153
 
 (1) The parties to any proceeding under this Code in which a commission is issued may respectively forward any interrogatories in writing which the court directing the commission may think relevant to the issue, and the magistrate to whom the commission is directed shall examine the witness upon such interrogatories.
 
@@ -2543,19 +2597,19 @@ Parties may examine witness
 
 (2) Any such party may appear before such magistrate by advocate, or, if not in custody, in person, and may examine, cross-examine and re-examine (as the case may be) the said witness.
 
-##### Section 154 — Whenever, in the course of any inquiry, trial or other proceeding under this
+##### Section 154
 
 Whenever, in the course of any inquiry, trial or other proceeding under this Code before any magistrate, it appears that a commission ought to be issued for the examination of a witness whose evidence is necessary for the ends of justice, and that the attendance of such witness cannot be procured without an amount of delay, expense or inconvenience which, in the circumstances of the case, would be unreasonable, such magistrate shall apply to the High Court, stating the reasons for the application; and the High Court may either issue a commission, in the manner hereinbefore provided, or reject the application.
 
 Power of magistrate to apply for issue of commission
 
-##### Section 155 — After any commission issued under section one hundred and fifty-two or one
+##### Section 155
 
 After any commission issued under section one hundred and fifty-two or one hundred and fifty-four has been duly executed, it shall be returned, together with the deposition of the witness examined thereunder, to the court in which the case is depending, and the commission, the return thereto, and the deposition shall be open, at all reasonable times, to inspection by the parties, and may, subject to all just exceptions, be read in evidence in the case by either party, and shall form part of the record.
 
 Return of commission
 
-##### Section 156 — In every case in which a commission is issued under section one hundred and
+##### Section 156
 
 In every case in which a commission is issued under section one hundred and fifty-two or one hundred and fifty-four, the inquiry, trial or other proceeding may be adjourned for a specified time reasonably sufficient for the execution and return of the commission.
 
@@ -2563,7 +2617,7 @@ Adjournment of inquiry or trial
 
 Evidence for Defence
 
-##### Section 157 — Every person charged with an offence, and the wife or husband, as the case
+##### Section 157
 
 Every person charged with an offence, and the wife or husband, as the case may be, of the person so charged, shall be a competent witness for the defence at every stage of the proceedings, whether the person so charged is charged solely or jointly with any other person:
 
@@ -2629,7 +2683,7 @@ Evidence from box
 
 (viii)nothing in this section shall affect the provisions of section two hundred and twenty-eight or any right of the person charged to make a statement without being sworn.
 
-##### Section 158 — Where the person charged is called by the defence as a witness to the facts
+##### Section 158
 
 Where the person charged is called by the defence as a witness to the facts of the case or to make a statement without being sworn, he shall be heard immediately after the close of the evidence for the prosecution.
 
@@ -2671,7 +2725,7 @@ Provided that the Director of Public Prosecutions or Solicitor-General, when app
 
 Procedure in Case of the Insanity or Other Incapacity of an Accused Person
 
-##### Section 160 — Where on the trial of a person charged with an offence punishable by death or
+##### Section 160
 
 Where on the trial of a person charged with an offence punishable by death or imprisonment the question arises, at the instance of the defence or otherwise, whether the accused is, by reason of unsoundness of mind or of any other disability, incapable of making a proper defence, the court shall inquire into and determine such question as soon as it arises.
 
@@ -2679,7 +2733,7 @@ Question whether accused capable of making his defence
 
 (No. 76 of 1965 as amended by No. 18 of 1966)
 
-##### Section 161 — Where a court, in accordance with the provisions of section one hundred and
+##### Section 161
 
 Where a court, in accordance with the provisions of section one hundred and sixty, finds an accused incapable of making a proper defence, it shall enter a plea of "not guilty" if it has not already done so and, to the extent that it has not already done so, shall hear the evidence for the prosecution and (if any) for the defence.
 
@@ -2739,7 +2793,7 @@ Discharge of persons detained during President's pleasure
 
 (2) The President may at any time by order revoke an order of conditional discharge made under subsection (1) and thereupon the person concerned shall be detained during the President's pleasure as though he had never been discharged from detention. (No. 76 of 1965)
 
-##### Section 165 — Fraudulent pretence
+##### Section 165
 
 (1) If on the advice of a medical officer the President, having regard to the requirements of the Constitution, considers that the question of the capacity to make a proper defence of any person detained following an order under section one hundred and sixty-one should be re-examined, he shall by order direct that such person be taken before a court and the court shall inquire into and determine that question.
 
@@ -2765,7 +2819,7 @@ at the time of the act or omission in respect of which an accused person is char
 
 shall not be determined in any preliminary inquiry held under Part VII and, for the purposes of any decision whether an accused should be committed for trial, the accused shall be deemed to have been at all material times free from any such disability. (No. 76 of 1965)
 
-##### Section 167 — Dishonestly or fraudulently going through ceremony
+##### Section 167
 
 (1) Where an act or omission is charged against any person as an offence, and it is given in evidence on the trial of such person for that offence that he was insane so as not to be responsible for his actions at the time when the act was done or omission made, then, if it appears to the court before which such person is tried that he did the act or made the omission charged but was insane as aforesaid at the time when he did or made the same, the court shall make a special finding to the effect that the accused was not guilty by reason of insanity.
 
@@ -2775,7 +2829,7 @@ shall not be determined in any preliminary inquiry held under Part VII and, for 
 
 Defence of insanity at the time of the offence
 
-##### Section 167A — The provisions of sections one hundred and sixty-three, one hundred and
+##### Section 167A
 
 The provisions of sections one hundred and sixty-three, one hundred and sixty-four, one hundred and sixty-five, one hundred and sixty-six and one hundred and sixty-seven shall apply mutatis mutandis to any person detained during the President's pleasure in terms of an order made under section one hundred and fifty-one of Chapter 7 of the 1965 Edition of the Laws before the *(1)commencement of Act No. 76 of 1965.
 
@@ -2787,7 +2841,7 @@ Application to persons detained in terms of orders made under former provisions
 
 Judgment
 
-##### Section 168 — Desertion of children
+##### Section 168
 
 (1) The judgment in every trial in a subordinate court shall be pronounced, or the substance of such judgment shall be explained, in open court, either immediately after the termination of the trial or, without undue delay, at some subsequent time, of which notice shall be given to the parties and their advocates, if any:
 
@@ -2801,7 +2855,7 @@ Provided that the whole judgment shall be read out by the presiding magistrate, 
 
 (4) Nothing in this section shall be construed to limit, in any way, the provisions of section three hundred and fifty-three.
 
-##### Section 169 — Neglecting to provide
+##### Section 169
 
 (1) The judgment in every trial in any court shall, except as otherwise expressly provided by this Code, be prepared by the presiding officer of the court and shall contain the point or points for determination, the decision thereon and the reasons for the decision, and shall be dated and signed by the presiding officer in open court at the time of pronouncing it.
 
@@ -2833,13 +2887,13 @@ Provided that in either case the judgment shall be dated and signed by the Judge
 
 (4) Where a magistrate is transferred to another District, he shall complete any proceedings already commenced before him.
 
-##### Section 170 — On the application of the accused person, a copy of the judgment, or, when
+##### Section 170
 
 On the application of the accused person, a copy of the judgment, or, when he so desires, a translation in his own language, if practicable, shall be given to him without delay. Such copy or translation shall be given free of cost.
 
 Copy of judgment, etc., to be given to accused on application
 
-##### Section 171 — Child stealing
+##### Section 171
 
 (1) The court before which any person employed in the public service is convicted of a prescribed offence shall enter judgment, and civil jurisdiction is hereby conferred upon it for that purpose, for the amount of the value of the property in respect of which the offence was committed-
 
@@ -2863,7 +2917,7 @@ Costs, Compensation and Damages
 
 Cap. 87 Cap. 87
 
-##### Section 172 — Committing common
+##### Section 172
 
 (1) It shall be lawful for a Judge or a magistrate to order any person convicted before him of an offence to pay such reasonable costs, as to such Judge or magistrate may seem fit, in addition to any other penalty imposed and such costs shall be paid, where the prosecution was in the charge of a public prosecutor, into the general revenues of the Republic, and in any other case to the person by or on behalf of whom the prosecution was instituted.
 
@@ -2875,19 +2929,19 @@ Provided that no such order shall be made if the Judge or magistrate shall consi
 
 (3) The costs awarded under this section may be awarded in addition to any compensation awarded under section one hundred and seventy-four. (As amended by No. 5 of 1962 and S.I. No. 63 of 1964)
 
-##### Section 173 — An appeal shall lie from any order of a subordinate court awarding costs,
+##### Section 173
 
 An appeal shall lie from any order of a subordinate court awarding costs, under the last preceding section, to the High Court. The appellate court shall have power to give such costs of the appeal as it shall deem reasonable.
 
 Order to pay costs appealable
 
-##### Section 174 — If, on the dismissal of any case, any court shall be of opinion that the charge
+##### Section 174
 
 If, on the dismissal of any case, any court shall be of opinion that the charge was frivolous or vexatious, such court may order the complainant to pay to the accused person a reasonable sum, as compensation for the trouble and expense to which such person may have been put by reason of such charge, in addition to his costs.
 
 Compensation in case of frivolous or vexatious charge
 
-##### Section 175 — Keeping or permitting the
+##### Section 175
 
 (1) When an accused person is convicted by any court of any offence not punishable with death and it appears from the evidence that some other person, whether or not he is the prosecutor or a witness in the case, has suffered material loss or personal injury in consequence of the offence committed and that substantial compensation is, in the opinion of the court, recoverable by that person by civil suit, such court may, in its discretion and in addition to any other lawful punishment, order the convicted person to pay to that other person such compensation, in kind or in money, as the court deems fair and reasonable:
 
@@ -2899,13 +2953,13 @@ Provided that in no case shall the amount or value of the compensation awarded e
 
 (3) Any order for compensation under this section shall be subject to appeal and no payment of compensation shall be made before the period allowed for presenting the appeal has elapsed or, if an appeal be presented, before the decision of the appeal. (No. 28 of 1940)
 
-##### Section 176 — The sums allowed for costs or compensation shall, in all cases, be specified
+##### Section 176
 
 The sums allowed for costs or compensation shall, in all cases, be specified in the conviction or order, and the same shall be recoverable in like manner as any penalty may be recovered under this Code; and, in default of payment of such costs or compensation or of distress as hereinafter provided, the person in default shall be liable to imprisonment with or without hard labour for a term not exceeding three months, unless such costs or compensation shall be sooner paid.
 
 Costs and compensation to be specified in order; how recoverable
 
-##### Section 177 — Trafficking in obscene
+##### Section 177
 
 (1) Whenever any court imposes a fine, or confirms on appeal, revision or otherwise a sentence of fine, or a sentence of which a fine forms part, the court may, when passing judgment, order the whole or any part of the fine recovered to be applied-
 
@@ -2925,7 +2979,7 @@ Compensation recovered to be taken into account in subsequent civil suit
 
 (As amended by No. 28 of 1940)
 
-##### Section 178 — Where, in a charge of stealing, dishonest receiving or fraudulent conversion,
+##### Section 178
 
 Where, in a charge of stealing, dishonest receiving or fraudulent conversion, the court shall be of opinion that the evidence is insufficient to support the charge, but that it establishes wrongful conversion or detention of property, such court may order that such property be restored, and may also award damages. Any damages awarded shall be recoverable as a penalty.
 
@@ -2979,7 +3033,7 @@ Stolen property. Cap. 146
 
 Miscellaneous Provisions
 
-##### Section 181 — Being a rogue or vagabond
+##### Section 181
 
 (1) When a person is charged with an offence consisting of several particulars, a combination of some only of which constitutes a complete minor offence, and such combination is proved but the remaining particulars are not proved, he may be convicted of the minor offence although he was not charged with it.
 
@@ -2987,7 +3041,7 @@ When offence proved is included in offence charged
 
 (2) When a person is charged with an offence and facts are proved which reduce it to a minor offence, he may be convicted of the minor offence although he was not charged with it. (No. 28 of 1940)
 
-##### Section 182 — When a person is charged with an offence, he may be convicted of having
+##### Section 182
 
 When a person is charged with an offence, he may be convicted of having attempted to commit that offence, although he was not charged with the attempt.
 
@@ -2995,7 +3049,7 @@ Person charged with any offence may be convicted of attempt
 
 (No. 28 of 1940)
 
-##### Section 183 — Doing any act likely to
+##### Section 183
 
 (1) Where a person is charged with treason and the facts proved in evidence authorise a conviction for treason-felony and not for treason, he may be convicted of treason-felony although he was not charged with that offence.
 
@@ -3003,7 +3057,7 @@ Person charged with any offence may be convicted of attempt
 
 Person charged with treason may be convicted of treason-felony and person charged with treason or treason-felony may be convicted of sedition
 
-##### Section 184 — Adulteration of food or
+##### Section 184
 
 (1) When a woman is charged with the murder of her child, being a child under the age of twelve months, and the court is of opinion that she, by any wilful act or omission, caused its death but at the time of the act or omission she had not fully recovered from the effect of giving birth to such child and that by reason thereof or by reason of the effect of lactation consequent upon the birth of the child the balance of her mind was then disturbed, she may, notwithstanding that the circumstances were such that but for the provisions of section two hundred and three of the Penal Code she might be convicted of murder, be convicted of the offence of infanticide although she was not charged with it.
 
@@ -3019,13 +3073,13 @@ Cap. 87
 
 (4) When a person is charged with the murder or infanticide of any child or with child destruction and the court is of opinion that he is not guilty of any of the said offences but that he is guilty of the offence of concealment of birth, he may be convicted of the offence of concealment of birth although he was not charged with it. (No. 28 of 1940)
 
-##### Section 185 — When a person is charged with manslaughter in connection with the driving of
+##### Section 185
 
 When a person is charged with manslaughter in connection with the driving of a motor vehicle by him and the court is of the opinion that he is not guilty of that offence, but that he is guilty of an offence under subsection (1) of section one hundred and ninety-six of the Roads and Road Traffic Act (relating to reckless or dangerous driving), or under any written law in substitution therefor, he may be convicted of that offence although he was not charged with it. (No. 28 of 1940)
 
 Person charged with manslaughter in connection with the driving of a motor vehicle may be convicted of reckless or dangerous driving. Cap. 464
 
-##### Section 186 — Adulteration of drugs
+##### Section 186
 
 (1) When a person is charged with rape and the court is of opinion that he is not guilty of that offence but that he is guilty of an offence under one of sections one hundred and thirty-seven, one hundred and thirty-eight, one hundred and forty-one and one hundred and fifty-nine of the Penal Code, he may be convicted of that offence although he was not charged with it.
 
@@ -3041,7 +3095,7 @@ Cap. 87
 
 (No. 28 of 1940)
 
-##### Section 187 — When a person is charged with an offence under one of sections three
+##### Section 187
 
 When a person is charged with an offence under one of sections three hundred and one to three hundred and five of the Penal Code and the court is of opinion that he is not guilty of that offence but that he is guilty of any other offence under another of the said sections, he may be convicted of that other offence although he was not charged with it:
 
@@ -3049,7 +3103,7 @@ Person charged with burglary, etc., may be convicted of kindred offence. Cap. 14
 
 Provided that, in such case, the punishment imposed shall not exceed the maximum punishment which may be imposed for the offence with which the accused was charged. (No. 28 of 1940)
 
-##### Section 188 — Fouling water of public
+##### Section 188
 
 (1) When a person is charged with stealing anything and-
 
@@ -3073,13 +3127,13 @@ Cap. 87
 
 (2) When a person is charged with obtaining anything capable of being stolen by false pretences with intent to defraud, and it is proved that he stole the thing, he may be convicted of the offence of stealing although he was not charged with it. (No. 28 of 1940 as amended by No. 47 of 1955)
 
-##### Section 189 — The provisions of sections one hundred and eighty-one to one hundred and
+##### Section 189
 
 The provisions of sections one hundred and eighty-one to one hundred and eighty-eight shall be construed as in addition to, and not in derogation of, the provisions of any other Act and the other provisions of this Code, and the provisions of sections one hundred and eighty-two to one hundred and eighty-eight shall be construed as being without prejudice to the generality of the provisions of section one hundred and eighty-one. (No. 28 of 1940)
 
 Construction of sections 181 to 188
 
-##### Section 190 — If, on any trial for misdemeanour, the facts proved in evidence amount to a
+##### Section 190
 
 If, on any trial for misdemeanour, the facts proved in evidence amount to a felony, the accused shall not be therefore entitled to be acquitted of such misdemeanour; and no person tried for such misdemeanour shall be liable afterwards to be prosecuted for felony on the same facts, unless the court before which such trial may be had shall think fit, in its discretion, to discharge such person in respect of the misdemeanour and to direct such person to be prosecuted for felony, whereupon such person may be dealt with as if not previously put on trial for misdemeanour.
 
@@ -3089,13 +3143,15 @@ Person charged with misdemeanour not to be acquitted if felony proved
 
 TRIALSPART V MODE OF TAKING AND RECORDING EVIDENCE IN INQUIRIES AND TRIALS
 
-##### Section 191 — Evidence to be taken in presence of accused
+##### Section 191
 
 Except as otherwise expressly provided, all evidence taken in any inquiry or trial under this Code shall be taken in the presence of the accused, or, when his personal attendance has been dispensed with, in the presence of his advocate (if any).
 
+Evidence to be taken in presence of accused
+
 (No. 33 of 1972)
 
-##### Section 191A — Reports by medical officers in public service
+##### Section 191A
 
 (1) The contents of any document purporting to be a report under the hand of a medical officer employed in the public service upon any matter relevant to the issue in any criminal proceedings shall be admitted in evidence in such proceedings to prove the matters stated therein:
 
@@ -3121,9 +3177,11 @@ Cap. 297
 
 (No. 33 of 1972)
 
-##### Section 192 — Evidence of analyst
+##### Section 192
 
 (1) Whenever any fact ascertained by any examination or process requiring chemical or bacteriological skill is or may become relevant to the issue in any criminal proceedings, a document purporting to be an affidavit relating to any such examination or process shall, if purporting to have been made by any person qualified to carry out such examination or process, who has ascertained any such fact by means of any such examination or process, be admissible in evidence in such proceedings to prove the matters stated therein:
+
+Evidence of analyst
 
 Provided that-
 
@@ -3137,15 +3195,19 @@ at the request of the accused, made not less than seven days before the trial, s
 
 (2) Nothing in this section contained shall be deemed to affect any provision of any written law under which any certificate or other document is made admissible in evidence, and the provisions of this section shall be deemed to be additional to, and not in substitution of, any such provision. (No. 1 of 1936 as amended by No. 11 of 1963)
 
-##### Section 193 — Evidence of photographic process
+##### Section 193
 
 Where any photograph is or may become relevant to the issue in any criminal proceedings, a document purporting to be an affidavit made by the person who processed such photograph shall be admissible in evidence in any such proceedings as proof of such processing:
 
+Evidence of photographic process
+
 Provided that the court in which any such document is produced may, if it thinks fit, summon such person to give evidence orally. (No. 50 of 1957)
 
-##### Section 194 — Evidence of plans, theft of postal matters and goods in transit on railways
+##### Section 194
 
 (1) In any criminal proceedings, a certificate purporting to be signed by a police officer or any other person authorised under rules made in that behalf by the Chief Justice, by statutory instrument, and certifying that a plan or drawing exhibited thereto is a plan or drawing made by him of the place or object specified in the certificate and that the plan or drawing is correctly drawn to a scale so specified and clearly indicates, where applicable, the direction of North in relation to the places or objects depicted thereon, shall be evidence of the relative positions of the things shown on the plan or drawing.
+
+Evidence of plans, theft of postal matters and goods in transit on railways
 
 (2) In any proceedings for an offence consisting of the stealing of goods in the possession of the Zambia Railways, or receiving or retaining goods so stolen knowing them to have been stolen, or for the theft of postal matter under the Penal Code, or for an offence under the Postal Services Act, a statutory declaration made by any person-
 
@@ -3177,27 +3239,33 @@ if that person, not later than three days before the hearing or trial or within 
 
 if the court before whom the said proceedings are brought requires the attendance at the trial of the person who signed the certificate or the person by whom the declaration was made, as the case may be. (No. 16 of 1959)
 
-##### Section 195 — Interpretation of evidence to accused or his advocate
+##### Section 195
 
 (1) Whenever any evidence is given in a language not understood by the accused, and he is present in person, it shall be interpreted to him in open court in a language understood by him.
 
 (2) If he appears by advocate, and the evidence is given in a language other than the English language, and not understood by the advocate, it shall be interpreted to such advocate in the English language.
 
+Interpretation of evidence to accused or his advocate
+
 (3) When documents are put in for the purpose of formal proof, it shall be in the discretion of the court to cause to be interpreted as much thereof as appears necessary.
 
-##### Section 196 — Remarks respecting demeanour of witness
+##### Section 196
 
 A magistrate shall record the sex and approximate age of each witness, and may also record such remarks (if any) as he thinks material respecting the demeanour of any witness whilst under examination.
 
-### PART VI — PROCEDURE IN TRIALS BEFORE SUBORDINATE COURTSPART VI
+Remarks respecting demeanour of witness
+
+### PART VI — PROCEDURE IN TRIALS BEFORE SUBORDINATE COURTS
 
 PROCEDURE IN TRIALS BEFORE SUBORDINATE COURTS
 
 Provisions Relating to the Hearing and Determination of Cases
 
-##### Section 197 — Trials in subordinate courts
+##### Section 197
 
 (1) All trials in subordinate courts shall be held before a magistrate sitting alone, or before a magistrate sitting with the aid of assessors (if the presiding magistrate so decides), the number of whom shall be two or more, as the court thinks fit:
+
+Trials in subordinate courts
 
 Provided always that every trial on a charge of treason or murder in a subordinate court shall be held with the aid of assessors, if assessors are procurable therefor.
 
@@ -3213,43 +3281,57 @@ no provisions relating to the inclusion of a count charging a previous convictio
 
 the recognizances of witnesses bound to appear and give evidence at such trial before the High Court shall be deemed, for all purposes, to have been executed as if the obligations to attend the High Court had included attendance at any court to which the case might be transferred.
 
-##### Section 198 — Trials with assessors
+##### Section 198
 
 If a trial is held in a subordinate court with the aid of assessors, all the provisions in this Code contained as to a trial with assessors in the High Court shall apply, so far as the same are applicable, to a trial held with assessors in a subordinate court.
 
-##### Section 199 — Non-appearance of complainant at hearing
+Trials with assessors
+
+##### Section 199
 
 If, in any case which a subordinate court has jurisdiction to hear and determine, the accused person appears in obedience to the summons served upon him at the time and place appointed in the sumons for the hearing of the case or is brought before court under arrest, then, if the complainant, having had notice of the time and place appointed for the hearing of the charge, does not appear, the court shall dismiss the charge, unless, for some reason, it shall think it proper to adjourn the hearing of the case until some other date, upon such terms as it shall think fit, in which event it may, pending such adjourned hearing, either admit the accused to bail or remand him to prison, or take such security for his appearance as the court shall think fit.
 
+Non-appearance of complainant at hearing
+
 (As amended by No. 28 of 1940)
 
-##### Section 200 — Appearance of both parties
+##### Section 200
 
 If, at the time appointed for the hearing of the case, both the complainant and the accused person appear before the court which is to hear and determine the charge, or if the complainant appears and the personal attendance of the accused person has been dispensed with under section ninety-nine, the court shall proceed to hear the case.
 
-##### Section 201 — Withdrawal of complaint
+Appearance of both parties
+
+##### Section 201
 
 If a complainant, at any time before a final order is passed in any case under this Part, satisfies the court that there are sufficient grounds for permitting him to withdraw his complaint, the court may permit him to withdraw the same, and shall, thereupon, acquit the accused.
 
-##### Section 202 — Adjournment
+Withdrawal of complaint
+
+##### Section 202
 
 Before or during the hearing of any case, it shall be lawful for the court, in its discretion, to adjourn the hearing to a certain time and place, to be then appointed and stated in the presence and hearing of the party or parties or their respective advocates then present, and, in the meantime, the court may suffer the accused person to go at large, or may commit him to prison, or may release him, upon his entering into a recognizance, with or without sureties, at the discretion of the court, conditioned for his appearance at the time and place to which such hearing or further hearing shall be adjourned:
 
+Adjournment
+
 Provided that no such adjournment shall be for more than thirty clear days, or, if the accused person has been committed to prison, for more than fifteen clear days, the day following that on which the adjournment is made being counted as the first day. (As amended by No. 5 of 1962)
 
-##### Section 203 — Non-appearance of parties after adjournment
+##### Section 203
 
 (1) If, at the time or place to which the hearing or further hearing shall be adjourned, the accused person shall not appear before the court which shall have made the order of adjournment, it shall be lawful for such court, unless the accused person is charged with felony, to proceed with the hearing or further hearing, as if the accused were present, and, if the complainant shall not appear, the court may dismiss the charge, with or without costs, as the court shall think fit.
 
 (2) If the court convicts the accused person in his absence, it may set aside such conviction, upon being satisfied that the cause of his absence was reasonable, and that he had a reasonable defence on the merits.
 
+Non-appearance of parties after adjournment
+
 (3) Any sentence passed under subsection (1) shall be deemed to commence from the date of apprehension subsequent to judgment, and the person effecting such apprehension shall endorse the date thereof on the back of the warrant of commitment.
 
 (4) If the accused person who has not appeared as aforesaid is charged with felony, or if the court, in its discretion, refrains from convicting the accused in his absence, the court shall issue a warrant for the apprehension of the accused person and cause him to be brought before the court.
 
-##### Section 204 — Accused to be called upon to plead
+##### Section 204
 
 (1) The substance of the charge or complaint shall be stated to the accused person by the court, and he shall be asked whether he admits or denies the truth of the charge:
+
+Accused to be called upon to plead
 
 Provided that where the charge or complaint contains a count charging the accused person with having been previously convicted of any offence, the procedure prescribed by section two hundred and seventy-five shall, mutatis mutandis, be applied.
 
@@ -3259,7 +3341,7 @@ Provided that where the charge or complaint contains a count charging the accuse
 
 (4) If the accused person refuses to plead, the court shall order a plea of "not guilty" to be entered for him. (As amended by No. 50 of 1957)
 
-##### Section 205 — Procedure on plea of "not guilty"
+##### Section 205
 
 (1) If the accused person does not admit the truth of the charge, the court shall proceed to hear the complainant and his witnesses and other evidence, if any.
 
@@ -3267,31 +3349,41 @@ Provided that where the charge or complaint contains a count charging the accuse
 
 (3) If the accused person does not employ an advocate, the court shall, at the close of the examination of each witness for the prosecution, ask the accused person whether he wishes to put any questions to that witness, and shall record his answer.
 
-##### Section 206 — Acquittal
+Procedure on plea of "not guilty"
+
+##### Section 206
 
 If, at the close of the evidence in support of the charge, it appears to the court that a case is not made out against the accused person sufficiently to require him to make a defence, the court shall dismiss the case, and shall forthwith acquit him.
 
+Acquittal
+
 (As amended by No. 2 of 1960)
 
-##### Section 207 — The defence
+##### Section 207
 
 (1) At the close of the evidence in support of the charge, if it appears to the court that a case is made out against the accused person sufficiently to require him to make a defence, the court shall again explain the substance of the charge to the accused and shall inform him that he has the right to give evidence on his own behalf and that, if he does so, he will be liable to cross-examination, or to make a statement not on oath from the dock, and shall ask him whether he has any witnesses to examine or other evidence to adduce in his defence, and the court shall then hear the accused and his witnesses and other evidence, if any.
 
+The defence
+
 (2) If the accused person states that he has witnesses to call, but that they are not present in court, and the court is satisfied that the absence of such witnesses is not due to any fault or neglect of the accused person, and that there is likelihood that they could, if present, give material evidence on behalf of the accused person, the court may adjourn the trial and issue process, or take other steps, to compel the attendance of such witnesses. (As amended by No. 28 of 1940 and No. 5 of 1962)
 
-##### Section 208 — Defence
+##### Section 208
 
 Unless the only witness to the facts of the case called by the defence is the accused, the accused person or his advocate may then open his case, stating the facts or law on which he intends to rely, and making such comments as he thinks necessary on the evidence for the prosecution. If an accused person wishes to give evidence or to make an unsworn statement on his own behalf, he shall do so first, and thereafter he or his advocate may examine his witnesses, and, after their cross-examination and re-examination, if any, may sum up his case.
 
+Defence
+
 (No. 16 of 1959 as amended by No. 6 of 1972)
 
-##### Section 209 — Procedure where defence calls no witnesses other than accused
+##### Section 209
 
 (1) If the only witness to the facts of the case called by the defence is the accused, or if the accused elects to make an unsworn statement without calling any witnesses, the accused shall forthwith give his evidence or make his unsworn statement, as the case may be.
 
 (2) At the conclusion of such evidence or unsworn statement, the prosecutor shall then have the right to sum up the case against the accused.
 
 (3) The court shall then call on the accused person personally or by his advocate to address the court on his behalf. (No. 16 of 1959)
+
+Procedure where defence calls no witnesses other than accused
 
 ##### Section 210 — If the accused person adduces evidence in his defence introducing new
 
@@ -3301,19 +3393,23 @@ Evidence reply
 
 (No. 16 of 1959)
 
-##### Section 211 — Prosecutor's reply
+##### Section 211
 
 If the accused person, or any one of several accused persons, adduces any evidence through any witness other than himself, the prosecutor shall be entitled to reply.
 
+Prosecutor's reply
+
 (No. 16 of 1959)
 
-##### Section 212 — Where the accused person does not give evidence or make unsworn statement
+##### Section 212
 
 If the accused person says that he does not mean to give or adduce evidence or make an unsworn statement, and the court considers that there is evidence that he committed the offence, the advocate for the prosecution may then sum up the case against the accused person, and the court shall then call upon the accused person personally or by his advocate to addres the court on his own behalf.
 
+Where the accused person does not give evidence or make unsworn statement
+
 (No. 16 of 1959)
 
-##### Section 213 — Variance between charge and evidence and amendment of charge
+##### Section 213
 
 (1) Where, at any stage of a trial before the accused is required to make his defence, it appears to the court that the charge is defective either in substance or in form, the court may, save as in section two hundred and six otherwise provided, make such order for the alteration of the charge, either by way of amendment of the charge or by the substitution or addition of a new charge, as the court thinks necessary to meet the circumstances of the case:
 
@@ -3333,29 +3429,37 @@ the accused may demand that the witnesses, or any of them, be recalled and give 
 
 Variance between charge and evidence and amendment of charge
 
-##### Section 214 — The decision
+##### Section 214
 
 The court, having heard both the complainant and the accused person and their witnesses and evidence, shall either convict the accused and pass sentence upon or make an order against him, according to law, or shall acquit him.
 
+The decision
+
 (As amended by No. 28 of 1940)
 
-##### Section 215 — Drawing up of conviction or order
+##### Section 215
 
 The conviction or order may, if required, be afterwards drawn up, and shall be signed by the court making the conviction or order, or by the clerk or other officer of the court.
 
-##### Section 216 — Order of acquittal bar to further proceedings
+Drawing up of conviction or order
+
+##### Section 216
 
 The production of a copy of an order of acquittal, certified by the clerk or other officer of the court, shall, unless the acquittal has been set aside by a competent court, without other proof, be a bar to any subsequent information or complaint for the same matter against the same accused person.
 
+Order of acquittal bar to further proceedings
+
 (As amended by No. 2 of 1960)
 
-##### Section 217 — Committal to High Court for sentence
+##### Section 217
 
 (1) Where, on the trial by a subordinate court of an offence, a person who is of not less than the apparent age of seventeen years is convicted of the offence, and the court is of opinion that his character and antecedents are such that greater punishment should be inflicted for the offence than that court has power to inflict, or if it appears to the court that the offence is one in respect whereof a mandatory minimum punishment is provided by law which is greater than that court has power to inflict, it may, after recording its reasons in writing on the record of the case, commit such person to the High Court for sentence, instead of dealing with him in any other manner in which it has power to deal with him.
 
+Committal to High Court for sentence
+
 (2) For the purposes of this section, the aggregate of consecutive sentences which might be imposed by the subordinate court upon any person in respect of convictions for other offences joined in the charge of the offence referred to in subsection (1) shall be deemed to be the sentence which could be imposed for such last-mentioned offence. (No. 26 of 1956 as amended by No. 2 of 1960, 12 of 1973 and 28 of 1979)
 
-##### Section 218 — Procedure on committal for sentence
+##### Section 218
 
 (1) In any case where a subordinate court commits a person for sentence under the provisions of section two hundred and seventeen, the subordinate court shall forthwith send a copy of the record of the case to the High Court.
 
@@ -3363,23 +3467,29 @@ The production of a copy of an order of acquittal, certified by the clerk or oth
 
 (3) When any person is brought before the High Court in accordance with the provisions of subsection (2), the High Court shall proceed as if he had been convicted on trial by the High Court. (As amended by no 26 of 1956, 16 of 1959, 2 of 1960, 5 of 1962 and Act 12 of 1973)
 
+Procedure on committal for sentence
+
 Limitations and Exceptions Relating to Trials before Subordinate Courts
 
-##### Section 219 — Limitation of time for summary trials in certain cases
+##### Section 219
 
 Except where a longer time is specially allowed by law, no offence, the maximum punishment for which does not exceed imprisonment for six months and/or a fine of one thousand and five hundred penalty units, shall be triable by a subordinate court, unless the charge or complaint relating to it is laid within twelve months from the time when the matter of such charge or complaint arose.
 
+Limitation of time for summary trials in certain cases
+
 (As amended by Act No. 13 of 1994)
 
-##### Section 220 — Procedure in case of offence unsuitable for summary trial
+##### Section 220
 
 (1) If, before or during the course of a trial before a subordinate court, it appears to the magistrate that the case is one which ought to be tried by the High Court or if, before the commencement of the trial, an application in that behalf is made by a public prosecutor acting on the instructions of the Director of Public Prosecutions that it shall be so tried, the magistrate shall not proceed with the trial but in lieu thereof he shall hold a preliminary inquiry in accordance with the provisions hereinafter contained, and in such case the provisions of section two hundred and thirty-two shall not apply.
+
+Procedure in case of offence unsuitable for summary trial
 
 (2) Where, in the course of a trial, the magistrate has stopped the proceedings under the provisions of subsection (1), it shall, in the case of any witness whose statement has already been taken, be sufficient compliance with the provisions of section two hundred and twenty-four if the statement is read over to the witness and is signed by him and by the magistrate:
 
 Provided that the accused person shall, if he so wishes, be entitled to a further opportunity for cross-examining such witness. (No. 2 of 1960 as amended by S.I. No. 63 of 1964)
 
-##### Section 221 — Payment by accused persons of fines which may be imposed for minor
+##### Section 221
 
 (1) When any person is summoned to appear before a subordinate court or is arrested or informed by a police officer that proceedings will be instituted against him, then-
 
@@ -3503,11 +3613,13 @@ FOR TRIAL BEFORE THE HIGH COURTPART VII PROVISIONS RELATING TO THE COMMITTAL OF 
 
 Preliminary Inquiry by Subordinate Courts
 
-##### Section 222 — Power to commit for trial
+##### Section 222
 
 Any magistrate empowered to hold a subordinate court of the first, second or third class may commit any person for trial to the High Court.
 
-##### Section 223 — Court to hold preliminary inquiry
+Power to commit for trial
+
+##### Section 223
 
 (1) Whenever any charge has been brought against any person of an offence not triable by a subordinate court, or as to which the High Court has given an order or direction under section ten or eleven, or as to which the subordinate court is of opinion that it is not suitable to be disposed of upon summary trial, a preliminary inquiry shall be held, according to the provisions hereinafter contained, by a subordinate court, locally and otherwise competent.
 
@@ -3541,9 +3653,11 @@ Court to hold preliminary inquiry
 
 Provided that the Court may, upon such conditions as it may determine, permit the prosecution to call a witness, whose name does not appear as a deponent or witness, to give evidence. (As amended by Act No. 6 of 1972)
 
-##### Section 224 — Depositions
+##### Section 224
 
 (1) When the accused person charged with an offence referred to in the last preceding section comes before a subordinate court, on summons or warrant or otherwise, the court shall cause the charge to be read over to the accused person, and shall, in his presence, take down in writing, or cause to be so taken down, the statements on oath of those who know the facts and circumstances of the case. Statements of witnesses so taken down in writing are termed depositions.
+
+Depositions
 
 (2) The accused person may put questions to each witness produced against him, and the answer of the witness thereto shall form part of such witness's depositions.
 
@@ -3551,25 +3665,33 @@ Provided that the Court may, upon such conditions as it may determine, permit th
 
 (4) The deposition of each witness shall be read over to such witness, and shall be signed by him and by the magistrate holding the inquiry.
 
-##### Section 225 — How certain documents proved
+##### Section 225
 
 At any preliminary inquiry under this Part, any document, purporting to be a report under the hand of a medical officer or a Government analyst upon any examination or analysis carried out by him, shall, if it bears his signature, be admitted in evidence, unless the court shall have reason to doubt the genuineness of such signature.
 
-##### Section 226 — Variance between evidence and charge
+How certain documents proved
+
+##### Section 226
 
 No objection to a charge, summons or warrant for defect in substance or in form, or for variance between it and the evidence of the prosecution, shall be allowed; but, if any variance appears to the court to be such that the accused person has been thereby deceived or misled, the court may, on the application of the accused person, adjourn the inquiry, and allow any witness to be recalled, and such questions to be put to him as, by reason of the terms of the charge, may have been omitted.
 
-##### Section 227 — Remand
+Variance between evidence and charge
+
+##### Section 227
 
 (1) If, from the absence of witnesses or any other reasonable cause, to be recorded in the proceedings, the court considers it necessary or advisable to adjourn the inquiry, the court may, from time to time, by warrant, remand the accused for a reasonable time, not exceeding fifteen days at any one time, to some prison or other place of security. Or, if the remand is for not more than three days, the court may, by word of mouth, order the officer or person in whose custody the accused person is, or any other fit officer or person, to continue to keep the accused in his custody, and to bring him up at the time appointed for the commencement or continuance of the inquiry.
+
+Remand
 
 (2) During a remand the court may, at any time, order the accused to be brought before it.
 
 (3) The court may, on a remand, admit the accused to bail.
 
-##### Section 228 — Provisions as to taking statement or evidence of accused person
+##### Section 228
 
 (1) If, after examination of the witnesses called on behalf of the prosecution, the court considers that, on the evidence as it stands, there are sufficient grounds for committing the accused for trial, the magistrate shall frame a charge under his hand declaring with what offence or offences the accused is charged and shall read the charge to the accused person and explain the nature thereof to him in simple language and address to him the following words or words to the like effect:
+
+Provisions as to taking statement or evidence of accused person
 
 "This is not your trial. You will be tried later on in another court and before another Judge, where all the witnesses you have heard here will be produced and you will be allowed to question them. You will then be able to make any statement you may wish or to give evidence on oath and to call any witnesses on your own behalf. Unless you wish to reserve your defence, which you are at liberty to do, you may now either make a statement not on oath or give evidence on oath, and may call witnesses on your behalf. If you give evidence on oath you will be liable to cross-examination. Anything you may say whether on oath or not will be taken down and may be used in evidence at your trial."
 
@@ -3579,11 +3701,13 @@ No objection to a charge, summons or warrant for defect in substance or in form,
 
 (4) When the whole is made conformable to what he declares is the truth, the record thereof shall be attested by the magistrate, who shall certify that such statement or evidence was taken in his presence and hearing and contains accurately the whole statement made, or evidence given, as the case may be, by the accused person. The accused person shall sign or attest by his mark such record. If he refuses, the court shall add a note of his refusal, and the record may be used as if he had signed or attested it. (No. 28 of 1940)
 
-##### Section 229 — Evidence and address in defence
+##### Section 229
 
 (1) Immediately after complying with the requirements of the preceding section relating to the statement or evidence of the accused person, and whether the accused person has or has not made a statement or given evidence, the court shall ask him whether he desires to call witnesses on his own behalf.
 
 (2) The court shall take the evidence of any witnesses called by the accused person in like manner as in the case of the witnesses for the prosecution, and every such witness, not being merely a witness to the character of the accused person, shall, if the court be of opinion that his evidence is in any way material to the case, be bound by recognizance to appear and give evidence at the trial of such accused person.
+
+Evidence and address in defence
 
 (3) If the accused person states that he has witnesses to call, but that they are not present in court, and the court is satisfied that the absence of such witnesses is not due to any fault or neglect of the accused person, and that there is a likelihood that they could, if present, give material evidence on behalf of the accused person, the court may adjourn the inquiry and issue process, or take other steps, to compel the attendance of such witnesses and, on their attendance, shall take their depositions and bind them by recognizance in the same manner as witnesses under subsection (2).
 
@@ -3613,25 +3737,31 @@ If the accused person or his advocate addresses the court in accordance with the
 
 (5) Where the accused person reserves his defence, or at the conclusion of any statement in answer to the charge, or evidence in defence, as the case may be, the court shall ask him whether he intends to call witnesses at the trial, other than those, if any, whose evidence has been taken under the provisions of this section, and, if so, whether he desires to give their names and addresses so that they may be summoned. The court shall thereupon record the names and addresses of any such witnesses whom he may mention. (No. 28 of 1940)
 
-##### Section 230 — Discharge of accused person
+##### Section 230
 
 If, at the close of the case for the prosecution or after hearing any evidence in defence, the court considers that the evidence against the accused person is not sufficient to put him on his trial, the court shall forthwith order him to be discharged as to the particular charge under inquiry; but such discharge shall not be a bar to any subsequent charge in respect of the same facts:
 
+Discharge of accused person
+
 Provided always that nothing contained in this section shall prevent the court from either forthwith, or after such adjournment of the inquiry as may seem expedient in the interests of justice, proceeding to investigate any other charge upon which the accused person may have been summoned or otherwise brought before it, or which, in the course of the charge so dismissed as aforesaid, it may appear that the accused person has committed. (No. 28 of 1940)
 
-##### Section 231 — Committal for trial
+##### Section 231
 
 (1) If the court considers the evidence sufficient to put the accused person on his trial, the court shall commit him for trial to the High Court and, except in the case of a corporation, shall, until the trial, either admit him to bail or send him to prison for safe-keeping. The warrant of such first-named court shall be sufficient authority to the officer in charge of any prison appointed for the custody of prisoners committed for trial, although out of the jurisdiction of such court.
 
+Committal for trial
+
 (2) The order of committal shall state that such person is committed for trial to a Sessions of the High Court to be held in the Province in which such subordinate court is situate. (As amended by No. 76 of 1965 and No. 38 of 1969)
 
-##### Section 232 — Summary adjudication
+##### Section 232
 
 If, at the close of or during the inquiry, it shall appear to the subordinate court that the offence is of such a nature that it may suitably be dealt with under the powers possessed by the court, the court may, subject to the provisions of Part VI, hear and finally determine the matter, and either convict the accused person or dismiss the charge:
 
+Summary adjudication
+
 Provided that, in every such case, the accused shall be entitled to have recalled for cross-examination all witnesses for the prosecution whom he has not already cross-examined.
 
-##### Section 233 — Complaint and witnesses to be bound over
+##### Section 233
 
 (1) A subordinate court conducting a preliminary inquiry shall bind by recognizance, with or without surety or sureties, as it may deem requisite, the complainant and every witness, to appear in the event of the accused person being committed for trial before the High Court, at such trial to give evidence, and also to appear, if required, at any further examination concerning the charge which may be held by direction of the Director of Public Prosecutions.
 
@@ -3645,13 +3775,17 @@ preceding section, the court may commit him to prison or into the custody of any
 
 Refusal to be bound over
 
-##### Section 235 — Accused person entitled to copy of depositions
+##### Section 235
 
 A person who has been committed for trial before the High Court shall be entitled, at any time before the trial, to have a copy of the depositions, on payment of a reasonable sum, not exceeding five ngwee for every hundred words, or, if the court thinks fit, without payment. The court shall, at the time of committing him for trial, inform the accused person of the effect of this provision.
 
-##### Section 236 — Binding over of witnesses conditionally
+Accused person entitled to copy of depositions
+
+##### Section 236
 
 (1) Where any person, charged before a subordinate court with an offence triable upon information before the High Court, is committed for trial, and it appears to such subordinate court, after taking into account anything which may be said with reference thereto by the accused or the prosecutor, that the attendance at the trial of any witness who has been examined before it is unnecessary, by reason of anything contained in any statement by the accused person, or of the evidence of the witness being merely of a formal nature, the subordinate court shall, if the witness has not already been bound over, bind him over to attend the trial conditionally upon notice given to him and not otherwise, or shall, if the witness has already been bound over, direct that he shall be treated as having been bound over to attend only conditionally as aforesaid, and shall transmit to the High Court a statement in writing of the names, addresses and occupations of the witnesses who are, or who are to be treated as having been, bound over to attend the trial conditionally.
+
+Binding over of witnesses conditionally
 
 (2) Where a witness has been, or is to be treated as having been, bound over conditionally to attend the trial, the Director of Public Prosecutions or the person committed for trial may give notice, at any time before the opening of the Sessions of the High Court, to the committing subordinate court, and, at any time thereafter, to the Registrar, that he desires the witness to attend at the trial, and any such court or Registrar to whom any such notice is given shall forthwith notify the witness that he is required so to attend in pursuance of his recognizance. The subordinate court shall, on committing the accused person for trial, inform him of his right to require the attendance at the trial of any such witness as aforesaid, and of the steps which he must take for the purpose of enforcing such attendance.
 
@@ -3659,11 +3793,13 @@ A person who has been committed for trial before the High Court shall be entitle
 
 Preservation of Testimony in Certain Cases
 
-##### Section 237 — Taking the depositions of persons dangerously ill
+##### Section 237
 
 Whenever it appears to any magistrate that any person dangerously ill or hurt and not likely to recover is able and willing to give material evidence relating to any offence triable by the High Court, and it shall not be practicable to take the deposition, in accordance with the provisions of this Code, of the person so ill or hurt, such magistrate may take in and shall subscribe the same, and certify that it contains accurately the whole of the statement made by such person, and shall add a statement of his reason for taking the same, and of the date and place when and where the same was taken, and shall preserve such statement and file it for record.
 
-##### Section 238 — Notices to be given
+Taking the depositions of persons dangerously ill
+
+##### Section 238
 
 If the statement relates or is expected to relate to an offence for which any person is under a charge or committal for trial, reasonable notice of the intention to take the same shall be given to the prosecutor and the accused person, and, if the accused person is in custody, he may, and shall, if he so requests, be brought by the person in whose charge he is, under an order in writing of the magistrate, to the place where the statement is to be taken.
 
@@ -3671,23 +3807,29 @@ Notice to be given
 
 (As amended by No. 24 of 1950)
 
-##### Section 239 — Transmission of statement
+##### Section 239
 
 If the statement relates to an offence for which any person is then or subsequently committed for trial, it shall be transmitted to the Registrar, and a copy thereof shall be transmitted to the Director of Public Prosecutions
 
+Transmission of statement
+
 (As amended by S.I. No. 63 of 1964)
 
-##### Section 240 — Use of statement in evidence
+##### Section 240
 
 Such statement, so taken, may afterwards be used in evidence on the trial of any person accused of an offence to which the same relates, if the person who made the statement be dead, or if the court is satisfied that, for any sufficient cause, his attendance cannot be procured, and if reasonable notice of the intention to take such statement was given to the person (whether prosecutor or accused person) against whom it is proposed to be read in evidence, and he had or might have had, if he had chosen to be present, full opportunity of cross-examining the person making the same.
+
+Use of statement in evidence
 
 (As amended by No.24 of 1950)
 
 Proceedings after Committal for Trial
 
-##### Section 241 — Transmission of records to High Court and Director of Public Prosecutions
+##### Section 241
 
 In the event of a committal for trial, the written charge, the depositions, the statement of the accused person, the recognizances of the complainant and of the witnesses, the recognizances of bail (if any) and all documents or things which have been tendered or put in evidence shall be transmitted without delay by the committing court to the Registrar, and an authenticated copy of the depositions and statement aforesaid shall be also transmitted to the Director of Public Prosecutions. (As amended by S.I. No. 63 of 1964)
+
+Transmission of records to High Court and Director of Public Prosecutions
 
 ##### Section 242 — If, after receipt of the authenticated copy of the depostions and statement
 
@@ -3697,23 +3839,29 @@ Power of Director of Public Prosecutions to direct further investigation
 
 (As amended by S.I. No. 63 of 1964)
 
-##### Section 243 — Powers of Director of Public Prosecutions as to additional witnesses
+##### Section 243
 
 If, after receipt of the authenticated copy of the depositions and statement as aforesaid and before the trial before the High Court, the Director of Public Prosecutions shall be of opinion that there is, in any case committed for trial, any material or necessary witness for the prosecution or the defence who has not been bound over to give evidence on the trial of the case, the Director of Public Prosecutions may require the subordinate court which committed the accused person for trial to take the depositions of such witness and compel his attendance either by summons or by warrant as herein before provided.
 
+Powers of Director of Public Prosecutions as to additional witnesses
+
 (No. 28 of 1940 as amended by S.I. No. 63 of 1964.)
 
-##### Section 244 — Return of depositions with a view to summary trial
+##### Section 244
 
 (1) If, before the trial before the High Court, the Director of Public Prosecutions is of opinion, upon the record of the committal proceedings received by him, that the case is one which may suitably be tried by a subordinate court, he may cause the depositions to be returned to the court which committed the accused, and thereupon the case shall be tried and determined in the same manner as if such person had not been committed for trial.
 
+Return of depositions with a view to summary trial
+
 (2) Where depositions are returned under the provisions of subsection (1), the Director of Public Prosecutions may direct that the person concerned shall be tried on the charge in respect of which he was committed, if such charge is within the competence of the subordinate court concerned, or upon such other charge within such competence as the Director of Public Prosecutions may specify. (No. 28 of 1940 as amended by No. 23 of 1960 and S.I. No. 63 of 1964)
 
-##### Section 245 — Filing of information
+##### Section 245
 
 (1) If, after the receipt of the authenticated copy of the depositions as aforesaid, the Director of Public Prosecutions shall be of the opinion that the case is one which should be tried upon information before the High Court, an information shall be drawn up in accordance with the provisions of this Code, and, when signed by the Director of Public Prosecutions, shall be filed in the registry of the High Court.
 
 (2) In such information the Director of Public Prosecutions may charge the accused person with any offences which, in his opinion, are disclosed by the depositions either in addition to, or in substitution for, the offences upon which the accused person has been committed for trial.
+
+Filing of information
 
 (3) Notwithstanding anything to the contrary contained in this Code or any other written law, any person who could have been joined in one charge under section one hundred and thirty-six with a person who has been committed to the High Court for trial, but was not so joined, may be joined in an information by the Director of Public Prosecutions-
 
@@ -3743,9 +3891,11 @@ in either of the cases mentioned in paragraph (a) or (b), and if so requested, a
 
 Provided that the High Court may, upon such conditions as it may determine, permit the prosecution to call a witness, whose name does not appear as a deponent or witness, to give evidence. (As amended by No. 28 of 1940, S.I. No. 63 of 1964 and No. 6 of 1972)
 
-##### Section 246 — Time in which information to be filed
+##### Section 246
 
 (1) The period within which the Director of Public Prosecutions may file an information under the provisions of this Code shall be one month from the date of receipt by him of the authenticated copy of the depositions and other documents referred to in section two hundred and forty-one.
+
+Time in which information to be filed
 
 (2) The Director of Public Prosecutions shall inform the High Court and the person committed of the date of receipt aforesaid.
 
@@ -3753,7 +3903,7 @@ Provided that the High Court may, upon such conditions as it may determine, perm
 
 (4) Where the High Court has extended the period for filing an information and the Director of Public Prosecutions does not file an information within the period so extended, the High Court may of its own motion, and shall upon the application of the person committed, discharge such person. (No. 38 of 1969)
 
-##### Section 247 — Notice of trial
+##### Section 247
 
 The Registrar or the Clerk of Sessions appointed under subsection (3) of section nineteen of the High Court Act shall endorse on or annex to every information filed as aforesaid, and to every copy thereof delivered to the officer of the court or police officer for service thereof, a notice of trial, which notice shall specify the particular Sessions of the High Court at which the accused person is to be tried on the said information, and shall be in the following form, or as near thereto as may be:
 
@@ -3761,31 +3911,39 @@ Notice of trial. Cap. 27
 
 "A.B. Take notice that you will be tried on the information whereof this is a true copy at the Sessions of the High Court to be held at ............ on the ........... day of ............... 19 ....." (As amended by No. 5 of 1962)
 
-##### Section 248 — Copy of information and notice of trial to be served
+##### Section 248
 
 The Registrar shall deliver or cause to be delivered to the officer of the court or police officer serving the information a copy thereof with the notice of trial endorsed on the same or annexed thereto, and, if there are more accused persons committed for trial than one, then as many copies as there are such accused persons; and the officer of the court or police officer aforesaid shall, as soon as may be after having received the copy or copies of the information and notice or notices of trial, and three days at least before the day specified therein for trial, by himself or his deputy or other officer, deliver to the accused person or persons committed for trial the said copy or copies of the information and notice or notices, and explain to him or them the nature and exigency thereof; and, when any accused person shall have been admitted to bail and cannot readily be found, he shall leave a copy of the said information and notice of trial with someone of his household for him at his dwelling-house, or with someone of his bail for him, and, if none such can be found, shall affix the said copy and notice to the outer or principal door of the dwellinghouse or dwelling-houses of the accused person or of any of his bail:
 
 Provided always that nothing herein contained shall prevent any person committed for trial, and in custody at the opening of or during any Sessions of the High Court, from being tried thereat, if he shall express his assent to be so tried and no special objection be made thereto on the part of the Director of Public Prosecutions. (As amended by S.I. No. 63 of 1964)
 
-##### Section 249 — Return of service
+Copy of information and notice of trial to be served
+
+##### Section 249
 
 The officer serving the copy or copies of the information and notice or notices of trial shall forthwith make to the Registrar a return of the mode of service thereof.
 
-##### Section 250 — Postponement of trial
+Return of service
+
+##### Section 250
 
 (1) It shall be lawful for the High Court, upon the application of the prosecutor or the accused person if it considers that there is sufficient cause for the delay, to postpone the trial of any accused person to the next Sessions of the court held in the district, or at some other convenient place, or to a subsequent Sessions, and to respite the recognizances of the complainant and witnesses, in which case the respited recognizances shall have the same force and effect as fresh recognizances to prosecute and give evidence at such subsequent Sessions would have had.
+
+Postponement of trial
 
 (2) The High Court may give such directions for the amendment of the information and the service of any notices which the court may deem necessary in consequence of any order made under subsection (1). (As amended by No. 28 of 1940)
 
 Rules as to Informations by the Director of Public Prosecutions
 
-##### Section 251 — Informations by Director of Public Prosecutions
+##### Section 251
 
 All informations drawn up in pursuance of section two hundred and forty-five shall be in the name of and (subject to the provisions of section eighty-two) signed by the Director of Public Prosecutions.
 
+Informations by Director of Public Prosecutions
+
 (As amended by S.I. No. 63 of 1964)
 
-##### Section 252 — Form of information
+##### Section 252
 
 Every information shall bear date of the day when the same is signed, and, with such modifications as shall be necessary to adapt it to the circumstances of each case, may commence in the following form:
 
@@ -3805,37 +3963,47 @@ SUMMARY COMMITTAL PROCEDURE FOR TRIAL OF ACCUSED PERSON BEFORE THE HIGH COURT
 
 Form of information
 
-##### Section 253 — In this Part, unless the context otherwise requires-
+##### Section 253
+
+In this Part, unless the context otherwise requires-
 
 Interpretation
 
 "summary procedure case" means any case certified under the provisions of this Part as a proper case for trial before the High Court after summary committal procedure.
 
-##### Section 254 — Certifying of case as a summary procedure case
+##### Section 254
 
 Notwithstanding anything contained in Part VII, in any case where a person is charged with an offence not triable by a subordinate court, the Director of Public Prosecutions may issue a certificate in writing that the case is a proper one for trial by the High Court as a summary procedure case and such case shall, upon production to a subordinate court of such certificate, be dealt with by the subordinate court in accordance with the provisions of this Part.
 
+Certifying of case as a summary procedure case
+
 (As amended by S.I. No. 63 of 1964)
 
-##### Section 255 — No preliminary inquiry in summary procedure case
+##### Section 255
 
 No such preliminary inquiry as is referred to in Part VII shall be held in respect of any case in which the Director of Public Prosecutions has issued and the prosecutor has produced to a subordinate court a certificate issued under the provisions of section two hundred and fifty-four, but the subordinate court before whom the accused person is brought shall, upon production of such certificate, and whether or not a preliminary inquiry has already been commenced, forthwith commit the accused person for trial before the High Court upon such charge or charges as may be designated in the certificate.
 
+No preliminary inquiry in summary procedure case
+
 (As amended by S.I. No. 63 of 1964)
 
-##### Section 256 — Record to be forwarded
+##### Section 256
 
 Upon the committal of the accused person for trial in a summary procedure case, the record of the proceedings, including, in any case where a preliminary inquiry has been commenced, any depositions taken and any exhibits produced, shall be transmitted without delay by the committing court to the Registrar, and an authenticated copy of the record shall also be transmitted to the Director of Public Prosecutions.
 
+Record to be forwarded
+
 (As amended by S.I. No. 63 of 1964)
 
-##### Section 257 — Filing of an information
+##### Section 257
 
 (1) The Director of Public Prosecutions may, after receipt of the authenticated copy of the record in a summary procedure case as aforesaid, draw up and sign an information in accordance with the provisions of this Code, which shall be filed in the Registry of the High Court.
 
 (2) In such information the Director of Public Prosecutions may alter or redraft the charge or charges against the accused person or frame an additional charge or charges against him.
 
 (3) The provisions of sections two hundred and forty-seven to two hundred and fifty-two inclusive, shall apply mutatis mutandis to an information filed under the provisions of this section as they do to an information filed under the provisions of section two hundred and forty-five. (As amended by S.I. No. 63 of 1964)
+
+Filing of an information
 
 ##### Section 258 — In every summary procedure case in which an information has been filed
 
@@ -3845,41 +4013,51 @@ Statements, etc., to be supplied to the accused
 
 Provided that the Court may, upon such conditions as it may determine, permit the prosecution to call a witness whose name does not appear on the said list, to give evidence. (As amended by Act 30 of 1976)
 
-##### Section 259 — Affidavit of medical witness may be read as evidence
+##### Section 259
 
 (1) The affidavit of a medical officer or other medical witness, attested before a magistrate, may be read as evidence although the deponent is not called as a witness.
 
+Affidavit of medical witness may be read as evidence
+
 (2) The Court may, if it thinks fit, summon and examine such deponent as to the subject-matter of his affidavit.
 
-### PART IX — PROCEDURE IN TRIALS BEFORE THE HIGH COURTPART IX
+### PART IX — PROCEDURE IN TRIALS BEFORE THE HIGH COURT
 
 PROCEDURE IN TRIALS BEFORE THE HIGH COURT
 
 Practice and Mode of Trial
 
-##### Section 260 — Practice of High Court in its criminal jurisdiction
+##### Section 260
 
 The practice of the High Court, in its criminal jurisdiction, shall be assimilated, as nearly as circumstances will admit, to the practice of Her Britannic Majesty's High Court of Justice in its criminal jurisdiction and of Courts of Oyer and Terminer and General Gaol Delivery in England.
 
+Practice of High Court in its criminal jurisdiction
+
 (As amended by S.I. No. 63 of 1964)
 
-##### Section 261 — Trials before High Court
+##### Section 261
 
 All trials before the High Court shall be held before a Judge sitting alone, or before a Judge with the aid of assessors (if the presiding Judge so decides), the number of whom shall be two or more as the court thinks fit.
 
+Trials before High Court
+
 List of Assessors
 
-##### Section 262 — Preparation of list of assessors
+##### Section 262
 
 Magistrates shall, before the 1st March in each year, and subject to such rules as the Chief Justice may, from time to time, prescribe, prepare lists of suitable persons in their districts liable to serve as assessors. (As amended by No. 2 of 1960 and S.I. No. 63 of 1964)
 
-##### Section 263 — Liability to serve
+Preparation of list of assessors
+
+##### Section 263
 
 Subject to the exemptions in the next succeeding section contained, all male persons between the ages of twenty-one and sixty shall be liable to serve as assessors:
 
+Liability to serve
+
 Provided that the Chief Justice may, from time to time, make rules regulating the area within which a person may be summoned to serve. (As amended by No. 2 of 1960)
 
-##### Section 264 — Exemptions
+##### Section 264
 
 The following persons are exempt from liability to serve as assessors, save with their own consent, namely:
 
@@ -3919,13 +4097,15 @@ Exemptions
 
 (As amended by G.N. No. 303 of 1964 and S.I. No. 63 of 1964)
 
-##### Section 265 — Publication of list
+##### Section 265
 
 (1) When the lists aforesaid have been prepared, extracts therefrom containing the names of the persons liable to serve as assessors, residing in each district, shall be posted for public inspection at the Court House of such district.
 
+Publication of list
+
 (2) To every such extract shall be subjoined a notice stating that objections to the list will be heard and determined by a magistrate of the district, at a time and place to be mentioned in such notice.
 
-##### Section 266 — Revision of list
+##### Section 266
 
 (1) Every magistrate shall, at the time and place mentioned in the notice relating to his district, revise the list and hear the objections (if any) of persons interested in the amendment thereof, and shall strike out the name of any person not suitable, in his judgment, to serve as an assessor, or who may establish his right to any exemption from service given by section two hundred and sixty-four, and insert the name of any person omitted from the list whom he deems qualified for such service.
 
@@ -3933,35 +4113,47 @@ Exemptions
 
 (3) Any order of the magistrate as aforesaid, in preparing and revising the list, shall be final.
 
+Revision of list
+
 (4) Any exemption not claimed under this section shall be deemed to be waived, until the list is next revised.
 
 (5) The list, so prepared and revised, shall be again revised once in every year.
 
 (6) If any person suitable to serve as an assessor shall be found in any district after the list has been settled, his name may be added to the list by a magistrate of that district, and he shall be liable to serve. Attendance of Assessors
 
-##### Section 267 — Summoning assessors
+##### Section 267
 
 (1) The Registrar shall ordinarily, seven days at least before the day which from time to time may be fixed for holding a Sessions of the High Court, send a letter to a magistrate of the district in which such Sessions are to be held, requesting him to summon as many persons as seem to the Judge who is to preside at the Sessions to be needed at the said Sessions.
 
+Summoning assessors
+
 (2) The magistrate shall, thereupon, summon such number of assessors, excluding those who have served within six months, unless the number cannot be made up without them.
 
-##### Section 268 — Form of summons
+##### Section 268
 
 Every summons to an assessor shall be in writing, and shall require his attendance at a time and place to be therein specified.
 
-##### Section 269 — Excuses
+Form of summons
+
+##### Section 269
 
 The High Court may, for reasonable cause, excuse any assessor from attendance at any particular Sessions, and may, if it shall think fit, at the conclusion of any trial, direct that the assessors who have served at such trial shall not be summoned to serve again for a period of twelve months.
 
-##### Section 270 — List of assessors attending
+Excuses
+
+##### Section 270
 
 (1) At each Sessions, the Registrar shall cause to be made a list of the names of those who have attended as assessors at such Sessions, and such list shall be kept with the list of the assessors as revised under section two hundred and sixty-six.
 
+List of assessors attending
+
 (2) A reference shall be made, in the margin of the said revised list, to each of the names which are mentioned in the list prepared under this section. (As amended by No. 5 of 1962)
 
-##### Section 271 — Penalty for non-attendance of assessor
+##### Section 271
 
 (1) Any person summoned to attend as an assessor who, without lawful excuse, fails to attend as required by the summons, or who, having attended, departs without having obtained the permission of the High Court, or fails to attend after adjournment of the court, after being ordered to attend, shall be liable, by order of the High Court, to a fine not exceeding fifty kwacha.
+
+Penalty for non-attendance of assessor
 
 (2) Such punishment may be inflicted summarily, on an order to that effect, by the High Court, and any fine imposed shall be recoverable by distress and sale of the real and personal property of the person fined, by warrant of distress to be signed by the Registrar; and such warrant shall be issued by the Registrar, without further order of the High Court, if the fine is not paid within six days of its having come to the knowledge of the person fined, by notice or otherwise, that the fine has been imposed:
 
@@ -3971,13 +4163,17 @@ Provided that it shall be lawful for the High Court, if it shall see fit, to rem
 
 (4) In default of recovery of the fine by distress and sale, the person fined may, by order of the High Court, be imprisoned for a term of twenty-one days, if the fine be not sooner paid. Arraignment
 
-##### Section 272 — Pleading to information
+##### Section 272
 
 The accused person to be tried before the High Court, upon an information, shall be placed at the bar unfettered, unless the court shall see cause otherwise to order, and the information shall be read over to him by the Registrar or other officer of the court, and explained, if need be, by that officer, or interpreted by the interpreter of the court, and such accused person shall be required to plead instantly thereto, unless, where the accused person is entitled to service of a copy of the information, he shall object to the want of such service, and the court shall find that he has not been duly served therewith.
 
-##### Section 273 — Orders for amendment of information, separate trial, and postponement of trial
+Pleading to information
+
+##### Section 273
 
 (1) Every objection to any information, for any formal defect on the face thereof, shall be taken immediately after the information has been read over to the accused person, and not later.
+
+Orders for amendment of information, separate trial, and postponement of trial
 
 (2) Where, before a trial upon information or at any stage of such trial, it appears to the court that the information is defective, the court shall make such order for the amendment of the information as the court thinks necessary to meet the circumstances of the case, unless, having regard to the merits of the case, the required amendments cannot be made without injustice. All such amendments shall be made upon such terms as to the court shall seem just.
 
@@ -4003,11 +4199,13 @@ the court may make such order as to admitting the accused to bail, and as to the
 
 (7) Any power of the court under this section shall be in addition to, and not in derogation of, any other power of the court for the same or similar purposes.
 
-##### Section 274 — Quashing of information
+##### Section 274
 
 If an information does not state, and cannot, by any amendment authorised by the last preceding section, be made to state, any offence of which the accused has had notice, it shall be quashed, either on a motion made before the accused pleads, or on a motion made in arrest of judgment. A written statement of every such motion shall be delivered to the Registrar or other officer of the court by or on behalf of the accused, and shall be entered upon the record.
 
-##### Section 275 — Procedure in case of previous convictions
+Quashing of information
+
+##### Section 275
 
 Where an information contains a count charging an accused person with having been previously convicted of any offence, the procedure shall be as follows:
 
@@ -4027,11 +4225,11 @@ Procedure in case of previous convictions
 
 Provided, however, that if, upon the trial of any person for any such subsequent offence, such person shall give evidence of his own good character, it shall be lawful for the advocate for the prosecution, in answer thereto, to give evidence of the conviction of such person for the previous offence or offences before he is convicted of such subsequent offence, and the court shall inquire concerning such previous conviction or convictions at the same time that it inquires concerning such subsequent offence.
 
-##### Section 276 — Plea of "not guilty"
+##### Section 276
 
 Every accused person, upon being arraigned upon any information, by pleading generally thereto the plea of "not guilty", shall, without further form, be deemed to have put himself upon his trial.
 
-##### Section 277 — Plea of autrefois acquit and autrefois convict
+##### Section 277
 
 (1) Any accused person against whom an information is filed may plead-
 
@@ -4051,61 +4249,83 @@ Plea of "not guilty"
 
 Plea of autrefois acquit and autrefois convict
 
-##### Section 278 — Refusal to plead
+##### Section 278
 
 If an accused person, being arraigned upon any information, stands mute of malice, the court, if it thinks fit, shall order the Registrar or other officer of the court to enter a plea of "not guilty" on behalf of such accused person, and the plea so entered shall have the same force and effect as if such accused person had actually pleaded the same.
 
+Refusal to plead
+
 (No. 11 of 1963)
 
-##### Section 279 — Plea of "guilty"
+##### Section 279
 
 If the accused pleads "guilty", the plea shall be recorded and he may be convicted thereon.
 
-##### Section 280 — Proceedings after plea of "not guilty"
+Plea of "guilty"
+
+##### Section 280
 
 If the accused pleads "not guilty", or if a plea of "not guilty" is entered in accordance with the provisions of section two hundred and seventy-eight, the court shall proceed to choose assessors, as hereinafter directed (if the trial is to be held with assessors), and to try the case:
 
+Proceedings after plea of "not guilty"
+
 Provided that the same assessors may aid in the trial of as many accused persons successively, as the court thinks fit.
 
-##### Section 281 — Power to postpone or adjourn proceedings
+##### Section 281
 
 (1) If, from the absence of witnesses or any other reasonable cause, to be recorded in the proceedings, the court considers it necessary or advisable to postpone the commencement of or to adjourn any trial, the court may, from time to time, postpone or adjourn the same, on such terms as it thinks fit, for such time as it considers reasonable, and may, by warrant, remand the accused to some prison or other place of security.
+
+Power to postpone or adjourn proceedings
 
 (2) During a remand the court may, at any time, order the accused to be brought before it.
 
 (3) The court may, on a remand, admit the accused to bail. Selection of Assessors
 
-##### Section 282 — Selection of assessors
+##### Section 282
 
 When a trial is to be held with the aid of assessors, the court shall select two or more from the list of those summoned to serve as assessors at the Sessions, as it deems fit.
 
-##### Section 283 — Absence of an assessor
+Selection of assessors
+
+##### Section 283
 
 (1) If, in the course of a trial with the aid of assessors, at any time before the finding, any assessor is, from any sufficient cause, prevented from attending throughout the trial, or absents himself, and it is not practicable immediately to enforce his attendance, the trial shall proceed with the aid of the other assessor or assessors.
 
+Absence of an assessor
+
 (2) If two or more of the assessors are prevented from attending, or absent themselves, the proceedings shall be stayed and a new trial shall be held with the aid of fresh assessors.
 
-##### Section 284 — Assessors to attend at adjourned sittings
+##### Section 284
 
 If the trial is adjourned, the assessors shall be required to attend at the adjourned sitting, and at any subsequent sitting, until the conclusion of the trial.
 
+Assessors to attend at adjourned sittings
+
 Case for the Prosecution
 
-##### Section 285 — Opening of case for prosecution
+##### Section 285
 
 When the assessors have been chosen (if the trial is before a Judge with the aid of assessors), the advocate for the prosecution shall open the case against the accused person, and shall call witnesses and adduce evidence in support of the charge.
 
-##### Section 286 — Additional witnesses for prosecution
+Opening of case for prosecution
+
+##### Section 286
 
 No witness who has not given evidence at the preliminary inquiry shall be called by the prosecution at any trial, unless the accused person has received reasonable notice in writing of the intention to call such witness. The notice must state the witness's name and address and the substance of the evidence which he intends to give. The court shall determine what notice is reasonable, regard being had to the time when and the circumstances under which the prosecution became acquainted with the nature of the witness's evidence and determined to call him as a witness. No such notice need be given if the prosecution first became aware of the evidence which the witness could give on the day on which he is called.
 
-##### Section 287 — Cross-examination of witnesses for prosecution
+Additional witnesses for prosecution
+
+##### Section 287
 
 The witnesses called for the prosecution shall be subject to cross-examination by the accused person or his advocate, and to re-examination by the advocate for the prosecution.
 
-##### Section 288 — Depositions may be read as evidence in certain cases
+Cross-examination of witnesses for prosecution
+
+##### Section 288
 
 (1) Where any person has been committed for trial for any offence, the deposition of any person taken before the commiting subordinate court may, if the conditions set out in subsection (2) are satisfied, without further proof, be read as evidence on the trial of that person, whether for that offence or for any other offence arising out of the same transaction or set of circumstances as that offence.
+
+Depositions may be read as evidence in certain cases
 
 (2) The conditions referred to in subsection (1) are the following:
 
@@ -4137,33 +4357,39 @@ that the deposition, or, where the proof required by paragraph (b) is given by m
 
 where the deposition is that of a witness whose attendance at the trial is stated to be unnecessary as aforesaid, that the witness has been duly notified that he is required to attend the trial. (As amended by No. 28 of 1940)
 
-##### Section 289 — Deposition of medical witness may be read as evidence
+##### Section 289
 
 (1) The deposition of a medical officer or other medical witness, taken and attested by a magistrate in the presence of the accused person, may be read as evidence, although the deponent is not called as a witness.
 
+Deposition of medical witness may be read as evidence
+
 (2) The court may, if it thinks fit, summon and examine such deponent as to the subject-matter of his deposition. (No. 28 of 1940)
 
-##### Section 290 — Statement or evidence of accused
+##### Section 290
 
 Any statement or evidence of the accused person duly certified by the committing magistrate in the manner provided by subsection (4) of section two hundred and twenty-eight may, whether signed by the accused person or not, be given in evidence without further proof thereof, unless it is proved that the magistrate purporting to certify the same did not in fact certify it.
 
+Statement or evidence of accused
+
 (No. 28 of 1940)
 
-##### Section 291 — Close of case for prosecution
+##### Section 291
 
 (1) When the evidence of the witnesses for the prosecution has been concluded, and the statement or evidence (if any) of the accused person before the committing court has been given in evidence, the court, if it considers that there is no evidence that the accused or any one of several accused committed the offence shall, after hearing, if necessary, any arguments which the advocate for the prosecution or the defence may desire to submit, record a finding.
+
+Close of case for prosecution
 
 (2) When the evidence of the witnesses for the prosecution has been concluded, and the statement or evidence (if any) of the accused person before the committing court has been given in evidence, the court, if it considers that there is evidence that the accused person or any one or more of several accused persons committed the offence, shall inform each such accused person, who is not represented by an advocate, of his right to address the court, either personally or by his advocate (if any), to give evidence on his own behalf, or to make an unsworn statement, and to call witnesses in his defence, and in all cases shall require him or his advocate (if any) to state whether it is intended to call any witnesses as to fact other than the accused person himself. Upon being informed thereof, the court shall record the same. If such accused person says that he does not mean to give evidence or make an unsworn statement, or to adduce evidence, then the advocate for the prosecution may sum up the case against such accused person. If such accused person says that he means to give evidence or make an unsworn statement, or to adduce evidence, the court shall call upon such accused person to enter upon his defence. (No. 28 of 1940 as amended by No. 50 of 1957)
 
 Case for the Defence
 
-##### Section 292 — Unless the only witness to the facts of the case called by the defence is the
+##### Section 292
 
 Unless the only witness to the facts of the case called by the defence is the accused, the accused person or his advocate may then open his case, stating the facts or law on which he intends to rely, and making such comments as he thinks necessary on the evidence for the prosecution. The accused person may then give evidence on his own behalf, and he or his advocate may examine his witnesses, and, after their cross-examination and re-examination (if any), may sum up his case.
 
 The defence
 
-##### Section 293 — The accused person shall be allowed to examine any witness not previously
+##### Section 293
 
 The accused person shall be allowed to examine any witness not previously bound over to give evidence at the trial, if such witness is in attendance, but he shall not be entitled, as of right, to have any witness summoned, other than the witnesses whom he named to the subordinate court committing him for trial, as witnesses whom he desired to be summoned.
 
@@ -4177,7 +4403,7 @@ Evidence in reply
 
 (No. 28 of 1940)
 
-##### Section 295 — If the accused person, or any one of several accused persons, adduces any
+##### Section 295
 
 If the accused person, or any one of several accused persons, adduces any evidence through any witness other than himself, the prosecutor shall be entitled to reply. (As amended by No. 16 of 1959)
 
@@ -4193,7 +4419,7 @@ Where accused person does not give evidence
 
 Close of Hearing
 
-##### Section 297 — Threatening with intent to
+##### Section 297
 
 (1) When the case on both sides is closed, the Judge may sum up the evidence for the prosecution and the defence, and shall (if the trial is being held with the aid of assessors) then require each of the assessors to state orally his opinion whether the accused is guilty or not, and shall record such opinion.
 
@@ -4207,7 +4433,7 @@ Delivery of opinions by assessors
 
 Passing Sentence
 
-##### Section 298 — Procuring execution of
+##### Section 298
 
 (1) The accused person may, at any time before sentence, whether on his plea of guilty or otherwise, move in arrest of judgment, on the ground that the information does not, after any amendment which the court is willing and has power to make, state any offence which the court has power to try.
 
@@ -4217,47 +4443,53 @@ Motion in arrest of judgment
 
 (3) If the court decides in favour of the accused, he shall be discharged from that information.
 
-##### Section 299 — If no motion in arrest of judgment is made, or if the court decides against the
+##### Section 299
 
 If no motion in arrest of judgment is made, or if the court decides against the accused person upon such motion, the court may sentence the accused person at any time during the Sessions.
 
 Sentence
 
-##### Section 300 — The court before which any person is tried for an offence may reserve the
+##### Section 300
 
 The court before which any person is tried for an offence may reserve the giving of its final decision on questions raised at the trial, and its decision, whenever given, shall be considered as given at the time of trial.
 
 Power to reserve decision on question raised at trial
 
-##### Section 301 — No judgment shall be stayed or reversed on the ground of any objection
+##### Section 301
 
 No judgment shall be stayed or reversed on the ground of any objection which, if stated after the information was read over to the accused person, or during the progress of the trial, might have been amended by the court, nor for any informality in swearing the witnesses or any of them.
 
 Objections cured by judgment
 
-##### Section 302 — The court may, before passing sentence, receive such evidence as it thinks
+##### Section 302
 
 The court may, before passing sentence, receive such evidence as it thinks fit, in order to inform itself as to the sentence proper to be passed.
 
 Evidence for arriving at proper sentence
 
-### PART X — SENTENCES AND THEIR EXECUTIONPART X
+### PART X — SENTENCES AND THEIR EXECUTION
 
 SENTENCES AND THEIR EXECUTION
 
 Sentence of Death
 
-##### Section 303 — Sentence of death
+##### Section 303
 
 When any person is sentenced to death, the sentence shall direct that he shall be hanged by the neck till he is dead.
 
-##### Section 304 — Authority for detention
+Sentence of death
+
+##### Section 304
 
 A certificate, under the hand of the Registrar or the clerk of the court, as the case may be, that sentence of death has been passed, and naming the person condemned, shall be sufficient authority for the detention of such person.
 
-##### Section 305 — Record and report to be sent to President
+Authority for detention
+
+##### Section 305
 
 (1) As soon as conveniently may be after sentence of death has been pronounced by the High Court, if no appeal from the sentence is preferred, or if such appeal is preferred and dismissed, then as soon as conveniently may be thereafter, the presiding Judge shall forward to the President a copy of the notes of evidence taken on the trial, with a report in writing signed by him containing any recommendation or observations on the case he may think fit to make.
+
+Record and report to be sent to President
 
 (2) In any case where a sentence of death passed by a subordinate court shall be confirmed by the High Court, such subordinate court shall, on receipt of the confirmation of such sentence, inform the convicted person that he may appeal to the Court of Appeal as if he had been convicted on a trial before the High Court, and, if he wishes to appeal, inform him that his appeal must be preferred within fourteen days from the date on which he is given such information; and where no appeal from such confirmation is preferred or, if preferred, is dismissed by the Court of Appeal, then as soon as conveniently may be after the expiration of the period of fourteen days as aforesaid or after the receipt of the order of the Court of Appeal dismissing the appeal, as the case may be, the Judge confirming the sentence shall transmit the record of the case or a certified copy thereof to the President with a report in writing signed by him containing any recommendation or observations on the case he may think fit to make.
 
@@ -4271,7 +4503,7 @@ Provided that the warrant may direct that the execution shall take place at such
 
 (5) The warrant or order or pardon of the President shall be sufficient authority in law to all persons to whom the same is directed to execute the sentence of death or other punishment awarded, and to carry out the directions therein given in accordance with the terms thereof. (As amended by No. 14 of 1938, G.N. No. 303 of 1964 and S.I. No. 63 of 1964)
 
-##### Section 306 — Procedure where woman convicted of capital offence alleges she is pregnant
+##### Section 306
 
 (1) Where a woman convicted of an offence punishable with death alleges that she is pregnant, or where the court before which a woman is so convicted thinks fit so to order, the question whether or not the woman is pregnant shall, before sentence is passed on her, be determined by the court.
 
@@ -4281,6 +4513,8 @@ Provided that the warrant may direct that the execution shall take place at such
 
 Other Sentences
 
+Procedure where woman convicted of capital offence alleges she is pregnant
+
 ##### Section 307 — A warrant under the hand of the Judge or magistrate by whom any person
 
 shall be sentenced to imprisonment, ordering that the sentence shall be carried out in any prison within Zambia, shall be issued by the sentencing Judge or magistrate, and shall be full authority to the officer in charge of such prison and to all other persons for carrying into effect the sentence described in such warrant, not being a sentence of death.
@@ -4289,21 +4523,25 @@ Warrant in case of sentence of imprisonment
 
 (As amended by No. 28 of 1940 and No. 16 of 1959)
 
-##### Section 308 — Warrant for levy of fine, etc
+##### Section 308
 
 (1) When a court orders money to be paid by an accused person or by a prosecutor or complainant for fine, penalty, compensation, costs, expenses, or otherwise, the money may be levied on the movable and immovable property of the person ordered to pay the same, by distress and sale under warrant. If he shows sufficient movable property to satisfy the order, his immovable property shall not be sold.
+
+Warrant for levy of fine, etc.
 
 (2) Such person may pay or tender to the officer having the execution of the warrant the sum therein mentioned, together with the amount of the expenses of the distress up to the time of payment or tender, and, thereupon, the officer shall cease to execute the same.
 
 (3) A warrant under this section may be executed within the local limits of the jurisdiction of the court issuing the same, and it shall authorise the distress and sale of any property belonging to such person without such limits, when endorsed by a magistrate holding a subordinate court of the first or second class within the local limits of whose jurisdiction such property was found.
 
-##### Section 309 — Objections to attachment
+##### Section 309
 
 (1) Any person claiming to be entitled to have a legal or equitable interest in the whole or part of any property attached in execution of a warrant issued under section three hundred and eight may, at any time prior to the receipt by the court of the proceeds of sale of such property, give notice in writing to the court of his objection to the attachment of such property. Such notice shall set out shortly the nature of the claim which such person (hereinafter in this section called "the objector") makes to the whole or part of the property attached, and shall certify the value of the property claimed by him. Such value shall be deposed to on affidavit which shall be filed with the notice.
 
 (2) Upon receipt of a valid notice given under subsection (1), the court shall, by an order in writing addressed to the officer having the execution of the warrant, direct a stay of the execution proceedings.
 
 (3) Upon the issue of an order under subsection (2), the court shall, by notice in writing, direct the objector to appear before such court and establish his claim upon a date to be specified in the notice.
+
+Objections to attachment
 
 (4) A notice shall be served upon the person whose property was, by the warrant issued under section three hundred and eight, directed to be attached and, unless the property is to be applied to the payment of a fine, upon the person entitled to the proceeds of the sale of such property. Such notice shall specify the time and place fixed for the appearance of the objector and shall direct the person upon whom the notice is served to appear before the court at the same time and place if he wishes to be heard upon the hearing of the objection.
 
@@ -4315,7 +4553,7 @@ Warrant in case of sentence of imprisonment
 
 (8) Nothing in this section shall be deemed to deprive a person who has failed to comply with the requirements of subsection (1) of the right to take any other proceedings which, apart from the provisions of this section, may lawfully be taken by a person claiming an interest in property attached under a warrant. (No. 28 of 1940)
 
-##### Section 310 — Suspension of execution of sentence of imprisonment in default of fine
+##### Section 310
 
 (1) When a convicted person has been sentenced to a fine only and to imprisonment in default of payment of that fine, and whether or not a warrant of distress has been issued under section three hundred and eight, the court may, if it is satisfied that such fine cannot be immediately paid, allow the convicted person time to pay such fine.
 
@@ -4323,39 +4561,55 @@ Warrant in case of sentence of imprisonment
 
 (3) Where a convicted person is allowed time to pay a fine under this section, no warrant of commitment to prison in respect of the non-payment of such fine shall be issued until after the expiration of the time allowed for such payment. (No. 5 of 1962)
 
-##### Section 311 — Commitment for want of distress
+Suspension of execution of sentence of imprisonment in default of fine
+
+##### Section 311
 
 If the officer having the execution of a warrant of distress reports that he could find no property, or not sufficient property, whereon to levy the money mentioned in the warrant with expenses, the court may, by the same or a subsequent warrant, commit the person ordered to pay to prison, for a time specified in the warrant, unless the money and all expenses of the distress, commitment and conveyance to prison, to be specified in the warrant, are sooner paid.
 
-##### Section 312 — Commitment in lieu of distress
+Commitment for want of distress
+
+##### Section 312
 
 When it appears to the court that distress and sale of property would be ruinous to the person ordered to pay the money or to his family, or (by his confession or otherwise) that he has no property whereon the distress may be levied, or other sufficient reason appears to the court, the court may, if it thinks fit, instead of or after issuing a warrant of distress, commit him to prison for a time specified in the warrant, unless the money and all expenses of the commitment and conveyance to prison, to be specified in the warrant, are sooner paid.
 
-##### Section 313 — Payment in full after commitment
+Commitment in lieu of distress
+
+##### Section 313
 
 Any person committed for non-payment may pay the sum mentioned in the warrant, with the amount of expenses therein authorised (if any), to the person in whose custody he is, and that person shall, thereupon, discharge him, if he is in custody for no other matter.
 
-##### Section 314 — Part payment after commitment
+Payment in full after commitment
+
+##### Section 314
 
 (1) If any person committed to prison for non-payment shall pay any sum in part satisfaction of the sum adjudged to be paid, the term of his imprisonment shall be reduced by a number of days bearing, as nearly as possible, the same proportion to the total number of days for which such person is committed, as the sum so paid bears to the sum for which he is liable.
+
+Part payment after commitment
 
 (2) If any person committed to prison for default of sufficient distress shall pay any sum in part satisfaction thereof, or if any part of the fine is levied by process of law, whether before or subsequent to his commitment to prison, the term of his imprisonment shall be reduced as in subsection (1) provided.
 
 (3) The officer in charge of a prison in which a person is confined who is desirous of taking advantage of the provisions of the preceding subsections shall, on application being made to him by such prisoner, at once take him before a court, and such court shall certify the amount by which the term of imprisonment originally awarded is reduced by such payment in part satisfaction, and shall make such order as is required in the circumstances.
 
-##### Section 315 — Who may issue warrant
+##### Section 315
 
 Every warrant for the execution of any sentence may be issued either by the Judge or magistrate who passed the sentence, or by his successor in office.
 
-##### Section 316 — Limitation of imprisonment
+Who may issue warrant
+
+##### Section 316
 
 No commitment for non-payment shall be for a longer period than nine months, unless the written law under which the conviction has taken place enjoins or allows a longer period.
 
+Limitation of imprisonment
+
 Previously Convicted Offenders
 
-##### Section 317 — Person twice convicted may be subjected to police supervision
+##### Section 317
 
 (1) When any person, having been convicted of any offence punishable with imprisonment for a term of three years or more, is again convicted of any offence punishable with imprisonment for a term of three years or more, the court may, if it thinks fit, at the time of passing sentence of imprisonment on such person, also order that he shall be subject to police supervision, as hereinafter provided, for a term not exceeding five years from the date of his release from prison.
+
+Person twice convicted may be subjected to police supervision
 
 (2) If such conviction is set aside on appeal or otherwise, such order shall become void.
 
@@ -4363,7 +4617,7 @@ Previously Convicted Offenders
 
 (4) Every such order shall be stated in the warrant of commitment. (As amended by No. 5 of 1962)
 
-##### Section 318 — Requirements from persons subject to police supervision
+##### Section 318
 
 (1) Every person subject to police supervision shall, on discharge from prison, be furnished by the prescribed officer with an identity book in the prescribed form, and, while at large in Zambia, shall-
 
@@ -4375,21 +4629,27 @@ report himself personally at such intervals of time, at such place and to such p
 
 notify his residential address, any intention to change his residential address and any change thereof, in such manner and to such person as may be prescribed by rules under this section.
 
+Requirements from persons subject to police supervision
+
 (2) The President may, by statutory instrument, make rules for carrying out the provisions of this section. (As amended by No. 5 of 1962 and G.N. No. 303 of 1964)
 
-##### Section 319 — Failure to comply with requirements under section 318
+##### Section 319
 
 If any person subject to police supervision who is at large in Zambia refuses or neglects to comply with any requirement prescribed by the last preceding section or by any rule made thereunder, such person shall, unless he proves to the satisfaction of the court before which he is tried that he did his best to act in conformity with the law, be guilty of an offence and liable to imprisonment for a term not exceeding six months. Defects in Order or Warrant
 
-##### Section 320 — Errors and omissions in orders and warrants
+Failure to comply with requirements under section 318
+
+##### Section 320
 
 The court may, at any time, amend any defect in substance or in form in any order or warrant, and no omission or error as to time or place, and no defect in form in any order or warrant given under this Code, shall be held to render void or unlawful any act done or intended to be done by virtue of such order or warrant, provided that it is therein mentioned, or may be inferred therefrom, that it is founded on a conviction or judgment, and there is a valid conviction or judgment to sustain the same.
 
-### PART XI — APPEALSPART XI
+Errors and omissions in orders and warrants
+
+### PART XI — APPEALS
 
 APPEALS
 
-##### Section 321 — Appeals
+##### Section 321
 
 (1) Any person convicted by a subordinate court may appeal to the High Court-
 
@@ -4423,7 +4683,7 @@ an order under any enactment which enables the court to order the destruction of
 
 an order made in pursuance of any enactment under which the court has no discretion as to the making of the order or its terms.
 
-##### Section 321A — Appeals by Director of Public Prosecutions
+##### Section 321A
 
 (1) If the Director of Public Prosecutions is dissatisfied with a judgment of a subordinate court as being erroneous in point of law, or as being in excess of jurisdiction, he may appeal against any such judgment to the High Court within fourteen days of the decision of the subordinate court.
 
@@ -4433,11 +4693,13 @@ an order made in pursuance of any enactment under which the court has no discret
 
 reverse, affirm or amend any such judgment;
 
+Appeals by Director of Public Prosecutions
+
 (b)
 
 find the person in relation to whom such judgment was given guilty of the offence of which he was charged in the subordinate court or of any other offence of which he could have been convicted by the subordinate court and may convict and sentence him for such or such other offence; (G.N. No. 493 of 1964 as amended by No. 23 of 1971 and 30 of 1976)
 
-##### Section 322 — Limitation
+##### Section 322
 
 No appeal shall be heard unless entered-
 
@@ -4467,7 +4729,7 @@ Limitation
 
 Provided that the appellate court may at its discretion hear an appeal in respect of which an application has been made in accordance with the provisions of section three hundred and twenty-four. (No. 5 of 1962 as amended by No. 76 of 1965 and Act 12 of 1973)
 
-##### Section 323 — Procedure preliminary to appeal
+##### Section 323
 
 (1) An appeal shall be entered-
 
@@ -4479,27 +4741,37 @@ by filing with the court below a notice of appeal in the form prescribed; or
 
 if the appellant is in prison, by handing such notice to the officer in charge of the prison in which he is lodged.
 
+Procedure preliminary to appeal
+
 (2) The officer in charge of any prison shall, on receipt of a notice of appeal, endorse upon such notice the date it was handed to him and shall transmit the notice to the court below.
 
 (3) The court below shall transmit to the appellate court a notice of appeal filed with or transmitted to it under this section together with the record of the case and the judgment or order therein. (No. 76 of 1965)
 
-##### Section 324 — Procedure for application to appeal out of time
+##### Section 324
 
 (1) Where the period has expired within which, under section three hundred and twenty-two, an appeal shall be entered, an appellant may nevertheless make application in the prescribed form for his appeal to be heard and shall in support of any such application enter an appeal, and the form of application shall be attached to the notice of appeal when that notice is filed with or transmitted to the court below and the appellate court.
 
+Procedure for application to appeal out of time
+
 (2) In any case where an appellate court refuses an application made under subsection (1), the appeal entered in support of the application shall be deemed never to have been entered. (No. 76 of 1965)
 
-##### Section 325 — Procedure on appeal
+##### Section 325
 
 Every appellant shall be entitled, if he so desires, to be present at the hearing of his appeal, and to be heard, either personally or by his advocate. If he does not desire to be present or to be heard, either personally or by his advocate, then the appellate court shall decide the appeal summarily, without hearing argument, unless it sees fit to direct otherwise, on the documents forwarded to it as in section three hundred and twenty-three provided.
 
-##### Section 326 — Notice of time and place of hearing
+Procedure on appeal
+
+##### Section 326
 
 If the appellate court does not determine the appeal summarily, it shall cause notice to be given to the appellant or his advocate, and to the public or private prosecutor at the place where the appeal is to be heard, of the time and place at which such appeal will be heard, and shall furnish such prosecutor with a copy of the documents prescribed by section three hundred and twenty-three.
 
-##### Section 327 — Powers of appellate court
+Notice of time and place of hearing
+
+##### Section 327
 
 (1) The appellate court, after persuing the documents forwarded to it, if the appeal is being heard summarily, or after hearing the appellant or his advocate, if he appears, and the prosecutor, if he appears, may, if it considers that there is no sufficient ground for interfering, dismiss the appeal, or may-
+
+Powers of appellate court
 
 (a)
 
@@ -4527,19 +4799,25 @@ and, in any case, may make any amendment or any consequential or incidental orde
 
 (2) Where the High Court has directed that an appellant shall be retried by the High Court under the provisions of paragraph (a) of subsection (1), the trial shall be conducted without a preliminary inquiry in accordance with the provisions of subsection (4) of section sixty-eight. (As amended by No. 2 of 1960 and G.N. No. 493 of 1964)
 
-##### Section 328 — Pronouncement of decision of the High Court sitting as an appellate court
+##### Section 328
 
 (1) The High Court sitting as an appellate court may, at the close of an appeal, pronounce its decision on the appeal and give its reasons for the decision.
+
+Pronouncement of decision of the High Court sitting as an appellate court
 
 (2) Where the High Court pronounces its decision at the close of an appeal under subsection (1), the judgment of the court shall be pronounced in such manner as the court may direct:
 
 Provided that, where an appeal is heard by more than one Judge, any such Judge may give directions as to the manner in which the judgment shall be pronounced, and the judgment may be so pronounced whether or not the other Judge or Judges who heard the appeal are present. (No. 11 of 1963 as amended by No. 23 of 1971)
 
-##### Section 329 — Order of appellate court to be certified
+##### Section 329
 
 The appellate court shall certify its judgment or order to the court below, which shall, thereupon, make such orders as are conformable to the judgment or order of the appellate court, and, if necessary, the records shall be amended in accordance therewith.
 
-##### Section 330 — In the case of a conviction involving sentence of corporal punishment-
+Order of appellate court to be certified
+
+##### Section 330
+
+In the case of a conviction involving sentence of corporal punishment-
 
 (a)
 
@@ -4567,33 +4845,41 @@ Suspension of orders on conviction
 
 (As amended by No. 28 of 1940)
 
-##### Section 332 — Admission to bail or suspension of sentence pending appeal
+##### Section 332
 
 (1) After the entering of an appeal by a person entitled to appeal, the appellate court, or the subordinate court which convicted or sentenced such person, may, for reasons to be recorded by it in writing, order that he be released on bail with or without sureties, or if such person is not released on bail shall, at the request of such person, order that the execution of the sentence or order appealed against shall be suspended pending the hearing of his appeal.
 
+Admission to bail or suspension of sentence pending appeal
+
 (2) If the appeal is ultimately dismissed and the original sentence confirmed, or some other sentence of imprisonment substituted therefor, the time during which the appellant has been released on bail, or during which the sentence has been suspended, shall, unless the court shall otherwise order, be excluded in computing the term of imprisonment to which he is finally sentenced. (No 28 of 1940 as amended by No. 1959)
 
-##### Section 333 — Further evidence
+##### Section 333
 
 (1) In dealing with an appeal from a court below, the appellate court, if it thinks additional evidence is necessary, shall record its reasons, and may either take such evidence itself or direct it to be taken by the court below.
 
 (2) When the additional evidence is taken by the court below, such court shall certify such evidence to the appellate court, which shall, thereupon, proceed to dispose of the appeal.
 
+Further evidence
+
 (3) Unless the appellate court otherwise directs, the accused or his advocate shall be present when the additional evidence is taken.
 
 (4) Evidence taken in pursuance of this section shall be taken as if it were evidence taken at a trial before a subordinate court.
 
-##### Section 334 — Appeals to be heard by one Judge unless the Chief Justice otherwise directs
+##### Section 334
 
 (1) Appeals from subordinate courts to the High Court shall be heard by one Judge except where the Chief Justice shall direct that the appeal be heard by more than one Judge.
 
+Appeals to be heard by one Judge unless the Chief Justice otherwise directs
+
 (2) Where an appeal is heard by more than one Judge and such Judges are divided equally in opinion, the appeal shall be dismissed. (No. 11 of 1963)
 
-##### Section 335 — Abatement of appeals
+##### Section 335
 
 Every appeal from a subordinate court (except an appeal from a sentence of fine) shall finally abate on the death of the appellant.
 
-##### Section 336 — Bail in cases of appeals to Supreme Court
+Abatement of appeals
+
+##### Section 336
 
 (1) The High Court may, if it deems fit, on the application of an appellant from a judgment of that Court and pending the determination of his appeal or application for leave to appeal to the Supreme Court in a criminal matte-
 
@@ -4619,13 +4905,17 @@ if the appellant is not in custody, as from the day on which he is received into
 
 Revision
 
-##### Section 337 — Power of High Court to call for records
+##### Section 337
 
 The High Court may call for and examine the record of any criminal proceedings before any subordinate court, for the purpose of satisfying itself as to the correctness, legality or propriety of any finding, sentence or order recorded or passed; and as to the regularity of any proceedings of any such subordinate court.
 
-##### Section 338 — Powers of High Court on revision
+Power of High Court to call for records
+
+##### Section 338
 
 (1) In the case of any proceedings in a subordinate court, the record of which has been called for, or which otherwise comes to its knowledge, the High Court may-
+
+Powers of High Court on revision
 
 (a)
 
@@ -4659,15 +4949,19 @@ in the case of any other order, other than an order of acquittal, alter or rever
 
 (6) When the High Court gives a direction under subparagraph (iv) of paragraph (a) of subsection (1), the record of the proceedings shall be returned to the subordinate court and that court shall comply with the said direction. (As amended by No. 16 of 1959 and No. 11 of 1963)
 
-##### Section 339 — Discretion of High Court as to hearing parties
+##### Section 339
 
 No party has any right to be heard, either personally or by advocate, before the High Court when exercising its powers of revision:
 
+Discretion of High Court as to hearing parties
+
 Provided that the High Court may, if it thinks fit, when exercising such powers, hear any party either personally or by advocate. (As amended by G.N. No. 493 of 1964)
 
-##### Section 340 — Order to be certified to lower court
+##### Section 340
 
 When a case is revised by the High Court, the Court shall certify its decision or order to the court by which the sentence or order, so revised, was recorded or passed, and the court to which the decision or order is so certified shall, thereupon, make such orders as are conformable to the decision so certified, and, if necessary, the record shall be amended in accordance therewith.
+
+Order to be certified to lower court
 
 (As amended by G.N. No. 493 of 1964)
 
@@ -4693,25 +4987,33 @@ Recognizance to be taken and fees paid
 
 Provided that nothing in this section shall apply to an application for a case stated by or under the direction of the Director of Public Prosecutions. (As amended by S.I. No. 152 of 1965)
 
-##### Section 343 — Subordinate court may refuse case when it thinks application frivolous
+##### Section 343
 
 If the subordinate court be of opinion that the application is merely frivolous, but not otherwise, it may refuse to state a case, and shall, on the request of the appellant, and on payment of the fee set out in the Third Schedule, sign and deliver to him a certificate of such refusal:
 
+Subordinate court may refuse case when it thinks application frivolous
+
 Provided that the subordinate court shall not refuse to state a case when the application for that purpose is made to it by or under the direction of the Director of Public Prosecutions, who may require a case to be stated with reference to proceedings to which he was not a party. (As amended by S.I. No. 63 of 1964)
 
-##### Section 344 — Procedure on refusal of subordinate court to state case
+##### Section 344
 
 Where a subordinate court refuses to state a case, the High Court may, on the application of the person who applied for the case to be stated, make an order of mandamus requiring the subordinate court to state a case.
 
-##### Section 345 — Constitution of court hearing case stated
+Procedure on refusal of subordinate court to state case
+
+##### Section 345
 
 A case stated for the opinion of the High Court shall be heard by one Judge of the Court except when, in any particular case, the Chief Justice shall direct that it shall be heard by two Judges. Such direction may be given before the hearing or at any time before judgment is delivered. If, on the hearing, the Court is equally divided in opinion, the decision of the subordinate court shall be affirmed.
 
+Constitution of court hearing case stated
+
 (No. 2 of 1960)
 
-##### Section 346 — High Court to determine questions on case
+##### Section 346
 
 The High Court shall (subject to the provisions of the next succeeding section) hear and determine the question or questions of law arising on the case stated, and shall, thereupon, reverse, affirm or amend the determination in respect of which the case has been stated, or remit the matter to the subordinate court with the opinion of the High Court thereon, or may make such other order in relation to the matter, and may make such order as to costs, as to the Court may seem fit, and all such orders shall be final and conclusive on all parties:
+
+High Court to determine questions on case
 
 Provided that(i)
 
@@ -4721,7 +5023,7 @@ no magistrate who shall state and deliver a case in pursuance of this Part, or b
 
 no costs shall be awarded against the People, except where the People are the appellant. (As amended by S.I. No. 63 of 1964)
 
-##### Section 347 — Case may be sent back for amendment or rehearing
+##### Section 347
 
 The High Court shall have power, if it thinks fit-
 
@@ -4733,9 +5035,13 @@ to cause the case to be sent back for amendment or restatement, and, thereupon, 
 
 to remit the case to the subordinate court for rehearing and determination, with such directions as it may deem necessary.
 
-##### Section 348 — Powers of subordinate court after decision of High Court
+Case may be sent back for amendment or rehearing
+
+##### Section 348
 
 After the decision of the High Court has been given on a case stated, the subordinate court in relation to whose determination the case has been stated, or any other subordinate court exercising the same jurisdiction, shall have the same authority to enforce any conviction or order which may have been affirmed, amended or made by the High Court as the subordinate court which originally decided the case would have had to enforce its determination, if the same had not been appealed against; and no action or proceeding whatsoever shall be commenced or had against the magistrate holding such subordinate court for enforcing such conviction or order, by reason of any defect in the same respectively.
+
+Powers of subordinate court after decision of High Court
 
 ##### Section 349 — No person who has appealed under section three hundred and twenty-one
 
@@ -4743,7 +5049,7 @@ shall be entitled to have a case stated, and no person who has applied to have a
 
 Appellant may not proceed both by case stated and by appeal
 
-##### Section 350 — Contents of case stated
+##### Section 350
 
 A case stated by a subordinate court shall set out-
 
@@ -4777,9 +5083,11 @@ any question of law which the Director of Public Prosecutions may require to be 
 
 Contents of case stated
 
-##### Section 351 — High Court may enlarge time
+##### Section 351
 
 The High Court may, if it deems fit, enlarge any period of time prescribed by section three hundred and forty-one or three hundred and forty-two.
+
+High Court may enlarge time
 
 (As amended by No. 5 of 1962)
 
@@ -4787,25 +5095,29 @@ The High Court may, if it deems fit, enlarge any period of time prescribed by se
 
 In this Part, "appellate court" means the High Court. (No. 23 of 1971)
 
-### PART XII — SUPPLEMENTARY PROVISIONSPART XII
+### PART XII — SUPPLEMENTARY PROVISIONS
 
 SUPPLEMENTARY PROVISIONS
 
 Irregular Proceedings
 
-##### Section 352 — Proceedings in wrong place
+##### Section 352
 
 No finding, sentence or order of any court shall be set aside merely on the ground that the inquiry, trial or other proceeding in the course of which it was arrived at or passed took place in a wrong district, unless it appears that such error has in fact occasioned a substantial miscarriage of justice.
 
+Proceedings in wrong place
+
 (As amended by No. 16 of 1959)
 
-##### Section 353 — Finding or sentence when not reversible
+##### Section 353
 
 Subject to the provisions hereinbefore contained, no finding, sentence or order passed by a court of competent jurisdiction shall be reversed or altered on appeal or revision on any ground whatsoever unless any matter raised in such ground has, in the opinion of the appellate court, in fact occasioned a substantial miscarriage of justice:
 
+Finding or sentence when not reversible
+
 Provided that, in determining whether any such matter has occasioned a substantial miscarriage of justice, the court shall have regard to the question whether the objection could and should have been raised at an earlier stage in the proceeding. (No. 16 of 1959)
 
-##### Section 354 — Distress not illegal nor distrainer a trespasser for defect or want of form in
+##### Section 354
 
 No distress made under this Code shall be deemed unlawful, nor shall any person making the same be deemed a trespasser, on account of any defect or want of form in the summons, conviction, warrant of distress or other proceedings relating thereto.
 
@@ -4813,9 +5125,11 @@ Distress not illegal nor distrainer a trespasser for defect or want of form in p
 
 Miscellaneous
 
-##### Section 355 — Disposal of exhibits
+##### Section 355
 
 (1) Where any thing which has been tendered or put in evidence in any criminal proceedings before any court has not been claimed by any person who appears to the court to be entitled thereto within a period of twelve months after the final disposal of such proceedings or of any appeal entered in respect thereof, such thing may be sold, destroyed or otherwise disposed of in such manner as the court may by order direct, and the proceeds of any such sale shall be paid into the general revenues of the Republic.
+
+Disposal of exhibits
 
 (2) If any thing which has been tendered or put in evidence in any criminal proceedings before any court is subject to speedy and natural decay the court may, at any stage of the proceedings or at any time after the final disposal of such proceedings, order that it be sold or otherwise disposed of but shall hold the proceeds of any such sale and, if unclaimed at the expiration of a period of twelve months after the final disposal of such proceedings or of any appeal entered in respect thereof, shall pay such proceeds into the general revenues of the Republic.
 
@@ -4823,7 +5137,7 @@ Miscellaneous
 
 (4) Any order of a court made under the provisions of subsection (1) or (2) shall be final and shall operate as a bar to any claim by or on behalf of any person claiming ownership of or any interest in such thing by virtue of any title arising prior to the date of such order. (No. 11 of 1963)
 
-##### Section 356 — Corporations
+##### Section 356
 
 (1) Where a corporation is charged with an offence before a court, the provisions of this section shall have effect.
 
@@ -4845,19 +5159,23 @@ Corporations
 
 (9) A representative for the purposes of this section need not be appointed under the seal of the corporation, and a statement in writing purporting to be signed by a managing director of the corporation, or by any person (by whatever name called) having, or being one of the persons having, the management of the affairs of the corporation, to the effect that the person named in the statement has been appointed as the representative of the corporation for the purposes of this section, shall be admissible without further proof as prima facie evidence that that person has been so appointed. (No. 76 of 1965)
 
-##### Section 357 — Prescribed fees
+##### Section 357
 
 In addition to or in substitution for the fees set forth in the Third Schedule, the Chief Justice may prescribe the fees to be paid for any proceedings in the High Court and in subordinate courts. Such fees shall be paid by the party prosecuting, and may be charged as part of the costs, if so ordered. The payment of fees may, on account of the poverty of any person or for other good reason, be dispensed with by the court of trial.
 
+Prescribed fees
+
 (As amended by No. 2 of 1960)
 
-##### Section 358 — Prescribed forms
+##### Section 358
 
 (1) The Chief Justice may by rule prescribe forms for the purposes of this Code, and such forms, with such variations as the circumstances of each case may require, may be used and, if used, shall be sufficient for the respective purposes therein mentioned.
 
+Prescribed forms
+
 (2) The forms in the Fourth Schedule shall be deemed to have been prescribed by the Chief Justice under the provisions of this section. (No. 2 of 1960)
 
-##### Section 359 — Rules
+##### Section 359
 
 (1) The Chief Justice may, by statutory instrument, make rules for the better administration of this Code.
 
@@ -4883,9 +5201,11 @@ amend the Second Schedule by varying or annulling forms contained therein or by 
 
 Non-application of British Act
 
-##### Section 360 — Non-application
+##### Section 360
 
 The Criminal Evidence Act, 1898, of the United Kingdom, shall not apply to the Republic.
+
+Non-application
 
 ## FIRST SCHEDULE
 
@@ -7281,7 +7601,7 @@ Ditto.
 
 Ditto.
 
-##### Section 361 — Sending false certificate of
+##### Section 361
 
 Sending false certificate of marriage to registrar.
 
@@ -7289,7 +7609,7 @@ Ditto.
 
 Ditto.
 
-##### Section 362 — Making false statement for
+##### Section 362
 
 Making false statement for insertion in register of births, deaths or marriages.
 
@@ -7299,13 +7619,15 @@ Imprisonment for three years.
 
 Chapter XXXVII-Offences Relating to Coin
 
-##### Section 364 — Counterfeiting coin
+##### Section 364
+
+Counterfeiting coin.
 
 May arrest without warrant.
 
 Imprisonment for life.
 
-##### Section 365 — Making preparations for
+##### Section 365
 
 Making preparations for coining.
 
@@ -7313,19 +7635,23 @@ Ditto.
 
 Ditto.
 
-##### Section 366 — Clipping current coin
+##### Section 366
+
+Clipping current coin.
 
 Ditto.
 
 Imprisonment for seven years.
 
-##### Section 367 — Melting down of currency
+##### Section 367
+
+Melting down of currency.
 
 Ditto.
 
 Imprisonment for six months or fine of three thousand penalty units or both.
 
-##### Section 368 — Being in possession of
+##### Section 368
 
 Being in possession of clippings.
 
@@ -7333,13 +7659,15 @@ Ditto.
 
 Imprisonment for seven years.
 
-##### Section 369 — Uttering counterfeit coin
+##### Section 369
+
+Uttering counterfeit coin.
 
 Ditto.
 
 Imprisonment for two years.
 
-##### Section 370 — Repeated uttering of
+##### Section 370
 
 Repeated uttering of counterfeit coin.
 
@@ -7347,7 +7675,7 @@ Ditto.
 
 Imprisonment for three years.
 
-##### Section 371 — Uttering foreign coin or
+##### Section 371
 
 Uttering foreign coin or metal as current coin.
 
@@ -7355,7 +7683,9 @@ Ditto.
 
 Imprisonment for one year.
 
-##### Section 372 — Exporting counterfeit coin
+##### Section 372
+
+Exporting counterfeit coin.
 
 Ditto.
 
@@ -7363,7 +7693,7 @@ Imprisonment for fourteen years.
 
 Chapter XXXVIII-Counterfeit Stamps
 
-##### Section 374 — Being in possession etc., of,
+##### Section 374
 
 Being in possession etc., of, die or paper used for purpose of making revenue stamps.
 
@@ -7371,7 +7701,7 @@ May arrest without warrant.
 
 Imprisonment for seven years.
 
-##### Section 375 — Being in possession, etc.,
+##### Section 375
 
 Being in possession, etc., of die or paper used for postage stamps.
 
@@ -7385,7 +7715,9 @@ mark.
 
 Shall not arrest without warrant.
 
-##### Section 378 — Personation in general
+##### Section 378
+
+Personation in general.
 
 May arrest without warrant.
 

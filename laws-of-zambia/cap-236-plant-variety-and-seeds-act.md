@@ -399,7 +399,7 @@ PLANT VARIETY AND SEEDS
 
 An Act to provide for the regulation and control of the production, sale and import of seed for sowing and of the export of seed, and to provide for the testing and for minimum standards of germination and purity thereof, and further to provide for the certification of seed and for matters incidental to or connected with the foregoing. [1st December, 1968]
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -409,7 +409,9 @@ This Act may be cited as the Plant Variety and Seeds Act.
 
 (As amended by Act No. 21 of 1995)
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
+
+In this Act, unless the context otherwise requires-
 
 "aggrieved party" means any person whose application for registration under Part II has been refused or made subject to any condition by the Certifying Authority, or any person who had been registered under Part II and whose registration has been cancelled by the Certifying Authority;
 
@@ -821,7 +823,7 @@ Any reports, licences, certificates, approvals or other documents issued, grante
 
 Reports, licences, and other document of Certifying Authority
 
-### PART IV — INSPECTORS OF SEEDSPART IV
+### PART IV — INSPECTORS OF SEEDS
 
 INSPECTORS OF SEEDS
 
@@ -911,7 +913,9 @@ any such prosecution having been finally concluded; then, in either such event, 
 
 Provided that any such vehicle, machinery, equipment, prescribed or restricted seed, package, label, stamp or device for marking, stamping or labelling, shall not be returnable under this subsection if they have been declared by the court to be forfeited, or ordered to be destroyed, under any provision of this Act. (As amended by Act No. 21 of 1995)
 
-#### Section 27 — Any person who-
+#### Section 27 — Prohibition against obstruction, etc., of inspectors and duly authorised officers
+
+Any person who-
 
 (a)
 
@@ -929,7 +933,7 @@ shall be guilty of an offence.
 
 Prohibition against obstruction, etc., of inspectors and duly authorised officers
 
-### PART V — LICENSING OF SEED SELLERSPART V
+### PART V — LICENSING OF SEED SELLERS
 
 LICENSING OF SEED SELLERS
 
@@ -1055,7 +1059,7 @@ Right of former licensee under expired or revoked licence to apply for new licen
 
 (2) Any licence issued pursuant to such an application shall not be deemed to be a renewal of the expired or revoked seed seller's licence formerly held by the applicant. (As amended by Act No. 21 of 1995)
 
-### PART VI — PRESCRIBED SEEDPART VI
+### PART VI — PRESCRIBED SEED
 
 PRESCRIBED SEED
 
@@ -1213,7 +1217,7 @@ In the event of a dismissal of the claim by the court, the Minister may elect to
 
 (4) Any person who fails to comply with any order made or condition imposed under paragraph (a) or (b) of subsection (1) shall be guilty of an offence.
 
-### PART VII — IMPORT AND EXPORT OF SEEDPART VII
+### PART VII — IMPORT AND EXPORT OF SEED
 
 IMPORT AND EXPORT OF SEED
 
@@ -1433,7 +1437,7 @@ Cap. 322
 
 (2) Any person who contravenes any regulation made under the provisions of subsection (1) shall be guilty of an offence.
 
-### PART VIII — CERTIFIED SEEDPART VIII
+### PART VIII — CERTIFIED SEED
 
 CERTIFIED SEED
 
@@ -1687,7 +1691,9 @@ together with such other particulars as are prescribed.
 
 (2) Any person who fails to comply with the provisions of this section shall be guilty of an offence. (As amended by Act No. 21 of 1995)
 
-#### Section 64 — Any person who-
+#### Section 64 — Prohibition against sale of uncertified seed as certified seed
+
+Any person who-
 
 (a)
 
@@ -1696,8 +1702,6 @@ sells as certified seed any seed which is not certified by the Minister under th
 (b)
 
 for the purposes of sale, uses, in the description or name of any seed, the word "certified" or any cognate word in relation to seed which is not certified by the Minister under this Part;
-
-Prohibition against sale of uncertified seed as certified seed
 
 shall be guilty of an offence.
 
@@ -1729,7 +1733,7 @@ When seed failing to meet certification standards may be sold as quality declare
 
 (As amended by Act No. 21 of 1995)
 
-### PART IX — OFFENCES AND MISCELLANEOUSPART IX
+### PART IX — OFFENCES AND MISCELLANEOUS
 
 OFFENCES AND MISCELLANEOUS
 
@@ -1767,7 +1771,9 @@ Prohibition against sale of prescribed seed under name other than varietal name
 
 (2) In this section, "varietal name" means the name given to a specific variety of seed by its originator or discoverer.
 
-#### Section 72 — Any person who-
+#### Section 72 — Prohibition against tampering with samples
+
+Any person who-
 
 (a)
 
@@ -1785,7 +1791,9 @@ shall be guilty of an offence. (As amended by Act No. 21 of 1995)
 
 Prohibition against tampering with samples
 
-#### Section 73 — Any person who, without lawful authority, alters, defaces or removes-
+#### Section 73 — Prohibition against altering, defacing or removing official records, etc
+
+Any person who, without lawful authority, alters, defaces or removes-
 
 (a)
 
@@ -1795,11 +1803,11 @@ any register, roll, index or other such official record maintained in pursuance 
 
 any entry appearing in any such register, roll, index or other such official record;
 
-Prohibition against altering, defacing or removing official records, etc.
-
 shall be guilty of an offence.
 
-#### Section 74 — Any person who, without lawful authority, alters or defaces-
+#### Section 74 — Prohibition against altering, etc., documents and marks
+
+Any person who, without lawful authority, alters or defaces-
 
 (a)
 
@@ -1808,8 +1816,6 @@ any certificate, report, record, invoice, account or other document, prescribed,
 (b)
 
 any label, note, docket or mark placed upon any container under this Act or under any order, requirement, condition or regulation made thereunder, or who removes any such label, note, docket or mark from any such container;
-
-Prohibition against altering, etc., documents and marks
 
 shall be guilty of an offence.
 
@@ -1869,7 +1875,7 @@ to any sale of prescribed seed (which is not certified seed) by or to a person w
 
 (Repealed by Act No. 21 of 1995)
 
-### PART X — PROCEEDINGS AND PENALTYPART X
+### PART X — PROCEEDINGS AND PENALTY
 
 PROCEEDINGS AND PENALTY
 
@@ -1895,7 +1901,7 @@ Presumption of correctness of statement for purposes of civil proceedings on con
 
 Save where otherwise expressly provided by this Act, any person who is convicted by the court of an offence under this Act shall, in the case of a first such offence, be liable to a fine not exceeding twenty penalty units or to imprisonment for a term not exceeding three months, or to both; and in the case of a second or any subsequent offence, to a fine not exceeding fifty penalty units or to imprisonment for a term not exceeding six months, or to both. (As amended by Act No. 13 of 1994 and 21 of 1995)
 
-### PART XI — REGULATIONS AND RULESPART XI
+### PART XI — REGULATIONS AND RULES
 
 REGULATIONS AND RULES
 

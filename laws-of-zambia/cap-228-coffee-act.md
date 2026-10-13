@@ -271,7 +271,7 @@ COFFEE ACT
 
 An Act to establish the Coffee Board of Zambia; to define the functions and powers of the Coffee Board of Zambia and those of the Zambia Coffee Growers Association Limited; to regulate the coffee industry; to control the production and marketing of coffee; and to provide for matters connected with or incidental to the foregoing. [29th December, 1989
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -281,9 +281,9 @@ This Act may be cited as the Coffee Act.
 
 Short Title
 
-#### Section 2 — In this Act unless the context otherwise requires-
+#### Section 2 — Interpretation
 
-Interpretation
+In this Act unless the context otherwise requires-
 
 "Appeals Classification Committee" means the body constituted by section fifteen;
 
@@ -333,7 +333,7 @@ Cap. 388
 
 "Vice-Chairman" means the person elected Vice-Chairman of the Board under section four.
 
-### PART II — COFFEE BOARD OF ZAMBIAPART II
+### PART II — COFFEE BOARD OF ZAMBIA
 
 COFFEE BOARD OF ZAMBIA
 
@@ -809,7 +809,7 @@ the purchase or acquisition of roasted coffee from a retail seller for consumpti
 
 The Association or its authorised agents shall be the sole exporters of coffee.
 
-### PART IV — DISTINGUISHING MARKSPART IV
+### PART IV — DISTINGUISHING MARKS
 
 DISTINGUISHING MARKS
 
@@ -859,7 +859,7 @@ made on a cloth tag firmly sewn on the bag or receptacle in letters or figures w
 
 stencilled on the bag or receptacle in letters or figures which are easily distinguishable.
 
-### PART V — LICENSINGPART V
+### PART V — LICENSING
 
 LICENSING
 
@@ -985,7 +985,7 @@ may, within thirty days of the receipt of the notification to him of the issue, 
 
 (2) On any appeal made under subsection (1), the Board may confirm, set aside or vary the decision of the Coffee Licensing Committee.
 
-### PART VI — FINANCEPART VI
+### PART VI — FINANCE
 
 FINANCE
 
@@ -1093,7 +1093,7 @@ any other information the Minister may require.
 
 (3) The Minister shall lay the report referred to in subsection (1) before the National Assembly not later than seven days after the first sitting of the National Assembly next after the receipt of the report.
 
-### PART VI — MISCELLANEOUSPART VI
+### PART VI — MISCELLANEOUS
 
 MISCELLANEOUS
 

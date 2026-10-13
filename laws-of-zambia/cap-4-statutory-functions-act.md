@@ -75,9 +75,9 @@ An Act to make provision for the allocation of statutory functions and for the t
 
 This Act may be cited as the Statutory Functions Act.
 
-### Section 2 — In this Act, unless the context otherwise requires-
+### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "Act" means a written law;
 

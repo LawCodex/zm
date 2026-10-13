@@ -123,7 +123,7 @@ Section
 
 Section
 
-#### Section 39 — Benefits for officers retiring on abolition of post or to effect greater efficiency or
+#### Section 39
 
 Benefits for officers retiring on abolition of post or to effect greater efficiency or economy
 
@@ -145,9 +145,13 @@ Benefits for officers retiring on abolition of post or to effect greater efficie
 
 ### PART X — MISCELLANEOUS
 
-#### Section 47 — Information relevant to payment of benefits to be furnished
+#### Section 47
 
-#### Section 48 — Circumstances when benefits may be withheld, suspended or reduced
+Information relevant to payment of benefits to be furnished
+
+#### Section 48
+
+Circumstances when benefits may be withheld, suspended or reduced
 
 #### Section 49 — Termination or reduction of pension to spouse
 

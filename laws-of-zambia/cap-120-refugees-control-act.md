@@ -107,9 +107,9 @@ An Act to make provision for the control of refugees; and to provide for matters
 
 This Act may be cited as the Refugees (Control) Act.
 
-### Section 2 — In this Act, unless the context otherwise requires-
+### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "authorised" means authorised by the Minister;
 

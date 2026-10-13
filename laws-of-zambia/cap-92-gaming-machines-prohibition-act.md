@@ -25,11 +25,15 @@ Act No. 2 of 1974 13 of 1994
 
 An Act to repeal the Gaming Machines Act and to prohibit the keeping of gaming machines. [22nd February 1974]
 
-### Section 1 — This Act may be cited as the Gaming Machines (Prohibition) Act
+### Section 1
+
+This Act may be cited as the Gaming Machines (Prohibition) Act.
 
 Short title
 
-### Section 2 — In this Act, unless context otherwise requires-
+### Section 2
+
+In this Act, unless context otherwise requires-
 
 Interpretation
 
@@ -55,6 +59,8 @@ Penalty for keeping gaming machine for the purpose of gaming. Cap 157
 
 (1), the court by which he is convicted shall, in addition to any fine or imprisonment imposed under subsection (1), order the forfeiture to the Government of the gaming machine which was the subject-matter of the offence. (As amended by Act No. 13 of 1994)
 
-### Section 4 — The Gaming Machine Act is hereby repealed
+### Section 4
+
+The Gaming Machine Act is hereby repealed.
 
 Repeal of Cap. 431 of the 1971 edition

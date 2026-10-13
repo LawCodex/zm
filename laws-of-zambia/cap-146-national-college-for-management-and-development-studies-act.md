@@ -125,7 +125,7 @@ NATIONAL COLLEGE FOR MANAGEMENT AND DEVELOPMENT STUDIES
 
 An Act to establish the National College for Management and Development Studies; to provide for the membership, powers, duties and functions of the Council for the College; and to make provision for matters incidental to or connected with the foregoing. [24th November, 1972]
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -133,11 +133,11 @@ PRELIMINARY
 
 This Act may be cited as the National College for Management and Development Studies Act.
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
+
+In this Act, unless the context otherwise requires-
 
 Short title
-
-Interpretation
 
 "Agreement" means the agreement entered into on the 31st January, 1969, between Friedrich Ebert-Stiftung Bonn of the Federal Republic of Germany and the Registered Trustees of the Council for the National College for Management and Development Studies;
 
@@ -279,7 +279,7 @@ The Council may appoint, on such terms and conditions of service as it determine
 
 (4) The Council may use a wafer or rubber stamp in lieu of an embossed common seal until such time as an embossed common seal is procured by the Council.
 
-### PART III — FUNCTIONS AND POWERS OF THE COUNCILPART III
+### PART III — FUNCTIONS AND POWERS OF THE COUNCIL
 
 FUNCTIONS AND POWERS OF THE COUNCIL
 
@@ -325,7 +325,7 @@ Functions of Council
 
 In addition to any power otherwise expressly or impliedly conferred by this Act, the Council shall, subject to the provisions of this Act, have power to do all or any of the things specified in the Schedule.
 
-### PART IV — FINANCEPART IV
+### PART IV — FINANCE
 
 FINANCE
 

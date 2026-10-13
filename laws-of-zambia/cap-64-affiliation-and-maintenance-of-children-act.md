@@ -219,7 +219,7 @@ AFFILIATION AND MAINTENANCE OF CHILDREN
 
 An Act to provide for court orders as to paternity; to consolidate the law relating to the maintenance of children; to bring the law of Zambia into conformity with the United Nations Convention on the Rights of the Child dated 20th November, 1989, to which Zambia is a State Party; to abrogate the application of so much of the Maintenance Orders Act, and of the laws of the United Kingdom, as provides for the maintenance of children; and to provide for matters connected with or incidental to the foregoing. [28th April, 1995
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -227,9 +227,9 @@ PRELIMINARY
 
 This Act may be cited as the Affiliation and Maintenance of Children Act.
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "affiliation order" means an order declaring a man to be the father of a child identified in the order;
 
@@ -297,7 +297,7 @@ in the case of a subordinate court, the clerk of that court;
 
 "single woman" includes a widow, a married woman who is divorced and a woman living apart from her husband.
 
-### PART II — AFFILIATION ORDERSPART II
+### PART II — AFFILIATION ORDERS
 
 AFFILIATION ORDERS
 
@@ -347,7 +347,7 @@ Evidence to be given and corroborated
 
 (2) The court shall not make an affiliation order unless the evidence of the mother is corroborated in some material particular by other evidence.
 
-### PART III — MAINTENANCE ORDERSPART III
+### PART III — MAINTENANCE ORDERS
 
 MAINTENANCE ORDERS
 
@@ -479,7 +479,7 @@ there are special circumstances which justify the making of an order notwithstan
 
 (3) A custodian who is entitled to receive moneys under a maintenance order shall have the same power to recover them as the mother or father would have had.
 
-### PART IV — CUSTODY OF CHILDRENPART IV
+### PART IV — CUSTODY OF CHILDREN
 
 CUSTODY OF CHILDREN
 
@@ -531,7 +531,7 @@ Declarations of unfitness for custody
 
 (4) The court shall have power to vary or discharge an order made under this section or to suspend any provision thereof temporarily and to revive the operation of any provision so suspended.
 
-### PART V — REGISTRATION OF MAINTENANCE ORDERSPART V
+### PART V — REGISTRATION OF MAINTENANCE ORDERS
 
 REGISTRATION OF MAINTENANCE ORDERS
 
@@ -663,7 +663,7 @@ in the case of an order registered in a subordinate court, that no proceedings f
 
 (5) On the cancellation of the registration of an order, any order made in relation to it under paragraph (b) of subsection (1) of section twenty shall cease to have effect, but until the defendant receives the prescribed notice of the cancellation he shall be deemed to comply with the order if he makes payments in accordance with any order under that paragraph which was in force immediately before the cancellation of which he has notice.
 
-### PART VI — ATTACHMENT OF EARNINGS ORDERSPART VI
+### PART VI — ATTACHMENT OF EARNINGS ORDERS
 
 ATTACHMENT OF EARNINGS ORDERS
 
@@ -921,7 +921,7 @@ Offences
 
 (a) of subsection (1) to prove that he took all reasonable steps to comply with the order in question. (As amended by Act No. 13 of 1994)
 
-### PART VII — MISCELLANEOUSPART VII
+### PART VII — MISCELLANEOUS
 
 MISCELLANEOUS
 

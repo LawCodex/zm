@@ -31,7 +31,7 @@ Section
 
 #### Section 2 — Interpretation
 
-### PART II — CONSTITUTION OF THE COURTPART II
+### PART II — CONSTITUTION OF THE COURT
 
 CONSTITUTION OF THE COURT
 
@@ -41,7 +41,7 @@ CONSTITUTION OF THE COURT
 
 #### Section 5 — Trial with assessors
 
-### PART III — OFFICERS OF THE COURTPART III
+### PART III — OFFICERS OF THE COURT
 
 OFFICERS OF THE COURT
 
@@ -51,7 +51,7 @@ OFFICERS OF THE COURT
 
 #### Section 8 — Directions by the Chief Justice as to duties and functions
 
-### PART IV — JURISDICTION AND LAWPART IV
+### PART IV — JURISDICTION AND LAW
 
 JURISDICTION AND LAW
 
@@ -63,11 +63,15 @@ JURISDICTION AND LAW
 
 #### Section 12 — Rules as to application of English statutes
 
-#### Section 13 — Law and equity to be concurrently administered
+#### Section 13
+
+Law and equity to be concurrently administered
 
 #### Section 14 — Execution of instruments by order of the Court
 
-#### Section 15 — Form of writs, etc
+#### Section 15
+
+Form of writs, etc.
 
 #### Section 16 — Restriction of vexatious actions
 
@@ -75,7 +79,7 @@ JURISDICTION AND LAW
 
 #### Section 17A — Completion of proceedings
 
-### PART V — SITTINGS AND DISTRIBUTION OF BUSINESSPART V
+### PART V — SITTINGS AND DISTRIBUTION OF BUSINESS
 
 SITTINGS AND DISTRIBUTION OF BUSINESS
 
@@ -85,19 +89,21 @@ Section
 
 #### Section 19 — Sessions
 
-#### Section 20 — Special provisions as to Lusaka, and all Courts with Resident Judges and
+#### Section 20
 
 Special provisions as to Lusaka, and all Courts with Resident Judges and District Registrars
 
 #### Section 21 — Adjournment of Court, etc., in absence of Judge
 
-### PART VI — POWERS OF TRANSFERPART VI
+### PART VI — POWERS OF TRANSFER
 
 POWERS OF TRANSFER
 
 #### Section 22 — Transfer in criminal cases
 
-#### Section 23 — Transfer between Judges, etc
+#### Section 23
+
+Transfer between Judges, etc.
 
 #### Section 24 — Transfer to local courts
 
@@ -105,13 +111,15 @@ POWERS OF TRANSFER
 
 #### Section 26 — Effect of order of transfer
 
-### PART VII — EVIDENCEPART VII
+### PART VII — EVIDENCE
 
 EVIDENCE
 
 #### Section 27 — Summoning and compelling attendance of witnesses
 
-#### Section 28 — Refusal to be sworn or to give evidence
+#### Section 28
+
+Refusal to be sworn or to give evidence
 
 #### Section 29 — Evidence of bystander
 
@@ -125,15 +133,19 @@ EVIDENCE
 
 #### Section 34 — Evidence of African customary law and assessors thereof
 
-#### Section 35 — Record of evidence, etc
+#### Section 35
 
-#### Section 36 — Oaths, etc
+Record of evidence, etc.
+
+#### Section 36
+
+Oaths, etc.
 
 #### Section 37 — Recording of proceedings
 
 #### Section 38 — Perjury
 
-### PART VIII — DISTRICT REGISTRIESPART VIII
+### PART VIII — DISTRICT REGISTRIES
 
 DISTRICT REGISTRIES
 
@@ -147,7 +159,7 @@ Section
 
 #### Section 42 — Removal of proceedings
 
-### PART IX — MISCELLANEOUSPART IX
+### PART IX — MISCELLANEOUS
 
 MISCELLANEOUS
 
@@ -167,7 +179,7 @@ An Act to amend the law with respect to the jurisdiction and business of the Hig
 
 41 of 1960 43 of 1961 70 of 1963 25 of 1964 20 of 1966 30 of 1967 24 of 1968 38 of 1969 3 of 1972 13 of 1994 Government Notices 303 of 1964 497 of 1964 Statutory Instrument 63 of 1964
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -193,7 +205,7 @@ Cap. 30
 
 (2) Any reference in this Act to any officer of the Court by title shall, unless the context otherwise requires, mean the person appointed to the office concerned under the provisions of this Act, and shall include any person lawfully performing the functions of such office and, to the extent that any person is empowered to exercise part only of such functions, such person. (As amended by S.I. No. 63 of 1964)
 
-### PART II — CONSTITUTION OF THE COURTPART II
+### PART II — CONSTITUTION OF THE COURT
 
 CONSTITUTION OF THE COURT
 
@@ -215,7 +227,7 @@ Trial with assessors
 
 Cap. 88
 
-### PART III — OFFICERS OF THE COURTPART III
+### PART III — OFFICERS OF THE COURT
 
 OFFICERS OF THE COURT
 
@@ -241,7 +253,7 @@ Powers, etc., of Registrar and other officers of the Court
 
 Directions by the Chief Justice as to duties and functions
 
-### PART IV — JURISDICTION AND LAWPART IV
+### PART IV — JURISDICTION AND LAW
 
 JURISDICTION AND LAW
 
@@ -311,7 +323,7 @@ Provided that the judgment shall be dated and signed by the Judge at the time of
 
 (No. 3 of 1972)
 
-### PART V — SITTINGS AND DISTRIBUTION OF BUSINESSPART V
+### PART V — SITTINGS AND DISTRIBUTION OF BUSINESS
 
 SITTINGS AND DISTRIBUTION OF BUSINESS
 
@@ -359,7 +371,7 @@ Provided that, in the case of a criminal appeal, whether by way of case stated o
 
 Adjournment of Court, etc., in absence of Judge
 
-### PART VI — POWERS OF TRANSFERPART VI
+### PART VI — POWERS OF TRANSFER
 
 POWERS OF TRANSFER
 
@@ -397,7 +409,7 @@ Provided that such power of transfer in any particular cause or matter may, in a
 
 Effect of order of transfer
 
-### PART VII — EVIDENCEPART VII
+### PART VII — EVIDENCE
 
 EVIDENCE
 
@@ -507,7 +519,7 @@ Perjury
 
 (2) Any penalty imposed under this section shall be a bar to any other criminal proceedings in respect of the same offence. (As amended by Act No. 13 of 1994)
 
-### PART VIII — DISTRICT REGISTRIESPART VIII
+### PART VIII — DISTRICT REGISTRIES
 
 DISTRICT REGISTRIES
 
@@ -539,7 +551,7 @@ Removal of proceedings
 
 (2) The Court or a Judge may order the removal of any proceedings from the principal registry to a district registry, and, in such case, the provisions of subsection (1) shall, mutatis mutandis, apply.
 
-### PART IX — MISCELLANEOUSPART IX
+### PART IX — MISCELLANEOUS
 
 MISCELLANEOUS
 
@@ -4261,17 +4273,17 @@ LIST OF FORMS
 
 1\. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. 22. 23. 24. 25. 26. 27. 28. 28A. 28B. 28C. 28D. 29. 30. 31. 32. 33. 34. 35. 36. 37. 38. 39. 40. 41. 42. 43. 44. 45. 46. 47.
 
-#### Section 48 — For every duplicate or triplicate probate or letters of
+#### Section 48
 
-#### Section 49 — For resealing a grant under the Probates (Resealing) Act
+#### Section 49
 
-#### Section 50 — Statutory Advertisements in Zambia Government Gazette
+#### Section 50
 
-#### Section 51 — For noting on a grant that the deceased died domiciled in
+#### Section 51
 
-#### Section 52 — For amending a grant (including Registrar's order, etc)
+#### Section 52
 
-#### Section 53 — General Title of Writs and Other Documents in a Suit
+#### Section 53
 
 General Title of Writs and Other Documents in a Suit. Writ of Summons for Principal Registry. (O. 6, r. 2.) Writ of Summons for District Registry. (O. 6, r. 2.) Specially Endorsed Writ for Principal Registry. (O. 6, r. 2.) Specially Endorsed Writ for District Registry. (O. 6, r. 2.) Originating Summons for Principal Registry. (O. 6, r. 2.) Originating Summons for District Registry. (O. 6, r. 2.) Originating Summons not Inter Partes for Principal Registry. (O. 6, r. 2.) Originating Summons not Inter Partes for District Registry. (O. 6, r. 2.) Originating Summons Under Order VI, Rules 2 and 6. (O. 6, rs. 2 and 6.) Originating Notice of Motion. (O. 6, r. 2.) Praecipe of Renewed Writ of Summons. (O. 9, r. 1.) Notice of Service on Manager of Partnership. (O. 10, r. 11.) Certificate of Service. (O. 10, r. 20.) Affidavit of Service. Debit and Advice Note. (O. 42, r. 7.) Notice of Payment into Court. (O. 6, r. 10.) Memorandum of Appearance. (O. 11, r. 8.) Notice Limiting Defence. (O. 11, r. 20.) Search. Summons (General Form). Summons under Order XIII. (O. 13, r. 2.) Summons for Directions. (O. 19, r. 1.) Praecipe of Subpoena. (S. 27 of the Act.) Summons to a Witness. (S. 27 of the Act.) Subpoena Duces Tecum. (S. 27 of the Act.) Warrant for Prisoner to Give Evidence. (S. 30 of the Act.) Notice of Hearing. Referral Order (O. 31, r. 4) Statement of Understanding: The Role of the Mediator (O. 31, r. 9) Mediator's Report (O. 31, r. 11) Mediation Settlement (O. 31, r. 12) Warrant to Attach Property before Judgment. (O. 26, r. 4.) Judgment (Default of Appearance). (O. 12, r. 1.) Judgment (Default of Defence). (O. 20.) Order (General Form). Formal Decree. (O. 36, r. 4.) Attachment of Earnings Order. (O. 38, r. 7.) Notice of Intention to Vary Attachment of Earnings Order. (O. 38, r. 9.) Notice of Non-employment of Defendant. (O. 38, r. 10.) Warrant of Attachment. Warrant of Arrest and Commitment. Certificate after Trial. Praecipe of Fieri Facias. Writ of Fieri Facias. (O. 42, r. 1.) Request and Authority to Under-Sheriff. (Walking Possession.) (O. 42, r. 8.) Praecipe of Elegit (or Re-Elegit). (O. 42, r. 1.) Writ of Elegit. (O. 42, r. 1.) Return to Elegit. (O. 42, r. 1.) Elegit for the Residue after a Fieri Facias. (O. 42, r. 1.) Writ of Re-Elegit. (O. 42, r. 1.) Bond for Costs on Appeal. (O. 47, r. 1.) Certificate of Service of Foreign Process. (O. 10, r. 23.) Request to Search Judgments Register or Judgments Section of the Civil Causes Register. (Individual Search.) (O. 37, r. 3.) Application for Permit for General Searches in Judgments Registers (against Unspecified Number of Names). (O. 37, r. 4.) Permit for General Searches in Judgments Registers (against Unspecified Number of Names). (O. 37, r. 4.) Fee Sheet (Probate). (Sch. 2, Part 4.)
 
@@ -5885,7 +5897,7 @@ of a living person (inclusive fee) Searches and Inspections
 
 authorised place of deposit including inspection of registered copy of the will or the original will (if unregistered) or any other document
 
-#### Section 68 — For inspecting an original will that has been registered in
+#### Section 68
 
 For inspecting an original will that has been registered in addition to the fee for search
 
@@ -5905,15 +5917,15 @@ Registry or other authorised place of deposit; For each photocopy or extract:
 
 #### Section 71 — For a photocopy of probate or letters of administration
 
-#### Section 72 — For a photocopy of the record of the resealing in Zambia of a
+#### Section 72
 
 For a photocopy of the record of the resealing in Zambia of a grant
 
-#### Section 73 — For a typewritten copy or extract of a document filed or
+#### Section 73
 
 For a typewritten copy or extract of a document filed or deposited in Probate Registry or other authorised place of deposit per page or part thereof
 
-#### Section 74 — For collating a copy with the original document including the
+#### Section 74
 
 For collating a copy with the original document including the Registrar's certificate in verification thereof per page or copy
 
@@ -6009,7 +6021,7 @@ On every receiving order On every other order On every attendance at meeting of 
 
 Application for Discharge of Trustees
 
-#### Section 100 — On passing liquidation accounts where the net assets for
+#### Section 100
 
 On passing liquidation accounts where the net assets for distribution(a) do not exceed K300,000 or fraction therof
 
@@ -6067,7 +6079,9 @@ For seizure by Sheriff's officer For travelling allowance to effect arrest or se
 
 83 83 11
 
-#### Section 107 — No
+#### Section 107
+
+No.
 
 #### Section 108
 

@@ -93,9 +93,9 @@ AFRICAN WAR MEMORIAL FUND An Act to make new provision for the administration of
 
 This Act may be cited as the African War Memorial Fund Act.
 
-### Section 2 — In this Act, unless the context otherwise requires-
+### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "the Board" means the African War Memorial Fund Board of Trustees established under section three;
 

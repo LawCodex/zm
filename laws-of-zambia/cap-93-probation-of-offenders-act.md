@@ -31,7 +31,7 @@ Section
 
 ### Section 4 — Contents of probation orders
 
-### Section 5 — Probation order may require probationer to submit to treatment of mental
+### Section 5
 
 Probation order may require probationer to submit to treatment of mental condition
 
@@ -41,7 +41,9 @@ Probation order may require probationer to submit to treatment of mental conditi
 
 ### Section 8 — Commission of further offences by probationers
 
-### Section 9 — Transmission of documents when case is remitted to another court
+### Section 9
+
+Transmission of documents when case is remitted to another court
 
 ### Section 10 — No conviction in case where probation order made
 

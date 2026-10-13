@@ -73,11 +73,11 @@ An Act to provide for the implementation in Zambia of the International Labour O
 
 This Act may be cited as the Medical Examination of Young Persons (Underground Work) Act.
 
-### Section 2 — In this Act, unless the context otherwise requires-
+### Section 2 — Interpretation
+
+In this Act, unless the context otherwise requires-
 
 Short title
-
-Interpretation
 
 "approved physician" means any physician approved for the purposes of this Act by the Director of the Bureau or by the Deputy Director or any other member of the Bureau authorised by the Director in writing in that behalf;
 

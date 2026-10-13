@@ -85,9 +85,9 @@ NATIONAL MUSEUMS An Act to provide for the establishment, control, management an
 
 This Act may be cited as the National Museums Act.
 
-### Section 2 — In this Act, unless the context otherwise requires-
+### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "Board" means the National Museums Board established by section four;
 

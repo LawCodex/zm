@@ -133,9 +133,9 @@ NATIONAL ARCHIVES An Act to provide for the preservation, custody, control and d
 
 This Act may be cited as the National Archives Act.
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "Director" means the Director of National Archives of Zambia appointed as such under the provisions of subsection (1) of section five;
 

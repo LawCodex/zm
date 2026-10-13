@@ -33,7 +33,9 @@ Section
 
 ### Section 4 — Transmission to Secretary of State of order made in Zambian court
 
-### Section 5 — Provisional order may be made in absentia and procedure thereon
+### Section 5
+
+Provisional order may be made in absentia and procedure thereon
 
 ### Section 6 — Procedure on provisional order made in England or Ireland
 
@@ -43,7 +45,9 @@ Section
 
 ### Section 9 — Signature on documents of court officers
 
-### Section 10 — Depositions may be received in evidence
+### Section 10
+
+Depositions may be received in evidence
 
 ### Section 11 — Provisions for reciprocity with other Commonwealth countries
 
@@ -225,7 +229,7 @@ Collection of payments
 
 Variation or rescission of order
 
-### Section 12 — An appeal against an order in confirmation lodged under subsection (7) of
+### Section 12
 
 An appeal against an order in confirmation lodged under subsection (7) of section six of the Act shall be presented to the High Court and shall be heard in like manner as a civil appeal from a subordinate court under the Subordinate Courts Act. Where a person through whom payments are directed to be made has been nominated, the appellant shall cause notice of the appeal and of any order made by the High Court in the course of the hearing of the appeal to be served upon such person. The fees payable in connection with appeals shall be those payable in respect of civil appeals from subordinate courts to the High Court.
 
@@ -239,13 +243,13 @@ Inspection and copies of registers
 
 (2) Copies of any orders registered in accordance with these Rules shall be supplied upon payment of the copying fee appropriate to the High Court or the subordinate court, as the case may be.
 
-### Section 14 — Where an order is registered in any court in Zambia under the Act, the
+### Section 14
 
 Where an order is registered in any court in Zambia under the Act, the Registrar of the High Court may request the Attorney-General to act as legal representative of the party in whose favour such order was made or given and in such cases shall forward all papers lodged in such court, other than those required for registration, to the Attorney-General who may cause such application to be made and such steps to be taken as may be necessary to enforce such order.
 
 Steps to be taken by Registrar. Powers of Attorney-General
 
-### Section 15 — The Attorney-General or any person acting for him under rule 14 shall
+### Section 15
 
 The Attorney-General or any person acting for him under rule 14 shall thereupon be deemed to be the legal representative of the party in whose favour such order was made or given unless and until some legal practitioner is appointed in his place either by him or such party.
 

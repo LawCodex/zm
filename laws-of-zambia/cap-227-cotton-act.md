@@ -131,13 +131,13 @@ issued under the provisions of regulation 4 applies shall not have been properly
 
 Failure to uproot sprouts
 
-### Section 7 — If, in contravention of these Regulations and of any notice issued under the
+### Section 7
 
 If, in contravention of these Regulations and of any notice issued under the provisions of regulation 4, any cotton plant or portion thereof or root with sprout growing therefrom on any land shall not have been uprooted and burnt, or burnt, as the case may be, by the owner, lessee or occupier of such land, or by the person who planted or caused such cotton plant to be planted (hereinafter in this regulation referred to as "the persons responsible"), the Director of Agriculture, or any person thereto authorised by him, may cause such cotton plant or portion thereof or root with sprout growing therefrom to be uprooted and burnt, or burnt, as the case may be, and, in such event, all of the persons responsible shall be jointly and severally liable for any expense incurred by such uprooting and burning, or burning, as the case may be, in addition to their liability to the penalties prescribed by the Act for the contravention of these Regulations.
 
 Destruction of plants by Director of Agriculture
 
-### Section 8 — Whenever, in any area which is not a prescribed area, a resolution has been
+### Section 8
 
 Whenever, in any area which is not a prescribed area, a resolution has been passed recommending that such area shall be declared to be an area to which the provisions of these Regulations shall apply, the Minister may, by statutory notice, declare such area to be an area to which these Regulations apply, if-
 
@@ -155,7 +155,7 @@ one month's notice of such meeting was given by advertisement in a newspaper cir
 
 the Director of Agriculture, or some person nominated by him, presided at such meeting, and the said resolution was duly put to the meeting and carried by a 75 per centum majority of the owners or lessees of land in such area, engaged therein in the business of growing cotton. (As amended by No. 319 of 1964)
 
-### Section 9 — The Minister may, at any time, by statutory notice, declare that a prescribed
+### Section 9
 
 The Minister may, at any time, by statutory notice, declare that a prescribed area shall cease to be a prescribed area, and such area shall thereupon cease to be a prescribed area.
 
@@ -163,7 +163,7 @@ Prescribed areas
 
 (As amended by No. 319 of 1964)
 
-### Section 10 — The Director of Agriculture, or any person thereto authorised by him, shall have
+### Section 10
 
 The Director of Agriculture, or any person thereto authorised by him, shall have access at all times to any land upon which cotton is grown, for the purpose of searching for diseases or pests, or, in the case of a prescribed area, of ascertaining whether these Regulations have been complied with.
 

@@ -195,9 +195,9 @@ CHAPTER 36 INQUESTS An Act relating to inquests. [6th January, 1939]
 
 This Act may be cited as the Inquests Act.
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "building operation" has the meaning assigned to that expression by section three of the Factories Act;
 

@@ -73,9 +73,9 @@ An Act to facilitate the acquisition by the Republic of a 51 per centum interest
 
 This Act may be cited as the Mines Acquisition (Special Provisions) Act.
 
-### Section 2 — In this Act, unless the context otherwise requires-
+### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "the Master Agreements" means the RST Agreement and the Zamanglo Agreement;
 

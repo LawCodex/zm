@@ -173,7 +173,7 @@ An Act to make provisions with respect to the operation and functions of the Dai
 
 27 of 1961 32 of 1962 13 of 1994 Government Notices 91 of 1964 157 of 1964 497 of 1964 Statutory Instrument 176 of 1965
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -203,7 +203,7 @@ Interpretation Cap. 235
 
 (2) For the purposes of this Act a producer who sells milk or a milk product to a person, other than the Board or a prescribed dealer or member of a prescribed class of dealers, shall be deemed to have sold the milk or the milk product by retail. (As amended by No. 32 of 1962, G.N. No. 91 of 1964 and S.I. No. 176 of 1965)
 
-### PART II — FINANCIAL PROVISIONS RELATING TO BOARDPART II
+### PART II — FINANCIAL PROVISIONS RELATING TO BOARD
 
 FINANCIAL PROVISIONS RELATING TO BOARD
 
@@ -313,7 +313,7 @@ the Board has complied with the provisions of this Part with which it is the dut
 
 Duties of auditors
 
-### PART III — FUNCTIONS, POWERS AND DUTIES OF BOARDPART III
+### PART III — FUNCTIONS, POWERS AND DUTIES OF BOARD
 
 FUNCTIONS, POWERS AND DUTIES OF BOARD
 
@@ -345,7 +345,9 @@ Functions of Board
 
 (2) The Minister may approve the exercise by the Board of the power to do a thing specified in the Schedule either generally or specially.
 
-#### Section 16 — For the better exercise of the functions and powers of the Board, the Board-
+#### Section 16 — Appointment of manager, etc
+
+For the better exercise of the functions and powers of the Board, the Board-
 
 (a)
 
@@ -354,8 +356,6 @@ shall appoint a person, approved by the Minister, as manager in whom, subject to
 (b)
 
 may, within or outside Zambia, employ such persons, other than a manager, and appoint such agents as the Board may consider expedient for the purpose.
-
-Appointment of manager, etc.
 
 (As amended by G.N. No. 91 of 1964)
 
@@ -387,7 +387,7 @@ shall submit to the Minister such other reports as the Minister may require;
 
 in regard to the operations, undertakings and property of the Board. (As amended by G.N. No. 91 of 1964)
 
-### PART IV — IMPOSITION OF LEVY ON DAIRY PRODUCEPART IV
+### PART IV — IMPOSITION OF LEVY ON DAIRY PRODUCE
 
 IMPOSITION OF LEVY ON DAIRY PRODUCE
 
@@ -469,7 +469,7 @@ Withdrawal or suspension of levy
 
 The Board may, by civil action in a competent court, recover the amount of a levy which is due in terms of this Act from a person required in terms of this Act to pay the levy or to collect and remit the levy to the Board.
 
-### PART V — MARKETING OF DAIRY PRODUCEPART V
+### PART V — MARKETING OF DAIRY PRODUCE
 
 MARKETING OF DAIRY PRODUCE
 
@@ -619,7 +619,7 @@ destroy any butterfat, cream or milk of the registered producer-wholesaler which
 
 (5) The risk in any butterfat, cream or milk delivered to the Board by a registered producer-wholesaler shall not pass to the Board until issue of the Board's receipt.
 
-### PART VI — GENERAL PROVISIONSPART VI
+### PART VI — GENERAL PROVISIONS
 
 GENERAL PROVISIONS
 

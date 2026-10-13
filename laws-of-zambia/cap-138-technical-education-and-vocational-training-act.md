@@ -211,7 +211,7 @@ Act No. 56 of 1970
 
 (2) Any reference in this Act to instruction relating to technical education or vocational training does not include a reference to instruction relating to any matter in respect of which provision is made by or under any other written law regulating the nature and scope of such instruction or the manner in which or the persons by whom such instruction may be provided or received and providing for the registration or enrolment of persons who have received such instruction.
 
-### PART II — FUNCTIONS AND POWERS OF THE MINISTERPART II
+### PART II — FUNCTIONS AND POWERS OF THE MINISTER
 
 FUNCTIONS AND POWERS OF THE MINISTER
 
@@ -319,7 +319,7 @@ the payment of allowances to the members of the Council; and
 
 the committees of the Council.
 
-### PART IV — REGISTRATION OF PRIVATE INSTITUTIONSPART IV
+### PART IV — REGISTRATION OF PRIVATE INSTITUTIONS
 
 REGISTRATION OF PRIVATE INSTITUTIONS
 
@@ -461,7 +461,9 @@ Cancellation of registration of private institutions
 
 The determination of the Minister upon any matter under this Part shall be final and shall not be called in question in any court of law.
 
-#### Section 15 — Any person who conducts a private institution-
+#### Section 15 — Offences
+
+Any person who conducts a private institution-
 
 (a)
 
@@ -507,7 +509,7 @@ and until so registered any such private school or institution shall be deemed t
 
 Provided that nothing in this section shall prevent the exercise by the Minister of his powers under section eleven or thirteen in relation to any such private school or institution.
 
-### PART V — INSPECTIONPART V
+### PART V — INSPECTION
 
 INSPECTION
 
@@ -537,7 +539,7 @@ to require any person receiving instruction relating to technical education or v
 
 It shall be the duty of an inspector to furnish to the Minister such reports and other information in respect of matters referred to in section nineteen as the Minister may from time to time direct.
 
-### PART VI — GENERAL PROVISIONSPART VI
+### PART VI — GENERAL PROVISIONS
 
 GENERAL PROVISIONS
 
@@ -591,7 +593,7 @@ Where a person convicted of an offence against this Act is a company, the chairm
 
 Cap. 388
 
-### PART VII — REGULATIONSPART VII
+### PART VII — REGULATIONS
 
 REGULATIONS
 
@@ -695,11 +697,13 @@ prescribing such matters as may be prescribed under this Act or which are necess
 
 (3) Regulations made under this section may provide in respect of any contravention thereof that the offender shall be guilty of an offence and liable on conviction to a fine not exceeding two thousand penalty units or to imprisonment for a period not exceeding three months, or to both. (As amended by Act No. 13 of 1994)
 
-### PART VIII — TRANSITIONAL PROVISIONSPART VIII
+### PART VIII — TRANSITIONAL PROVISIONS
 
 TRANSITIONAL PROVISIONS
 
-#### Section 28 — In this Part, unless the context otherwise requires-
+#### Section 28 — Interpretation
+
+In this Part, unless the context otherwise requires-
 
 "the Minister of Finance" has the meaning assigned to that expression in section two of the Minister of Finance (Incorporation) Act.
 
@@ -1211,7 +1215,7 @@ THE TECHNICAL EDUCATION AND VOCATIONAL TRAINING (MAINTAINED AND AIDED INSTITUTIO
 
 ARRANGEMENT OF REGULATIONS
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -1227,7 +1231,7 @@ Application
 
 Interpretation
 
-### PART II — GENERAL CONDITIONS OF ENROLMENT AND ADMISSIONPART II
+### PART II — GENERAL CONDITIONS OF ENROLMENT AND ADMISSION
 
 GENERAL CONDITIONS OF ENROLMENT AND ADMISSION
 
@@ -1255,7 +1259,7 @@ Attendance of students
 
 National Anthem and National Flag
 
-### PART III — SUSPENSION, EXPULSION AND EXCLUSION OF STUDENTSPART III
+### PART III — SUSPENSION, EXPULSION AND EXCLUSION OF STUDENTS
 
 SUSPENSION, EXPULSION AND EXCLUSION OF STUDENTS
 
@@ -1297,7 +1301,7 @@ Statutory Instrument 44 of 76 Act No. 13 of 1994
 
 Regulations by the Minister
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -1329,7 +1333,7 @@ In these Regulations, unless the context otherwise requires-
 
 "Principal" means a person for the time being holding or acting in the office of a Principal of an institution to which enrolment or an institution hostel to which admission is sought or procured.
 
-### PART II — GENERAL CONDITIONS OF ENROLMENT AND ADMISSIONPART II
+### PART II — GENERAL CONDITIONS OF ENROLMENT AND ADMISSION
 
 GENERAL CONDITIONS OF ENROLMENT AND ADMISSION
 
@@ -1411,7 +1415,7 @@ Provided that no student shall be required to salute the National Flag as part o
 
 (3) The Minister may give to the Principal such directions as he may consider necessary with respect to the occasions on which students shall be required to salute the National Flag.
 
-### PART III — SUSPENSION, EXPULSION AND EXCLUSION OF STUDENTSPART III
+### PART III — SUSPENSION, EXPULSION AND EXCLUSION OF STUDENTS
 
 SUSPENSION, EXPULSION AND EXCLUSION OF STUDENTS
 

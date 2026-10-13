@@ -155,9 +155,9 @@ PART I PRELIMINARY
 
 This Act may be cited as the Commission for Investigations Act.
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "chairman" in relation to the Commission means the Investigator-General; or any Commissioner elected as such at any meeting of the Commission;
 

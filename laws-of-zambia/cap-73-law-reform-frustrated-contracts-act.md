@@ -49,9 +49,9 @@ LAW REFORM (FRUSTRATED CONTRACTS) An Act to amend the law relating to the frustr
 
 This Act may be cited as the Law Reform (Frustrated Contracts) Act.
 
-### Section 2 — In this Act, unless the context otherwise requires-
+### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "court" means, in relation to any matter, the court or arbitrator by or before whom the matter falls to be determined.
 

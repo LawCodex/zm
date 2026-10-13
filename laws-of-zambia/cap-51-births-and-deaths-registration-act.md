@@ -123,9 +123,9 @@ An act to provide for a uniform law for the registration of all births and death
 
 This Act may be cited as the Births and Deaths Registration Act.
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "child" includes an illegitimate child;
 
@@ -373,7 +373,7 @@ Title
 
 Interpretation
 
-### PART II — PRESCRIBED FORMS AND REGISTERSPART II
+### PART II — PRESCRIBED FORMS AND REGISTERS
 
 PRESCRIBED FORMS AND REGISTERS
 
@@ -385,7 +385,7 @@ Prescribed forms
 
 Registers
 
-### PART III — BIRTH AND DEATH CERTIFICATESPART III
+### PART III — BIRTH AND DEATH CERTIFICATES
 
 BIRTH AND DEATH CERTIFICATES
 
@@ -425,7 +425,7 @@ Statistical returns
 
 Inspection of registers
 
-### PART V — GENERAL PROVISIONS RELATING TO ENTRIES IN REGISTRARSPART V
+### PART V — GENERAL PROVISIONS RELATING TO ENTRIES IN REGISTRARS
 
 GENERAL PROVISIONS RELATING TO ENTRIES IN REGISTRARS
 
@@ -441,7 +441,7 @@ Cancellation of entry space
 
 Signature by mark or in foreign characters
 
-### PART VI — REGISTRATION OF BIRTHSPART VI
+### PART VI — REGISTRATION OF BIRTHS
 
 REGISTRATION OF BIRTHS
 
@@ -485,7 +485,7 @@ Registration after twelve months
 
 Alteration of name after registration
 
-### PART VII — RE-REGISTRATION OF BIRTHS OF LEGITIMATED PERSONSPART VII
+### PART VII — RE-REGISTRATION OF BIRTHS OF LEGITIMATED PERSONS
 
 RE-REGISTRATION OF BIRTHS OF LEGITIMATED PERSONS
 
@@ -493,7 +493,7 @@ RE-REGISTRATION OF BIRTHS OF LEGITIMATED PERSONS
 
 Re-registration to be in accordance with section three and the Schedule to the Legitimacy Act
 
-### PART VIII — BIRTH ENTRIES OF ADOPTED CHILDRENPART VIII
+### PART VIII — BIRTH ENTRIES OF ADOPTED CHILDREN
 
 BIRTH ENTRIES OF ADOPTED CHILDREN
 
@@ -501,7 +501,7 @@ BIRTH ENTRIES OF ADOPTED CHILDREN
 
 Making of birth entry of adopted child
 
-### PART IX — REGISTRATION OF STILL-BIRTHSPART IX
+### PART IX — REGISTRATION OF STILL-BIRTHS
 
 REGISTRATION OF STILL-BIRTHS
 
@@ -525,7 +525,7 @@ Disposal certificate
 
 Exposed child
 
-### PART X — REGISTRATION OF DEATHSPART X
+### PART X — REGISTRATION OF DEATHS
 
 REGISTRATION OF DEATHS
 
@@ -549,7 +549,7 @@ Registration of death after inquest
 
 Registration after twelve months
 
-### PART XI — DISPOSAL OF BODIES OF DECEASED PERSONSPART XI
+### PART XI — DISPOSAL OF BODIES OF DECEASED PERSONS
 
 DISPOSAL OF BODIES OF DECEASED PERSONS
 
@@ -569,7 +569,7 @@ Inquiry in default of notification of disposal
 
 Exposed body of deceased person
 
-### PART XII — REGISTRATION OFFICESPART XII
+### PART XII — REGISTRATION OFFICES
 
 REGISTRATION OFFICES
 
@@ -577,7 +577,7 @@ REGISTRATION OFFICES
 
 Registration offices
 
-### PART XIII — FEESPART XIII
+### PART XIII — FEES
 
 FEES
 
@@ -597,7 +597,7 @@ SECTION 21-THE BIRTHS AND DEATHS REGISTRATION (GENERAL) RULES Rules by the Minis
 
 Statutory Instrument 246 of 1973 66 of 1982 1 of 1990 32 of 1995 101 of 1996 Act No. 13 of 1994
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -641,7 +641,7 @@ Cap. 300
 
 "registration office" means part of the District Secretary's office or other office set aside in the sub-centres for the registration of births and deaths.
 
-### PART II — PRESCRIBED FORMS AND REGISTERSPART II
+### PART II — PRESCRIBED FORMS AND REGISTERS
 
 PRESCRIBED FORMS AND REGISTERS
 
@@ -653,7 +653,7 @@ Prescribed forms
 
 Registrars
 
-### PART III — BIRTH AND DEATH CERTIFICATESPART III
+### PART III — BIRTH AND DEATH CERTIFICATES
 
 BIRTH AND DEATH CERTIFICATES
 
@@ -731,7 +731,7 @@ Statistical returns
 
 Inspection of registers
 
-### PART V — GENERAL PROVISIONS RELATING TO ENTRIES IN REGISTERSPART V
+### PART V — GENERAL PROVISIONS RELATING TO ENTRIES IN REGISTERS
 
 GENERAL PROVISIONS RELATING TO ENTRIES IN REGISTERS
 
@@ -749,7 +749,7 @@ Cancellation of entry space
 
 Signature by mark or in foreign characters
 
-### PART VI — REGISTRATION OF BIRTHSPART VI
+### PART VI — REGISTRATION OF BIRTHS
 
 REGISTRATION OF BIRTHS
 
@@ -845,13 +845,17 @@ Signatures
 
 Signature of Registrar
 
-#### Section 23 — Registration after one month but within twelve months
+#### Section 23
 
 Subject to the provisions of section nine of the Act a Registrar may in appropriate cases register the birth of a child which has occurred more than one month previously upon payment by the informant of a late registration fee of one kwacha, provided that twelve months have not expired since the birth of the child occurred.
 
-#### Section 24 — Registration after twelve months
+Registration after one month but within twelve months
+
+#### Section 24
 
 (1) Where a Registrar is informed that a birth which occurred more than twelve months previously has not been registered, he shall make a report to the Registrar-General stating to the best of his knowledge and belief the particulars required to be registered concerning the birth, the source of his information and the name and address of any informant available to give information for the registration.
+
+Registration after twelve months
 
 (2) Where an informant attends to give information for the registration of a birth which occurred more than twelve months previously, the written authority of the Registrar-General for registering the birth shall be obtained and the fact that such authority has been given shall be entered in the register and endorsed on the notice of birth.
 
@@ -859,7 +863,7 @@ Subject to the provisions of section nine of the Act a Registrar may in appropri
 
 (4) Upon giving written authority for the late registration of a birth under sub-rule (3), the Registrar-General shall forward the affidavit in duplicate to the Registrar of the district in which the birth occurred and on receipt of the affidavit the Registrar shall retain the top copy and return the duplicate copy together with the notice of birth completed by the parents of the child to the Registrar-General.
 
-#### Section 25 — Alteration of name after registration
+#### Section 25
 
 An entry in pursuance of section seventeen of the Act shall be made by the Registrar-General in the main birth register followed by the surname recorded in space 3 of Reg-Gen Form No. 14 and(a)
 
@@ -869,11 +873,13 @@ if the entry is made on production of a certificate of baptism, add the words "b
 
 if the entry is made on production of a certificate that a name was given otherwise than in baptism, add the words "on certificate of naming dated ........................", inserting the date on which the certificate was signed.
 
-### PART VII — RE-REGISTRATION OF BIRTHS OF LEGITIMATED PERSONSPART VII
+Alteration of name after registration
+
+### PART VII — RE-REGISTRATION OF BIRTHS OF LEGITIMATED PERSONS
 
 RE-REGISTRATION OF BIRTHS OF LEGITIMATED PERSONS
 
-#### Section 26 — Re-registration to be in accordance with section three and the Schedule to the
+#### Section 26
 
 (1) The birth of a legitimated person whose birth has already been registered in Zambia shall be re-registered in accordance with section three and the Schedule to the Legitimacy Act.
 
@@ -881,27 +887,29 @@ Re-registration to be in accordance with section 3 and the Schedule to the Legit
 
 (2) Information required for such re-registration shall be furnished by the parents of the legitimated person within three months of the date of the parents' marriage to the Registrar-General who shall authorise such re-registration if he considers that the information as furnished by the parents of the legitimated person is satisfactory.
 
-### PART VIII — BIRTH ENTRIES OF ADOPTED CHILDRENPART VIII
+### PART VIII — BIRTH ENTRIES OF ADOPTED CHILDREN
 
 BIRTH ENTRIES OF ADOPTED CHILDREN
 
-#### Section 27 — Making of birth entry of adopted child
+#### Section 27
 
 The Registrar-General shall, in compliance with an adoption order issued by the High Court, make an appropriate entry in the Adopted Children Register, maintained under the provisions of section eleven of the Adoption Act, and insert the word "Adopted" against the previous entry in the register of births relating to the adopted child.
 
 Making of birth entry of adopted child. Cap. 54
 
-### PART IX — REGISTRATION OF STILL-BIRTHSPART IX
+### PART IX — REGISTRATION OF STILL-BIRTHS
 
 REGISTRATION OF STILL-BIRTHS
 
-#### Section 28 — Application to still-births of certain provisions relating to births
+#### Section 28
 
 (1) The provisions of section sixteen of the Act which require the finder of an exposed child to furnish the prescribed particulars for purposes of registration shall apply to a still-born child as they apply to a live-born child.
 
+Application to still-births of certain provisions relating to births
+
 (2) The particulars to be registered are those prescribed on Reg-Gen Form No. 15.
 
-#### Section 29 — Manner of registration
+#### Section 29
 
 In the case of any still-birth with respect to which there has been delivered to the Registrar(a)
 
@@ -911,37 +919,49 @@ a written certificate of a medical practitioner or registered midwife referred t
 
 a declaration as referred to in section fourteen (2) (b) of the Act;
 
+Manner of registration
+
 the Registrar, on receiving from an informant at any time within one month after the date of the still-birth, information of the particulars required by rule 28 (2), shall register the still-birth in the presence of the informant.
 
-#### Section 30 — Entry of nature of evidence of still-birth
+#### Section 30
 
 (1) Where the still-birth is registered on the production of a written certificate of a medical practitioner or a registered midwife, the Registrar shall enter in space 4 the cause of death precisely as stated therein, followed by the words "Certified by ................" and the name and qualification of the medical practitioner or, as the case may be, the name of the midwife and the words "Registered Midwife".
 
+Entry of nature of evidence of still-birth
+
 (2) Where the still-birth is registered on the production of a declaration as referred to in section fourteen (2) (b) of the Act, the Registrar shall enter in space 4 the words "Declaration by informant".
 
-#### Section 31 — Disposal certificate
+#### Section 31
 
 (1) After completing registration of the still-birth, the Registrar shall issue a disposal certificate for the purpose of burial of the still-birth.
 
+Disposal certificate
+
 (2) Where the Registrar has reason to believe that the child was born alive, he shall report the matter of the still-birth to a coroner or police officer for investigation.
 
-#### Section 32 — Exposed child
+#### Section 32
 
 (1) Where a new-born living or still-born child is found exposed and if the date of birth of the child is unknown, references in these Rules to the doing of anything within a specified period after the birth shall be construed as references to the doing thereof within the same period after the child was found.
 
+Exposed child
+
 (2) If the place of birth of the new-born living or still-born child is unknown, references in these Rules to the place where a birth or still-birth occurred shall be construed as references to the place where the child was found.
 
-### PART X — REGISTRATION OF DEATHSPART X
+### PART X — REGISTRATION OF DEATHS
 
 REGISTRATION OF DEATHS
 
-#### Section 33 — Particulars to be registered and certificate of cause of death
+#### Section 33
 
 The particulars concerning a death required to be registered pursuant to section eighteen (1) of the Act shall be the particulars required in spaces 1 to 13 on Reg-Gen Form No. 22; and a certificate of cause of death issued under the provisions of section eighteen (3) of the Act shall be in the form prescribed in Medical Form No. 14.
 
-#### Section 34 — Procedure where medical certificate of cause of death is produced
+Particulars to be registered and certificate of cause of death
+
+#### Section 34
 
 (1) In the case of any death which occurred in the Registrar's district with respect to which a medical certificate of cause of death has been delivered to the Registrar at any time within twelve months of the date of death, the Registrar shall register the death in the presence of the informant.
+
+Procedure where medical certificate of cause of death is produced
 
 (2) Where the death relates to a dead body in relation to which the date and place of death are unknown, the Registrar shall enter in spaces 1 and 2 the words "Dead body found on ..........." and the date of finding the body, followed by "at .........." and the place of finding.
 
@@ -951,31 +971,35 @@ The particulars concerning a death required to be registered pursuant to section
 
 (5) Subject to the provisions of rules 36 and 38, no Registrar shall register a death with respect to which no medical certificate of cause of death has been delivered to him.
 
-#### Section 35 — Verification of particulars
+#### Section 35
 
 (1) After completing spaces 1 to 14 (excluding space 10) on Reg-Gen Form No. 22, the Registrar shall call upon the informant to verify the particulars, and, if it appears that any error has been made in those particulars, the Registrar shall thereupon in the presence of the informant make the necessary correction.
+
+Verification of particulars
 
 (2) The Registrar shall then call upon the informant to sign the entry in space 10 and, when the Registrar has signed the entry in space 16, he shall impress his name stamp under his signature.
 
 (3) The Registrar shall thereafter send the notice of death together with the medical certificate or a coroner's certificate of cause of death to the Registrar-General.
 
-#### Section 36 — Registration of death after inquest
+#### Section 36
 
 Where a Registrar receives a coroner's certificate upon an inquest with reference to a death, he shall register the death on Reg-Gen Form No. 22:
 
+Registration of death after inquest
+
 Provided that in space 10 in place of "signature or mark", he shall enter the words "Certificate received from ...................." and the name and description of the coroner, and the words "Inquest held ...................." and the date of the inquest as stated in the certificate.
 
-#### Section 37 — Registration after twelve months
+#### Section 37
 
 Where a Registrar is informed that the death of a person who died more than twelve months previously has not been registered, the Registrar shall seek and obtain the Registrar-General's authority before registering the death in the presence of the informant.
 
-### PART XI — DISPOSAL OF BODIES OF DECEASED PERSONSPART XI
+### PART XI — DISPOSAL OF BODIES OF DECEASED PERSONS
 
 DISPOSAL OF BODIES OF DECEASED PERSONS
 
 Registration after twelve months
 
-#### Section 38 — Disposal certificate
+#### Section 38
 
 A Registrar shall give a disposal certificate for the disposal of the body of a deceased person on a form provided by the Registrar-General(a)
 
@@ -991,41 +1015,49 @@ with respect to cases falling under paragraph (b) the police shall furnish the p
 
 Disposal certificate Cap. 37
 
-#### Section 39 — Notification of disposal
+#### Section 39
 
 A person effecting the disposal of the body of a deceased person shall write, sign and date a notification of disposal which shall be delivered to the Registrar immediately after the disposal of the body.
 
-#### Section 40 — Inquiry in default of notification of disposal
+Notification of disposal
+
+#### Section 40
 
 Where the notification required under section eighteen (2) of the Act has not been delivered to the Registrar within a period of thirty days, the Registrar shall make necessary inquiries from the custodian or other person having charge or control of the place of disposal.
 
-#### Section 41 — Exposed body of deceased person
+Inquiry in default of notification of disposal
+
+#### Section 41
 
 (1) Where the body of a deceased person is found exposed, and if the date of death of the deceased person is unknown, references in these Rules to the doing of anything within a specified period after the death shall be construed as references to the doing thereof within the same period after the body of the deceased person was found.
 
+Exposed body of deceased person
+
 (2) If the place of death of the deceased person is unknown, references in these Rules to the place where the death occurred shall be construed as references to the place where the body of the deceased person was found.
 
-### PART XII — REGISTRATION OFFICESPART XII
+### PART XII — REGISTRATION OFFICES
 
 REGISTRATION OFFICES
 
-#### Section 42 — Registration offices
+#### Section 42
 
 The place in each district at which births and deaths may be registered and registers inspected shall be the registration office in each district, and the hours at which registration and inspection may be effected shall be the normal Government office hours and such other times as may be convenient to the officer in charge of the registration office.
 
-### PART XIII — FEESPART XIII
+### PART XIII — FEES
 
 FEES
 
 Registration offices
 
-#### Section 43 — Prescribed fees
+#### Section 43
 
 (1) No fee is chargeable for the registration of a birth or death if notice is given in the prescribed form containing the prescribed particulars of the birth within one month thereof.
 
+Prescribed fees
+
 (2) The several fees specified in the Second Schedule shall be payable in respect of matters therein specified.
 
-#### Section 44 — Notice of birth or death on board ship
+#### Section 44
 
 Notice of a birth or a death on board ship while within the territorial waters of Lake Tanganyika shall be given to the Registrar of the Mbala Registration District.
 

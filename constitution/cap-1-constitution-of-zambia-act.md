@@ -1179,7 +1179,7 @@ the imposition of a fine on, and the forfeiture or confiscation of the property 
 
 (3) An Act of Parliament such as is referred to in clause (1) shall provide that in default of agreement, the amount of compensation shall be determined by a court of competent jurisdiction.
 
-#### Section 17 — Protection for privacy of home and other property
+#### Section 17
 
 (1) Except with his own consent, a person shall not be subjected to Protection for privacy of home the search of his person or his property or the entry by others on his and other property premises.
 
@@ -1197,7 +1197,7 @@ that authorises an officer or agent of the Government, a local government author
 
 that authorises, for the purpose of enforcing the judgment or order of a court in any civil proceedings, the search of any person or property by order of a court or entry upon any premises by such order; and except so far as that provision or, as the case may be, anything done under the authority thereof is shown not to be reasonably justifiable in a democratic society.
 
-#### Section 18 — Provisions to secure protection of the law
+#### Section 18
 
 (1) If any person is charged with a criminal offence, then, unless the Provisions to secure protection charge is withdrawn, the case shall be afforded a fair hearing within a of law reasonable time by an independent and impartial court established by law.
 
@@ -1295,7 +1295,7 @@ clause (5) to the extent that it is shown that the law in question authorises a 
 
 the law in force in Zambia.
 
-#### Section 19 — Protection of freedom of conscience
+#### Section 19
 
 (1) Except with his own consent, a person shall not be hindered in Protection of the enjoyment of his freedom of conscience, and for the purposes of this freedom of conscience Article the said freedom includes freedom of thought and religion, freedom to change his religion or belief, and freedom, either alone or in community with others, and both in public and in private, to manifest and propagate his religion or belief in worship, teaching, practice and observance.
 
@@ -1313,7 +1313,7 @@ in the interests of defence, public safety, public order, public morality or pub
 
 for the purpose of protecting the rights and freedoms of other persons, including the right to observe and practice any religion without the unsolicited intervention of members of any other religion; and except so far as that provision or, the thing done under the authority thereof as the case may be, is shown not to be reasonably justifiable in a democratic society.
 
-#### Section 20 — Protection of freedom of expression
+#### Section 20
 
 (1) Except with his own consent, a person shall not be hindered in
 
@@ -1335,11 +1335,13 @@ that is reasonably required for the purpose of protecting the reputations, right
 
 that imposes restrictions upon public officers; and except so far as that provision or, the thing done under the authority thereof as the case may be, is shown not to be reasonably justifiable in a democratic society.
 
-#### Section 21 — Protection of freedom of assembly and association
+#### Section 21
 
 (1) Except with his own consent a person shall not be hindered in the enjoyment of his freedom of assembly and association, that is to say, his right to assemble freely and associate with other persons and in particular to form or belong to any political party, trade union or other association for the protection of his interests.
 
 (2) Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this Article to the
+
+Protection of freedom of assembly and association
 
 extent that it is shown that the law in question makes provision(a)
 
@@ -1357,7 +1359,7 @@ that imposes restrictions upon public officers; or
 
 for the registration of political parties or trade unions in a register established by or under a law and for imposing reasonable conditions relating to the procedure for entry on such a register including conditions as to the minimum number of persons necessary to constitute a trade union qualified for registration; and except so far as that provision or, the thing done under the authority thereof as the case may be, is shown not to be reasonably justifiable in a democratic society.
 
-#### Section 22 — Protection of freedom of movement
+#### Section 22
 
 (1) Subject to the other provisions of this Article and except in accordance with any written law, a citizen shall not be deprived of his freedom of movement, and for the purposes of this Article freedom of movement means(a)
 
@@ -1391,7 +1393,7 @@ for the imposition of restrictions upon the movement or residence within Zambia 
 
 for the removal of a person from Zambia to be tried outside Zambia for a criminal offence or to undergo imprisonment in some other country in execution of the sentence of a court in respect of a criminal offence under the law in force in Zambia of which he has been convicted.
 
-#### Section 23 — Protection from discrimination on the grounds of race, etc
+#### Section 23
 
 (1) Subject to clauses (4), (5) and (7), a law shall not make any provision that is discriminatory either of itself or in its effect.
 
@@ -1431,9 +1433,11 @@ whereby persons of any such description as is mentioned in clause (3) may be sub
 
 (8) Nothing in clause (2) shall affect any discretion relating to the institution, conduct or discontinuance of civil or criminal proceedings in any court that is vested in any person by or under this Constitution or any other law.
 
-#### Section 24 — Protection of young persons from exploitation
+#### Section 24
 
 (1) A young person shall not be employed and shall in no case be caused or permitted to engage in any occupation or employment which would prejudice his health or education or interfere with his physical, mental or moral development:
+
+Protection of young persons from exploitation
 
 Provided that an Act of Parliament may provide for the employment of a young person for a wage under certain conditions.
 
@@ -1443,11 +1447,11 @@ Provided that an Act of Parliament may provide for the employment of a young per
 
 (4) In this Article "young person" means any person under the age of fifteen years.
 
-#### Section 25 — Derogation from fundamental rights and detention
+#### Section 25
 
 Nothing contained in or done under the authority of any law shall Derogation from be held to be inconsistent with or in contravention of Articles 13, 16, 17, fundamental rights and detention 19, 20, 21, 22, 23 or 24 to the extent that it is shown that the law in question authorises the taking, during any period when the Republic is at war or when a declaration under Article 30 is in force, of measures for the purpose of dealing with any situation existing or arising during that period; and nothing done by any person under the authority of any such law shall be held to be in contravention of any of the said provisions if it is shown that the measures taken were, having due regard to the circumstances prevailing at the time, reasonably required for the purpose of dealing with the situation in question. Provisions relating
 
-#### Section 26 — Provisions relating to restriction and detention
+#### Section 26
 
 (1) Where a person's freedom of movement is restricted, or he is detained, under the authority of any such law as is referred to in Article to restriction and detention 22 or 25, as the case may be, the following provisions shall apply-
 
@@ -1483,7 +1487,7 @@ at the hearing of his case by such tribunal he shall be permitted to appear in p
 
 (6) Clauses (11) and (12) of Article 18 shall be read and construed subject to the provisions of this Article.
 
-#### Section 27 — Reference of certain matters to special tribunal
+#### Section 27
 
 (1) Whenever-
 
@@ -1545,7 +1549,7 @@ in relation to a statutory instrument, the period of forty days commencing with 
 
 (8) Nothing in clause (1), (2) or (3) shall apply to a bill for the appropriation of the general revenues of the Republic or a bill containing only proposals for expressly altering this Constitution or the Constitution of Zambia Act. Enforcement of
 
-#### Section 28 — Enforcement of protective provisions
+#### Section 28
 
 (1) Subject to clause (5), if any person alleges that any of the provisions of Articles 11 to 26 inclusive has been, is being or is likely to protective provisions be contravened in relation to him, then, without prejudice to any other action with respect to the same matter which is lawfully available, that person may apply for redress to the High Court which shall-
 
@@ -1571,7 +1575,7 @@ Provided that an appeal shall not lie from a determination of the High Court dis
 
 (4) Parliament may confer upon the Supreme Court or High Court such jurisdiction or powers in addition to those conferred by this Article as may appear to be necessary or desirable for the purpose of enabling that Court more effectively to exercise the jurisdiction conferred upon it by this Article or of enabling any application for redress to be more speedily determined.
 
-#### Section 29 — Declaration of war
+#### Section 29
 
 (1) The President may, in consultation with Cabinet, at any time, by Declaration of war Proclamation published in the Gazette declare war.
 
@@ -1579,7 +1583,7 @@ Provided that an appeal shall not lie from a determination of the High Court dis
 
 (3) An Act of Parliament shall provide for the conditions and circumstances under which a declaration may be made under clause (1).
 
-#### Section 30 — Declaration of public emergency
+#### Section 30
 
 (1) The President may, in consultation with Cabinet, at any time, by Declaration of public emergency Proclamation published in the Gazette declare that a State of public emergency exists.
 
@@ -1597,7 +1601,7 @@ Provided that an appeal shall not lie from a determination of the High Court dis
 
 (8) The expiration or revocation of any declaration or resolution made under this Article shall not affect the validity or anything previously done in reliance on such declaration.
 
-#### Section 31 — Declaration relating to threatened emergency
+#### Section 31
 
 (1) The President may at any time by Proclamation published in the Declaration relating to Gazette declare that a situation exists which, if is allowed to continue threatened may lead to a state of public emergency. emergency
 
@@ -1617,7 +1621,7 @@ the President by Proclamation published in the Gazette.
 
 (8) The expiration or revocation of any declaration or resolution made under this Article shall not affect the validity or anything previously done in reliance on such declaration.
 
-#### Section 32 — Interpretation and savings
+#### Section 32
 
 (1) In this Part, unless the context otherwise requires"contravention", in relation to any requirement, includes a failure to comply with that requirement and cognate expressions shall be construed accordingly; "court" means any court of law having jurisdiction in Zambia, other than a court established by a disciplinary law; and in Articles 12 and 14 includes a court established by a disciplinary law; "disciplinary law" means a law regulating the disciplined force; "disciplined force" means(a)
 
@@ -1641,13 +1645,13 @@ Interpretation and savings
 
 (As amended by Act No. 18 of 1996)
 
-#### Section 33 — Office of President
+#### Section 33
 
 (1) There shall be a President of the Republic of Zambia who shall Office of President be the Head of State and of the Government and the Commander-in-Chief of the Defence Force.
 
 (2) The executive power of the Republic of Zambia shall vest in the President and, subject to the other provisions of this Constitution, shall be exercised by him either directly or through officers subordinate to him.
 
-#### Section 34 — Election of President
+#### Section 34
 
 (1) The election of the President shall be direct by universal adult Election of suffrage and by secret ballot and shall be conducted in accordance with President this Article and as may be prescribed by or under an Act of Parliament.
 
@@ -1711,9 +1715,11 @@ President.
 
 (11) The person who has held office as President shall not, within the period referred to in clause (10), perform any functions of the office of President under this Constitution or any other law.
 
-#### Section 35 — Tenure of office of President
+#### Section 35
 
 (1) Subject to clauses (2) and (4) every President shall hold office for a period of five years.
+
+Tenure of office of President
 
 (2) Notwithstanding anything to the contrary contained in this Constitution or any other law a person who has twice been elected as President shall not be eligible for re-election to that office.
 
@@ -1731,9 +1737,11 @@ he ceases to hold office by virtue of Article 36 or 37; or
 
 the National Assembly is dissolved; continue in office until the person elected at the next election to the office of President assumes office.
 
-#### Section 36 — Removal of President on grounds of incapacity
+#### Section 36
 
 (1) If it is resolved by a majority of all the members of the Cabinet that the question of the physical or mental capacity of the President to discharge the functions of his office ought to be investigated, and they so inform the Chief Justice, then the Chief Justice shall appoint a board consisting of not less than three persons selected by him from among persons who are qualified as medical practitioners under the law of Zambia or under the law of any other country in the Commonwealth, and the board shall inquire into the matter and report to the Chief Justice
+
+Removal of President on grounds of incapacity
 
 on whether or not the President is, by reason of any infirmity of body or mind, incapable of discharging the functions of his office.
 
@@ -1757,9 +1765,11 @@ Provided that any person performing the functions of the office of President und
 
 (4) A motion for the purposes of clause (1) may be proposed at any meeting of the Cabinet.
 
-#### Section 37 — Impeachment of President for violation of Constitution
+#### Section 37
 
 (1) If notice in writing is given to the Speaker of the National Assembly signed by not less than one-third of all the members of the National Assembly of a motion alleging that the President has committed any violation of the Constitution or any gross misconduct and specifying the particulars of the allegations and proposing that a tribunal be established under this Article to investigate those allegations,
+
+Impeachment of President for violation of Constitution
 
 the Speaker shall(a)
 
@@ -1791,7 +1801,7 @@ National Assembly, resolve that the President has been guilty of such violation 
 
 (6) No proceedings shall be taken or continued under this Article at any time when Parliament is dissolved. Vacancy in office
 
-#### Section 38 — Vacancy in office of President
+#### Section 38
 
 (1) If the office of the President becomes vacant by reason of his death or resignation or by reason of his ceasing to hold office by virtue of President of Article 36, 37 or 88, an election to the office of the President shall be held in accordance with Article 34 within ninety days from the date of the office becoming vacant.
 
@@ -1799,7 +1809,7 @@ National Assembly, resolve that the President has been guilty of such violation 
 
 (3) The Vice-President or, the member of the Cabinet as the case may be, performing the functions of the office of President under clause (2) shall not dissolve the National Assembly nor, except on the advice of the Cabinet, revoke any appointment made by the President.
 
-#### Section 39 — Discharge of functions of President during absence, illness, etc
+#### Section 39
 
 (1) Whenever the President is absent from Zambia or considers it desirable so to do by reason of illness or for any other cause, he may by direction in writing, authorise the Vice-President, or where the Vice-President is absent from Zambia or is incapable of discharging the functions of the office of President, any other person, to discharge such functions of the office of President as he may specify, and the Vice-President or such other person may discharge those functions until his authority is revoked by the President.
 
@@ -1827,11 +1837,11 @@ the Vice-President is by reason of physical or mental infirmity unable to discha
 
 Provided that any such certificate as is referred to in paragraph (a) shall cease to have effect if the Speaker notifies any person under clause (3) that the President is about to resume the functions of the office of the President or if another person is elected as, and assumes the office of, President.
 
-#### Section 40 — Oaths of President
+#### Section 40
 
 A person assuming the office of President shall, before entering the Oaths of President office, take and subscribe to such oaths as may be prescribed by or under an Act of Parliament.
 
-#### Section 41 — Returning Officer, questions relating to elections
+#### Section 41
 
 (1) The Chief Justice shall be the Returning Officer for the purpose Returning Officer; questions relating of elections to the office of President. to elections
 
@@ -1845,7 +1855,7 @@ any provision of this Constitution or any law relating to election of a Presiden
 
 any person has been validly elected as President under Article 34; shall be referred to and determined by the full bench of the Supreme Court.
 
-#### Section 42 — Salary and allowances of President
+#### Section 42
 
 (1) The President shall receive such salary and allowances as may Salary and be prescribed by an Act of Parliament; and they shall be a charge on the allowances of President general revenues of the Republic.
 
@@ -1853,7 +1863,7 @@ any person has been validly elected as President under Article 34; shall be refe
 
 (3) A person who has held the office of President shall receive such pension and such gratuity as may be prescribed by an Act of Parliament, and that pension and gratuity shall be a charge on the general revenues of the Republic.
 
-#### Section 43 — Protection of President in respect of legal proceedings
+#### Section 43
 
 (1) Civil proceedings shall not be instituted or continued against the person holding the office of President or performing the functions of that office in respect of which relief is claimed against him in respect of anything done or omitted to be done in his private capacity.
 
@@ -1863,7 +1873,9 @@ any person has been validly elected as President under Article 34; shall be refe
 
 (4) Where provision is made by law limiting the time within which proceedings of any description may be brought against any person, the term of any person in the office of President shall not be taken into account in calculating any period of time prescribed by that law which determines whether any such proceedings as are mentioned in clause (1) and (3) may be brought against the person.
 
-#### Section 44 — Functions of President
+Protection of President in respect of legal proceedings
+
+#### Section 44
 
 (1) As the Head of State, the President shall perform with dignity and leadership all acts necessary or expedient for, or reasonably incidental to, the discharge of the executive functions of Government subject to the overriding terms of this Constitution and the Laws of Zambia which he is constitutionally obliged to protect, administer and execute.
 
@@ -1925,7 +1937,7 @@ if the National Assembly refuses to ratify the second appointment it shall be in
 
 (7) Nothing in this Article shall prevent Parliament from conferring functions on persons or authorities other than the President.
 
-#### Section 45 — Vice President
+#### Section 45
 
 (1) There shall be an office of Vice-President of the Republic.
 
@@ -1939,9 +1951,11 @@ Vice-President
 
 (5) The salary and allowances of the Vice-President shall be such as may be prescribed by an Act of Parliament, and shall be a charge on the general revenues of the Republic.
 
-#### Section 46 — Minister
+#### Section 46
 
 (1) There shall be such Ministers as may be appointed by the President.
+
+Minister
 
 (2) Appointment to the office of Minister shall be made from amongst members of the National Assembly.
 
@@ -1949,7 +1963,7 @@ Vice-President
 
 (4) The salaries and allowances of a Minister shall be such as may be prescribed by an Act of Parliament, and shall be a charge on the general revenues of the Republic.
 
-#### Section 47 — Provicial Deputy Minister and Deputy Minister
+#### Section 47
 
 (1) The President may appoint such Deputy Ministers as he may consider necessary to assist Ministers in the performance of their functions and to exercise or perform on behalf of Ministers such of the Ministers' functions as the President may authorise in that behalf.
 
@@ -1961,13 +1975,13 @@ Provincial Deputy Minister and Deputy Minister
 
 (4) The salaries and allowances of Provincial Deputy Minister and Deputy Ministers shall be such as may be prescribed by an Act of Parliament, and shall be a charge on the general revenues of the Republic.
 
-#### Section 48 — Oaths of Vice President, Minister and Deputy Minister
+#### Section 48
 
 A Vice-President, Minister or Deputy Minister shall not enter upon the duties of his office unless he has taken and subscribed to the oath of allegiance and such other oath for the due execution of his office as may be prescribed by or under an Act of Parliament.
 
 Oaths of Vice-President, Minister and Deputy Ministers
 
-#### Section 49 — Cabinet
+#### Section 49
 
 (1) There shall be a Cabinet which shall consist of the President, the Cabinet Vice-President and the Ministers.
 
@@ -1981,19 +1995,23 @@ in the absence of the President, the Vice-President.
 
 (3) The Cabinet may act notwithstanding any vacancy in its membership.
 
-#### Section 50 — Functions of Cabinet
+#### Section 50
 
 The Cabinet shall formulate the policy of the government and shall Functions of be responsible for advising the President with respect to the policy of the Cabinet Government and with respect to such other matters as may be referred to it by the President.
 
-#### Section 51 — Accountability of Cabinet and Deputy Ministers
+#### Section 51
 
 The Cabinet and Deputy Ministers shall be accountable collectively to the National Assembly.
 
-#### Section 52 — Code of conduct
+Accountability of Cabinet and Deputy Ministers
+
+#### Section 52
 
 All Ministers and Deputy Ministers shall conduct themselves, during their tenure of office, in accordance with a code of conduct promulgated by Parliament.
 
-#### Section 53 — Secretary to the Cabinet
+Code of conduct
+
+#### Section 53
 
 (1) There shall be a Secretary to the Cabinet whose office shall be a Secretary to the Cabinet public office and who shall, subject to ratification by the National Assembly, be appointed by the President.
 
@@ -2011,7 +2029,7 @@ authorities; and
 
 have such other functions as may be prescribed by or under an Act of Parliament or as the President may direct.
 
-#### Section 54 — Attorney-General
+#### Section 54
 
 (1) There shall be an Attorney-General of the Republic who shall, subject to ratification by the National Assembly, be appointed by the President and shall be(a)
 
@@ -2049,7 +2067,7 @@ Attorney-Generals
 
 (7) In the exercise of the power to give directions to the Director of Public Prosecutions conferred by clause (7) of Article 56, the Attorney-General shall not be subject to the direction or control of any other person or authority.
 
-#### Section 55 — Solicitor-General
+#### Section 55
 
 (1) There shall be a Solicitor-General of the Republic whose office Solicitor-General shall be a public office and who shall, subject, to ratification by the National Assembly, be appointed by the President.
 
@@ -2067,13 +2085,15 @@ whenever the Attorney-General is unable to act owing to illness or absence; and
 
 in any case where the Attorney-General has authorised the Solicitor-General to do so.
 
-#### Section 56 — Director of Public Prosecutions
+#### Section 56
 
 (1) There shall be a Director of Public Prosecutions who shall, subject to ratification by the National Assembly, be appointed by the President.
 
 (2) A person shall not be qualified to be appointed to the office of Director of Public Prosecutions unless he is qualified for appointment as Judge of the High Court with experience biased towards criminal law.
 
 (3) The Director of Public Prosecutions shall have power in any case
+
+Director of Public Prosecutions
 
 which he considers it desirable so to do(a)
 
@@ -2097,7 +2117,7 @@ to discontinue, at any stage before judgement is delivered, any such criminal pr
 
 consideration of public policy, the Director of Public Prosecutions shall bring the case to the notice of the Attorney-General and shall in the exercise of his powers in relation to that case, act in accordance with any directions of the Attorney-General.
 
-#### Section 57 — Discharge of functions of Director of Public Prosecutions
+#### Section 57
 
 Whenever the Director of Public Prosecutions is absent from Zambia or the President considers it desirable so to do by reason of the illness of the Director of Public Prosecutions or for any other cause, he may on the advice of the Judicial Service Commission appoint any person to discharge the functions of the Director of Public Prosecutions until such appointment is revoked.
 
@@ -2105,7 +2125,7 @@ Discharge of functions of Director of Public Prosecutions during absence, illnes
 
 Tenure of office of
 
-#### Section 58 — Tenure of office of Director of Public Prosecutions
+#### Section 58
 
 (1) Subject to the provisions of this Article, a person holding the office of Director of Public Prosecutions shall vacate his office when he Director of Public Prosecutions attains the age of sixty years.
 
@@ -2127,7 +2147,7 @@ of Public Prosecutions from office has been referred to a tribunal under this Ar
 
 (6) A person appointed Director of Public Prosecutions may resign upon giving three months' notice to the President.
 
-#### Section 59 — Prerogative of Mercy
+#### Section 59
 
 The President may-
 
@@ -2147,7 +2167,7 @@ substitute a less severe form of punishment for any punishment imposed on any pe
 
 remit the whole or part of any punishment imposed on any person for any offence or any penalty or forfeiture or confiscation otherwise due to the Government on account of any offence.
 
-#### Section 60 — Advisory committee
+#### Section 60
 
 (1) There shall be an advisory committee on the prerogative of mercy which shall consist of such persons as may be appointed by the President.
 
@@ -2159,13 +2179,15 @@ remit the whole or part of any punishment imposed on any person for any offence 
 
 Prerogative of mercy
 
+Advisory committee
+
 (5) Subject to the provisions of clause (4), the President may refer to the advisory committee any questions as to the exercise of the powers conferred upon him by Article 59.
 
 (6) The President, if present, shall preside at any meeting of the advisory committee.
 
 (7) The President may determine the procedure of the advisory committee.
 
-#### Section 61 — Offices for Republic
+#### Section 61
 
 (1) Subject to the other provisions of this Constitution and any other Offices for Republic law, the power to constitute offices for the Republic and the power to abolish any such offices shall vest in the President.
 
@@ -2175,13 +2197,17 @@ Prerogative of mercy
 
 (As amended by Act No. 18 of 1996, except for Article 79)
 
-#### Section 62 — Legislative power and membership of Parliament
+#### Section 62
 
 The legislative power of the Republic of Zambia shall vest in Parliament which shall consist of the President and the National Assembly.
 
-#### Section 63 — Composition of and election to National Assembly
+Legislative power and membership of Parliament
+
+#### Section 63
 
 (1) The National Assembly shall consist of-
+
+Composition of and election to National Assembly
 
 (a)
 
@@ -2197,7 +2223,7 @@ the Speaker of the National Assembly.
 
 (2) Subject to the other provisions of this Constitution, the election of members of the National Assembly shall be direct, by universal adult suffrage and by secret ballot and shall be conducted in accordance with the provisions of this Constitution and as may be prescribed by or under an Act of Parliament.
 
-#### Section 64 — Qualifications for election to National Assembly
+#### Section 64
 
 Subject to Article 65, a person shall be qualified to be elected as a Qualifications for election to member of the National Assembly if-
 
@@ -2213,7 +2239,7 @@ he has attained the age of twenty-one years; and
 
 (c) he is literate and conversant with the official language of Zambia.
 
-#### Section 65 — Disqualification for election to National Assembly
+#### Section 65
 
 (1) A person shall not be qualified to be elected as a member of the Disqualifications for election to National Assembly if-
 
@@ -2283,9 +2309,11 @@ shall not be qualified for election as a member of the National Assembly.
 
 (8) In this Article, the reference to a sentence of imprisonment shall be construed as not including a sentence of imprisonment the execution of which is suspended or a sentence of imprisonment in default of payment of a fine.
 
-#### Section 66 — Nomination for election to National Assembly
+#### Section 66
 
 (1) Nominations for election to the National Assembly shall be delivered to the Returning Officer appointed by the Electoral Commission on such day and at such time and at such place as may be prescribed by the Electoral Commission.
+
+Nomination for election to National Assembly
 
 (2) Any nomination for election to the National Assembly shall not be valid unless(a)
 
@@ -2295,13 +2323,13 @@ the candidate has paid the election fees prescribed by or under an Act of Parlia
 
 the nomination is supported by not less than nine persons registered as voters in the constituency in which the candidate is standing for the purpose of elections to the National Assembly.
 
-#### Section 67 — By-election for National Assembly
+#### Section 67
 
 (1) When a vacancy occurs in the seat of a member of the National By-election for National Assembly Assembly as a result of the death or resignation of the member or by virtue of Article 71, a by-election shall be held within ninety days after the occurrence of the vacancy.
 
 (2) Parliament may by an Act of Parliament prescribe the manner in which a by-election shall be held. Nominated
 
-#### Section 68 — Nominated members
+#### Section 68
 
 (1) The President may, at any time after a general election to the National Assembly and before the National Assembly is next dissolved, members appoint such number of persons as he considers necessary to enhance the representation in the National Assembly as regards special interests or skills, to be nominated members of the National Assembly, so, however, that there are not more than eight such members at any one time.
 
@@ -2309,7 +2337,7 @@ the nomination is supported by not less than nine persons registered as voters i
 
 (3) A person may not be appointed as a nominated member if he was candidate for election in the last preceding general election or in any subsequent by-election.
 
-#### Section 69 — Speaker
+#### Section 69
 
 (1) There shall be a Speaker of the National Assembly who shall be Speaker elected by the members of the Assembly from among persons who are qualified to be elected as members of the Assembly but are not members of the Assembly.
 
@@ -2329,7 +2357,7 @@ if the National Assembly resolves, upon a motion supported by the votes of not l
 
 an election to the office of Speaker, at any time when the office of Speaker is vacant.
 
-#### Section 70 — Deputy Speaker
+#### Section 70
 
 (1) There shall be a Deputy Speaker of the National Assembly who Deputy Speaker shall be elected by the members of the Assembly from among the members of the Assembly.
 
@@ -2347,7 +2375,7 @@ if he assumes the office of President or becomes the Vice-President, a Minister,
 
 if the National Assembly resolves that he should be removed from office.
 
-#### Section 71 — Tenure of office of members of the National Assembly
+#### Section 71
 
 (1) Every member of the National Assembly, with the exception of Tenure of office of the Speaker, shall vacate his seat in the Assembly upon a dissolution of members of National Assembly the National Assembly.
 
@@ -2391,7 +2419,7 @@ if, under the authority of any such law as is referred to in Article 22 or 25-
 
 (ii) if, on the final determination the member's appeal or application, his conviction is set aside, or he is granted a free pardon, or is declared not to be of unsound mind or bankrupt or guilty of an offence prescribed under clause (4) of Article 65, he shall be entitled to resume his functions as a member of the National Assembly unless he has previously resigned, and to receive remuneration as a member for the period during which he did not exercise his functions by reason of the provisions of paragraph (i) of this proviso.
 
-#### Section 72 — Determination of questions as to membership of National
+#### Section 72
 
 (1) The High Court shall have power to hear and determine any question whether-
 
@@ -2407,17 +2435,19 @@ Determination of questions as to membership of National Assembly
 
 (2) An appeal from the determination of the High Court under this Article shall lie to the Supreme Court: Provided that an appeal shall lie to the Supreme Court from any determination of the High Court on any question of law including the interpretation of this Constitution. Clerk and Staff of
 
-#### Section 73 — Clerk and staff of National Assembly
+#### Section 73
 
 There shall be a Clerk of the National Assembly and such other offices in the department of the Clerk of the National Assembly as may National Assembly be prescribed by an Act of Parliament.
 
-#### Section 74 — Removal of nominated member by President
+#### Section 74
 
 The President may, at any time, terminate the appointment of any nominated member appointed under Article 68 and appoint any other person in that member's stead.
 
+Removal of nominated member by President
+
 The francise
 
-#### Section 75 — The franchise
+#### Section 75
 
 (1) Every citizen of Zambia who has attained the age of eighteen years shall, unless he is disqualified by Parliament from registration as a voter for the purposes of elections to the National Assembly, be entitled
 
@@ -2425,13 +2455,13 @@ to be registered as such a voter under a law in that behalf, and no other person
 
 (2) Every person who is registered in any constituency as a voter for the purposes of elections to the National Assembly shall, unless he is disqualified by Parliament from voting in such elections on the grounds of his having been convicted of an offence in connection with elections or, on the grounds of his having been reported guilty of such an offence by the court trying an election petition or, on the grounds of his being in lawful custody at the date of the election, be entitled so to vote in that constituency in accordance with the provisions made by or under an Act of Parliament, and no other person may so vote. Electoral
 
-#### Section 76 — Electoral Commission
+#### Section 76
 
 (1) There is hereby established an autonomous Electoral Commission Commission to supervise the registration of voters, to conduct Presidential and Parliamentary elections and to review the boundaries of the constituencies into which Zambia is divided for the purposes of elections to the National Assembly.
 
 (2) An Act of Parliament shall provide for the composition and operations of the Electoral Commission appointed by the President under this Article. Constituencies and
 
-#### Section 77 — Constituencies and elections
+#### Section 77
 
 (1) Zambia shall be divided into constituencies, for purposes of elections elections to the National Assembly so that the number of such constituencies, the boundaries of which shall be such as the Electoral Commission prescribes, shall be equal to the number of seats of elected members in the National Assembly.
 
@@ -2451,7 +2481,7 @@ to be registered as such a voter under a law in that behalf, and no other person
 
 (9) During any period when the Presidential and Parliamentary elections are being held, the Electoral Commission shall be responsible for the registration of voters and the conduct of elections in every constituency.
 
-#### Section 78 — Exercise of legislative power of Parliament
+#### Section 78
 
 (1) Subject to the provisions of this Constitution, the legislative
 
@@ -2471,11 +2501,13 @@ legislative power of Parliament
 
 (6) Where a Bill that has been duly passed is assented to in accordance with the provisions of this Constitution it shall become law and the President shall thereupon cause it to be published in the Gazette as a law.
 
-#### Section 79 — Alteration of Constitution
+#### Section 79
 
 (1) Subject to the provisions of this Article, Parliament may alter this Constitution or the Constitution of Zambia Act.
 
 (2) Subject to clause (3) a bill for the alteration of this Constitution or the Constitution of Zambia Act shall not be passed unless-
+
+Alteration of Constitution
 
 (a)
 
@@ -2505,7 +2537,7 @@ been published in the Gazette, but Parliament may postpone the coming into opera
 
 (8) All laws made by Parliament shall be styled "Acts" and the words of enactment shall be "Enacted by the Parliament of Zambia."
 
-#### Section 80 — Statutory Instruments
+#### Section 80
 
 (1) Nothing in Article 62 shall prevent Parliament from conferring Statutory Instruments on any person or authority power to make statutory instruments.
 
@@ -2531,13 +2563,13 @@ Vice-President or a Minister, the National Assembly shall notfinancial matters
 
 proceed upon any motion (including any amendment to a motion) the effect of which, in the opinion of the person presiding, would be to make provision for any of those purposes.
 
-#### Section 82 — President may address National Assembly
+#### Section 82
 
 (1) The President may, at any time, attend and address the National President may address National Assembly. Assembly
 
 (2) The President may send messages to the National Assembly and any such message shall be read, at the first convenient sitting of the National Assembly after it is received, by the Vice-President or by a Minister designated by the President.
 
-#### Section 83 — Presiding at National Assembly
+#### Section 83
 
 There shall preside at any sitting of the National Assembly(a)
 
@@ -2553,7 +2585,7 @@ in the absence of the speaker and of the Deputy Speaker, such member of the Asse
 
 President at National Assembly
 
-#### Section 84 — Voting and quorum
+#### Section 84
 
 (1) Except as otherwise provided in this Constitution, all questions Voting and quorum at any sitting of the National Assembly shall be determined by a majority of votes of the members present and voting other than the Speaker or the person acting as Speaker as the case may be.
 
@@ -2565,27 +2597,33 @@ President at National Assembly
 
 third of the total number of members of the National Assembly and if at any time during a meeting of the National Assembly objection is taken by any member present that there is no quorum, it shall be the duty of the Speaker or the person acting as such, either to adjourn the National Assembly or, as he may think fit, to suspend the meeting until there is a quorum.
 
-#### Section 85 — Unqualified person, sitting or voting
+#### Section 85
 
 Any person who sits or votes in the National Assembly knowing or Unqualified having reasonable grounds for knowing that he is not entitled to do so, person, sitting or shall be liable to a penalty not exceeding one thousand penalty units or voting such other sum as may be prescribed by Parliament for each day on which he so sits or votes, which penalty shall be recoverable by action in the High Court at the suit of the Attorney-General
 
-#### Section 86 — Procedure in National Assembly
+#### Section 86
 
 (1) Subject to the provisions of this Constitution, the National Assembly may determine its own procedure.
+
+Procedure in National Assembly
 
 (2) The National Assembly may act notwithstanding any vacancy in its membership (including any vacancy not filled when the National Assembly first meets after any dissolution of Parliament) and the presence or participation of any person not entitled to be present or to participate in the proceedings of the National Assembly shall not invalidate those proceedings.
 
 (3) In the selection of members of committees, the National Assembly shall seek to ensure that there shall be equitable representation of the political parties or groups that are represented in the National Assembly as well as of the members not belonging to any such parties or groups.
 
-#### Section 87 — Privileges and immunities of National Assembly
+#### Section 87
 
 (1) The National Assembly and its members shall have such privileges, powers and immunities as may be prescribed by an Act of Parliament.
 
+Privileges and immunities of National Assembly
+
 (2) Notwithstanding subclause (1) the law and custom of the Parliament of England shall apply to the National Assembly with such modifications as may be prescribed by or under an Act of Parliament.
 
-#### Section 88 — Dissolution of Parliament and related matters
+#### Section 88
 
 (1) Subject to the provisions of clause (4) each session of Parliament shall be held at such place within Zambia and shall
+
+Dissolution of Parliament and related matters
 
 commence at such time as the President may appoint.
 
@@ -2617,11 +2655,11 @@ Provided that the life of the National Assembly shall not be extended under this
 
 (9) If, after a dissolution of Parliament and before the holding of the general elections, the President considers that, owing to the existence of a state of war or of a state of emergency in Zambia or any part thereof, it is necessary to recall Parliament, the President may summon the Parliament that has been dissolved to meet and that Parliament shall be deemed to be the Parliament for the time being, but the general election of members of the National Assembly shall proceed and the Parliament that has been recalled shall, if not sooner dissolved again, stand dissolved on the day appointed for the nomination of candidates in that general election.
 
-#### Section 89 — Oaths to be taken by Speaker and members
+#### Section 89
 
 The Speaker of the National Assembly, before assuming the duties Oaths to be taken of his office, and every member of the National Assembly before taking by Speaker and his seat therein, shall take and subscribe before the National Assembly members to the oath of allegiance.
 
-#### Section 90 — The Investigator-General
+#### Section 90
 
 (1) There shall be an Investigator-General of the Republic who shall be appointed by the President in consultation with the Judicial Service Commission and shall be the Chairman of the Commission for Investigations.
 
@@ -2663,7 +2701,7 @@ age to continue in office for such period as may be necessary to complete and su
 
 (As amended by Act No. 18 of 1996)
 
-#### Section 91 — Courts
+#### Section 91
 
 (1) The Judicature of the Republic shall consist of:
 
@@ -2697,9 +2735,11 @@ Courts
 
 (3) The Judicature shall be autonomous and shall be administered in accordance with the provisions of an Act of Parliament.
 
-#### Section 92 — Supreme Court
+#### Section 92
 
 (1) There shall be a Supreme Court of Zambia which shall be the final court of appeal for the Republic and shall have such jurisdiction and powers as may be conferred on it by this Constitution or any other law.
+
+Supreme Court
 
 (2) The judges of the Supreme Court shall be(a)
 
@@ -2721,7 +2761,7 @@ seven Supreme Court judges or such greater number as may be prescribed by an Act
 
 (6) The Chief Justice may make rules with respect to the practice and procedure of the Supreme court in relation to jurisdiction and powers of the Supreme Court.
 
-#### Section 93 — Appointment of judges of Supreme Court
+#### Section 93
 
 (1) The Chief Justice and the Deputy Chief Justice shall, subject to Appointment of judges of Supreme ratification by the National Assembly, be appointed by the President. Court
 
@@ -2737,7 +2777,7 @@ seven Supreme Court judges or such greater number as may be prescribed by an Act
 
 (7) A puisne judge appointed to act as Deputy Chief Justice or Supreme Court judge, as the case may be, pursuant to clause (4) or (5), shall continue to be a judge of the High Court and may continue to perform the functions of the office of Puisne judge.
 
-#### Section 94 — High Court
+#### Section 94
 
 (1) There shall be a High Court for the Republic which shall have, High Court except as to the proceedings in which the Industrial Relations Court has exclusive jurisdiction under the Industrial and Labour Relations Act, unlimited and original jurisdiction to hear and determine any civil or criminal proceedings under any law and such jurisdiction and powers as may be conferred on it by this Constitution or any other law.
 
@@ -2755,7 +2795,7 @@ seven Supreme Court judges or such greater number as may be prescribed by an Act
 
 (8) The Chief Justice may make rules with respect to the practice and procedure of the High Court in relation to the jurisdiction and power conferred on it by clause (7).
 
-#### Section 95 — Appointment of puisne judges, Chairman and Deputy
+#### Section 95
 
 (1) The puisne judges shall, subject to ratification by the National Assembly, be appointed by the President on the advice of the Judicial Service Commission.
 
@@ -2767,7 +2807,7 @@ Appointment of puisne judges, Chairman and Deputy Chairman of Industrial Relatio
 
 modifications apply to the Chairman and the Deputy Chairman of the Industrial Relations Court.
 
-#### Section 96 — Acting Judge of Supreme Court or of High Court to act or hold
+#### Section 96
 
 Any person appointed under Article 93 to act as a judge of the Supreme Court shall continue to act for the period of that person's appointment or, if no such period is specified, until such appointment is revoked by the President:
 
@@ -2775,7 +2815,7 @@ Acting Judge of Supreme Court or of High Court to act or hold office until appoi
 
 Provided that the President may permit a person whose appointment to act as a judge of the Supreme Court has expired or been revoked to continue to act for such period as may be necessary to enable that person to deliver judgement or to do any other thing in relation to proceedings that were commenced before such person. Qualifications for
 
-#### Section 97 — Qualifications for appointment as Supreme Court Judge,
+#### Section 97
 
 (1) Subject to clause (2), a person shall not be qualified for appointment as appointment as a judge of the Supreme Court, a puisne judge or Chairman or Deputy Chairman of the Industrial Relations Court unless- Supreme Court Judge, Puisne Judge, Chairman and Deputy Chairman of Industrial Relations Court
 
@@ -2799,7 +2839,7 @@ notwithstanding that he has not held one or other of those qualifications for a 
 
 (4) For the purposes of this Article and of Articles 93 and 94, "a person qualified for appointment" means a judge of the Supreme Court, a puisne judge or Chairman or Deputy Chairman of the Industrial Relations Court and includes a person in respect of whom the President or Judicial Service Commission, as the case may be, is satisfied as provided for in clause (2).
 
-#### Section 98 — Tenure of office of Judges of the Supreme Court and the High
+#### Section 98
 
 (1) Subject to the provisions of this Article, a person holding the office of a judge of the Supreme Court or the office of a judge of the High Court shall vacate that office on attaining the age of sixty-five years: Provided that the President(a)
 
@@ -2827,7 +2867,7 @@ the tribunal shall inquire into the matter and report on the facts thereof to th
 
 (6) The provisions of this Article shall be without prejudice to the provisions of Article 96.
 
-#### Section 99 — Oaths to be taken by Judge
+#### Section 99
 
 A judge of the Supreme Court or of the High Court shall not enter Oaths to be taken by Judge upon the duties of his office unless he has taken and subscribed to the oath of allegiance and such oath for the due execution of his office as may be prescribed by or under an Act of Parliament:
 
@@ -2837,9 +2877,11 @@ Provided that a person who has once taken and subscribed to the said oaths may e
 
 (As amended by Act No. 18 of 1996)
 
-#### Section 100 — The Zambia Defence Force
+#### Section 100
 
 (1) There shall be an armed force to be known as the Zambia Defence Force.
+
+The Zambia Defence Force
 
 (2) The Zambia Defence Force shall be non-partisan, national in character, patriotic, professional, disciplined, productive and subordinate to the civilian authority as established under this Constitution.
 
@@ -2847,7 +2889,7 @@ Provided that a person who has once taken and subscribed to the said oaths may e
 
 (4) A person shall not raise an armed force except in accordance with this Constitution.
 
-#### Section 101 — Functions of Defence Force
+#### Section 101
 
 The functions of the Zambia Defence Force shall be to-
 
@@ -2869,7 +2911,7 @@ engage in productive activities for the development of Zambia.
 
 Functions of Defence Force
 
-#### Section 102 — Parliament to regulate Defence Force
+#### Section 102
 
 Parliament shall make laws regulating the Zambia Defence Force, Parliament to regulate Defence and in particular, providing forForce
 
@@ -2891,7 +2933,7 @@ the terms and conditions of service of members of the Zambia Defence Force; and
 
 the deployment of troops outside of Zambia.
 
-#### Section 103 — Zambia Police Force
+#### Section 103
 
 (1) There shall be a police force to be known as the Zambia Police Zambia Police Force and such other police forces as Parliament may by law prescribe. Force
 
@@ -2899,7 +2941,7 @@ the deployment of troops outside of Zambia.
 
 (3) The Zambia Police Force shall be nationalistic, patriotic, professional, disciplined, competent and productive; and its members shall be citizens of Zambia and of good character.
 
-#### Section 104 — Functions of Zambia Police Force
+#### Section 104
 
 The functions of the Zambia Police Force shall include the following:
 
@@ -2919,7 +2961,7 @@ Functions of Zambia Police Force
 
 (d) to co-operate with the civilian authority and other security organs established under this Constitution and with the population generally.
 
-#### Section 105 — Parliament to regulate Zambia Police Force
+#### Section 105
 
 Parliament shall make laws regulating the Zambia Police Force, and in particular, providing for(a)
 
@@ -2937,13 +2979,15 @@ terms and conditions of service of members of the Zambia Police Force; and
 
 the regulation generally of the Zambia Police Force.
 
-#### Section 106 — Prison Service
+#### Section 106
 
 There shall be the Zambia Prison Service.
 
 Parliament to regulate Zambia Police Force
 
-#### Section 107 — Parliament to regulate Zambia Prison Service
+Prison Service
+
+#### Section 107
 
 Parliament shall make laws regulating the Zambia Prison Service, Parliament to regulate Zambia and in particular, providing forPrison Service
 
@@ -2963,9 +3007,11 @@ the terms and conditions of service of members of the Zambia Prison Service; and
 
 the regulation generally of the Zambia Prison Service.
 
-#### Section 108 — Zambia Security Intelligence Service
+#### Section 108
 
 (1) There shall be a Zambia Security Intelligence Service.
+
+Zambia Security Intelligence Service
 
 (2) Parliament shall make laws regulating the Zambia Security Intelligence Service, and in particular, providing for(a)
 
@@ -2985,11 +3031,13 @@ the terms and conditions of service of members of the Zambia Security Intelligen
 
 (As amended by Act No. 18 of 1996)
 
-#### Section 109 — Local Government System
+#### Section 109
 
 (1) There shall be such system of local government in Zambia as may be prescribed by an Act of Parliament.
 
 (2) The system of local government shall be based on democratically
+
+Local Government System
 
 elected councils on the basis of universal adult suffrage.
 
@@ -2997,7 +3045,7 @@ elected councils on the basis of universal adult suffrage.
 
 THE DUTIES OF A CITIZEN (As amended by Act No. 18 of 1996)
 
-#### Section 110 — Application of Directive Principles of State Policy
+#### Section 110
 
 (1) The Directive Principles of State Policy set out in this Part shall guide the Executive, the Legislature and the Judiciary, as the case may be, in the-
 
@@ -3021,13 +3069,17 @@ Application of Directive Principles of State Policy
 
 (2) The application of the Directive Principles of State Policy may be observed only in so far as State resources are able to sustain their application, or if the general welfare of the public so unavoidably demands, as may be determined by Cabinet.
 
-#### Section 111 — Directives not to be justiciable
+#### Section 111
 
 The Directive Principles of State Policy set out in this Part shall not be justiciable and shall not thereby, by themselves, despite being referred to as rights in certain instances, be legally enforceable in any court, tribunal or administrative institution or entity.
 
-#### Section 112 — Directive Principles of State Policy
+Directives not to be justiciable
+
+#### Section 112
 
 The following Directives shall be the Principles of State Policy for the purposes of this Part:
+
+Directive Principles of State Policy
 
 (a)
 
@@ -3071,7 +3123,7 @@ the State shall promote sustenance, development and public awareness of the need
 
 the State shall recognise the right of every person to fair labour practices and safe and healthy working conditions.
 
-#### Section 113 — Duties of citizen
+#### Section 113
 
 It shall be the duty of every citizen to-
 
@@ -3117,7 +3169,7 @@ Duties of citizen
 
 (As amended by Act No. 18 of 1996)
 
-#### Section 114 — Imposition of taxation
+#### Section 114
 
 (1) Subject to the provisions of this Article, taxation shall not be imposed or altered except by or under an Act of Parliament.
 
@@ -3139,7 +3191,7 @@ Impositon of taxation
 
 (ii) the provisions of this clause shall not apply in any financial year in which the National Assembly is dissolved after the laying of estimates in accordance with Article 115 and before the Appropriation Bill relating to those estimates is passed by Parliament.
 
-#### Section 115 — Withdraw of moneys from the general revenues
+#### Section 115
 
 (1) Moneys shall not be expended from the general revenues of the Withdrawal of moneys from Republic unless-
 
@@ -3185,13 +3237,13 @@ the expenditure is incurred on capital projects continuing from the previous fin
 
 (5) For the purposes of this Article the investment of moneys forming part of the general revenues of the Republic or the making of recoverable advances therefrom shall not be regarded as expenditure, and the expression "investment of moneys" means investment in readily marketable securities and deposits with a financial institution approved by the Minister responsible for finance.
 
-#### Section 116 — Supplementary estimates in respect of expenditure authorised
+#### Section 116
 
 Where in any financial year any expenditure has been authorised by a warrant issued by the President under paragraph (d) of clause (2) Article 115, the Minister responsible for finance shall cause a supplementary estimate relating to that expenditure to be laid before the National Assembly for its approval before the expiration of a period of four months from the issue of the warrant or, if the National Assembly is not sitting at the expiration of that period, at the first sitting of the National Assembly thereafter.
 
 Supplementary estimates in respect of expenditure authorised by warrant
 
-#### Section 117 — Appropriation Acts and Supplementary Appropriations Acts
+#### Section 117
 
 (1) The Minister responsible for finance shall cause to be prepared Appropriation Acts and shall lay before the National Assembly within three months after the and Supplementary Appropriation Acts commencement of each financial year estimates of the revenues and expenditure of the Republic for that financial year.
 
@@ -3211,13 +3263,13 @@ financial year or, if the National Assembly is not sitting at the expiration of 
 
 (5) Where, in any financial year, expenditure has been incurred without the authorisation of Parliament, the Minister responsible for finance shall, on approval of such expenditure by the appropriate committee of the National Assembly, introduce in the National Assembly, not later than thirty months after the end of that financial year or, if the National Assembly is not sitting at the expiration of that period, within one month of the first sitting of the National Assembly thereafter, a Bill to be known as the Excess Expenditure Appropriation Bill, for the approval by Parliament of such expenditure.
 
-#### Section 118 — Finance report
+#### Section 118
 
 (1) The Minister responsible for finance shall cause to be prepared Financial report and shall lay before the National Assembly not later than nine months after the end of each financial year, a financial report in respect of that year.
 
 (2) A financial report in respect of a financial year shall include accounts showing the revenue and other moneys received by the Government in that financial year, the expenditure of the Government in that financial year other than expenditure charged by this Constitution or any other law on the general revenues of the Republic, the payments made in the financial year otherwise than for the purposes of expenditure, a statement of the financial position of the Republic at the end of the financial year and such other information as Parliament may prescribe.
 
-#### Section 119 — Renumerations of certain officers
+#### Section 119
 
 (1) There shall be paid to the holders of the offices to which this Remunerations of Article applies such salary and such allowances as may be prescribed by certain officers or under an Act of Parliament.
 
@@ -3231,7 +3283,7 @@ financial year or, if the National Assembly is not sitting at the expiration of 
 
 (2) For the purposes of the Article, debt charges include interest, sinking fund charges, the repayment or amortisation of debt, and all expenditure in connection with the raising of the loans on the security of the revenues of the former Protectorate of Northern Rhodesia or the Republic and on the service and redemption of debt thereby created. Auditor-General
 
-#### Section 121 — Auditor-General
+#### Section 121
 
 (1) There shall be an Auditor-General for the Republic whose office shall be a public office and who shall, subject to ratification by the National Assembly, be appointed by the President.
 
@@ -3259,7 +3311,7 @@ to audit the accounts relating to any expenditure charged by this Constitution o
 
 (6) In the exercise of his functions under clauses (2), (3) and (4), the Auditor-General shall not be subjected to the direction or control of any other person or authority.
 
-#### Section 122 — Tenure of office of Auditor-General
+#### Section 122
 
 (1) Subject to the provisions of this Article, a person holding the Tenure of office of office of Auditor-General shall vacate his office when he attains the age Auditor-General
 
@@ -3289,7 +3341,7 @@ the National Assembly shall consider the report of the tribunal at the first con
 
 (As amended by Act No. 18 of 1996)
 
-#### Section 123 — Commissions
+#### Section 123
 
 (1) There shall be established for the Republic a Judicial Service Commissions Commission which shall have functions conferred on it by this Constitution and such other functions and powers, as may be prescribed by or under an Act of Parliament.
 
@@ -3299,7 +3351,7 @@ the National Assembly shall consider the report of the tribunal at the first con
 
 (4) Nothing in the foregoing precludes provision being made by or under an Act of Parliament to confer on a Service Commission functions and powers in relation to matters other than public employment.
 
-#### Section 124 — Pension laws and protection
+#### Section 124
 
 (1) The law to be applied with respect to any pension benefits that Pension laws and protection were granted to any person before the commencement of this Constitution shall be the law that was in force at the date on which those benefits were granted or any law in force at a later date that is not less favourable to that person.
 
@@ -3339,7 +3391,7 @@ references to service as a member of the armed forces include references to serv
 
 (As amended by Act No. 18 of 1996)
 
-#### Section 125 — Establishment of the Human Rights Commission and its
+#### Section 125
 
 (1) There is hereby established a Human Rights Commission.
 
@@ -3347,7 +3399,7 @@ Establishment of Human Rights Commission and its independence
 
 (2) The Human Rights Commission shall be autonomous.
 
-#### Section 126 — Functions, powers, composition, procedure, etc of Human
+#### Section 126
 
 The functions, powers, composition, funding and administrative procedures, including the employment of staff, of the Human Rights Commission shall be prescribed by or under an Act of Parliament.
 
@@ -3357,13 +3409,13 @@ Functions, powers, composition, procedure, etc. of Human Rights Commission
 
 (As amended by Act No. 18 of 1996)
 
-#### Section 127 — The Institution of Chief
+#### Section 127
 
 (1) Subject to the provisions of this Constitution, the Institution of The Institution of Chief shall exist in any area of Zambia in accordance with the culture, Chief customs and traditions or wishes and aspirations of the people to whom it applies.
 
 (2) In any community, where the issue of a Chief has not been resolved, the issue shall be resolved by the community concerned using a method prescribed by an Act of Parliament.
 
-#### Section 128 — Concept and principles relating to institution of Chiefs
+#### Section 128
 
 The following concepts and principles shall apply to Chiefs:
 
@@ -3381,19 +3433,21 @@ a traditional leader or cultural leader shall enjoy such privileges and benefits
 
 Concept and principles relating to Institution of Chiefs
 
-#### Section 129 — Chief not to be partisan
+#### Section 129
 
 A person shall not, while remaining a Chief, join or participate in Chief not to be partisan partisan politics.
 
-#### Section 130 — House of Chiefs
+#### Section 130
 
 There shall be a House of Chiefs for the Republic which shall be House of Chiefs an advisory body to the Government on traditional, customary and any other matters referred to it by the President.
 
-#### Section 131 — Functions of House of Chiefs
+#### Section 131
 
 Notwithstanding Article 130, the House of Chiefs may(a)
 
 consider and discuss any Bill dealing with, or touching on, custom or tradition before it is introduced into the National Assembly;
+
+Functions of House of Chiefs
 
 (b)
 
@@ -3407,15 +3461,17 @@ consider and discuss any other matter referred to it for its consideration by th
 
 submit resolutions on any Bill or other matter referred to it to the President, and the President shall cause such resolutions to be laid before the National Assembly.
 
-#### Section 132 — Composition of House of Chiefs
+#### Section 132
 
 (1) The House of Chiefs shall consist of twenty-seven Chiefs.
+
+Composition of House of Chiefs
 
 (2) The members referred to in clause (1) shall consist of three chiefs elected by the Chiefs from each of the nine Provinces of the Republic.
 
 (3) The Chairman and the Vice-Chairman shall be elected from amongst the members.
 
-#### Section 133 — Tenure of office and vacancy
+#### Section 133
 
 (1) A member of the House of Chiefs-
 
@@ -3453,17 +3509,21 @@ if he is adjudged or becomes an undischarged bankrupt; or
 
 if he is declared or becomes of unsound mind under any law in Zambia.
 
-#### Section 134 — Oaths of members of House of Chiefs
+#### Section 134
 
 The Chairman and every member of the House of Chiefs shall take Oaths of members of House of Chiefs an oath of allegiance.
 
-#### Section 135 — Staff of House of Chiefs
+#### Section 135
 
 There shall be a Clerk of the House of Chiefs and such other staff as may be necessary for carrying out the functions under this Part.
 
-#### Section 136 — President may make regulations
+Staff of House of Chiefs
+
+#### Section 136
 
 Subject to the provisions of this Constitution, the President may by statutory instrument, make regulations for-
+
+President may make regulations
 
 (a)
 
@@ -3489,23 +3549,29 @@ such other matters as are necessary or conducive to the better carrying out of t
 
 (As amended by Act No. 18 of 1996)
 
-#### Section 137 — Resignations
+#### Section 137
 
 (1) Any person who is appointed or elected to any office established by this Constitution may resign from that office by writing under his hand addressed to the persons or authority by whom he was appointed or elected: Provided that in the case of a person who holds office as Speaker or Deputy Speaker of the National Assembly his resignation from that
+
+Resignations
 
 office shall be addressed to the National Assembly, and in the case of an elected or nominated member of the National Assembly his resignation shall be addressed to the Speaker.
 
 (2) The resignation of any person from any office established by this Constitution shall take effect when the writing signifying the resignation is received by the person or authority to whom it is addressed or by any person authorised by that person or authority to receive it.
 
-#### Section 138 — Re-appointment and concurrent appointment
+#### Section 138
 
 (1) Where any person has vacated any office established by this Constitution he may, if qualified, be appointed or elected again to hold that office in accordance with the provisions of this Constitution.
 
+Re-appointment and concurrent appointment
+
 (2) Where a power is conferred by this Constitution upon any person to make any appointment to any office, a person may be appointed to that office notwithstanding that some other person may be holding that office, when that other person is on leave of absence pending the relinquishment of the office; and where two or more persons are holding the same office by reason of an appointment made in pursuance of this clause, then for the purposes of any function conferred upon the holder of that office, the person last appointed shall be deemed to be the sole holder of the office.
 
-#### Section 139 — Interpretation
+#### Section 139
 
 (1) In this Constitution, unless the context otherwise requires"Act of Parliament" means a law enacted by Parliament; "Article" means an Article of this Constitution; "Chief" means a person who is recognised by the President under the provisions of the Chiefs Act or any law amending or replacing that Act as the Litunga of Western Province, a Paramount Chief, Senior Chief, Chief or Sub-Chief or a person who is appointed as Deputy Chief; "clause" means a clause of the Article in which the word occurs; "the Commonwealth" includes any dependency of a country which is a member of the Commonwealth; "financial year" means the period of twelve months ending on the 31st December in any year or on such other day as may be prescribed by or under an Act of Parliament: Provided that by or under an Act of Parliament prescribing a day other than the 31st December as the terminal day of the financial year the said period of twelve months may be extended or reduced for
+
+Interpretation
 
 any one financial year for the purposes of effecting such prescribed change; "the Gazette" means the official Gazette of the Government of Zambia; "High Court" means the High Court established by this Constitution; "high judicial office" means the office of a judge of a court of unlimited jurisdiction in civil and criminal matters in some part of the Commonwealth or in the Republic of Ireland or the office of a court having jurisdiction in appeals from such a court; "House" means the National Assembly; "meeting" means all sittings of the National Assembly held during a period beginning when the National Assembly first sits after being summoned at any time and terminating when the Assembly is adjourned sine die or at the conclusion of a session; "oath" includes affirmation; "the oath of allegiance" means such oath of allegiance as may be prescribed by law; "paragraph" means a paragraph of the clause in which the word occurs; "person" includes any company or association or body of persons, corporate or unincorporate; "public office" means an office of emolument in the public office; "public officer" means a person holding or acting in any public office; "the public service" subject to clauses (2) and (3) shall have the meaning assigned to it by an Act of Parliament; "session" means the sitting of the National Assembly beginning when it first sits after the coming into operation of this Constitution or after Parliament is prorogued or dissolved at any time and ending when Parliament is prorogued or is dissolved without having been prorogued; "sitting" means a period during which the National Assembly is sitting without adjournment and includes any period during which it is in committee; "statutory instrument" means any proclamation, regulation, order, rule, notice or other instrument, (not being an Act of Parliament) of a legislative as distinct from an executive character; and "Supreme Court" means the Supreme Court of Zambia established by this Constitution.
 

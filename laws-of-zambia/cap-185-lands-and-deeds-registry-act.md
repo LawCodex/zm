@@ -417,9 +417,9 @@ PART I PRELIMINARY
 
 This Act may be cited as the Lands and Deeds Registry Act.
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 (a)
 

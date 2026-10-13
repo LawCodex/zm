@@ -807,9 +807,9 @@ PART I PRELIMINARY
 
 This Act may be cited as the National Parks and Wildlife Act.
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "aerodrome" has the meaning assigned to it by section two of the Aviation Act;
 
@@ -3299,7 +3299,9 @@ Failure to keep registers or to furnish returns, an offence
 
 shall be guilty of an offence.
 
-#### Section 170 — Any person who, without lawful authority, alters, defaces or removes-
+#### Section 170 — Prohibition of alteration, defacement or removal of official records
+
+Any person who, without lawful authority, alters, defaces or removes-
 
 (a)
 
@@ -3309,15 +3311,15 @@ any register, index or other official record maintained under this Act or of any
 
 any entry appearing in any such register, index or other official record;
 
-Prohibition of alteration, defacement or removal of official records
-
 shall be guilty of an offence.
 
 #### Section 171 — Prohibition of alteration or defacement of prescribed documents or records
 
 Any person who, without lawful authority, alters or defaces any licence, permit, authority, certificate, register, return, record or other document, prescribed, issued, furnished or kept under this Act, shall be guilty of an offence.
 
-#### Section 172 — Any person who-
+#### Section 172 — Secrecy
+
+Any person who-
 
 (a)
 

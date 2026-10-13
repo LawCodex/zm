@@ -1055,7 +1055,7 @@ Regulation
 
 Revocation of appointments of election officers to be notified
 
-### PART II — GENERAL REGISTRATION OF VOTERSPART II
+### PART II — GENERAL REGISTRATION OF VOTERS
 
 GENERAL REGISTRATION OF VOTERS
 
@@ -1255,7 +1255,7 @@ Electoral officers to publish registers of voters certified under regulation 47
 
 Replacement, control and custody of registers, provisional registers and true copies thereof
 
-### PART IV — MISCELLANEOUSPART IV
+### PART IV — MISCELLANEOUS
 
 MISCELLANEOUS
 
@@ -1299,7 +1299,7 @@ When voter's registration card deemed to be cancelled
 
 Director of Elections may supply copy of register of voters to interested persons
 
-### PART V — OFFENCESPART V
+### PART V — OFFENCES
 
 OFFENCES
 
@@ -1343,7 +1343,7 @@ Regulation 69.
 
 Penalty
 
-### PART VI — REVOCATION AND SAVINGSPART VI
+### PART VI — REVOCATION AND SAVINGS
 
 REVOCATION AND SAVINGS
 
@@ -1359,7 +1359,7 @@ SECTION 17-THE ELECTORAL (REGISTRATION OF VOTERS) REGULATIONS Regulations by the
 
 Statutory Instrument 283 of 1973 79 of 1992 111 of 1996 Act. No. 13 of 1994
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -1465,7 +1465,7 @@ Revocation of appointments of election officers to be notified
 
 (2) Where a registration officer revokes the appointment of an assistant registration officer appointed by him, such registration officer shall give notice in writing of such revocation to such assistant registration officer and shall deliver a copy of such notice to the Director of Elections.
 
-### PART II — GENERAL REGISTRATION OF VOTERSPART II
+### PART II — GENERAL REGISTRATION OF VOTERS
 
 GENERAL REGISTRATION OF VOTERS
 
@@ -2379,7 +2379,7 @@ Replacement, control and custody of registers, provisional registers and true co
 
 (6) Every true copy of a register of voters prepared and certified under this Part and delivered to an electoral officer under regulation 48, shall, during the period of such publication, be kept under the control and custody of such electoral officer and shall not, save in accordance with the directions of the Director of Elections, be removed from such custody.
 
-### PART IV — MISCELLANEOUSPART IV
+### PART IV — MISCELLANEOUS
 
 MISCELLANEOUS
 
@@ -2465,7 +2465,7 @@ shall be deemed to be cancelled.
 
 Director of Elections may supply copy of register of voters to interested persons
 
-### PART V — OFFENCESPART V
+### PART V — OFFENCES
 
 OFFENCES
 
@@ -2599,7 +2599,7 @@ Penalty
 
 (As amended by Act No. 13 of 1994)
 
-### PART VI — REVOCATION AND SAVINGSPART VI
+### PART VI — REVOCATION AND SAVINGS
 
 REVOCATION AND SAVINGS
 
@@ -2955,7 +2955,7 @@ THE ELECTORAL (GENERAL) REGULATIONS
 
 ARRANGEMENT OF REGULATIONS
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -2967,7 +2967,7 @@ Title
 
 Interpretation
 
-### PART II — GENERAL PROVISIONSPART II
+### PART II — GENERAL PROVISIONS
 
 GENERAL PROVISIONS
 
@@ -3011,7 +3011,7 @@ Determination of question whether candidate supported by political party
 
 Appointment and control of nomination office
 
-### PART III — ELECTION TO THE NATIONAL ASSEMBLYPART III
+### PART III — ELECTION TO THE NATIONAL ASSEMBLY
 
 ELECTION TO THE NATIONAL ASSEMBLY
 
@@ -3195,7 +3195,7 @@ Declaration of Result of poll
 
 Notice of results
 
-### PART IV — CORRUPT AND ILLEGAL PRACTICES AND ELECTION OFFENCESPART IV
+### PART IV — CORRUPT AND ILLEGAL PRACTICES AND ELECTION OFFENCES
 
 CORRUPT AND ILLEGAL PRACTICES AND ELECTION OFFENCES
 
@@ -3263,7 +3263,7 @@ Offences by election officers
 
 Offences by printers and publishers
 
-### PART V — MISCELLANEOUSPART V
+### PART V — MISCELLANEOUS
 
 MISCELLANEOUS
 
@@ -3291,7 +3291,7 @@ SECTION 17-ELECTORAL (GENERAL) REGULATIONS Regulations by the Chief Justice
 
 Statutory Instrument 108 of 1991 124 of 1991 93 of 1994 178 of 1996 Act No. 13 of 1994
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -3381,7 +3381,7 @@ S.I. No. 109 of 1991
 
 Provided that the powers and duties of the Director of Elections and other election officers prescribed in those Parts of these Regulations shall be construed as having reference to procedures for, elections to the National Assembly and elections to the office of President.
 
-### PART II — GENERAL PROVISIONSPART II
+### PART II — GENERAL PROVISIONS
 
 GENERAL PROVISIONS
 
@@ -3563,7 +3563,7 @@ Provided that any of the persons mentioned in this sub-regulation may be require
 
 (5) The powers conferred by this regulation shall not be exercised so as to prevent any person from lodging or subscribing a nomination paper.
 
-### PART III — ELECTION TO THE NATIONAL ASSEMBLYPART III
+### PART III — ELECTION TO THE NATIONAL ASSEMBLY
 
 ELECTION TO THE NATIONAL ASSEMBLY
 
@@ -4109,7 +4109,7 @@ Examination of seals of packets and ballot boxes received by returning officer
 
 (2) The returning officer shall submit to the Director of Elections a written report of the result of the examination carried out under sub-regulation (l) if such examination reveals that the seals of any packet or ballot box are broken.
 
-#### Section 41 — Procedure after provisional register of voters prepared on revision
+#### Section 41
 
 (1) The presiding officer for a polling station at which a poll has been taken shall, with the aid of the counting assistants for such polling station, count all the votes cast in the election at such polling station in accordance with the provisions of this regulation.
 
@@ -4137,7 +4137,7 @@ the presiding officer shall ensure that, while counting the ballot papers, the c
 
 (As amended by S.l. No. 178 of 1996)
 
-#### Section 42 — Appeals against refusal under regulation 35, 36, 37 or 40
+#### Section 42
 
 (1) The presiding officer shall, subject to sub-regulation (4), not count, any ballot paper-
 
@@ -4205,7 +4205,7 @@ ballot paper shall not be questioned except on an election petition presented un
 
 Questions arising on decision of returning officer
 
-#### Section 44 — Objections
+#### Section 44
 
 (1) A candidate, his election agent or his polling agent may, if present when the counting or any recounting of the votes is completed, require the presiding officer or the returning officer to have the votes recounted or again recounted, or the presiding officer or the returning officer may, on his own initiative, have the votes recounted or again recounted:
 
@@ -4219,7 +4219,7 @@ Provided that the presiding officer or the returning officer may refuse the requ
 
 (As amended by S.I. No. 178 of 1996)
 
-#### Section 45 — Registration officer to deliver copies of determinations, etc., to Director of
+#### Section 45
 
 If upon the completion of the counting of votes, it is found that an equality of votes exists between two or more candidates and the addition of one vote would entitle any one of the candidates to be declared elected, the returning officer shall, subject to the provisions of regulation 44, forthwith decide between those candidates by lot in such manner as the Commission may determine and shall proceed as if the candidate on whom the lot falls has received an additional vote.
 
@@ -4229,7 +4229,7 @@ Equality of votes
 
 Procedure after the Count
 
-#### Section 46 — Preparation of registers of voters for certification on revision
+#### Section 46
 
 On the completion of the counting and totalling of votes cast in an election, the returning officer shall seal up in separate, marked packets the ballot papers counted in respect of each candidate, and shall place the rejected ballot papers in a single marked packet.
 
@@ -4237,7 +4237,7 @@ Ballot papers to be sealed in packets after completion of counting and totalling
 
 (As amended by S.I. No. 178 of 1996)
 
-#### Section 47 — Certification of registers of voters prepared on revision
+#### Section 47
 
 (1) The returning officer for a constituency in which a poll is taken shall appoint a time and place at which the verification of the ballot paper accounts completed under paragraph (b) of sub-regulation (1) of regulation 38 in that constituency shall take place and shall give notice in writing to the candidates in such election of such time and place.
 
@@ -4263,7 +4263,7 @@ he shall place all ballot paper accounts for that constituency in one envelope m
 
 (3) The returning officer shall then prepare and deliver to the Director of Elections a report on the verification of the ballot paper accounts in Form GEN 11 in the Schedule, and shall permit such candidates and election agents as may be present at the verification to make a copy thereof.
 
-#### Section 48 — Electoral officers to publish registers of voters certified under regulation 47
+#### Section 48
 
 (1) Upon the completion of the verification of the ballot paper accounts under regulation 47 the returning officer shall forthwith deliver to the Commission-
 
@@ -4311,7 +4311,7 @@ F.
 
 Declaration of Results
 
-#### Section 49 — Replacement, control and custody of registers, provisional registers and true
+#### Section 49
 
 (1) When the counting of the votes has been completed and the result of the poll ascertained, the returning officer shall-
 
@@ -4333,7 +4333,7 @@ Declaration of results of poll
 
 (3) The Commission shall, upon receipt of the information referred to in sub-regulation (2), notify the same in writing to the Chief Justice in his capacity as the returning officer for the purposes of election to the office of President.
 
-#### Section 50 — Formal correction of registers of voters
+#### Section 50
 
 (1) The Commission shall, in respect of each candidate declared elected in accordance with the provisions of regulations 18 and 49 (1), give notice in the Gazette of-
 
@@ -4349,11 +4349,11 @@ Notice of result
 
 (2) Notwithstanding anything contained in regulation 18 or 49, a person declared elected under either of the said regulations shall be deemed to have been elected with effect from the date appointed for the taking of the poll at the election in the constituency concerned.
 
-### PART IV — CORRUPT AND ILLEGAL PRACTICES AND ELECTION OFFENCESPART IV
+### PART IV — CORRUPT AND ILLEGAL PRACTICES AND ELECTION OFFENCES
 
 CORRUPT AND ILLEGAL PRACTICES AND ELECTION OFFENCES
 
-#### Section 51 — Surrender of voter's registration card in case of death
+#### Section 51
 
 (1) Any person who directly or indirectly, by himself or any other person-
 
@@ -4395,7 +4395,9 @@ shall be guilty of the offence of bribery.
 
 (2) Nothing in this regulation shall be construed as applying to any money paid or agreed to be paid for or on account of any expenditure bonafide and lawfully incurred in respect of the conduct or management of an election.
 
-#### Section 52 — Any person who-
+#### Section 52
+
+Any person who-
 
 (a)
 
@@ -4413,11 +4415,11 @@ shall be guilty of the offence of personation.
 
 Personation
 
-#### Section 53 — Evidence
+#### Section 53
 
 Any person who corruptly by himself or by any other person either before, during or after an election, directly or indirectly gives or provides or pays wholly or in part the expenses of giving or providing any food, drink, entertainment, lodging or provisions to or for any person for the purpose of corruptly influencing that person or any other person to give or refrain from giving his vote at an election shall be guilty of the offence of treating.
 
-#### Section 54 — Publication of notices
+#### Section 54
 
 (1) Any person who directly or indirectly, himself or by any other person-
 
@@ -4477,7 +4479,7 @@ Undue influence
 
 (2) Any person who, by abduction, duress or any fraudulent device or contrivance, impedes or prevents the free exercise of his vote by any voter or thereby compels, induces or prevails upon any voter either to give or to refrain from giving his vote at any election, shall be guilty of the offence of undue influence.
 
-#### Section 55 — Certificate of registration officer as to date of publication of provisional registers
+#### Section 55
 
 Any person who is guilty of the offence of bribery, personation, treating or undue influence shall be guilty of a corrupt practice and shall be liable on conviction to a fine not exceeding eight hundred penalty units or to imprisonment for a period not exceeding two years, or to both.
 
@@ -4485,7 +4487,7 @@ Penalties for corrupt practices
 
 (As amended by Act No. 13 of 1994)
 
-#### Section 56 — Certificate of electoral officer as to date of publication of registers
+#### Section 56
 
 (1) Any person who, before or during an election, publishes a false statement of the illness, death or withdrawal from election of a candidate at that election for the purpose of promoting or procuring the election of another candidate, knowing that statement to be false or not believing it to be true, shall be guilty of an illegal practice.
 
@@ -4493,7 +4495,7 @@ Illegal practice of publishing false statements in respect of candidates
 
 (2) Any person who, before or during an election, publishes any false statement of fact in relation to the personal character or conduct of a candidate in that election, shall be guilty of an illegal practice, unless he can show that he had reasonable grounds for believing, and did believe, the statement to be true.
 
-#### Section 57 — Voter's registration card prima facie evidence of contents
+#### Section 57
 
 (1) Any person who forges or fraudulently destroys any written authority of a candidate or nomination paper, or delivers to a returning officer any written authority of a candidate or nomination paper knowing the same to be forged shall be guilty of an illegal practice.
 
@@ -4503,19 +4505,19 @@ Illegal practice in respect of nomination of candidates
 
 (3) Any person who wilfully prevents or attempts to prevent any other person from complying with any of the provisions of regulation 13, 14, 15 or 16 shall be guilty of an illegal practice.
 
-#### Section 58 — When voter's registration card deemed to be cancelled
+#### Section 58
 
 Any person who, at a lawful public meeting held in connection with the election of any person between the day of the publication of a notice appointing nomination day and the day on which the result of the election is published, acts or incites others to act in a disorderly manner for the purpose of preventing the transaction of the business for which the meeting is called, shall be guilty of an illegal practice.
 
 Illegal practice in respect of public meetings
 
-#### Section 59 — Director of Elections may supply copy of register of voters to interested persons
+#### Section 59
 
 Any person who, with intent to influence persons to give or refrain from giving their votes at an election, uses or procures the use of any wireless transmitting station outside the Republic shall be guilty of an illegal practice.
 
 Illegal practice in respect of broadcasts
 
-#### Section 60 — Offences in relation to registration
+#### Section 60
 
 (1) Any person who-
 
@@ -4561,7 +4563,7 @@ shall be guilty of an illegal practice.
 
 (2) Any person who attempts to commit an illegal practice under sub-regulation (1) shall be guilty of an illegal practice.
 
-#### Section 61 — Offences relating to voter's registration card
+#### Section 61
 
 Any person who is guilty of an illegal practice shall be liable on conviction to a fine not exceeding eight hundred penalty units or to imprisonment for a period not exceeding two years, or to both.
 
@@ -4569,7 +4571,7 @@ Penalty for illegal practices
 
 (As amended by Act No. 13 of 1994)
 
-#### Section 62 — Prohibition against requiring or asking for production of voter's registration card
+#### Section 62
 
 (1) Any person who-
 
@@ -4651,13 +4653,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (2) Any person who attempts to commit an offence against this regulation shall be liable to the punishment prescribed for that offence. (As amended by Act No. 13 of 1994)
 
-#### Section 63 — Offences by registration officers
+#### Section 63
 
 In a prosecution for an offence in relation to a nomination paper, ballot box or ballot paper, the property in such nomination paper, ballot box, as well as the property in the counterfoil of any ballot paper, shall be deemed to be vested in the returning officer at that election.
 
 Property in certain election equipment
 
-#### Section 64 — False information
+#### Section 64
 
 (1) Every person in attendance at a polling station shall maintain, and aid in maintaining the secrecy of the voting at such station and shall not communicate, except for some purpose authorised by law, to any person any information as to the name or number on the register of voters of any voter who has or has not applied for a ballot paper or voted at such polling station, or as to the official mark or official seal at such polling station.
 
@@ -4669,7 +4671,7 @@ Penalty for breach of secrecy
 
 (4) Any person who contravenes any of the provisions of this regulation shall be guilty of an offence and shall be liable on conviction to a fine not exceeding eight hundred penalty units or to imprisonment for a term not exceeding two years, or to both. (As amended by Act No. 13 of 1994)
 
-#### Section 65 — Forgery, falsification and fraudulent destruction
+#### Section 65
 
 Any election officer who wilfully fails to perform the functions of his office under these regulations shall be guilty of an offence and liable on conviction to a fine not exceeding eight hundred penalty units or to imprisonment for a term not exceeding two years, or to both.
 
@@ -4677,7 +4679,7 @@ Offences by election officers
 
 (As amended by Act No. 13 of 1994)
 
-#### Section 66 — Possession of forged or false documents
+#### Section 66
 
 (1) Every bill, placard, poster, pamphlet, circular or other printed matter having reference to an election shall bear upon the face thereof the name and address of the printer and of the publisher, and any person who prints, publishes or posts, or causes to be printed, published or posted any such matter which fails to bear upon the face thereof such names and addresses shall be guilty of an offence.
 
@@ -4699,11 +4701,11 @@ Offence by printers and publishers
 
 (4) Any person who is guilty of an offence against this regulation shall be liable on conviction to a fine not exceeding four hundred penalty units. (As amended by Act No. 13 of 1994)
 
-### PART V — MISCELLANEOUSPART V
+### PART V — MISCELLANEOUS
 
 MISCELLANEOUS
 
-#### Section 67 — False entries
+#### Section 67
 
 (1) A candidate shall name his election agent in his nomination paper and, subject to the other provisions of this regulation, such person shall be the election agent of that candidate for the purpose of that election.
 
@@ -4717,7 +4719,7 @@ Election agents
 
 (5) Each candidate in an election to the office of President may, for the purposes of that election, appoint one person in each constituency to be his election agent for that constituency, or appoint the same election agent to be the election agent for two or more constituencies, and the other provisions of this regulation shall apply to each such candidate and such election agent.
 
-#### Section 68 — Refusal to leave premises when required
+#### Section 68
 
 (1) Subject to the other provisions of this regulation a candidate or his election agent may, in respect of each polling station within the constituency in which the candidate is nominated, appoint a person to be the polling agent of such candidate.
 
@@ -4729,11 +4731,11 @@ Polling agents
 
 (4) Each candidate in an election to the office of President may, for the purposes of that election, appoint, in respect of any polling station in the country, a person to be his polling agent for that polling station; or the election agent of such candidate may, in respect of any polling station in the constituency for which he is election agent, appoint a person to be the polling agent of such candidate; and the other provisions of this regulation shall apply to each such candidate, his election agents and his polling agents.
 
-#### Section 69 — Penalty
+#### Section 69
 
 Any fees collected under these Regulations shall be paid into the general revenues of the Republic.
 
-#### Section 70 — Has had its effect
+#### Section 70
 
 The Electoral (General) Regulation, are hereby revoked.
 
@@ -5245,7 +5247,7 @@ THE ELECTORAL (PRESIDENTIAL ELECTIONS) REGULATIONS
 
 ARRANGEMENT OF REGULATIONS
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -5257,7 +5259,7 @@ Title and application
 
 Interpretation
 
-### PART II — NOMINATION PROCEDUREPART II
+### PART II — NOMINATION PROCEDURE
 
 NOMINATION PROCEDURE
 
@@ -5293,7 +5295,7 @@ Procedure where only one candidate is validly nominated
 
 Procedure where no candidate is validly nominated
 
-### PART III — ELECTION PROCEDUREPART III
+### PART III — ELECTION PROCEDURE
 
 ELECTION PROCEDURE
 
@@ -5321,7 +5323,7 @@ Declaration of results of election for President in Parliament
 
 Declaration of result of election
 
-### PART IV — MISCELLANEOUSPART IV
+### PART IV — MISCELLANEOUS
 
 MISCELLANEOUS
 
@@ -5339,7 +5341,7 @@ SECTION 7-ELECTORAL (PRESIDENTIAL ELECTIONS) REGULATIONS Regulations by the Chie
 
 Statutory Instrument 109 of 1991 Act No. 13 of 1994
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -5377,7 +5379,7 @@ Interpretation
 
 "returning officer" means the returning officer specified in Article forty-one of the Constitution.
 
-### PART II — NOMINATION PROCEDUREPART II
+### PART II — NOMINATION PROCEDURE
 
 NOMINATION PROCEDURE
 
@@ -5463,7 +5465,7 @@ Procedure where only one candidate is validly nominated
 
 Procedure where no candidate is validly nominated
 
-### PART III — ELECTION PROCEDUREPART III
+### PART III — ELECTION PROCEDURE
 
 ELECTION PROCEDURE
 
@@ -5517,7 +5519,7 @@ deliver such declaration, completed as aforesaid, to the Commission, together wi
 
 (2) Where a President is elected in accordance with Article thirtyfour of the Constitution, the returning officer shall certify the result to the Commission.
 
-### PART IV — MISCELLANEOUSPART IV
+### PART IV — MISCELLANEOUS
 
 MISCELLANEOUS
 

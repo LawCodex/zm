@@ -61,9 +61,9 @@ CHAPTER 165 POOLS An Act to provide for the regulation of pools competitions; an
 
 This Act may be cited as the Pools Act.
 
-### Section 2 — In this Act, unless the context otherwise requires-
+### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "licensee" means the holder of a valid licence issued under this Act;
 

@@ -59,9 +59,9 @@ PLUMAGE BIRDS PROTECTION An Act to prohibit the export of the plumage of wild bi
 
 This Act may be cited as the Plumage Birds Protection Act.
 
-### Section 2 — In this Act, unless the context otherwise requires-
+### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "Director" means the Director of the Department of Wildlife, Fisheries and National Parks;
 

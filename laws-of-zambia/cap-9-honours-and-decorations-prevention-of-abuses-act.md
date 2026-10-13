@@ -67,9 +67,9 @@ An Act to provide for the prevention of the improper use of and dealing in insig
 
 This Act may be cited as the Honours and Decorations (Prevention of Abuses)
 
-### Section 2 — In this Act, unless the context otherwise requires-
+### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 Act.
 

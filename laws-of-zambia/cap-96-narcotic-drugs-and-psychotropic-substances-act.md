@@ -249,9 +249,9 @@ PART I PRELIMINARYPART I PRELIMINARY
 
 This Act may be cited as the Narcotic Drugs and Psychotropic Substances Act.
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "bank" has the meaning assigned thereto in any written law governing the licensing of banks and includes a bank established by or under a written law;
 
@@ -345,7 +345,7 @@ being found in possession of narcotic drugs or psychotropic substances in such a
 
 Except as otherwise provided in this Act, this Act shall apply notwithstanding any other written law to the contrary.
 
-### PART II — DRUG ENFORCEMENT COMMISSIONPART II
+### PART II — DRUG ENFORCEMENT COMMISSION
 
 DRUG ENFORCEMENT COMMISSION
 
@@ -385,7 +385,7 @@ enlist and foster public support against the abuse of drugs or psychotropic subs
 
 Functions of Commission
 
-### PART III — OFFENCES AND PENALTIESPART III
+### PART III — OFFENCES AND PENALTIES
 
 OFFENCES AND PENALTIES
 
@@ -491,7 +491,7 @@ an act which, if it had been committed in Zambia, would have constituted a crime
 
 shall be guilty of an offence and shall be liable upon conviction to imprisonment for a term not exceeding ten years.
 
-### PART IV — INVESTIGATION, ARREST AND SEIZUREPART IV
+### PART IV — INVESTIGATION, ARREST AND SEIZURE
 
 INVESTIGATION, ARREST AND SEIZURE
 
@@ -627,7 +627,7 @@ Provided that a drug enforcement officer or police officer shall not use a firea
 
 (3) The use of a firearm under this section shall as far as possible be to disable and not to kill.
 
-### PART V — SEIZURE AND FORFEITURE OF PROPERTYPART V
+### PART V — SEIZURE AND FORFEITURE OF PROPERTY
 
 SEIZURE AND FORFEITURE OF PROPERTY
 
@@ -817,7 +817,7 @@ Where any person dies before the conclusion of any proceedings under this Part b
 
 Property to be forfeited to State
 
-### PART VI — GENERALPART VI
+### PART VI — GENERAL
 
 GENERAL
 
@@ -1355,7 +1355,7 @@ Interpretation
 
 Application
 
-### PART II — STAFF BOARDPART II
+### PART II — STAFF BOARD
 
 STAFF BOARD
 
@@ -1405,7 +1405,7 @@ Special consideration
 
 (2) Where the Commissioner is satisfied that no officer with the necessary requisite qualifications is available within the Commission to fill a vacant post which requires special qualifications, the Commissioner may recruit or appoint such person from outside the Commission as the Commissioner considers fit.
 
-### PART III — SPECIAL AGENTSPART III
+### PART III — SPECIAL AGENTS
 
 SPECIAL AGENTS
 
@@ -1459,7 +1459,7 @@ Duties of a special agent
 
 Controlled delivery investigation
 
-### PART IV — CONDUCT AND DISCIPLINEPART IV
+### PART IV — CONDUCT AND DISCIPLINE
 
 CONDUCT AND DISCIPLINE
 
@@ -1595,7 +1595,7 @@ Punishment for disciplinary offences
 
 (2) Where the Commissioner has acted in accordance with sub-rule (1) or has acted in accordance with sub-rule (1) of Rule 14, the Commissioner shall inform the Permanent Secretary, Establishment Division for his record.
 
-### PART V — GENERALPART V
+### PART V — GENERAL
 
 GENERAL
 

@@ -255,7 +255,7 @@ UNIVERSITY
 
 An Act to provide for the establishment, regulation, control and functions of public universities; to provide for the registration and regulation of private universities; to repeal the University of Zambia Act, 1987, and the Copperbelt University Act, 1987; and to provide for matters connected with or incidental to the foregoing. [31st July, 1992]
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -263,7 +263,9 @@ PRELIMINARY
 
 This Act may be cited as the University Act.
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
+
+In this Act, unless the context otherwise requires-
 
 "Bursar" means the Bursar of a public university, appointed under section twelve;
 
@@ -299,7 +301,7 @@ Interpretation
 
 "Vice-Chancellor" means the Vice-Chancellor of a public university appointed under section eight.
 
-### PART II — PUBLIC UNIVERSITIESPART II
+### PART II — PUBLIC UNIVERSITIES
 
 PUBLIC UNIVERSITIES
 
@@ -1001,7 +1003,7 @@ one Member of Parliament appointed by the Speaker of the National Assembly.
 
 (5) An agreement on salaries and conditions of service shall be concluded by a Council with the appropriate union or association.
 
-### PART III — PRIVATE UNIVERSITIESPART III
+### PART III — PRIVATE UNIVERSITIES
 
 PRIVATE UNIVERSITIES
 
@@ -1155,7 +1157,7 @@ Appointment of statutory manager
 
 The proprietor of a private university may charge such fees as may be prescribed in its statutes.
 
-### PART IV — GENERAL PROVISIONSPART IV
+### PART IV — GENERAL PROVISIONS
 
 GENERAL PROVISIONS
 

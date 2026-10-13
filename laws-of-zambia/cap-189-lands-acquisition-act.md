@@ -171,9 +171,9 @@ LANDS ACQUISITION An Act to make provision for the compulsory acquisition of lan
 
 This Act may be cited as the Lands Acquisition Act.
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "Court" means the High Court for Zambia;
 

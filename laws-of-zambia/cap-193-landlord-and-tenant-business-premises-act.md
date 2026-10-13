@@ -147,9 +147,9 @@ An Act to provide security of tenure for tenants occupying property for business
 
 This Act may be cited as the Landlord and Tenant (Business Premises) Act.
 
-### Section 2 — In this Act, unless the context otherwise requires-
+### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "business" means a trade, an industry, a profession or an employment, and includes any activity carried on by a body of persons, whether corporate or unincorporate, but does not include farming on land;
 

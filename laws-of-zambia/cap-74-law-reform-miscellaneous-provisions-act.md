@@ -107,7 +107,7 @@ LAW REFORM (MISCELLANEOUS PROVISIONS)
 
 An Act to provide for the survival of actions after death; to empower courts to award interest on debts and damages; to make provision with regard to the property, capacity and liabilities of married women; to make provision with regard to proceedings against and contribution between joint and several tortfeasors; to provide for the apportionment of liability in case of contributory negligence; to abolish the defence of common employment; and to provide for matters incidental to or connected with the foregoing. [14th April, 1967]
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -115,7 +115,7 @@ PRELIMINARY
 
 This Act may be cited as the Law Reform (Miscellaneous Provisions) Act.
 
-### PART II — EFFECT OF DEATH ON CERTAIN CAUSES OF ACTIONPART II
+### PART II — EFFECT OF DEATH ON CERTAIN CAUSES OF ACTION
 
 EFFECT OF DEATH ON CERTAIN CAUSES OF ACTION
 
@@ -169,7 +169,7 @@ Cap. 54
 
 "the Acts" means the Fatal Accidents Acts, 1846 to 1908, of the United Kingdom; "adopted person" means a person who has been adopted, whether before or after the commencement of this Act, in pursuance of an adoption order made under the Adoption Act.
 
-### PART III — AWARD OF INTERESTPART III
+### PART III — AWARD OF INTEREST
 
 AWARD OF INTEREST
 
@@ -323,7 +323,7 @@ affect any criminal proceedings against any person in respect of any wrongful ac
 
 render enforceable any agreement for indemnity which would not have been enforceable if this section had not been passed.
 
-### PART VI — CONTRIBUTORY NEGLIGENCEPART VI
+### PART VI — CONTRIBUTORY NEGLIGENCE
 
 CONTRIBUTORY NEGLIGENCE
 
@@ -349,11 +349,11 @@ where any contract or enactment providing for the limitation of liability is app
 
 (6) Any provisions of a law for the time being in force relating to carriage by air which empowers a court to exonerate wholly or partially a carrier who proves that the damage was caused by or contributed to by the negligence of the injured person, shall have effect subject to the provisions of this section.
 
-#### Section 11 — In this Part, unless the context otherwise requires-
+#### Section 11 — Interpretation
+
+In this Part, unless the context otherwise requires-
 
 "court", in relation to any claim, includes an arbitrator by or before whom the claim falls to be determined;
-
-Interpretation
 
 "damage" includes loss of life and personal injury;
 
@@ -361,7 +361,7 @@ Interpretation
 
 "fault" means negligence, breach of statutory duty or other act or omission which gives rise to a liability in tort or would, apart from this Act, give rise to the defence of contributory negligence.
 
-### PART VII — PERSONAL INJURIESPART VII
+### PART VII — PERSONAL INJURIES
 
 PERSONAL INJURIES
 

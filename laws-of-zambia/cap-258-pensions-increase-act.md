@@ -131,23 +131,27 @@ SPECIFIED PENSIONS
 
 3\. A pension payable under the Public Servant's Agreements Act (Cap. 58 of the 1948 Edition of the Laws). 4. A pension payable under the European Officers' Pensions Act (Cap. 266). 5. A pension payable under the Widows' Pensions Act (Cap. 279). 6. Obsolete.
 
-#### Section 7 — A pension payable to or in respect of the services of a European officer in accordance with the
+#### Section 7
 
 A pension payable to or in respect of the services of a European officer in accordance with the provisions of the Northern Rhodesia Police Act (Cap. 46 of the 1930 Edition of the Laws).
 
-#### Section 8 — Obsolete
+#### Section 8
 
-#### Section 9 — Obsolete
+Obsolete.
 
-#### Section 10 — A pension payable to or in respect of the services of a European officer in accordance with the
+#### Section 9
+
+Obsolete.
+
+#### Section 10
 
 A pension payable to or in respect of the services of a European officer in accordance with the provisions of the Northern Rhodesia Police (Amendment) Proclamation, 1921.
 
-#### Section 11 — A pension payable to or in respect of the services of a European officer in accordance with the
+#### Section 11
 
 A pension payable to or in respect of the services of a European officer in accordance with the provisions of the Civil Service Act (Cap. 57 of the 1964 Edition of the Laws).
 
-#### Section 12 — A pension payable under the Hope and Hudson Pensions Act (Cap. 62 of the 1952 Edition of
+#### Section 12
 
 A pension payable under the Hope and Hudson Pensions Act (Cap. 62 of the 1952 Edition of the Laws).
 

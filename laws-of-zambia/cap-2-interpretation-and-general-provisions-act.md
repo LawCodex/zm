@@ -789,7 +789,9 @@ Powers of board, etc., not affected by vacancy, etc.
 
 ### PART VI — GENERAL PROVISIONS REGARDING TIME AND DISTANCE
 
-#### Section 35 — In computing time for the purposes of any written law-
+#### Section 35 — Computation of time
+
+In computing time for the purposes of any written law-
 
 (a)
 

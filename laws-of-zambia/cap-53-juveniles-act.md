@@ -517,7 +517,7 @@ Interpretation Cap. 167 Cap. 93 Cap. 93 Cap. 97
 
 (2) Reference in this Act to findings of guilty and findings that an offence has been committed shall be construed as including references to pleas of guilty and admissions that an offence has been committed. (As amended by No. 53 of 1963, G.N. No. 276 of 1964 and No. 25 of 1969)
 
-### PART II — PROTECTION OF JUVENILESPART II
+### PART II — PROTECTION OF JUVENILES
 
 PROTECTION OF JUVENILES
 
@@ -1315,7 +1315,7 @@ Validation and saving
 
 (3) Nothing in Act No. 35 of 1959 shall be deemed to render invalid any order validly made prior to the commencement of Act No. 35 of 1959 committing a juvenile to the care of a fit person. (No. 35 of 1959)
 
-### PART III — JUVENILE DELINQUENTSPART III
+### PART III — JUVENILE DELINQUENTS
 
 JUVENILE DELINQUENTS
 
@@ -1545,7 +1545,7 @@ Provided that no such order shall be made unless the court is satisfied that the
 
 (3) Any sums imposed and ordered to be paid by a parent or guardian under the last preceding section, or on forfeiture of any security as aforesaid, may be recovered from him by distress and imprisonment in like manner as if the order had been made on the conviction of the parent or guardian of the offence with which the juvenile was charged.
 
-### PART IV — ADMINISTRATIVE PROVISIONSPART IV
+### PART IV — ADMINISTRATIVE PROVISIONS
 
 ADMINISTRATIVE PROVISIONS
 
@@ -1871,7 +1871,7 @@ harbours and conceals a juvenile who has committed such an offence, or prevents 
 
 he shall be liable to a fine not exceeding one thousand five hundred penalty units, or to imprisonment for any term not exceeding six months, or to both. (As amended by Act No. 13 of 1994)
 
-### PART V — SUPPLEMENTALPART V
+### PART V — SUPPLEMENTAL
 
 SUPPLEMENTAL
 
@@ -2075,7 +2075,7 @@ Attendance in court of parent of juvenile
 
 (5) The attendance of the parent of a juvenile shall not be required under this section in any case where the juvenile was, before the institution of the proceedings, removed from the custody or charge of his parent by order of a court. (As amended by Act No. 13 of 1994)
 
-### PART VI — MISCELLANEOUSPART VI
+### PART VI — MISCELLANEOUS
 
 MISCELLANEOUS
 
@@ -2711,7 +2711,7 @@ THE REFORMATORY SCHOOLS RULES
 
 ARRANGEMENT OF RULES
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -2723,7 +2723,7 @@ Title
 
 Interpretation
 
-### PART II — CONTROL AND ADMINISTRATIONPART II
+### PART II — CONTROL AND ADMINISTRATION
 
 CONTROL AND ADMINISTRATION
 
@@ -2731,7 +2731,7 @@ CONTROL AND ADMINISTRATION
 
 Control and administration
 
-### PART III — ACCOMMODATIONPART III
+### PART III — ACCOMMODATION
 
 ACCOMMODATION
 
@@ -2755,7 +2755,7 @@ Cleanliness
 
 Confinement of inmates
 
-### PART IV — ADMISSION, DISCHARGE AND REMOVALPART IV
+### PART IV — ADMISSION, DISCHARGE AND REMOVAL
 
 ADMISSION, DISCHARGE AND REMOVAL
 
@@ -2803,7 +2803,7 @@ Close custody
 
 Production orders
 
-### PART V — PROHIBITED ARTICLESPART V
+### PART V — PROHIBITED ARTICLES
 
 PROHIBITED ARTICLES
 
@@ -2827,7 +2827,7 @@ Liquor
 
 Tobacco
 
-### PART VI — CLOTHING AND BEDDINGPART VI
+### PART VI — CLOTHING AND BEDDING
 
 CLOTHING AND BEDDING
 
@@ -2847,7 +2847,7 @@ Excess prohibited
 
 Cleanliness of clothes and bedding
 
-### PART VII — FOODPART VII
+### PART VII — FOOD
 
 FOOD
 
@@ -2863,7 +2863,7 @@ Extra food
 
 Complaints about food
 
-### PART VIII — HEALTH AND CLEANLINESSPART VIII
+### PART VIII — HEALTH AND CLEANLINESS
 
 HEALTH AND CLEANLINESS
 
@@ -2875,7 +2875,7 @@ Personal hygiene
 
 Exercise
 
-### PART IX — EMPLOYMENTPART IX
+### PART IX — EMPLOYMENT
 
 EMPLOYMENT
 
@@ -2885,7 +2885,7 @@ Work
 
 #### Section 35 — Work on Sundays and holidays
 
-### PART X — RELIGIOUS INSTRUCTIONPART X
+### PART X — RELIGIOUS INSTRUCTION
 
 RELIGIOUS INSTRUCTION
 
@@ -2895,13 +2895,13 @@ Rule
 
 #### Section 37 — Religious books
 
-### PART XI — EDUCATIONPART XI
+### PART XI — EDUCATION
 
 EDUCATION
 
 #### Section 38 — Classes
 
-### PART XII — VISITS AND COMMUNICATIONSPART XII
+### PART XII — VISITS AND COMMUNICATIONS
 
 VISITS AND COMMUNICATIONS
 
@@ -2911,9 +2911,13 @@ VISITS AND COMMUNICATIONS
 
 #### Section 41 — Visits to sick inmates
 
-#### Section 42 — Inmate shall see legal representative
+#### Section 42
 
-#### Section 43 — Letters to be read
+Inmate shall see legal representative
+
+#### Section 43
+
+Letters to be read
 
 #### Section 44 — Visits by police officers
 
@@ -2921,7 +2925,7 @@ VISITS AND COMMUNICATIONS
 
 #### Section 46 — Leave of absence licence
 
-### PART XIII — OFFENCES AND PUNISHMENTSPART XIII
+### PART XIII — OFFENCES AND PUNISHMENTS
 
 OFFENCES AND PUNISHMENTS
 
@@ -2931,7 +2935,9 @@ OFFENCES AND PUNISHMENTS
 
 #### Section 49 — Isolation pending adjudication
 
-#### Section 50 — Inmate to be informed
+#### Section 50
+
+Inmate to be informed
 
 #### Section 51 — Investigation into reports
 
@@ -2955,7 +2961,7 @@ Rule
 
 #### Section 60 — Restricted diet and work
 
-### PART XIV — RESTRAINTSPART XIV
+### PART XIV — RESTRAINTS
 
 RESTRAINTS
 
@@ -2967,13 +2973,13 @@ Not to be used as a punishment
 
 #### Section 63 — Confinement of refractory inmates
 
-### PART XV — COMPLAINTS BY INMATESPART XV
+### PART XV — COMPLAINTS BY INMATES
 
 COMPLAINTS BY INMATES
 
 #### Section 64 — Hearing of complaints
 
-### PART XVI — CLASSIFICATION AND GRADESPART XVI
+### PART XVI — CLASSIFICATION AND GRADES
 
 CLASSIFICATION AND GRADES
 
@@ -2981,13 +2987,13 @@ CLASSIFICATION AND GRADES
 
 #### Section 66 — Grades and stages
 
-### PART XVII — DISCHARGEPART XVII
+### PART XVII — DISCHARGE
 
 DISCHARGE
 
 #### Section 67 — Recommendation for release
 
-### PART XVIII — STAFFPART XVIII
+### PART XVIII — STAFF
 
 STAFF
 
@@ -3021,7 +3027,7 @@ Rule
 
 #### Section 81 — Offences
 
-### PART XIX — SUPERINTENDENTPART XIX
+### PART XIX — SUPERINTENDENT
 
 SUPERINTENDENT
 
@@ -3059,7 +3065,7 @@ Ventilation, etc.
 
 #### Section 96 — General duties
 
-### PART XX — MEDICAL OFFICERPART XX
+### PART XX — MEDICAL OFFICER
 
 MEDICAL OFFICER
 
@@ -3081,7 +3087,7 @@ Inspection of food, etc.
 
 #### Section 104 — Spread of disease
 
-### PART XXI — REFORMATORY BOARDSPART XXI
+### PART XXI — REFORMATORY BOARDS
 
 REFORMATORY BOARDS
 
@@ -3099,7 +3105,7 @@ Statutory Instrument 7 of 1965
 
 Rules by the Minister
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -3135,7 +3141,7 @@ Interpretation
 
 "visitor" means any member of a Reformatory Board.
 
-### PART II — CONTROL AND ADMINISTRATIONPART II
+### PART II — CONTROL AND ADMINISTRATION
 
 CONTROL AND ADMINISTRATION
 
@@ -3147,7 +3153,7 @@ Control and administration
 
 (3) The Chief Inspector, with the approval of the Minister, shall appoint for each institution a fit and proper person to be superintendent thereof and such number of housemasters, assistant housemasters and other officers as may be necessary.
 
-### PART III — ACCOMMODATIONPART III
+### PART III — ACCOMMODATION
 
 ACCOMMODATION
 
@@ -3171,7 +3177,7 @@ Cleanliness
 
 Confinement of inmates
 
-### PART IV — ADMISSION, DISCHARGE AND REMOVALPART IV
+### PART IV — ADMISSION, DISCHARGE AND REMOVAL
 
 ADMISSION, DISCHARGE AND REMOVAL
 
@@ -3243,7 +3249,7 @@ Close custody
 
 Production orders
 
-### PART V — PROHIBITED ARTICLESPART V
+### PART V — PROHIBITED ARTICLES
 
 PROHIBITED ARTICLES
 
@@ -3267,7 +3273,7 @@ Liquor
 
 Tobacco
 
-### PART VI — CLOTHING AND BEDDINGPART VI
+### PART VI — CLOTHING AND BEDDING
 
 CLOTHING AND BEDDING
 
@@ -3291,7 +3297,7 @@ Cleanliness of clothes and bedding
 
 (2) The institution clothing and bedding left by an inmate on discharge shall be thoroughly washed, dried and disinfected before being reissued.
 
-### PART VII — FOODPART VII
+### PART VII — FOOD
 
 FOOD
 
@@ -3323,7 +3329,7 @@ Extra food
 
 Complaints about food
 
-### PART VIII — HEALTH AND CLEANINESSPART VIII
+### PART VIII — HEALTH AND CLEANINESS
 
 HEALTH AND CLEANINESS
 
@@ -3341,7 +3347,7 @@ Exercise
 
 (4) At regular intervals and not less than once a month the weight of every inmate shall be taken and recorded in such manner as may be directed.
 
-### PART IX — EMPLOYMENTPART IX
+### PART IX — EMPLOYMENT
 
 EMPLOYMENT
 
@@ -3371,7 +3377,7 @@ Work on Sundays and holidays
 
 (2) The superintendent shall make special arrangements for the observation by inmates of religious and national festivals.
 
-### PART X — RELIGIOUS INSTRUCTIONPART X
+### PART X — RELIGIOUS INSTRUCTION
 
 RELIGIOUS INSTRUCTION
 
@@ -3383,7 +3389,7 @@ Religious ministration
 
 Religious books
 
-### PART XI — EDUCATIONPART XI
+### PART XI — EDUCATION
 
 EDUCATION
 
@@ -3397,7 +3403,7 @@ Library books
 
 (3) The superintendent may arrange for lectures, concerts and debates for inmates to take place outside the hours of work.
 
-### PART XII — VISITS AND COMMUNICATIONSPART XII
+### PART XII — VISITS AND COMMUNICATIONS
 
 VISITS AND COMMUNICATIONS
 
@@ -3457,7 +3463,7 @@ Leave of absence
 
 Leave of absence licence
 
-### PART XIII — OFFENCES AND PUNISHMENTSPART XIII
+### PART XIII — OFFENCES AND PUNISHMENTS
 
 OFFENCES AND PUNISHMENTS
 
@@ -3709,7 +3715,7 @@ no manual work shall be enforced on any one of the days on which restricted diet
 
 no inmate who has been on restricted diet shall be placed upon this diet for a fresh offence until an interval has elapsed equal to the period already passed by the inmate on restricted diet.
 
-### PART XIV — RESTRAINTSPART XIV
+### PART XIV — RESTRAINTS
 
 RESTRAINTS
 
@@ -3729,7 +3735,7 @@ Mechanical restraint
 
 Confinement of refractory inmates
 
-### PART XV — COMPLAINTS BY INMATESPART XV
+### PART XV — COMPLAINTS BY INMATES
 
 COMPLAINTS BY INMATES
 
@@ -3739,7 +3745,7 @@ Hearing of complaints
 
 (2) The superintendent shall, at a convenient hour every day other than the weekly holiday and public holidays, hear the applications of all the inmates who have requested to see him.
 
-### PART XVI — CLASSIFICATION AND GRADESPART XVI
+### PART XVI — CLASSIFICATION AND GRADES
 
 CLASSIFICATION AND GRADES
 
@@ -3755,7 +3761,7 @@ Grades and stages
 
 (3) An inmate shall not be promoted in stage or grade, except after full consideration of the circumstances of his case by a board, called the "Institution Board", composed of such officers of the institution as the Chief Inspector may decide. The Board may also order reversions to a lower grade, if, for some reason other than an act of misconduct, they consider it desirable.
 
-### PART XVII — DISCHARGEPART XVII
+### PART XVII — DISCHARGE
 
 DISCHARGE
 
@@ -3775,7 +3781,7 @@ Revocation of licence
 
 (5) An order for release on licence shall be in Form 2 and revocation of licence shall be in Form 3 in the Second Schedule.
 
-### PART XVIII — STAFFPART XVIII
+### PART XVIII — STAFF
 
 STAFF
 
@@ -3857,7 +3863,7 @@ Offences
 
 Provided that an officer shall not be punished twice for the same offence or disciplinary offence.
 
-### PART XIX — SUPERINTENDENTPART XIX
+### PART XIX — SUPERINTENDENT
 
 SUPERINTENDENT
 
@@ -3969,7 +3975,7 @@ Officers attached to house
 
 General duties
 
-### PART XX — MEDICAL OFFICERPART XX
+### PART XX — MEDICAL OFFICER
 
 MEDICAL OFFICER
 
@@ -4047,7 +4053,7 @@ Mental condition of inmates
 
 Spread of disease
 
-### PART XXI — REFORMATORY BOARDSPART XXI
+### PART XXI — REFORMATORY BOARDS
 
 REFORMATORY BOARDS
 

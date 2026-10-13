@@ -431,9 +431,9 @@ PART I PRELIMINARY
 
 This Act may be cited as the Legal Practitioners Act.
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "Association" means the Law Association of Zambia established by the Law Association of Zambia Act;
 
@@ -725,7 +725,9 @@ such other capacity or office as the Chief Justice may, in consultation with the
 
 Every person admitted as a practitioner under the provisions of section thirteen shall pay to the Association the sum of four hundred fee units. (As amended by Act No. 13 of 1994)
 
-#### Section 15 — The Registrar upon production of-
+#### Section 15 — Entry of name on Roll
+
+The Registrar upon production of-
 
 (a)
 
@@ -734,8 +736,6 @@ a certificate of admission signed by the Chief Justice pursuant to subsection (3
 (b)
 
 a receipt from the Association acknowledging the payment of the fee prescribed by section fourteen;
-
-Entry of name on Roll
 
 shall enter upon the Roll the name of the person admitted.
 
@@ -797,7 +797,7 @@ all State Counsel for Zambia, in the order of the dates on which the dignity of 
 
 all other practitioners according to the order of entry of their respective names on the Roll.
 
-#### Section 21 — Precedence of
+#### Section 21
 
 Precedence of practitioners
 
@@ -1321,13 +1321,13 @@ Provided that a firm of practitioners, of which not less than two of the princip
 
 ### PART VIII — KEEPING OF ACCOUNTS BY PRACTITIONERS
 
-#### Section 56 — In this Part, unless the context otherwise requires-
+#### Section 56 — Interpretation
+
+In this Part, unless the context otherwise requires-
 
 "client" means any person or body of persons, corporate or unincorporate, on whose behalf a practitioner in connection with his practice receives money;
 
 "practitioner" includes a practitioner acting as an agent, bailee, stakeholder, or in any capacity in connection with his practice.
-
-Interpretation
 
 #### Section 57 — Practitioner's accounts
 

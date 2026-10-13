@@ -145,9 +145,9 @@ An Act to make provision for the establishment of a Betting Control and Licensin
 
 This Act may be cited as the Betting Control Act.
 
-### Section 2 — In this Act, unless the context otherwise requires-
+### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "authorised race meeting" means a race meeting authorised in terms of section eighteen;
 

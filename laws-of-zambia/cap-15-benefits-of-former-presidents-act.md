@@ -125,16 +125,24 @@ Retirement benefits not payable under repealed Act
 
 1\. An office. 2. One personal secretary. 3. Three security persons. 4. Three cars, with free maintenance, and petrol entitlement to the extent determined by the Cabinet, but only one car for the surviving spouse. 5. Three drivers, but only one for the surviving spouse. 6. One Administrative Assistant, who shall be at the level of Deputy Permanent Secretary. 7. Three house employees, which number may be increased by Cabinet.
 
-### Section 8 — A diplomatic passport for the former President and his spouse
+### Section 8
 
-### Section 9 — A furnished house built or bought in Zambia by the State at a place of the former President's
+A diplomatic passport for the former President and his spouse.
+
+### Section 9
 
 A furnished house built or bought in Zambia by the State at a place of the former President's choice and ownership of the house shall be transferred to him.
 
-### Section 10 — Medical insurance for the former President and his spouse
+### Section 10
 
-### Section 11 — In each year, one return air ticket for the former President and one for his spouse
+Medical insurance for the former President and his spouse.
 
-### Section 12 — Funeral Expenses on his death
+### Section 11
+
+In each year, one return air ticket for the former President and one for his spouse.
+
+### Section 12
+
+Funeral Expenses on his death.
 
 (As amended by Act No. 33 of 1994)

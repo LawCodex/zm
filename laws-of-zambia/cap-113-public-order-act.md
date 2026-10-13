@@ -93,9 +93,9 @@ PUBLIC ORDER An Act to prohibit the wearing of uniforms in connection with polit
 
 This Act may be cited as the Public Order Act.
 
-### Section 2 — In this Act, unless the context otherwise requires-
+### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "meeting" means a meeting held for the purpose of the discussion of matters of public interest or for the purpose of the expression of views on such matters;
 
@@ -217,7 +217,9 @@ any other matter designed to preserve public peace and order.
 
 (8) Any police officer, magistrate or any District Messenger may stop any procession for which no permit has been issued under this section or which, if such a permit has been issued, contravenes or fails to comply with any conditions specified therein, and may order any such procession or any assembly or public meeting for which a permit is required and which has been convened in a public place without such a permit or which, if such a permit has been issued, contravenes or fails to be convened in a public place without such a permit or which, if such a permit has been issued, contravenes or fails to comply with any condition of such permit, or which contravenes or fails to comply with the provisions of subsection (1) of section nine, to disperse. (No. 10 of 1959 as amended by No. 28 of 1959, No. 51 of 1960, No. 19 of 1965, S.I. No. 8 of 1965, No. 69 of 1965, No. 10 of 1967, No. 51 of 1970, No. 24 of 1977, No. 28 of 1985 and 36 of 1996)
 
-### Section 6 — Any person who knowingly-
+### Section 6 — Penalty for disobeying a direction or violating conditions of permit issued under
+
+Any person who knowingly-
 
 (a)
 
@@ -231,7 +233,9 @@ Penalty for disobeying a direction or violating conditions of permit issued unde
 
 shall be guilty of an offence and may be arrested without warrant. (No. 10 of 1959)
 
-### Section 7 — Any assembly, meeting or procession-
+### Section 7 — Unauthorised assemblies
+
+Any assembly, meeting or procession-
 
 (a)
 
@@ -240,8 +244,6 @@ for which a permit is required under subsection (4) of section five and which ta
 (b)
 
 in which three or more persons taking part neglect or refuse to obey any direction or order given under subsection (3) or (7) of section five;
-
-Unauthorised assemblies
 
 shall be deemed to be an unauthorised assembly, and all persons taking part in such assembly, meeting or procession and, in the case of an assembly, meeting or procession for which no permit has been issued, all persons taking part in convening, calling or directing such assembly, meeting or procession may be arrested without a warrant and shall on conviction be liable to a fine not exceeding one thousand five hundred penalty units or to imprisonment for a period not exceeding six months, or to both. (No. 10 of 1959 as amended by No. 10 of 1967 and Act No. 13 of 1994)
 

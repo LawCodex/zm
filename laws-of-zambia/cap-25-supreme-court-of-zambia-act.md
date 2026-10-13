@@ -175,9 +175,9 @@ PART I PRELIMINARYPART I PRELIMINARY
 
 This Act may be cited as the Supreme Court of Zambia Act.
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "appellant" includes applicant;
 
@@ -283,7 +283,7 @@ The process of the Court shall run throughout Zambia and any judgment of the Cou
 
 In all proceedings before the Court the parties may appear in person or be represented and appear by a practitioner.
 
-### PART III — CRIMINAL APPEALSPART III
+### PART III — CRIMINAL APPEALS
 
 CRIMINAL APPEALS
 
@@ -297,7 +297,7 @@ CRIMINAL APPEALS
 
 (4) No appeal shall lie against any sentence the imposition of which is fixed by law. (As amended by Act No. 31 of 1976)
 
-#### Section 13 — Prescribed fees
+#### Section 13
 
 (Repealed by Act No. 31 of 1976)
 
@@ -487,7 +487,7 @@ if the appellant is in custody, as from the day on which the appeal is determine
 
 if the appellant is not in custody, as from the day on which he is received into goal under the sentence.
 
-### PART IV — CIVIL APPEALS FROM THE HIGH COURTPART IV
+### PART IV — CIVIL APPEALS FROM THE HIGH COURT
 
 CIVIL APPEALS FROM THE HIGH COURT
 
@@ -543,7 +543,7 @@ from an order absolute for the dissolution or nullity of marriage made by a Judg
 
 (2) An order refusing unconditional leave to defend an action shall not be deemed to be an interlocutory order or interlocutory judgment within the meaning of paragraph (e) of subsection (1).
 
-#### Section 24A — An appeal shall lie to the Court in any civil proceedings upon application for
+#### Section 24A
 
 An appeal shall lie to the Court in any civil proceedings upon application for habeas corpus against an order for the release of the person restrained as well as against the refusal of such an order.
 
@@ -577,7 +577,7 @@ shall, if it appears to the Court that a new trial should be held, have power to
 
 (2) Whenever the Court gives instructions for the taking of further evidence, it shall make such order as will secure an opportunity to the parties to the proceedings to examine every witness whose evidence is taken.
 
-### PART V — MISCELLANEOUSPART V
+### PART V — MISCELLANEOUS
 
 MISCELLANEOUS
 
@@ -615,7 +615,7 @@ THE SUPREME COURT RULES.
 
 ARRANGEMENT OF RULES
 
-### PART I — GENERALPART I
+### PART I — GENERAL
 
 GENERAL
 
@@ -699,7 +699,7 @@ Preliminary objection
 
 Adjournment
 
-### PART II — CRIMINAL APPEALSPART II
+### PART II — CRIMINAL APPEALS
 
 CRIMINAL APPEALS
 
@@ -807,7 +807,7 @@ Return of original depositions and exhibits
 
 Bail
 
-### PART III — CIVIC APPEALSPART III
+### PART III — CIVIC APPEALS
 
 CIVIC APPEALS
 
@@ -931,7 +931,7 @@ Order
 
 Poor persons
 
-### PART IV — MISCELLANEOUS AND TRANSITIONAL PROVISIONSPART IV
+### PART IV — MISCELLANEOUS AND TRANSITIONAL PROVISIONS
 
 MISCELLANEOUS AND TRANSITIONAL PROVISIONS
 
@@ -1123,7 +1123,7 @@ Preliminary objection
 
 Adjournment
 
-### PART II — CRIMINAL APPEALSPART II
+### PART II — CRIMINAL APPEALS
 
 CRIMINAL APPEALS
 
@@ -1311,13 +1311,15 @@ a record of any additional evidence given, or any exhibits received, at the hear
 
 (4) It shall not be necessary that copies of individual documents be separately certified, but the Registrar of the High Court, or any officer of such court appointed by him for such purpose, or, in the case of a direct appeal, the clerk of the subordinate court, shall certify as correct each copy of the record to be transmitted by him under the provisions of this rule.
 
-#### Section 32 — Procedure where appellant in prison
+#### Section 32
 
 (1) If the appellant is in prison he shall be deemed to have complied with the requirements of these Rules if he gives to the officer in charge of the prison his notice of intention to appeal or application for leave to appeal within the time prescribed.
 
+Procedure where appellant in prison
+
 (2) Such officer shall forthwith record on such notice or application the date of receipt thereof and shall forward the same to the Registrar of the High Court.
 
-#### Section 33 — Abandonment of appeal
+#### Section 33
 
 (1) An appellant, at any time after he has lodged notice of intention to appeal or notice of application for leave to appeal, or for an extension of time within which such notice shall be given, may abandon his appeal or application by giving notice thereof to the Master substantially in Form CRIM/5 of the Third Schedule and, upon such notice being given, the appeal or application shall without further order be deemed to have been dismissed or refused by the Court.
 
@@ -1325,17 +1327,25 @@ a record of any additional evidence given, or any exhibits received, at the hear
 
 (3) If an appellant is alleged to be of unsound mind, his appeal or application shall not be abandoned without leave of the Court.
 
-#### Section 34 — Presentation of appellant's case in writing
+Abandonment of appeal
+
+#### Section 34
 
 Where an appellant wishes to present his case in writing under the provisions of subsection (2) of section nineteen of the Act, he shall within fourteen days of the receipt by him of the copy of the record lodge five copies of the written statement of his case with the Master.
 
-#### Section 35 — Heads of argument
+Presentation of appellant's case in writing
+
+#### Section 35
 
 The Court may require an appellant or respondent who will be represented by a practitioner at the hearing of the appeal to prepare a document setting out the main heads of his argument together with the authorities to be cited in support of each head, and to deliver five copies of such heads of argument to the Master and one copy thereof to each of the other parties to the appeal within such period prior to the day fixed for the hearing of the appeal as may be specified by the Court.
 
-#### Section 36 — Attendance at hearing
+Heads of argument
+
+#### Section 36
 
 (1) If the appellant is the People, it shall not be necessary for the repondent to appear at the hearing of the appeal, but if the Court is disposed to allow the appeal it may direct his attendance to hear judgment:
+
+Attendance at hearing
 
 Provided that the Court may for any sufficient reason direct his attendance at any earlier time.
 
@@ -1343,17 +1353,23 @@ Provided that the Court may for any sufficient reason direct his attendance at a
 
 (3) Where an appeal is dismissed under sub-rule (2), the Court may restore the appeal for hearing if it is proved to the satisfaction of the Court that the appellant was prevented by any sufficient cause from appearing, whether in person or by practitioner, when the appeal was called on for hearing.
 
-#### Section 37 — Irregularities
+#### Section 37
 
 The Court may, in its discretion, on the application of any person desirous of appealing or cross-appealing who may be debarred from so doing by reason of his not having observed some formality or some requirement of these Rules, permit such person to prosecute his appeal or cross-appeal, as the case may be, upon such terms as to costs or otherwise and subject to such directions as it may consider desirable in order that substantial justice may be done in the matter.
 
-#### Section 38 — Hearing and orders on appeal
+Irregularities
+
+#### Section 38
 
 At the hearing of an appeal the Court shall hear the appellant or his practitioner, if he appears, and, if it thinks fit, the respondent or his practitioner, if he appears, and may hear the appellant or his practitioner in reply, and the Court shall thereupon, subject to the provisions of rule 41, determine the said appeal, and may make any order therein in conformity with the provisions of the Act as to it may seem just, and may by such order exercise any power which any court below might have exercised.
 
-#### Section 39 — Additional evidence and report
+Hearing and orders on appeal
+
+#### Section 39
 
 (1) In dealing with any appeal the Court may, if it thinks additional evidence to be necessary, either take such evidence itself or direct it to be taken by the trial court or by the Master or by some other person as commissioner.
+
+Additional evidence and report
 
 (2) When additional evidence is taken by the trial court it shall certify such evidence, with a statement of its opinion as to the credibility of the witness or witnesses giving such additional evidence, to the Court. When additional evidence is taken by the Master or a commissioner, he shall certify such evidence to the Court. The Court shall thereupon proceed in either case to dispose of the appeal.
 
@@ -1361,13 +1377,17 @@ At the hearing of an appeal the Court shall hear the appellant or his practition
 
 (4) In dealing with any appeal the Court may also, if it thinks fit, call for and receive from the trial court a report on any matter connected with the trial, and in dealing with any second appeal, the Court may in addition, if it thinks fit, call for and receive from the High Court a report on any matter connected with the appeal proceedings before it.
 
-#### Section 40 — Order for disposal of property
+#### Section 40
 
 When an order for the restitution of any property to any person, or for the forfeiture or other disposal of any property belonging to any person, has been made by any court below in the course of any criminal trial or appeal, then any person in whose favour or against whom any such order has been made, and, with the leave of the Court, any other person, shall, on the hearing by the Court of an appeal against the judgment whether at first instance or on appeal relating to the conviction in respect of which such order was made, be entitled to be heard by the Court in regard to such order.
 
-#### Section 41 — Judgment in criminal cases
+Order for disposal of property
+
+#### Section 41
 
 (1) On the termination of the hearing of an appeal the Court shall, either at once or on some future day which shall either then be appointed for the purpose or of which notice shall subsequently be given to the parties, deliver judgment in open court:
+
+Judgment in criminal cases
 
 Provided that if the presiding judge so directs the Court shall not sit for the purpose of delivering judgment, but the judgment of the Court or of the members of the Court, as the case may be, shall be read in open court by a judge thereof or by the Master at the time and place appointed or fixed as aforesaid.
 
@@ -1381,29 +1401,35 @@ if any judge of the Court dissents from the judgment of the Court it shall not b
 
 (3) The judgment of any member of the Court who is absent may be read by any other judge of the Court or by the Master.
 
-#### Section 42 — Order
+#### Section 42
 
 (1) Whenever a criminal appeal or matter is decided, the judgment or order of the Court shall be embodied in a formal order by the Master, and a sealed copy of such order shall be sent by the Master to the trial court and, in the case of a second appeal, to the High Court. In drawing up such order it shall not be necessary for the Master to consult the parties to the appeal or their practitioners.
 
+Order
+
 (2) The trial court and, in the case of a second appeal, the High Court, shall thereupon make such orders as are necessary and comformable to the order of the Court and, if necessary, the record shall be amended in accordance therewith.
 
-#### Section 43 — Notifying decision
+#### Section 43
 
 The Master shall inform each court below and, when the appellant is in prison, the officer in charge of the prison, and so far as possible any party to any proceeding in the Court who was not present or represented at the hearing thereof, of the result of such proceeding.
 
+Notifying decision
+
 (As amended by S.I. No. 85 of 1975)
 
-#### Section 44 — Costs
+#### Section 44
 
 On the hearing and determination of an appeal or any proceedings preliminary or incidental thereto, no costs shall be allowed on either side unless the Court otherwise orders.
 
-#### Section 45 — Return of original depositions and exhibits
+Costs
+
+#### Section 45
 
 Upon the final determination of an appeal the Master shall return any original depositions and exhibits to the Registrar of the High Court.
 
 Return of original depositions and exhibits Bail
 
-#### Section 46 — Bail
+#### Section 46
 
 (1) An application for bail to the Court shall be made substantially in Form CRIM/6 of the Third Schedule.
 
@@ -1411,17 +1437,21 @@ Return of original depositions and exhibits Bail
 
 Cap. 88
 
-### PART III — CIVIL APPEALSPART III
+### PART III — CIVIL APPEALS
 
 CIVIL APPEALS
 
-#### Section 47 — Application and interpretation
+#### Section 47
 
 This Part shall apply only to civil appeals and applications and to matters related thereto.
 
-#### Section 48 — Civil applications
+Application and interpretation
+
+#### Section 48
 
 (1) Applications to a single judge shall be made by motion or summons, which shall state the grounds of the application, and shall if necessary be supported by affidavits. The proceedings and other documents relating thereto shall be filed in duplicate.
+
+Civil applications
 
 (2) Notice of motion and copies of any affidavits and other documents filed shall be served on all necessary parties not less than two clear days before the hearing:
 
@@ -1439,9 +1469,11 @@ Provided that in case of urgency application may be made ex parte and without no
 
 (8) A summons shall be substantially in Form C of the Third Schedule.
 
-#### Section 49 — Notice of appeal
+#### Section 49
 
 (1) Any person desiring to appeal to the Court shall give notice of appeal as hereinafter provided.
+
+Notice of appeal
 
 (2) the notice of appeal shall be intituled in the proceedings from which it is intended to appeal and shall be filed therewith in duplicate with the Registrar of the High Court, and shall be so filed within thirty days after the judgment complained of. The Registrar of the High Court shall forward one copy of the notice to the Master. One copy of the notice of appeal for each party directly affected by the appeal shall at the same time be submitted by the Registrar of the High Court to the Master for sealing and return to the appellant or his practitioner for service in accordance with sub-rule (5).
 
@@ -1453,27 +1485,35 @@ Provided that in case of urgency application may be made ex parte and without no
 
 (6) The Court may in any case direct that the notice of appeal be served upon any party to the proceedings in any court below on whom it has not been served, or upon any person not party to those proceedings.
 
-#### Section 50 — Leave to appeal
+#### Section 50
 
 (1) Leave to appeal to the Court may be granted or refused by the High Court without formal application at the time when judgment is given, and in such event the judgment shall record that leave has been granted or refused accordingly. If leave is granted, the appellant shall proceed to give notice of appeal in accordance with the provision of rule 49.
+
+Leave to appeal
 
 (2) In all other cases application to the High Court for leave to appeal to the Court shall be by motion or summons, which shall state the grounds of the application, and shall, if necessary, be supported by affidavit. Such application shall be intituled and filed in the proceedings from which it is intended to appeal, and all necessary parties shall be served. If leave is granted, the order giving leave shall be included in the record of appeal. If leave is refused, the order refusing leave shall be produced on any application for leave to appeal made subsequently to the Court.
 
 (3) An application to the Court for leave to appeal shall be made in accordance with rule 48.
 
-#### Section 51 — Appeal not to operate as stay of execution
+#### Section 51
 
 An appeal shall not operate as a stay of execution or of proceedings under the decision appealed from unless the High Court or the Court so orders and no intermediate act or proceeding shall be invalidated except so far as the Court may direct.
 
-#### Section 52 — Certificate of grounds of judgment
+Appeal not to operate as stay of execution
+
+#### Section 52
 
 (1) On the application of any person who has within the time limited given notice of appeal against any judgment, the judge who gave or made the same shall, unless the judgment was written, certify in writing the grounds of such judgment; but delay or failure so to certify shall not prevent the appellant from proceeding with his appeal.
 
+Certificate of grounds of judgment
+
 (2) The Registrar of the High Court shall on the application of any party and upon payment of the prescribed fee furnish such party with a copy of the judgment or, as the case may be, the certificate in writing of the grounds of the judgment. (As amended by S.I. No. 85 of 1975)
 
-#### Section 53 — Address for service
+#### Section 53
 
 (1) Where in any proceeding in the High Court a party has given an address for service, notice of appeal from any judgment pronounced in such proceeding may be served on such party at such address for service notwithstanding that the address may be that of a practitioner who has not been retained for the purpose of an appeal; and notice of any application preparatory or incidental to any such appeal may be served in like manner at any time before the date on which the respondent gives or ought to give notice of his address for service in accordance with sub-rule (2).
+
+Address for service
 
 (2) Every person who by virtue of service on him of a notice of appeal becomes a respondent to any intended appeal shall, within fourteen days after service on him of the notice of appeal, file with the Registrar of the High Court and serve on the appellant notice of a full and sufficient address for service, and shall also within a further fourteen days serve a copy of such notice of address for service on every other respondent named in the notice of appeal who has filed notice of an address for service. Such person shall as soon as may be after he has filed the notice with the Registrar of the High Court file a copy thereof in the Registry.
 
@@ -1483,25 +1523,33 @@ An appeal shall not operate as a stay of execution or of proceedings under the d
 
 (5) Any party to an appeal or intended appeal may change his address for service at any time by filing and serving on all other parties to the appeal or intended appeal notice of such change.
 
-#### Section 54 — Lodging appeal
+#### Section 54
 
 Subject to any extension of time and to any order made under rule 12, the appellant shall within sixty days after filing notice of appeal lodge the appeal by filing in the Registry five copies of the record of appeal, paying the prescribed fee and lodging in Court the sum of two thousand fee units as security for the costs of the appeal. (As amended by Act No. 13 of 1994)
 
-#### Section 55 — Default in lodging appeal
+Lodging appeal
+
+#### Section 55
 
 If an appeal is not lodged as aforesaid the respondent may make application to the Court for an order dismissing the appeal for want of prosecution and, or alternatively, for such other order in regard to the appeal as he may require.
 
-#### Section 56 — Security for costs
+Default in lodging appeal
+
+#### Section 56
 
 The Court or a judge thereof may at any time, in any case where it or he thinks fit, upon application or of its or his own motion, order security or further security for costs to be given, and may order security to be given for the payment of past costs relating to the matters in question in the appeal, and may make compliance with any such order a condition precedent to the entertainment of any appeal.
 
-#### Section 57 — Entry of appeal
+Security for costs
+
+#### Section 57
 
 (1) A register of civil appeals shall be kept in the Registry.
 
+Entry of appeal
+
 (2) Upon an appeal being lodged as provided in rule 54, the Master shall enter the appeal in the register of civil appeals. Such entry shall include the title of the cause or matter, the name of the appellant and his practitioner, if any, the names of the respondents and their practitioners, if any, and the date of such entry. The Master shall assign a serial number to the appeal and shall inform the appellant of such number.
 
-#### Section 58 — Record of appeal
+#### Section 58
 
 (1) The record of appeal shall be prepared in accordance with rule 10 and shall include a memorandum of appeal and copies of the proceedings in the High Court and in any court below.
 
@@ -1512,6 +1560,8 @@ The Court or a judge thereof may at any time, in any case where it or he thinks 
 Provided that the Court shall not allow an appeal on any ground not stated in the memorandum of appeal unless the respondent, including any person who in relation to such ground should have been made a respondent, has had sufficient opportunity of contesting the appeal on that ground.
 
 (4) The record of appeal shall contain the following documents in the order in which they are set out:
+
+Record of appeal
 
 (a)
 
@@ -1585,21 +1635,27 @@ in all cases the Registrar of the High Court shall prepare the copy of the notes
 
 (8) For the purposes of sub-rules (6) and (7) "Registrar of the High Court" includes any officer of such court who may be appointed by the Registrar thereof for the purpose of the preparation of the record.
 
-#### Section 59 — Supplementary record
+#### Section 59
 
 (1) If the respondent is of the opinion that the record filed by the appellant is defective he may, without prejudice to his rights, if any, under rule 68, file five copies of a supplementary record of appeal containing copies of any further documents which in his opinion are required for the proper determination of the appeal.
 
 (2) A supplementary record shall be prepared as nearly as may be in the same manner as a record of appeal.
 
+Supplementary record
+
 (3) A copy of the supplementary record shall be served on the appellant and on any other respondent who has filed notice of address for service.
 
-#### Section 60 — Costs of record
+#### Section 60
 
 The Master may disallow on taxation the cost of any matter improperly included in any record or supplementary record of appeal.
 
-#### Section 61 — Respondent's notice of cross-appeal
+Costs of record
+
+#### Section 61
 
 (1) It shall not be necessary for a respondent to give notice of cross-appeal, but if a respondent intends upon the hearing of the appeal to contend that the judgment of the court below should be varied he may, at any time after receiving notice of appeal, but not more than fourteen days after the service on him of the record of appeal, give notice of cross-appeal, specifying the grounds thereof, to the appellant and to any other respondent named in the notice of appeal who may be affected by such cross-appeal (whether or not such other respondent has filed notice of address for service), and shall file in the Registry within the like period five copies of such notice.
+
+Respondent's notice of cross-appeal
 
 (2) A respondent's notice shall be substantially in Form CIV/5 of the Third Schedule.
 
@@ -1607,29 +1663,37 @@ The Master may disallow on taxation the cost of any matter improperly included i
 
 Provided that the Court may in its discretion hear any such contention and may, if it thinks fit, impose terms as to costs, adjournment, or otherwise.
 
-#### Section 62 — Stated cases
+#### Section 62
 
 (1) The parties to any civil appeal may concur in stating the questions of law or of fact or of both law and fact arising therein in the form of a stated case.
+
+Stated cases
 
 (2) Every such stated case shall be divided into paragraphs numbered consecutively, and shall concisely state such facts and documents as may be necessary to enable the Court to determine the appeal.
 
 (3) Upon the argument of the appeal the Court shall be at liberty to refer to the whole contents of such documents as are included in the stated case and the Court shall be at liberty to draw from the facts and documents stated any inference, whether of fact or law, which might have been drawn therefrom if included in the record of appeal.
 
-#### Section 63 — Withdrawal of appeal
+#### Section 63
 
 (1) An appellant may at any time after lodging the appeal and before the appeal is called on for hearing serve on the parties to the appeal and file in the Registry a notice in Form CIV/7 of the Third Schedule to the effect that he does not intend further to prosecute the said appeal.
+
+Withdrawal of appeal
 
 (2) If all parties to the appeal consent to the withdrawal of the appeal without order of the Court, the appellant may file in the Registry the document or documents signifying such consent and signed by the parties or by their practitioners, and the appeal shall thereupon be deemed to have been dismissed. In such event any sum lodged in Court as security for the cost of the appeal shall be paid out to the appellant.
 
 (3) If all the parties do not consent to the withdrawal of the appeal as aforesaid, the appeal shall remain on the list, and shall come on for the hearing of any issue as to costs or otherwise remaining outstanding between the parties, and for the making of an order as to the disposal of any sum lodged in Court as security for the costs of the appeal.
 
-#### Section 64 — Appeal by respondent where appeal withdrawn
+#### Section 64
 
 Where an appeal is withdrawn under the preceding rule, or where notice of appeal has been given but the appeal has not been duly lodged, any respondent who has not given a respondent's notice may, within thirty days of the date of the withdrawal of the appeal or of the last day of the period prescribed for the lodging of the appeal, as the case may be, give a respondent's notice and proceed therewith in the manner prescribed by the foregoing rules; and in any such case the times limited for giving notice of appeal, entering the appeal, furnishing security for costs, and filing and serving the record of appeal may, on application to the Court or, if the appeal has not been lodged, to a judge of the High Court, be extended so far as is reasonably necessary in all the circumstances of the case.
 
-#### Section 65 — Failure to file record
+Appeal by respondent where appeal withdrawn
+
+#### Section 65
 
 (1) Where an appellant omits to comply with rule 54, any respondent who has given a respondent's notice may proceed with his cross-appeal.
+
+Failure to file record
 
 (2) In any such case the respondent shall, as soon as possible, or within such time as may be allowed by the Court, file five copies of a record of appeal, as prescribed by rule 58, and shall serve copies thereof on the appellant and on any other parties to the appeal.
 
@@ -1639,31 +1703,39 @@ Where an appeal is withdrawn under the preceding rule, or where notice of appeal
 
 Fees and security for costs on cross-appeal
 
-#### Section 67 — Additional parties
+#### Section 67
 
 (1) When an appeal is called for hearing or at any previous time the Court or a judge thereof may, either on the application of any party interested or of its or his own motion, direct that the record of appeal, or any respondent's notice, be served on any party to the cause or matter who has not been served therewith, or any other person not already a party to the cause or matter, and may, for the purpose of such service, adjourn the hearing upon such terms as may appear to the Court or a judge thereof to be just, and may give such judgment and make such order as might have been given or made if the parties served with such record or notice had been originally parties.
 
+Additional parties
+
 (2) In any such case the Court or a judge thereof may direct that any additional copies of the record or respondent's notice which may be necessary be prepared and served by any party upon any person and may prescribe the time therefor.
 
-#### Section 68 — Amendment and default
+#### Section 68
 
 (1) The Court or a judge thereof may at any time allow amendment of any notice of appeal, or respondent's notice, or memorandum of appeal, or other part of the record of appeal on such terms as the Court or such judge thinks fit, and may likewise make any such amendment of its own motion.
 
+Amendment and default
+
 (2) If the record of appeal is not drawn up in the prescribed manner, the appeal, may be dismissed.
 
-#### Section 69 — Notice of non-appearance and written argument
+#### Section 69
 
 (1) An appellant or a respondent may at any time not less than seven days before the day fixed for the hearing but after lodgment file in the Registry a notice in writing, substantially in Form CIV/6 of the Third Schedule, that he does not wish to be present in person or by practitioner on the hearing of the appeal, together with five copies of such argument set out in numbered paragraphs under distinct heads as he desires to submit to the Court.
 
+Notice of non-appearance and written argument
+
 (2) The appellant or respondent, as the case may be, shall immediatley after filing such notice serve a copy thereof and a copy of his argument on each of the other parties to the appeal or their practitioners.
 
-#### Section 70 — Heads of argument
+#### Section 70
 
 (1) An appellant or respondent who will be represented by a practitioner at the hearing of the appeal shall prepare a document setting out the main heads of his argument together with the authorities to be cited in support of each head.
 
+Heads of argument
+
 (2) The appellant shall, not later than seven days before the day fixed for the hearing, deliver five copies of his heads of argument to the Master and one copy thereof to each of the other parties to the appeal, and each respondent shall, in similar manner, not later than three days before the day fixed for the hearing, deliver his heads of argument.
 
-#### Section 71 — Non-appearance of parties at hearing
+#### Section 71
 
 (1) Subject to the provisions of rule 69, if on any day fixed for the hearing of an appeal-
 
@@ -1685,23 +1757,27 @@ Non-appearance of parties at hearing
 
 (3) The provisions of this rule shall apply mutatis mutandis to the hearing of any cross-appeal.
 
-#### Section 72 — Hearing of appeals
+#### Section 72
 
 Appeals to the Court shall be by way of re-hearing on the record and any further evidence received under section twenty-five of the Act.
 
-#### Section 73 — Judgment in civil cases
+Hearing of appeals
+
+#### Section 73
 
 (1) The judgment of the court shall be pronounced in open court, either on the hearing of the appeal or at any subsequent time of which notice shall be given by the Master to the parties to the appeal.
+
+Judgment in civil cases
 
 (2) Such judgment may be pronounced notwithstanding the absence of the judges who composed the court or any of them, and the judgment of any such judge not present may be read by any judge present or by the Master.
 
 (3) Certified copies of the judgment shall be sent by the Master to the High Court and any court below, and to the parties or their practitioners.
 
-#### Section 74 — Interest
+#### Section 74
 
 On any appeal, interest on any sum remaining due or damages payable as a result of the termination of the appeal shall be allowed for such time as satisfaction of the judgment shall have been delayed by the appeal, unless the Court otherwise orders, at the rate recognised by the High Court, and the Registrar of the High Court may compute such interest without any order for that purpose.
 
-#### Section 75 — Order
+#### Section 75
 
 (1) Every judgment of the Court shall be embodied in an order.
 
@@ -1711,11 +1787,15 @@ On any appeal, interest on any sum remaining due or damages payable as a result 
 
 Interest
 
+Order
+
 (4) Interlocutory orders shall be prepared in like manner.
 
-#### Section 76 — Poor persons
+#### Section 76
 
 (1) An application for leave to appeal to the Court as a poor person shall be made to a single judge in accordance with rule 48, but no fee shall be payable on filing any such application. All respondents or intended respondents shall be served and they and the Master shall be entitled to be heard on any such application.
+
+Poor persons
 
 (2) Notwithstanding that the single judge may be satisfied as to the appellant's lack of means, the application may be dismissed if in the single judge's opinion the appeal would have no reasonable possibility of success.
 
@@ -1739,23 +1819,27 @@ that any sums the payment of which by the appellant has been excused by virture 
 
 (4) The appeal shall proceed in accordance with such order, and it shall be the duty of the Master to take such steps as may be necessary to recover any sums becoming due under paragraph (d) of sub-rule (3). (As amended by Act No. 13 of 1994)
 
-### PART IV — MISCELLANEOUS AND TRANSITIONAL PROVISIONSPART IV
+### PART IV — MISCELLANEOUS AND TRANSITIONAL PROVISIONS
 
 MISCELLANEOUS AND TRANSITIONAL PROVISIONS
 
-#### Section 77 — Orders as to costs
+#### Section 77
 
 The Court may make such order as to the whole or any part of the costs of appeal or in any court below as may be just, and may assess the same, or direct taxation thereof in accordance with the scales prescribed in the Second Schedule, or in default of provision therein in accordance with the scales provided for the High Court under the High Court Act.
 
 Orders as to costs Cap. 27
 
-#### Section 78 — Clerical errors and accidental slips or omissions
+#### Section 78
 
 Clerical errors by the Court or a judge thereof in documents or process, or in any judgment, or errors therein arising from any accidental slip or omission, may at any time be corrected by the Court or a judge thereof.
 
-#### Section 79 — Obsolete
+#### Section 79
 
-#### Section 80 — Has had its effect
+Obsolete.
+
+#### Section 80
+
+Has had its effect.
 
 Clerical errors and accidental slips or omissions
 

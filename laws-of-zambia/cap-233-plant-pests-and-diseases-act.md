@@ -37,15 +37,19 @@ Section
 
 #### Section 3 — This Act binds the Republic
 
-### PART II — ERADICATION AND PREVENTION OF THE SPREAD OF PESTSPART II
+### PART II — ERADICATION AND PREVENTION OF THE SPREAD OF PESTS
 
 ERADICATION AND PREVENTION OF THE SPREAD OF PESTS
 
-#### Section 4 — Regulatory powers to eradicate pests, etc
+#### Section 4
+
+Regulatory powers to eradicate pests, etc.
 
 #### Section 5 — Regulatory powers to inspect, disinfect and fumigate vehicles
 
-#### Section 6 — Minister may make different regulations, etc
+#### Section 6
+
+Minister may make different regulations, etc.
 
 #### Section 7 — Duty of owner to eradicate pests
 
@@ -55,13 +59,17 @@ ORGANISMS, INVERTEBRATES AND PLANTSPART III CONTROL OF THE IMPORTATION OF GROWIN
 
 #### Section 8 — Interpretation of term in Part III
 
-#### Section 9 — Regulatory powers to control import of growing media, etc
+#### Section 9
 
-#### Section 10 — Powers of inspectors in relation to imported growing media, etc
+Regulatory powers to control import of growing media, etc.
+
+#### Section 10
+
+Powers of inspectors in relation to imported growing media, etc.
 
 #### Section 11 — Seizure, detention and destruction of growing media, etc., unlawfully imported
 
-### PART IV — SPECIAL PROVISIONS RELATING TO CURED TOBACCOPART IV
+### PART IV — SPECIAL PROVISIONS RELATING TO CURED TOBACCO
 
 SPECIAL PROVISIONS RELATING TO CURED TOBACCO
 
@@ -71,7 +79,7 @@ SPECIAL PROVISIONS RELATING TO CURED TOBACCO
 
 #### Section 14 — Section 12 (a) and section 13 to apply to premises of certain growers only
 
-#### Section 15 — Orders prohibiting handling and storing in and removal to or from premises of
+#### Section 15
 
 Orders prohibiting handling and storing in and removal to or from premises of cured tobacco
 
@@ -81,17 +89,19 @@ Section
 
 #### Section 17 — Removal of cured tobacco from pest infested premises, etc., prohibited
 
-#### Section 18 — Permits for removal of cured tobacco from pest infested premises, etc
+#### Section 18
+
+Permits for removal of cured tobacco from pest infested premises, etc.
 
 #### Section 19 — Costs of inspection
 
-#### Section 20 — Destruction of cured tobacco handled or stored or removed in contravention of
+#### Section 20
 
 Destruction of cured tobacco handled or stored or removed in contravention of Part IV
 
 #### Section 21 — Regulatory powers in connection with pests
 
-### PART V — GENERALPART V
+### PART V — GENERAL
 
 GENERAL
 
@@ -127,7 +137,7 @@ An Act to provide for the eradication and prevention of the spread of plant pest
 
 Government Notices 90 of 1964 497 of 1964 Statutory Instruments 57 of 1965 176 of 1965
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -175,7 +185,7 @@ This Act binds the Republic
 
 (G.N. No. 90 of 1964 as amended by S.I. No. 57 of 1965)
 
-### PART II — ERADICATION AND PREVENTION OF THE SPREAD OF PESTSPART II
+### PART II — ERADICATION AND PREVENTION OF THE SPREAD OF PESTS
 
 ERADICATION AND PREVENTION OF THE SPREAD OF PESTS
 
@@ -423,7 +433,7 @@ is imported in contravention of the provisions of this Act.
 
 (1), which has not been declared by an inspector to be infested with an injurious organism, gives notice of his intention to appeal to a board in terms of subsection (1) of section twenty-five against the order of destruction, the order shall not have effect unless and until the period specified for lodging notice of appeal has elapsed, and no notice of appeal has been lodged, or the appeal is dismissed, withdrawn or abandoned.
 
-### PART IV — SPECIAL PROVISIONS RELATING TO CURED TOBACCOPART IV
+### PART IV — SPECIAL PROVISIONS RELATING TO CURED TOBACCO
 
 SPECIAL PROVISIONS RELATING TO CURED TOBACCO
 
@@ -561,7 +571,7 @@ prescribe measures to be taken for the purpose of protecting or facilitating the
 
 (2) In regulations made in terms of subsection (1) the Minister may make different provision in respect of different premises and pests and different classes and types of cured tobacco.
 
-### PART V — GENERALPART V
+### PART V — GENERAL
 
 GENERAL
 
@@ -1969,7 +1979,9 @@ SEEDS FOR THE IMPORTATION OF WHICH A PERMIT IS REQUIRED
 
 #### Section 42 — Tobacco seed
 
-#### Section 43 — Tomato seed
+#### Section 43
+
+Tomato seed.
 
 #### Section 44 — Tung (Aleurities spp.) seed from countries other than South Africa
 

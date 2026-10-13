@@ -243,9 +243,9 @@ Short title
 
 Application Cap. 256
 
-#### Section 3 — In this Act, unless the context otherwise requires-
+#### Section 3 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "Deputy Registrar" means the Deputy Registrar appointed under section six;
 

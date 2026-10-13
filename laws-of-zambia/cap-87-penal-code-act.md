@@ -73,7 +73,9 @@ CHAPTER I PRELIMINARY Section
 
 ##### Section 19 — Repealed by Act No. 3 of 1990
 
-##### Section 20 — Person not to be punished twice for same offence
+##### Section 20
+
+Person not to be punished twice for same offence
 
 ## CHAPTER V — PARTIES TO OFFENCES
 
@@ -111,7 +113,9 @@ for home affairs
 
 ##### Section 35 — Provisions as to sentences of deportation
 
-##### Section 36 — One act constituting several crimes, etc
+##### Section 36
+
+One act constituting several crimes, etc.
 
 ##### Section 37 — Date from which sentence takes effect
 
@@ -123,7 +127,7 @@ for home affairs
 
 ##### Section 41 — Absolute and conditional discharge
 
-##### Section 42 — Commission of further offences by offender against whom an order for
+##### Section 42
 
 Commission of further offences by offender against whom an order for conditional discharge has been made
 
@@ -189,7 +193,7 @@ Section
 
 ##### Section 69 — Defamation of President
 
-##### Section 70 — Expressing or showing hatred, ridicule or contempt for persons because of
+##### Section 70
 
 Expressing or showing hatred, ridicule or contempt for persons because of race, tribe, place of origin or colour
 
@@ -219,11 +223,17 @@ TRANQUILITY Section
 
 ##### Section 80 — Preventing or obstructing the making of proclamation
 
-##### Section 81 — Rioters demolishing buildings, etc
+##### Section 81
 
-##### Section 82 — Rioters injuring buildings, etc
+Rioters demolishing buildings, etc.
 
-##### Section 83 — Riotously interfering with railway, vehicle, etc
+##### Section 82
+
+Rioters injuring buildings, etc.
+
+##### Section 83
+
+Riotously interfering with railway, vehicle, etc.
 
 ##### Section 84 — Going armed in public
 
@@ -257,7 +267,7 @@ Section
 
 ##### Section 96 — Repealed by Act No. 14 of 1980
 
-##### Section 97 — Officers charged with administration of property of a special character or with
+##### Section 97
 
 Officers charged with administration of property of a special character or with special duties
 
@@ -273,13 +283,17 @@ Officers charged with administration of property of a special character or with 
 
 ##### Section 103 — Threat of injury to persons employed in public service
 
-##### Section 103A — Definition of Public Service
+##### Section 103A
+
+Definition of Public Service.
 
 ## CHAPTER XI — OFFENCES RELATING TO THE ADMINISTRATION OF JUSTICE
 
 ##### Section 104 — Perjury and subordination of perjury
 
-##### Section 104A — Conflicting Statements on Oath
+##### Section 104A
+
+Conflicting Statements on Oath.
 
 ##### Section 105 — False statements by interpreters
 
@@ -447,7 +461,9 @@ Section
 
 ##### Section 179 — Use of insulting language
 
-##### Section 180 — Nuisances by drunken persons, etc
+##### Section 180
+
+Nuisances by drunken persons, etc.
 
 ##### Section 181 — Rogues and vagabonds
 
@@ -479,9 +495,13 @@ Section
 
 ##### Section 194 — Definition of unlawful publication
 
-##### Section 195 — Cases in which publication of defamatory matter is absolutely privileged
+##### Section 195
 
-##### Section 196 — Cases in which publication of defamatory matter is conditionally privileged
+Cases in which publication of defamatory matter is absolutely privileged
+
+##### Section 196
+
+Cases in which publication of defamatory matter is conditionally privileged
 
 ##### Section 197 — Explanation as to good faith
 
@@ -509,7 +529,9 @@ Section
 
 ##### Section 207 — Causing death defined
 
-##### Section 208 — When child deemed to be a person
+##### Section 208
+
+When child deemed to be a person
 
 ##### Section 209 — Limitation as to time of death
 
@@ -621,7 +643,7 @@ Section
 
 ##### Section 256 — Kidnapping or abducting with intent to confine person
 
-##### Section 257 — Kidnapping or abducting in order to subject person to grievous harm, slavery,
+##### Section 257
 
 Kidnapping or abducting in order to subject person to grievous harm, slavery, etc.
 
@@ -663,13 +685,17 @@ person
 
 ##### Section 273 — Stolen wills
 
-##### Section 274 — Stealing postal matter, etc
+##### Section 274
+
+Stealing postal matter, etc.
 
 ##### Section 275 — Stock theft
 
 ##### Section 275A — Stealing copper cathodes, copperbars, cobalt, lead, zinc or vanadium
 
-##### Section 276 — Stealing from the person; stealing goods in transit, etc
+##### Section 276
+
+Stealing from the person; stealing goods in transit, etc.
 
 ##### Section 277 — Stealing by persons in public service
 
@@ -677,7 +703,9 @@ person
 
 ##### Section 279 — Stealing by directors or officers of companies
 
-##### Section 280 — Stealing by agents, etc
+##### Section 280
+
+Stealing by agents, etc.
 
 ##### Section 281 — Stealing by tenants or lodgers
 
@@ -809,7 +837,9 @@ property or keeping fraudulent accounts or falsifying books or accounts
 
 ##### Section 330 — Setting fire to crops and growing plants
 
-##### Section 331 — Attempts to set fire to crops, etc
+##### Section 331
+
+Attempts to set fire to crops, etc.
 
 ##### Section 332 — Casting away vessels
 
@@ -921,7 +951,9 @@ property or keeping fraudulent accounts or falsifying books or accounts
 
 ##### Section 378 — Personation in general
 
-##### Section 379 — Falsely acknowledging deeds, recognizances, etc
+##### Section 379
+
+Falsely acknowledging deeds, recognizances, etc.
 
 ##### Section 380 — Personation of person named in certificate
 
@@ -5717,15 +5749,25 @@ Lending, etc., testimonial for personation
 
 ## CHAPTER XLI
 
-##### Section 384 — Repealed by Act 14 of 1980
+##### Section 384
 
-##### Section 385 — Repealed by Act 14 of 1980
+Repealed by Act 14 of 1980.
 
-##### Section 386 — Repealed by Act 14 of 1980
+##### Section 385
 
-##### Section 387 — Repealed by Act 14 of 1980
+Repealed by Act 14 of 1980.
 
-##### Section 388 — Repealed by Act 14 of 1980
+##### Section 386
+
+Repealed by Act 14 of 1980.
+
+##### Section 387
+
+Repealed by Act 14 of 1980.
+
+##### Section 388
+
+Repealed by Act 14 of 1980.
 
 #### DIVISION IX
 
@@ -5733,17 +5775,21 @@ ATTEMPTS AND CONSPIRACIES TO COMMIT CRIMES, AND ACCESSORIES AFTER THE FACT
 
 ## CHAPTER XLII — ATTEMPTS
 
-##### Section 389 — Definition of attempt
+##### Section 389
 
 (1) When a person, intending to commit an offence, begins to put his intention into execution by means adapted to its fulfilment, and manifests his intention by some overt act, but does not fulfil his intention to such an extent as to commit the offence, he is deemed to attempt to commit the offence.
+
+Definition of attempt
 
 (2) It is immaterial, except so far as regards punishment, whether the offender does all that is necessary on his part for completing the commission of the offence, or whether the complete fulfilment of his intention is prevented by circumstances independent of his will, or whether he desists of his own motion from the further prosecution of his intention.
 
 (3) It is immaterial that by reason of circumstances not known to the offender it is impossible in fact to commit the offence.
 
-##### Section 390 — Attempts to commit offences
+##### Section 390
 
 Any person who attempts to commit a felony or misdemeanour is guilty of an offence which, unless otherwise stated, is a misdemeanour.
+
+Attempts to commit offences
 
 ##### Section 391 — Any person who attempts to commit a felony of such a kind that a person
 
@@ -5751,9 +5797,11 @@ convicted of it is liable to the punishment of death or imprisonment for a term 
 
 Punishment of attempts to commit certain felonies
 
-##### Section 392 — Attempts to procure commission of criminal acts
+##### Section 392
 
 (1) Any person who attempts to procure another to do an act or make an omission of such a nature that if he himself were to do the act or make the omission he would be guilty of an offence, is himself to be deemed guilty of attempting to commit such offence and to be punishable accordingly.
+
+Attempts to procure commission of criminal acts
 
 (2) Any person who, while in Zambia, attempts to procure another to do an act or make an omission at a place not in Zambia of such a nature-
 
@@ -5767,19 +5815,25 @@ that if he were himself to do the act or make the omission at the place where th
 
 is guilty of an offence of the same kind and is liable to the same punishment as if he were himself to attempt to do the same act or make the same omission in Zambia. (No. 28 of 1931)
 
-##### Section 393 — Neglect to prevent commission of a felony
+##### Section 393
 
 Every person who, knowing that a person designs to commit or is committing a felony, fails to use all reasonable means to prevent the commission or completion thereof, is guilty of a misdemeanour.
 
+Neglect to prevent commission of a felony
+
 ## CHAPTER XLIII — CONSPIRACIES
 
-##### Section 394 — Conspiracy to commit felony
+##### Section 394
 
 Any person who conspires with another to commit any felony, or to do any act in any part of the world which if done in Zambia would be a felony, and which is an offence under the laws in force in the place where it is proposed to be done, is guilty of a felony and is liable, if no other punishment is provided, to imprisonment for seven years, or, if the greatest punishment to which a person convicted of the felony in question is liable is less than imprisonment for seven years, then to such lesser punishment.
 
-##### Section 395 — Conspiracy to commit misdemeanour
+Conspiracy to commit felony
+
+##### Section 395
 
 Any person who conspires with another to commit a misdemeanour, or to do any act in any part of the world which if done in Zambia would be a misdemeanour, and which is an offence under the laws in force in the place where it is proposed to be done, is guilty of a misdemeanour.
+
+Conspiracy to commit misdemeanour
 
 ##### Section 396 — Any person who conspires with another to effect any of the purposes
 
@@ -5823,19 +5877,25 @@ Provided that an agreement or combination by two or more persons to do or procur
 
 Cap. 269
 
-##### Section 397 — Definition of accessories after the fact
+##### Section 397
 
 (1) Any person who receives or assists another who is, to his knowledge, guilty of an offence, in order to enable him to escape punishment, is said to become an accessory after the fact to the offence.
 
+Definition of accessories after the fact
+
 (2) A wife does not become an accessory after the fact to an offence of which her husband is guilty by receiving or assisting him in order to enable him to escape punishment; or by receiving or assisting, in her husband's presence and by his authority, another person who is guilty of an offence in the commission of which her husband has taken part, in order to enable that other person to escape punishment; nor does a husband become accessory after the fact to an offence of which his wife is guilty by receiving or assisting her in order to enable her to escape punishment.
 
-##### Section 398 — Punishment of accessories after the fact to felonies
+##### Section 398
 
 Any person who becomes an accessory after the fact to a felony is guilty of a felony, and is liable, if no other punishment is provided, to imprisonment for three years.
 
-##### Section 399 — Punishment of accessories after the fact to misdemeanours
+Punishment of accessories after the fact to felonies
+
+##### Section 399
 
 Any person who becomes an accessory after the fact to a misdemeanour is guilty of a misdemeanour.
+
+Punishment of accessories after the fact to misdemeanours
 
 ## SCHEDULE
 

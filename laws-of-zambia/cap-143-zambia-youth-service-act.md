@@ -127,9 +127,9 @@ An Act to establish and provide for the constitution of a Zambia Youth Service B
 
 This Act may be cited as the Zambia Youth Service Act.
 
-### Section 2 — In this Act, unless the context otherwise requires-
+### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "Board" means the Zambia Youth Service Board established under section four;
 

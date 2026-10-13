@@ -91,9 +91,9 @@ PREVENTION OF CRUELTY OF ANIMALS An Act to provide for the prevention of cruelty
 
 This Act may be cited as the Prevention of Cruelty to Animals Act.
 
-### Section 2 — In this Act, unless the context otherwise requires-
+### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "animal" means any horse, mare, gelding, bull, cow, ox, heifer, steer, calf, mule, ass, sheep, lamb, hog, pig, sow, goat, fowl, ostrich, dog, cat, or any other domestic animal, fowl or bird, and shall also include any wild animal, fowl or bird in a state of captivity;
 

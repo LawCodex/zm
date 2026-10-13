@@ -313,9 +313,9 @@ These Regulations may be cited as the Stock Diseases Regulations.
 
 Title
 
-### Section 2 — In these Regulations, unless the context otherwise requires-
+### Section 2 — Interpretation
 
-Interpretation
+In these Regulations, unless the context otherwise requires-
 
 "hide" means the untanned skin of any stock;
 

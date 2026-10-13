@@ -93,9 +93,9 @@ An Act to provide for the eradication of noxious weeds; and to provide for matte
 
 This Act may be cited as the Noxious Weeds Act.
 
-### Section 2 — In this Act, unless the context otherwise requires-
+### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "Chairman" means the Chairman of the Natural Resources Board established by the Natural Resources Act;
 

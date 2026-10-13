@@ -89,7 +89,7 @@ FOREIGN JUDGMENTS (RECIPROCAL ENFORCEMENT) An Act to make provision for the enfo
 
 [16th July, 1937]
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -105,7 +105,7 @@ This Act may be cited as the Foreign Judgments (Reciprocal Enforcement) Act.
 
 (2) For the purposes of this Act, the expression "action in personam" shall not be deemed to include any matrimonial cause or any proceedings in connection with any of the following matters, that is to say, matrimonial matters, administration of the estates of deceased persons, bankruptcy, winding up of companies, lunacy or guardianship of infants. (As amended by G.N. No. 303 of 1964 and S.I. No. 152 of 1965)
 
-### PART II — REGISTRATION OF FOREIGN JUDGMENTSPART II
+### PART II — REGISTRATION OF FOREIGN JUDGMENTS
 
 REGISTRATION OF FOREIGN JUDGMENTS
 
@@ -337,7 +337,7 @@ Interpretation of Part II
 
 (No. 12 of 1959 as amended by G.N. No. 303 of 1964 and S.I. No. 152 of 1965)
 
-### PART III — MISCELLANEOUSPART III
+### PART III — MISCELLANEOUS
 
 MISCELLANEOUS
 
@@ -645,13 +645,15 @@ Form of writ of execution
 
 For the words "which said sum of money and interest were lately before us in the High Court for Zambia", etc., there shall be substituted the words "which said sum of money and interest were lately in ............................................................................................ (describing the court in which judgment was obtained)", etc., "and which judgment has been duly registered in the High Court for Zambia pursuant to Part II of the Foreign Judgments (Reciprocal Enforcement) Act". (As amended by No. 152 of 1965)
 
-#### Section 14 — Determination of certain questions
+#### Section 14
 
 If, whether under the Act or under these Rules, any question arises whether a foreign judgment can be enforced by execution in the country of the original court, or what interest is payable under the foreign judgment under the law of that country, that question shall be determined in accordance with such provisions, if any, in that behalf, as are contained in the Order extending the Act to that country.
 
+Determination of certain questions
+
 (As amended by No. 303 of 1964)
 
-#### Section 15 — Certified copy of High Court judgment
+#### Section 15
 
 (1) An application under section twelve of the Act for a certified copy of a judgment obtained in the High Court shall be made ex parte to the Registrar on an affidavit made by the judgment creditor or his solicitor.
 
@@ -691,9 +693,11 @@ a certificate giving particulars of the proceedings in which the judgment was ob
 
 a certificate stating the rate at which the judgment carries interest. (As amended by No. 152 of 1965)
 
-#### Section 16 — Rules to have effect subject to Orders
+#### Section 16
 
 These Rules shall, in relation to any judgment, have effect subject to any such provisions contained in the Order extending the Act to the country of the original court as are declared by the Order to be necessary for giving effect to the agreement made in relation to matters for which provision is made by these Rules.
+
+Rules to have effect subject to Orders
 
 (As amended by No. 303 of 1964)
 

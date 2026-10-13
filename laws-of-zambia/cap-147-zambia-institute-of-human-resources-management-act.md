@@ -201,7 +201,7 @@ Proceedings
 
 An Act to establish the Zambia Institute of Human Resources Management; to provide for its functions; to provide for its membership and organisation; and to provide for matters connected with or incidental to the foregoing. [18th April, 1997]
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -249,7 +249,7 @@ Interpretation
 
 "Vice-Treasurer" means the Vice-Treasurer of the Council elected under sub-paragraph (2) of paragraph (1) of the First Schedule.
 
-### PART II — THE ZAMBIA INSTITUTE OF HUMAN RESOURCES MANAGEMENTPART II
+### PART II — THE ZAMBIA INSTITUTE OF HUMAN RESOURCES MANAGEMENT
 
 THE ZAMBIA INSTITUTE OF HUMAN RESOURCES MANAGEMENT
 
@@ -299,7 +299,7 @@ take proper action on all matters affecting the duties and responsibilities of i
 
 do all such other things as are incidental to the foregoing or conductive to the attainment of the objectives of the Institute.
 
-### PART III — MEMBERSHIPPART III
+### PART III — MEMBERSHIP
 
 MEMBERSHIP
 
@@ -467,7 +467,7 @@ Honorary Fellow, Fellow, Member, Associate, Affiliate or Student of the Zambia I
 
 Penalty for improper use of title or description
 
-### PART IV — THE HUMAN RESOURCES MANAGEMENT COUNCILPART IV
+### PART IV — THE HUMAN RESOURCES MANAGEMENT COUNCIL
 
 THE HUMAN RESOURCES MANAGEMENT COUNCIL
 
@@ -503,7 +503,7 @@ confer certificate on persons who are successful candidates conducted by the Cou
 
 do all such other things as are incidental to the foregoing or conducive to the attainment of the objectives of the Institute.
 
-### PART V — THE DISCIPLINARY COMMITTEEPART V
+### PART V — THE DISCIPLINARY COMMITTEE
 
 THE DISCIPLINARY COMMITTEE
 
@@ -685,7 +685,7 @@ make the member aware of the member's right to call witnesses and to be assisted
 
 Rules relating to disciplinary procedure
 
-### PART VI — MISCELLANEOUSPART VI
+### PART VI — MISCELLANEOUS
 
 MISCELLANEOUS
 

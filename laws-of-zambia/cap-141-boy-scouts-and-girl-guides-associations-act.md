@@ -59,9 +59,9 @@ An Act to control the activities and protect the interests of Boy Scouts and Gir
 
 This Act may be cited as the Boy Scouts and Girl Guides Associations Act.
 
-### Section 2 — In this Act, unless the context otherwise requires-
+### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "the Boy Scouts Association" means the Boy Scouts Association incorporated under the Royal Charter granted on the 4th January, 1912;
 

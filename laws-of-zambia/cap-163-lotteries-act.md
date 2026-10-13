@@ -91,9 +91,9 @@ CHAPTER 163 LOTTERIES An Act to provide for the control and regulation of lotter
 
 This Act may be cited as the Lotteries Act.
 
-### Section 2 — In this Act, unless the context otherwise requires-
+### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "Board" means the Lotteries Control Board established under the provisions of section four;
 

@@ -87,9 +87,9 @@ An Act to provide for penalties for the practice of witchcraft; and to provide f
 
 This Act may be cited as the Witchcraft Act.
 
-### Section 2 — In this Act, unless the context otherwise requires-
+### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "act complained of" includes any death, injury, damage, disease or calamity, whether of an accidental or of a tortious character;
 
@@ -125,7 +125,9 @@ Whoever shall be proved to be by habit or profession a witch doctor or witch fin
 
 (As amended by No. 47 of 1948, No. 31 of 1952, No. 26 of 1993 and Act No. 13 of 1994)
 
-### Section 5 — Any person who-
+### Section 5 — Penalty for professing knowledge of witchcraft
+
+Any person who-
 
 (a)
 
@@ -134,8 +136,6 @@ represents himself as able by supernatural means to cause fear, annoyance, or in
 (b)
 
 pretends to exercise any kind of supernatural power, witchcraft, sorcery or enchantment calculated to cause such fear, annoyance or injury;
-
-Penalty for professing knowledge of witchcraft
 
 shall be liable to a fine of not more than one thousand five hundred penalty units or to imprisonment with or without hard labour for any term not exceeding two years. (No. 47 of 1948 as amended by Act No. 26 of 1993 and Act No. 13 of 1994)
 
@@ -159,7 +159,9 @@ shall be liable upon conviction to the punishments provided by section four.
 
 Acts constituting witchcraft
 
-### Section 7 — Whoever employs or solicits any person-
+### Section 7 — Employment or solicitation of persons in matters of witchcraft
+
+Whoever employs or solicits any person-
 
 (a)
 

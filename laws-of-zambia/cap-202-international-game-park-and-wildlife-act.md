@@ -77,9 +77,9 @@ This Act may be cited as the International Game Park and Wildlife Act.
 
 Short title
 
-### Section 2 — In this Act, unless the context otherwise requires-
+### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "lessee" means the person to whom the International Game Park is let on a lease;
 

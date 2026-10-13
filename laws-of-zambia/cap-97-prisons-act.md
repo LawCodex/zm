@@ -673,9 +673,9 @@ PART I PRELIMINARYPART I PRELIMINARY
 
 This Act may be cited as the Prisons Act.
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "appellant prisoner" means any convicted criminal prisoner who is detained in prison as a result of a conviction which is the subject-matter of an appeal, notice of which has been accepted but the decision in regard to which has not been given;
 
@@ -757,7 +757,7 @@ Cap. 53
 
 "youth corrective centre" means any building, enclosure or place, or any part thereof declared to be a youth corrective centre under section one hundred and thirty-three.
 
-### PART II — ESTABLISHMENT AND CONTROL OF PRISONSPART II
+### PART II — ESTABLISHMENT AND CONTROL OF PRISONS
 
 ESTABLISHMENT AND CONTROL OF PRISONS
 
@@ -809,7 +809,7 @@ Provided that no such police officer shall by reason of this section be a member
 
 In every prison in which women prisoners are imprisoned there shall be women prison officers who shall have the care and the superintendence of the women prisoners, and who shall be responsible for their discipline.
 
-### PART III — CONSTITUTION AND ADMINISTRATIONPART III
+### PART III — CONSTITUTION AND ADMINISTRATION
 
 CONSTITUTION AND ADMINISTRATION
 
@@ -871,7 +871,7 @@ to inquire into and report to him on the conduct, management or administration o
 
 Cap. 41
 
-### PART IV — APPOINTMENT AND DUTIES OF MEDICAL OFFICERSPART IV
+### PART IV — APPOINTMENT AND DUTIES OF MEDICAL OFFICERS
 
 APPOINTMENT AND DUTIES OF MEDICAL OFFICERS
 
@@ -955,7 +955,7 @@ Upon the death of a prisoner, the officer in charge shall at once notify a magis
 
 Notification of death of prisoner Cap. 36
 
-### PART V — POWERS, DUTIES AND PRIVILEGES OF PRISON OFFICERSPART V
+### PART V — POWERS, DUTIES AND PRIVILEGES OF PRISON OFFICERS
 
 POWERS, DUTIES AND PRIVILEGES OF PRISON OFFICERS
 
@@ -1061,7 +1061,7 @@ Provided that the photographs, measurements, footprints and casts thereof, palm 
 
 (2) No proof of the signature of such Judge or magistrate as aforesaid shall be required unless the court has reason to doubt the genuineness thereof and, where it is proved that the signature is not genuine, any act done by the prison officer under or in pursuance of the warrant shall nevertheless be lawful and judgment shall be given in favour of the prison officer if it is proved that, at the time when the act complained of was committed, he believed on reasonable grounds that the signature was genuine.
 
-### PART VI — OFFENCES BY AND IN RELATION TO PRISON OFFICERSPART VI
+### PART VI — OFFENCES BY AND IN RELATION TO PRISON OFFICERS
 
 OFFENCES BY AND IN RELATION TO PRISON OFFICERS
 
@@ -1093,7 +1093,9 @@ Any person who by any means, directly or indirectly, procures or persuades, or a
 
 Any prison officer who shall assault, threaten or insult any officer senior to him in the Service, when such senior officer is on duty or when such assault, threat or insult shall relate or be consequent upon the discharge of duty by the officer assaulted, threatened or insulted, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding three thousand penalty units or to imprisonment for a period not exceeding one year, or to both. (As amended by Act No. 13 of 1994)
 
-#### Section 37 — Every prison officer who without lawful authority-
+#### Section 37 — Miscellaneous offences by prison officers
+
+Every prison officer who without lawful authority-
 
 (a)
 
@@ -1167,7 +1169,7 @@ Cap. 269
 
 (As amended by Act No. 13 of 1994)
 
-### PART VII — DISCIPLINE OF PRISON OFFICERSPART VII
+### PART VII — DISCIPLINE OF PRISON OFFICERS
 
 DISCIPLINE OF PRISON OFFICERS
 
@@ -1681,7 +1683,7 @@ in any case, the Commissioner or any other prison officer not below the rank of 
 
 where a prison officer below the rank of Superintendent receives a free pardon or his conviction is quashed on appeal, pay shall accrue for any period when he was undergoing any sentence of imprisonment.
 
-### PART VIII — ADMISSION AND CONTROL OF PRISONERSPART VIII
+### PART VIII — ADMISSION AND CONTROL OF PRISONERS
 
 ADMISSION AND CONTROL OF PRISONERS
 
@@ -1749,7 +1751,7 @@ Every prisoner shall be searched on admission, and at such time subsequently as 
 
 (8) The proceeds of the sale of property sold under subsection (7) and any money specified in the notice mentioned in subsection (6) which is not paid to a claimant shall be paid into the general revenues of the Republic.
 
-### PART IX — CLASSIFICATION, CUSTODY AND REMOVAL OF PRISONERSPART IX
+### PART IX — CLASSIFICATION, CUSTODY AND REMOVAL OF PRISONERS
 
 CLASSIFICATION, CUSTODY AND REMOVAL OF PRISONERS
 
@@ -1889,7 +1891,7 @@ Provided that nothing shall be done under the authority of this section which, i
 
 The period during which a prisoner is detained in any hospital, leprosarium or institution under section seventy, seventy-one or seventy-two shall be reckoned as part of his period of imprisonment.
 
-### PART X — EMPLOYMENT OF PRISONERSPART X
+### PART X — EMPLOYMENT OF PRISONERS
 
 EMPLOYMENT OF PRISONERS
 
@@ -1911,7 +1913,7 @@ Provided that the medical officer may excuse a prisoner from work or order that 
 
 (2) Appellant prisoners shall be required to keep their cells, the precincts thereof and the furniture, clothing and utensils therein, clean and to perform such labour as the officer in charge, with the approval of the Commissioner, may direct.
 
-### PART XI — ESCAPES, PROHIBITED ARTICLES AND AREASPART XI
+### PART XI — ESCAPES, PROHIBITED ARTICLES AND AREAS
 
 ESCAPES, PROHIBITED ARTICLES AND AREAS
 
@@ -1999,7 +2001,9 @@ Any person, other than a prison officer, who is found in possession of any artic
 
 (As amended by Act No. 13 of 1994)
 
-#### Section 83 — Subject to the provisions of this Act, any person, other than a prisoner, who-
+#### Section 83 — Assisting prisoner to escape
+
+Subject to the provisions of this Act, any person, other than a prisoner, who-
 
 (a)
 
@@ -2039,7 +2043,7 @@ Any person harbouring or employing a prisoner whom he knows to be unlawfully at 
 
 The officer in charge shall cause to be affixed in a conspicuous place outside the prison a notice setting forth the acts prohibited under sections seventy-seven, eighty and eighty-two and the penalties which may be incurred by their commission.
 
-### PART XII — CIVIL AND UNCONVICTED PRISONERSPART XII
+### PART XII — CIVIL AND UNCONVICTED PRISONERS
 
 CIVIL AND UNCONVICTED PRISONERS
 
@@ -2055,7 +2059,7 @@ No food, clothing, or other necessaries permitted under the provisions of sectio
 
 If a civil prisoner or an unconvicted prisoner does not provide himself with food and clothing, he shall receive the normal prison food, clothing and other necessaries.
 
-### PART XIII — DISCIPLINE OF PRISONERSPART XIII
+### PART XIII — DISCIPLINE OF PRISONERS
 
 DISCIPLINE OF PRISONERS
 
@@ -2487,7 +2491,7 @@ Special provisions relating to punishments of separate confinement with penal di
 
 Any punishments lawfully imposed, other than corporal punishment, may be carried out partly in one prison and partly in another.
 
-### PART XIV — REMISSION OF SENTENCEPART XIV
+### PART XIV — REMISSION OF SENTENCE
 
 REMISSION OF SENTENCE
 
@@ -2555,7 +2559,7 @@ be credited with the full amount of remission he can earn, from which shall be d
 
 (4) The commissioner may restore in whole or in part any remission forfeited or lost under the provisions of this Act including any remission forfeited or lost before the commencement of this Act.
 
-### PART XV — DISCHARGE AND PAROLEPART XV
+### PART XV — DISCHARGE AND PAROLE
 
 DISCHARGE AND PAROLE
 
@@ -2599,7 +2603,7 @@ A prisoner on discharge from prison shall be entitled to travelling expenses to 
 
 (3) An order made under subsection (2) shall be sufficient authority for the arrest of the prisoner to whom it relates as if it were a warrant of arrest issued by a magistrate.
 
-### PART XVI — COMPULSORY AFTER CARE ORDERSPART XVI
+### PART XVI — COMPULSORY AFTER CARE ORDERS
 
 COMPULSORY AFTER CARE ORDERS
 
@@ -2643,7 +2647,7 @@ he shall be guilty of an offence and shall on conviction be sentenced to impriso
 
 (5) Notwithstanding the provisions of subsection (1) of section one hundred and seventeen, the Commissioner may at any time make a further compulsory after care order in respect of a prisoner where a prior compulsory after care order made in respect of that prisoner has ceased to have effect under subsection (4).
 
-### PART XVII — REPORT ON LONG TERM PRISONERSPART XVII
+### PART XVII — REPORT ON LONG TERM PRISONERS
 
 REPORT ON LONG TERM PRISONERS
 
@@ -2679,7 +2683,7 @@ a statement by the medical officer on the mental and bodily condition of each pr
 
 (4) A report in respect of any prisoner other than a prisoner detained during the President's pleasure shall be forwarded to the Minister.
 
-### PART XVIII — PRISONERS UNDER SENTENCE OF DEATHPART XVIII
+### PART XVIII — PRISONERS UNDER SENTENCE OF DEATH
 
 PRISONERS UNDER SENTENCE OF DEATH
 
@@ -2809,7 +2813,7 @@ obtained the written permission of the Commissioner may be admitted to any priso
 
 Visits of probation officers and representatives of prisoners' aid societies
 
-### PART XX — YOUTH CORRECTIVE CENTRESPART XX
+### PART XX — YOUTH CORRECTIVE CENTRES
 
 YOUTH CORRECTIVE CENTRES
 
@@ -2841,7 +2845,7 @@ no person shall be ordered or sentenced to undergo corrective training in a yout
 
 (2) Every person ordered or sentenced to undergo corrective training in a youth corrective centre shall be deemed to be a prisoner for the purposes of this Act, including remission of sentence.
 
-### PART XXI — EXTRA-MURAL PENAL EMPLOYMENTPART XXI
+### PART XXI — EXTRA-MURAL PENAL EMPLOYMENT
 
 EXTRA-MURAL PENAL EMPLOYMENT
 
@@ -2917,7 +2921,7 @@ is otherwise found by the court to have been unsatisfactory in his conduct;
 
 shall be guilty of an offence and, notwithstanding that he is undergoing the imprisonment to which he is liable in accordance with subsection (6), shall be liable to a fine not exceeding one thousand and five hundred penalty units or to imprisonment for a period not exceeding six months, or to both. (As amended by Act No. 13 of 1994)
 
-### PART XXII — MISCELLANEOUSPART XXII
+### PART XXII — MISCELLANEOUS
 
 MISCELLANEOUS
 
@@ -3007,7 +3011,7 @@ Nothing in this Act shall exempt any person from being proceeded against under a
 
 Provided that no person shall be punished twice for the same offence.
 
-### PART XXIII — RULES, REPEALS AND SAVINGSPART XXIII
+### PART XXIII — RULES, REPEALS AND SAVINGS
 
 RULES, REPEALS AND SAVINGS
 
@@ -3131,7 +3135,7 @@ PRISONS THE PRISONS RULES
 
 ARRANGEMENT OF RULES
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -3147,7 +3151,7 @@ Interpretation
 
 Manner of applying Rules
 
-### PART II — ADMINISTRATIONPART II
+### PART II — ADMINISTRATION
 
 ADMINISTRATION
 
@@ -3295,7 +3299,7 @@ Control of expenditure
 
 Annual report to Commissioner
 
-### PART III — ADMISSION AND CONTROL OF PRISONERSPART III
+### PART III — ADMISSION AND CONTROL OF PRISONERS
 
 ADMISSION AND CONTROL OF PRISONERS
 
@@ -3379,7 +3383,7 @@ Computation of sentences
 
 Special clothing for appearance in court
 
-### PART IV — PROGRESSIVE STAGE SYSTEMPART IV
+### PART IV — PROGRESSIVE STAGE SYSTEM
 
 PROGRESSIVE STAGE SYSTEM
 
@@ -3427,7 +3431,7 @@ Commissioner may make special promotions
 
 Commissioner may grant additional privileges
 
-### PART V — LETTERS AND VISITSPART V
+### PART V — LETTERS AND VISITS
 
 LETTERS AND VISITS
 
@@ -3479,7 +3483,7 @@ Letters and visits to unconvicted prisoners
 
 Visitors to dangerously sick prisoners
 
-### PART VI — PETITIONS AND COMPLAINTSPART VI
+### PART VI — PETITIONS AND COMPLAINTS
 
 PETITIONS AND COMPLAINTS
 
@@ -3491,7 +3495,7 @@ Petitions by prisoners
 
 Prisoners' complaints and applications
 
-### PART VII — EMPLOYMENT OF PRISONERSPART VII
+### PART VII — EMPLOYMENT OF PRISONERS
 
 EMPLOYMENT OF PRISONERS
 
@@ -3555,7 +3559,7 @@ Employment of prisoners in disciplinary capacity
 
 Work on Sundays and public holidays
 
-### PART VIII — ESCAPES, PROHIBITED ARTICLES AND AREASPART VIII
+### PART VIII — ESCAPES, PROHIBITED ARTICLES AND AREAS
 
 ESCAPES, PROHIBITED ARTICLES AND AREAS
 
@@ -3579,7 +3583,7 @@ Period at large not to count as served
 
 Prohibited articles
 
-### PART IX — CIVIL AND UNCONVICTED PRISONERSPART IX
+### PART IX — CIVIL AND UNCONVICTED PRISONERS
 
 CIVIL AND UNCONVICTED PRISONERS
 
@@ -3611,7 +3615,7 @@ Modification of prison routine and withdrawal of privileges
 
 Maintenance of judgment debtors
 
-### PART X — DISCIPLINE OF PRISONERSPART X
+### PART X — DISCIPLINE OF PRISONERS
 
 DISCIPLINE OF PRISONERS
 
@@ -3663,7 +3667,7 @@ Commissioner may vary punishment
 
 Use of mechanical restraints
 
-### PART XI — REMISSION OF SENTENCEPART XI
+### PART XI — REMISSION OF SENTENCE
 
 REMISSION OF SENTENCE
 
@@ -3695,7 +3699,7 @@ Release on day after earning total remission
 
 Remission in regard to part payment of fines
 
-### PART XII — DISCHARGE AND PAROLEPART XII
+### PART XII — DISCHARGE AND PAROLE
 
 DISCHARGE AND PAROLE
 
@@ -3715,7 +3719,7 @@ Conditions of temporary release
 
 Recommendations by officer in charge
 
-### PART XIII — COMPULSORY AFTER CARE ORDERSPART XIII
+### PART XIII — COMPULSORY AFTER CARE ORDERS
 
 COMPULSORY AFTER CARE ORDERS
 
@@ -3739,7 +3743,7 @@ Contravention of order to be reported to Commissioner
 
 Report of prisoners liable to order
 
-### PART XIV — PRISONERS UNDER SENTENCE OF DEATHPART XIV
+### PART XIV — PRISONERS UNDER SENTENCE OF DEATH
 
 PRISONERS UNDER SENTENCE OF DEATH
 
@@ -3823,7 +3827,7 @@ Retention of religious objects by prisoners
 
 Payment of travelling expenses
 
-### PART XVI — STAFF WELFARE FUNDPART XVI
+### PART XVI — STAFF WELFARE FUND
 
 STAFF WELFARE FUND
 
@@ -3835,7 +3839,7 @@ Establishment of Fund
 
 Administration of Fund
 
-### PART XVII — EXTRA-MURAL PENAL EMPLOYMENTPART XVII
+### PART XVII — EXTRA-MURAL PENAL EMPLOYMENT
 
 EXTRA-MURAL PENAL EMPLOYMENT
 
@@ -3851,7 +3855,7 @@ Admission to hospital
 
 Diet
 
-### PART XVIII — YOUTH CORRECTIVE CENTRESPART XVIII
+### PART XVIII — YOUTH CORRECTIVE CENTRES
 
 YOUTH CORRECTIVE CENTRES
 
@@ -3907,7 +3911,7 @@ Diet
 
 Clothing
 
-### PART XIX — MISCELLANEOUSPART XIX
+### PART XIX — MISCELLANEOUS
 
 MISCELLANEOUS
 
@@ -3939,7 +3943,7 @@ SECTION 146-THE PRISONS RULES Rules by the Minister
 
 Statutory Instruments 388 of 1966 134 of 1968 178 of 1968 243 of 1968 108 of 1971 79 of 1973 123 of 1982 147 of 1983 137 of 1990
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -3985,7 +3989,7 @@ in the control of prisoners, prison officers shall seek to influence them, throu
 
 at all times the treatment of prisoners shall be such as to encourage their self-respect and a sense of personal responsibility, so as to rebuild their morale, to inculcate in them habits of good citizenship and hard work, to encourage them to lead a good and useful life on discharge and to fit them to do so.
 
-### PART II — ADMINISTRATIONPART II
+### PART II — ADMINISTRATION
 
 ADMINISTRATION
 
@@ -4763,7 +4767,7 @@ time.
 
 Duties of a senior woman prison officer
 
-### PART III — ADMISSION AND CONTROL OF PRISONERSPART III
+### PART III — ADMISSION AND CONTROL OF PRISONERS
 
 ADMISSION AND CONTROL OF PRISONERS
 
@@ -4905,7 +4909,7 @@ Special clothing for appearance in court
 
 (2) If the private clothing of a prisoner is not suitable or sufficient for the purpose of his appearance in court, he shall be provided with garments which are not of a prison pattern.
 
-### PART IV — PROGRESSIVE STAGE SYSTEMPART IV
+### PART IV — PROGRESSIVE STAGE SYSTEM
 
 PROGRESSIVE STAGE SYSTEM
 
@@ -5111,7 +5115,7 @@ Commissioner may grant additional privileges
 
 (2) Prisoners in all stages shall be eligible to receive suitable books or periodicals of an educational nature subject to such directions as the Commissioner may from time to time give.
 
-### PART V — LETTERS AND VISITSPART V
+### PART V — LETTERS AND VISITS
 
 LETTERS AND VISITS
 
@@ -5229,7 +5233,7 @@ for sending and receiving letters consistent with the discipline of the prison.
 
 Visitors to dangerously sick prisoners
 
-### PART VI — PETITIONS AND COMPLAINTSPART VI
+### PART VI — PETITIONS AND COMPLAINTS
 
 PETITIONS AND COMPLAINTS
 
@@ -5269,7 +5273,7 @@ Prisoners' complaints and applications
 
 (3) All complaints and applications made by prisoners shall be heard or attended to by the officer in charge every day except Sundays or public holidays, and the officer in charge shall record in a book kept for the purpose the action taken in each case.
 
-### PART VII — EMPLOYMENT OF PRISONERSPART VII
+### PART VII — EMPLOYMENT OF PRISONERS
 
 EMPLOYMENT OF PRISONERS
 
@@ -5331,11 +5335,11 @@ Prisoners unfit for normal labour
 
 (2) A prisoner who has been classified as unfit for any type of labour shall be permitted to exercise for one hour each day if he is fit enough to do so.
 
-#### Section 148 — Exercise for special prisoners
+#### Section 148
 
 All prisoners who are not employed in association with one another or who are employed on sedentary work, such as tailoring or mat-making, shall, if circumstances permit, be permitted to exercise in the open air for one hour each day.
 
-#### Section 149 — Type and record of prisoners' labour
+#### Section 149
 
 The officer in charge shall ensure that-
 
@@ -5355,21 +5359,29 @@ Exercise for special prisoners
 
 Type and record of prisoners' labour
 
-#### Section 150 — Commissioner to prescribe hours of labour
+#### Section 150
 
 The hours of labour for prisoners shall be prescribed by the Commissioner and different hours may be prescribed for different classes of prisoners.
 
-#### Section 151 — Entries in employment book
+Commissioner to prescribe hours of labour
+
+#### Section 151
 
 At each prison a record of the daily work of the prisoners shall be kept by the officer in charge in such form as the Commissioner may direct.
 
-#### Section 152 — Allocation of labour to prisoners
+Entries in employment book
+
+#### Section 152
 
 The officer in charge shall personally assign to each criminal prisoner the type of work or labour to which he is best suited, but before doing so the officer in charge shall give consideration to the necessity of affording each prisoner the best training which his sentence, his capacity and the resources of the prison allow and to the recommendations, if any, of the medical officer.
 
-#### Section 153 — Ratio of escorts to working parties
+Allocation of labour to prisoners
+
+#### Section 153
 
 The officer in charge shall decide, with particular regard to security, the proportion of prison officers to prisoners in working parties of more than four prisoners where such working parties are employed outside the precincts of the prison.
+
+Ratio of escorts to working parties
 
 154 (1) Subject to the provisions of this rule, no prisoner shall be hired out to or placed at the disposal of-
 
@@ -5395,15 +5407,17 @@ Provided that such prisoner shall work under the supervision or control of a pri
 
 #### Section 154A — Revoked by S.I. No. 123 of 1982
 
-#### Section 155 — Employment of prisoners in disciplinary capacity
+#### Section 155
 
 No prisoner shall be employed in any disciplinary capacity.
 
-#### Section 156 — Work on Sundays and public holidays
+#### Section 156
 
 (1) Subject to sub-rule (3), no prisoner shall be required to do any labour on Sundays or public holidays except such labour as may be necessary for keeping the prison premises clean and for cooking prisoners' rations.
 
 Employment of prisoners in disciplinary capacity
+
+Work on Sundays and public holidays
 
 (2) The officer in charge shall ensure that on public holidays properly organised recreation and exercise are arranged for the prisoners.
 
@@ -5413,15 +5427,17 @@ Employment of prisoners in disciplinary capacity
 
 (5) The Commissioner may issue such other orders as may, in his opinion, be necessary in regard to the days on which prisoners who are members of religious communities not specifically mentioned in sub-rules (3) and (4) shall not be required to engage in labour.
 
-### PART VIII — ESCAPES, PROHIBITED ARTICLES AND AREASPART VIII
+### PART VIII — ESCAPES, PROHIBITED ARTICLES AND AREAS
 
 ESCAPES, PROHIBITED ARTICLES AND AREAS
 
-#### Section 157 — Duty of officers to prevent escape of prisoners
+#### Section 157
 
 It shall be the duty of all prison officers at all times to prevent the escape of prisoners and, for the purpose of giving effect to this rule, no ladders, planks, ropes, chains or anything fit to facilitate the escape of prisoners shall be left unsecured in a prison.
 
-#### Section 158 — Action in event of escape of prisoner
+Duty of officers to prevent escape of prisoners
+
+#### Section 158
 
 (1) Upon receiving a report of an escape of a prisoner, the officer in charge shall-
 
@@ -5441,19 +5457,25 @@ Action in event of escape of prisoner
 
 (2) The officer in charge shall, as soon as may be after receiving a report of an escape of a prisoner, hold an inquiry about such escape and shall submit a full report to the Commissioner.
 
-#### Section 159 — Potential escapees
+#### Section 159
 
 (1) A prisoner who, during a previous detention in lawful custody, has escaped or attempted to escape, shall be considered and treated as a potential security risk unless excluded personally by the officer in charge for any reason.
 
+Potential escapees
+
 (2) A prisoner to whom sub-rule (1) applies shall be required to wear clothing with a distinctive mark.
 
-#### Section 160 — Period at large not to count as served
+#### Section 160
 
 The period during which a prisoner is at large shall not be counted as part of the sentence he was undergoing at the time of his escape.
 
-#### Section 161 — Prohibited articles
+Period at large not to count as served
+
+#### Section 161
 
 (1) No prisoner shall, save as is provided in the Act, these Rules or Standing Orders, have in his possession money, food, clothing, liquor, tobacco, cigarettes, letters, papers, books, stupefying drinks, drugs or any other prohibited article.
+
+Prohibited articles
 
 (2) If a prison officer has reason to suspect that a prisoner is in possession of a prohibited article, he shall, subject to the provisions of section fifty-eight of the Act and rule 71, carry out a special search of-
 
@@ -5465,19 +5487,23 @@ such prisoner and may remove his clothing out of sight of other prisoners and th
 
 the cell occupied by such prisoner if he considers it necessary.
 
-### PART IX — CIVIL AND UNCONVICTED PRISONERSPART IX
+### PART IX — CIVIL AND UNCONVICTED PRISONERS
 
 CIVIL AND UNCONVICTED PRISONERS
 
-#### Section 162 — Unconvicted prisoners to be segregated
+#### Section 162
 
 (1) No civil prisoner or unconvicted prisoner shall be confined in association with convicted prisoners.
 
+Unconvicted prisoners to be segregated
+
 (2) Civil prisoners and unconvicted prisoners may be permitted during their periods of exercise to associate together in an orderly manner and to smoke under such conditions as the Commissioner may prescribe.
 
-#### Section 163 — Private clothing
+#### Section 163
 
 (1) A civil prisoner or an unconvicted prisoner may be permitted to wear his own clothing and may be permitted to procure for himself or to receive such articles of clothing at such times as the officer in charge may approve:
+
+Private clothing
 
 Provided that any such prisoner not having proper clothing of his own shall be provided with prison clothing.
 
@@ -5485,27 +5511,37 @@ Provided that any such prisoner not having proper clothing of his own shall be p
 
 (3) The officer in charge may require any civil prisoner or unconvicted prisoner who attempts to escape to wear prison clothing.
 
-#### Section 164 — Disinfection of prisoner's clothing
+#### Section 164
 
 The officer in charge or the medical officer may, for the purposes of preventing the introduction or spread of infectious disease in a prison, order that any clothing permitted to be worn by a prisoner under sub-rule (1) of rule 163 be disinfected and during the process of disinfection the prisoner may be required to wear prison clothing.
 
-#### Section 165 — Persons charged with capital offence
+Disinfection of prisoner's clothing
+
+#### Section 165
 
 A prisoner charged with a capital offence shall be kept under special observation at all times.
 
-#### Section 166 — Private medical advice
+Persons charged with capital offence
+
+#### Section 166
 
 A prisoner who is on remand or awaiting trial shall, if necessary for the purposes of his defence, be allowed to see a registered medical practitioner of his own choice, at any reasonable time, in the sight but not in the hearing of the officer in charge or any prison officer detailed by the officer in charge for the purpose.
 
-#### Section 167 — Modification of prison routine and withdrawal of privileges
+Private medical advice
+
+#### Section 167
 
 (1) The officer in charge may modify the routine of the prison in regard to any civil prisoner or unconvicted prisoner so as to dispense with any practice which, in the opinion of the officer in charge, is clearly unnecessary or unsuitable in respect of such particular prisoner.
 
+Modification of prison routine and withdrawal of privileges
+
 (2) Any privilege allowed under this Part may at any time be withdrawn by the officer in charge if he is satisfied that there has been abuse thereof.
 
-#### Section 168 — Maintenance of judgment debtors
+#### Section 168
 
 (1) The amount of money to be paid for the daily maintenance of a judgment debtor shall be prescribed by the Minister and shall be paid weekly in advance.
+
+Maintenance of judgment debtors
 
 (2) The officer in charge shall not admit to his prison any person as a judgment debtor unless he has received from the judgment creditor payment of one week's maintenance in advance.
 
@@ -5527,33 +5563,39 @@ upon the giving up by the judgment creditor of his written consent to the discha
 
 upon an order of the court which committed him to prison.
 
-### PART X — DISCIPLINE OF PRISONERSPART X
+### PART X — DISCIPLINE OF PRISONERS
 
 DISCIPLINE OF PRISONERS
 
-#### Section 169 — Offences by prisoners to be dealt with promptly
+#### Section 169
 
 Every offence against prison discipline committed by a prisoner which comes to the notice of a prison officer shall be reported to the officer in charge and the officer in charge shall investigate such report not later than the following day unless that day be a Sunday or a public holiday.
 
-#### Section 170 — Medical examination of certain prisoners
+Offences by prisoners to be dealt with promptly
+
+#### Section 170
 
 (1) Every prisoner sentenced to penal or reduced diet as a punishment for a prison offence shall, before undergoing such punishment, be examined by the medical officer who shall certify the prisoner's fitness to undergo such punishment.
 
+Medical examination of certain prisoners
+
 (2) A prisoner shall not be made to undergo a punishment of penal or reduced diet within a period of twenty-four hours immediately preceding the day of his discharge or, if circumstances permit, on the day preceding his appearance before a court.
 
-#### Section 171 — Visits to prisoner in separate confinement
+#### Section 171
 
 (1) A prisoner sentenced to separate confinement shall not be entitled to receive visits other than visits by prison officers on duty, a minister of religion or the medical officer, and such prisoner shall have only such outdoor exercise as the medical officer may certify to be absolutely necessary for his health.
+
+Visits to prisoner in separate confinement
 
 (2) Every prisoner who is in separate confinement or who is subjected to a penal or reduced diet as a punishment for a prison offence shall be visited at least once a day by the officer in charge.
 
 (3) The medical officer shall visit a prisoner who is in separate confinement as often as is practicable.
 
-#### Section 172 — Prevention of injury when corporal punishment is inflicted
+#### Section 172
 
 The medical officer shall, at the infliction of every sentence of corporal punishment on a prisoner, give such instructions as may be necessary for preventing injury to the health of the prisoner and the officer in charge shall carry such instructions into effect.
 
-#### Section 173 — Type of cane and corporal punishment
+#### Section 173
 
 (1) For the purpose of subsection (5) of section one hundred and two of the Act-
 
@@ -5589,9 +5631,11 @@ Prevention of injury when corporal punishment is inflicted
 
 Type of cane and corporal punishment
 
-#### Section 174 — Corporal punishment book
+#### Section 174
 
 The officer in charge shall enter in the corporal punishment book the time at which corporal punishment has been inflicted, the number of strokes inflicted and any order which the medical officer may have given as to the prohibition of corporal punishment.
+
+Corporal punishment book
 
 #### Section 175 — A return of all corporal punishments ordered and all such punishments
 
@@ -5599,7 +5643,7 @@ inflicted shall be submitted by the officer in charge to the Commissioner monthl
 
 Returns of punishments to Commissioner
 
-#### Section 176 — Entries in prisoners' punishment book
+#### Section 176
 
 The officer in charge shall-
 
@@ -5611,17 +5655,19 @@ enter in the prisoners' punishment book a record of every prisoner punished unde
 
 enter in the prisoner's record a record of punishment of the prisoner.
 
-#### Section 177 — Certain prisoners may be denied privileges
+#### Section 177
 
 (1) When a prisoner is placed in separate confinement as a punishment for a prison offence and when a prisoner is awaiting the hearing of a charge against him for a prison offence, the bedding, accessories and clothing which he is not wearing at the time and all the cell equipment, other than the latrine equipment, may be removed from his cell.
 
 Entries in prisoners' punishment book
 
+Certain prisoners may be denied privileges
+
 (2) A prisoner in separate confinement may be supplied with a book of a religious nature.
 
 (3) A prisoner in separate confinement shall be exercised for one hour each day and during such period he shall be required to bathe himself.
 
-#### Section 178 — Visits to prisoners in separate confinement
+#### Section 178
 
 The officer in charge shall ensure that every prisoner placed in separate confinement shall(a)
 
@@ -5631,13 +5677,19 @@ be visited by the chief officer not less than twice a day;
 
 be visited by any prison officer other than the chief officer at intervals of not less than thirty minutes.
 
-#### Section 179 — Commissioner may vary punishment
+Visits to prisoners in separate confinement
+
+#### Section 179
 
 The Commissioner may review any punishment imposed under paragraph (b) of subsection (1) of section ninety-three of the Act upon a prisoner found guilty of a prison offence and may vary or remit such punishment.
 
-#### Section 180 — Use of mechanical restraints
+Commissioner may vary punishment
+
+#### Section 180
 
 (1) No prisoner shall be placed under mechanical restraint as a punishment.
+
+Use of mechanical restraints
 
 (2) No prisoner shall be placed in fetters except as means of restraint or to prevent escape of a prisoner and only fetters of a pattern which has been approved by the Commissioner may be used.
 
@@ -5653,11 +5705,11 @@ Provided that any mechanical restraint applied under this sub-rule shall not be 
 
 (4) and the medical certificate issued under this sub-rule shall be preserved by the officer in charge and shall be regarded as his authority for applying such mechanical restraint beyond twenty-four hours.
 
-### PART XI — REMISSION OF SENTENCEPART XI
+### PART XI — REMISSION OF SENTENCE
 
 REMISSION OF SENTENCE
 
-#### Section 181 — Calculation of sentences for remission
+#### Section 181
 
 (1) Where one term of imprisonment is consecutive to another term, such terms shall be treated as one term for the purpose of remission of sentence.
 
@@ -5665,15 +5717,19 @@ REMISSION OF SENTENCE
 
 (3) Where a court orders a fresh sentence "to commence at the expiration of the sentence the prisoner is now serving" or other words to the like effect, the order of the court shall be interpreted literally.
 
+Calculation of sentences for remission
+
 (4) Where a prisoner is sentenced to two or more terms of imprisonment on different counts, such sentences shall be consecutive unless the court orders otherwise.
 
 (5) Where a prisoner is sentenced to several terms of imprisonment on several warrants at the same time, or is sentenced to a further term or terms of imprisonment before the expiration of his first sentence, his several sentences on all the warrants shall be consecutive unless otherwise ordered by the court and the aggregate term shall run from the date of the first warrant.
 
 (6) Any doubt or difficulty regarding the computation of sentences and remission shall be referred to the Commissioner for a ruling.
 
-#### Section 182 — Record of remission to be kept
+#### Section 182
 
 (1) Any remission of sentence due to a prisoner shall be computed upon the prisoner's admission to prison and thereafter as may be necessary.
+
+Record of remission to be kept
 
 (2) The earliest possible date of discharge and the latest possible date of discharge shall be recorded by the officer in charge-
 
@@ -5691,25 +5747,35 @@ on the warrant slip;
 
 and such dates shall be amended by the officer in charge from time to time as may be necessary.
 
-#### Section 183 — Operation of remission of sentences to be explained
+#### Section 183
 
 The operation of the remission of sentences shall be explained to every prisoner on admission and when, for any reason, remission due to a prisoner is forfeited the officer in charge shall ensure that the prisoner is made fully aware of such forfeiture.
 
-#### Section 184 — Prisoners in mental hospital or leprosarium
+Operation of remission of sentences to be explained
+
+#### Section 184
 
 A prisoner who is transferred to a mental hospital or leprosarium shall be entitled to remission of sentence under section one hundred and nine of the Act.
 
-#### Section 185 — Calculation of forfeited remission
+Prisoners in mental hospital or leprosarium
+
+#### Section 185
 
 The period of remission, calculated in days, to which a prisoner shall not be entitled under subsection (4) of section one hundred and nine of the Act, shall be one-third of the number of days spent by the prisoner in hospital or separate confinement.
 
-#### Section 186 — Release on day after earning total remission
+Calculation of forfeited remission
+
+#### Section 186
 
 A prisoner who is entitled to remission of sentence under the Act or these Rules shall be entitled to be discharged on the day after he has completed earning his remission.
 
-#### Section 187 — Remission in regard to part payment of fines
+Release on day after earning total remission
+
+#### Section 187
 
 (1) When a prisoner avails himself of the right to obtain his earlier release by part payment of a fine, he shall be allowed to earn full remission of sentence on the full period of his sentence, less than part for which he has paid, if the balance of the term of imprisonment is more than one calendar month.
+
+Remission in regard to part payment of fines
 
 (2) If part of a fine imposed on a prisoner is paid before the expiration of a period of imprisonment imposed on him in default of payment of such fine, a proportionate reduction in the period of his imprisonment shall be made.
 
@@ -5725,33 +5791,41 @@ the payment of part of a fine shall not be accepted between the hours of 12.30 p
 
 the payment of a fine in full shall be accepted at any time.
 
-### PART XII — DISCHARGE AND PAROLEPART XII
+### PART XII — DISCHARGE AND PAROLE
 
 DISCHARGE AND PAROLE
 
-#### Section 188 — Permit to be at large by Minister
+#### Section 188
 
 Where the Minister permits a young prisoner to be temporarily absent from the prison under the provisions of section one hundred and fifteen of the Act, the Minister shall issue to such young prisoner a permit in the form set out in the Fourth Schedule.
 
-#### Section 189 — Permit to be at large by Commissioner
+Permit to be at large by Minister
+
+#### Section 189
 
 Where the Commissioner permits a prisoner to be absent from prison under sections one hundred and fourteen and one hundred and forty-two of the Act, the Commissioner shall issue to the prisoner a permit in the form set out in the Fifth Schedule.
 
-#### Section 190 — Conditions of temporary release
+Permit to be at large by Commissioner
+
+#### Section 190
 
 Upon a temporary release from prison of a prisoner by the Minister or the Commissioner, the officer in charge shall explain to the prisoner the conditions subject to which he is permitted to be absent from prison.
 
-#### Section 191 — Recommendations by officer in charge
+Conditions of temporary release
+
+#### Section 191
 
 Where the officer in charge considers that a prisoner should be permitted to be absent from prison under the provisions of section one hundred and fourteen, one hundred and fifteen or one hundred and forty-two of the Act, he shall send the necessary recommendation to the Commissioner immediately and shall give particulars, of the prisoner with full and detailed reasons for his recommendations.
 
 Recommenda-tions by officer in charge
 
-### PART XIII — COMPULSORY AFTER CARE ORDERSPART XIII
+### PART XIII — COMPULSORY AFTER CARE ORDERS
 
 COMPULSORY AFTER CARE ORDERS
 
-#### Section 192 — In this Part-
+#### Section 192
+
+In this Part-
 
 Interpretation
 
@@ -5759,35 +5833,47 @@ Interpretation
 
 "order" means a compulsory after care order.
 
-#### Section 193 — Form of order
+#### Section 193
 
 The order shall be in the form set out in the Sixth Schedule.
 
-#### Section 194 — Conditions of release to be explained
+Form of order
+
+#### Section 194
 
 Upon the discharge of a holder from prison, the officer in charge shall explain to him the conditions contained in the order.
 
-#### Section 195 — Contravention of order to be reported to Commissioner
+Conditions of release to be explained
+
+#### Section 195
 
 The person named in the order as being responsible for the after care of the holder shall notify the Commissioner immediately it comes to his knowledge that the holder has failed to comply with any condition of the order.
 
-#### Section 196 — Report of prisoners liable to order
+Contravention of order to be reported to Commissioner
+
+#### Section 196
 
 In every case where a prisoner is serving a sentence of imprisonment for a period of three years or more, and where such prisoner has been sentenced to a term of imprisonment on not less than two previous occasions, the officer in charge shall forward particulars of such prisoner to the Commissioner at least two months before the earliest possible date of his release.
 
-### PART XIV — PRISONERS UNDER SENTENCE OF DEATHPART XIV
+Report of prisoners liable to order
+
+### PART XIV — PRISONERS UNDER SENTENCE OF DEATH
 
 PRISONERS UNDER SENTENCE OF DEATH
 
-#### Section 197 — Transfer of condemned prisoners
+#### Section 197
 
 (1) The Commissioner shall cause a prisoner who has been sentenced to death to be transferred immediately under sufficient escort to the prison in the Republic where the sentence of death is to be carried out, unless such prisoner is already in such prison.
 
+Transfer of condemned prisoners
+
 (2) The officer in charge shall report to the Commissioner the admission of his prison of a prisoner under sentence of death who has been transferred under sub-rule (1) and shall state the date of the sentence, the court imposing the sentence and the offence.
 
-#### Section 198 — Search of condemned prisoners
+#### Section 198
 
 (1) Every prisoner under sentence of death shall be thoroughly searched and all prohibited articles found on him shall be removed from him as soon as may be after his sentence has been delivered.
+
+Search of condemned prisoners
 
 (2) The officer in charge shall cause a prisoner under sentence of death to be searched twice daily by a responsible prison officer and shall take every precaution to ensure that he does not obtain any article with which he may do himself harm or injury.
 
@@ -5803,7 +5889,7 @@ subsequently, on every occasion when such prisoner leaves his cell or room and b
 
 (4) The cell or room in which a prisoner under sentence of death is confined shall not be unlocked save in the presence of at least two prison officers and it shall be thoroughly examined and searched daily while occupied by the condemned prisoner.
 
-#### Section 199 — Appeals by condemned prisoners
+#### Section 199
 
 The officer in charge shall-
 
@@ -5825,13 +5911,17 @@ the period within which a prisoner under sentence of death may lodge an appeal a
 
 Appeals by condemned prisoners
 
-#### Section 200 — Visits by ministers of religion
+#### Section 200
 
 A prisoner under sentence of death shall be asked if he wishes to see a minister of religion and if he so desires arrangements shall be made for a minister of religion to have access to such prisoner.
 
-#### Section 201 — Clothing and bedding
+Visits by ministers of religion
+
+#### Section 201
 
 A prisoner under sentence of death shall be provided with the same kind of clothing, food and bedding as convicted prisoners undergoing imprisonment and may be provided with such other articles as may be approved by the officer in charge
+
+Clothing and bedding
 
 #### Section 202 — All visits made to a prisoner under sentence of death under section one
 
@@ -5839,31 +5929,41 @@ hundred and twenty-one of the Act shall take place in the sight and hearing of a
 
 Visits to condemned prisoners
 
-#### Section 203 — Illness of condemned prisoners
+#### Section 203
 
 (1) A prisoner under sentence of death who becomes sick shall not be removed from the cell set aside for his detention without the authority of the Commissioner.
 
+Illness of condemned prisoners
+
 (2) The medical officer shall not treat any sick prisoner under sentence of death in any place other than the cell set aside for his detention without the authority of the Commissioner.
 
-#### Section 204 — Mental disorder of condemned prisoners
+#### Section 204
 
 (1) Any prison officer who notices anything in the demeanour or behaviour of a prisoner under sentence of death indicating to him that the prisoner has become mentally disordered shall immediately report in writing to the officer in charge.
 
+Mental disorder of condemned prisoners
+
 (2) The officer in charge shall forward any report made to him under sub-rule (1) to the medical officer and the Commissioner.
 
-#### Section 205 — Expenses of visits by certain relatives
+#### Section 205
 
 If the officer in charge is satisfied that the relatives or friends of a prisoner under sentence of death have not the means to pay the costs of their transport to the prison where such prisoner is confined, he may recommend to the Commissioner that the whole or part of the costs be paid to the visiting relatives or friends and the Commissioner may thereupon authorise the necessary expenditure:
 
+Expenses of visits by certain relatives
+
 Provided that the cost of transport authorised under this rule shall be limited to the cost of transport of not more than three relatives or friends of the prisoner.
 
-#### Section 206 — Issue of special luxuries
+#### Section 206
 
 A prisoner under sentence of death may be issued with tobacco, cigarettes, snuff and such other luxuries as the Commissioner may direct.
 
-#### Section 207 — Notice of execution
+Issue of special luxuries
+
+#### Section 207
 
 (1) Upon receipt of a warrant of execution of a prisoner, the officer in charge shall give the prisoner concerned three days' notice of his impending execution.
+
+Notice of execution
 
 (2) A prisoner under sentence of death who has been informed of his impending execution-
 
@@ -5875,19 +5975,23 @@ may be given a special diet and such other privileges as the Commissioner may au
 
 shall be given an opportunity and reasonable facilities therewith to dispose of his property, if any.
 
-#### Section 208 — Disposal of body of executed prisoner
+#### Section 208
 
 The body of an executed prisoner shall be disposed of in accordance with the written instructions of the Commissioner.
 
-#### Section 209 — Expenses of executioners
+Disposal of body of executed prisoner
+
+#### Section 209
 
 Such allowance as the Minister may approve shall be paid to the executioner, assistant executioner and prison officers attending an execution.
+
+Expenses of executioners
 
 ### PART XV — VISITING JUSTICES, OFFICIAL VISITORS, MINISTERS OF RELIGION AND
 
 PRISONERS' AID SOCIETIESPART XV VISITING JUSTICES, OFFICIAL VISITORS, MINISTERS OF RELIGION AND PRISONERS' AID SOCIETIES
 
-#### Section 210 — Visits to prisons by visiting justices, etc
+#### Section 210
 
 (1) During a visit of inspection by a visiting justice or official visitor, neither the officer in charge nor the next senior prison officer shall accompany him, but the officer in charge or next senior officer shall inform such visiting justice or official visitor of any prisoner who has expressed an intention to see him and shall afford him every assistance in his inspection and shall detail a prison officer to accompany him.
 
@@ -5899,39 +6003,51 @@ Visits to prison by visiting justices, etc.
 
 (4) A copy of the official visitor's remarks, together with any comments by the officer in charge, shall be forwarded to the Commissioner immediately after the inspection has taken place.
 
-#### Section 211 — Religious denominations
+#### Section 211
 
 (1) Every prisoner shall be required on admission to a prison to state his religious denomination, if any, and every such prisoner shall be treated as a member of such denomination during his whole term of imprisonment.
 
 (2) No prisoner shall be allowed to change his religion except in special cases in which the officer in charge is satisfied, after due inquiry, that such change is proposed from conscientious motives and that it is not sought from any idle whim or caprice or from a desire to escape from prison discipline.
 
-#### Section 212 — Religious services in prisons
+Religious denominations
+
+#### Section 212
 
 Religious services in prisons shall be in accordance with the provisions of section one hundred and thirty-one of the Act.
 
-#### Section 213 — Supply of religious books
+Religious services in prisons
+
+#### Section 213
 
 There shall, so far as practicable, be available for the use of prisoners such of the Scriptures and books of a religious nature as the Commissioner may direct.
 
-#### Section 214 — Retention of religious objects by prisoners
+Supply of religious books
+
+#### Section 214
 
 Prisoners shall be permitted to retain in their possession articles and publications of a religious nature approved by the minister of the prisoner's religious denomination.
 
-#### Section 215 — Payment of travelling expenses
+Retention of religious objects by prisoners
+
+#### Section 215
 
 The Minister may authorise payment of travelling and subsistence allowances to official visitors, duly recognised ministers of religion and authorised representatives of a prisoners' aid society in respect of their functions under the Act or these Rules.
 
-### PART XVI — STAFF WELFARE FUNDPART XVI
+Payment of travelling expenses
+
+### PART XVI — STAFF WELFARE FUND
 
 STAFF WELFARE FUND
 
-#### Section 216 — Establishment of Fund
+#### Section 216
 
 (1) The Prison Service Staff Welfare Fund shall continue in force and shall be deemed to be established under these Rules and shall be administered by the Commissioner.
 
+Establishment of Fund
+
 (2) The income of the Prison Service Staff Welfare Fund, hereinafter referred to as "the Fund", shall be provided from moneys appropriated by Parliament for the purpose.
 
-#### Section 217 — Administration of Fund
+#### Section 217
 
 (1) The Commissioner shall administer the Fund and such Fund shall be expended for the following objects:
 
@@ -5963,13 +6079,15 @@ purchase of sports and recreation equipment for prison officers and prison emplo
 
 (2) An account book of the Fund shall be kept in the office of the Commissioner in which there shall be entered all amounts of money received, the source from which such amounts of money are received and all payments made therefrom, and the Commissioner shall, at the end of each quarter, furnish copies of the account to the Auditor-General.
 
-### PART XVII — EXTRA-MURAL PENAL EMPLOYMENTPART XVII
+### PART XVII — EXTRA-MURAL PENAL EMPLOYMENT
 
 EXTRA-MURAL PENAL EMPLOYMENT
 
-#### Section 218 — Records to be kept
+#### Section 218
 
 (1) Every person appointed as an authorised officer for the purpose of Part XXI of the Act shall maintain a record of offenders ordered to perform public work under his supervision.
+
+Records to be kept
 
 (2) The record mentioned in sub-rule (1) shall contain the following particulars in respect of every offender so employed:
 
@@ -6003,19 +6121,23 @@ Form of warrant
 
 (As amended by No. 243 of 1968)
 
-#### Section 219 — Admission to hospital
+#### Section 219
 
 Any prisoner who while employed on public work becomes sick shall be medically examined by a medical officer.
 
-#### Section 220 — Diet
+Admission to hospital
+
+#### Section 220
 
 The scale of diet for persons performing work under an order made under section one hundred and thirty-five of the Act shall be in accordance with Part IV of the First Schedule.
 
-### PART XVIII — YOUTH CORRECTIVE CENTRESPART XVIII
+Diet
+
+### PART XVIII — YOUTH CORRECTIVE CENTRES
 
 YOUTH CORRECTIVE CENTRES
 
-#### Section 221 — Youth corrective centres
+#### Section 221
 
 (1) Every inmate shall be detained in one of the following youth corrective centres, hereinafter referred to as "centres", appropriate to his or her age and sex, namely:
 
@@ -6043,7 +6165,7 @@ Provided that an inmate under the age of eighteen years may be detained in a sen
 
 (3) An inmate who has escaped from lawful custody and who has been recaptured shall be transferred immediately to a prison other than a youth corrective centre.
 
-#### Section 222 — Grading of inmates
+#### Section 222
 
 (1) Upon admission to a centre an inmate shall be placed in Grade I.
 
@@ -6061,43 +6183,61 @@ Grading of inmates
 
 (3) Inmates promoted to Grade II shall be given such privileges as the Commissioner may from time to time determine.
 
-#### Section 223 — Separate confinement of inmates
+#### Section 223
 
 No room or cell shall be used for the separate confinement of an inmate in pursuance of a disciplinary award under Part XIII of the Act, or for the confinement of a refractory or violent inmate, unless it is certified by the Commissioner to be suitable for the purpose and to be furnished with the means of enabling the inmate so confined to communicate at any time with a prison officer.
 
-#### Section 224 — Punishment of inmates
+Separate confinement of inmates
+
+#### Section 224
 
 An inmate who has been found guilty of a prison offence under Part XIII of the Act may be reduced to Grade I and shall not be promoted to Grade II until he has satisfied the officer in charge as to his conduct.
 
-#### Section 225 — Mechanical restraints
+Punishment of inmates
+
+#### Section 225
 
 No mechanical restraint shall be used in a junior centre.
 
-#### Section 226 — Prohibition of tobacco
+Mechanical restraints
+
+#### Section 226
 
 No inmate in junior centre shall be allowed to smoke or have in his possession any tobacco or cigarettes.
 
-#### Section 227 — Education
+Prohibition of tobacco
+
+#### Section 227
 
 Arrangements shall be made for the part-time education of inmates either within the normal working hours or outside such hours.
 
-#### Section 228 — Recreation of inmates
+Education
+
+#### Section 228
 
 At least one hour a day shall be devoted to physical training or to organised games for inmates and such periods shall be deemed to form part of the normal working hours.
 
-#### Section 229 — Supply of books
+Recreation of inmates
+
+#### Section 229
 
 A library shall be provided in every centre and, subject to such conditions as the Commissioner may determine, every inmate shall be allowed to have library books and to exchange them as often as practicable.
 
-#### Section 230 — Social relations and after care
+Supply of books
+
+#### Section 230
 
 (1) Special attention shall be paid to the maintenance of such relations between inmates and their families as are judged by an officer in charge to be desirable in the best interests of the inmates.
 
+Social relations and after care
+
 (2) So far as is practicable and in the opinion of an officer in charge desirable, an inmate shall be encouraged and assisted to maintain and establish relations with persons or agencies outside the centre as may promote his social rehabilitation.
 
-#### Section 231 — Letters and visits
+#### Section 231
 
 (1) Every inmate shall be entitled to send and receive a letter on admission to a centre and thereafter once in four weeks and to receive a visit once in four weeks:
+
+Letters and visits
 
 Provided that the officer in charge may allow an inmate to send a letter and receive a reply in lieu of a visit.
 
@@ -6105,21 +6245,27 @@ Provided that the officer in charge may allow an inmate to send a letter and rec
 
 (3) The degree of supervision to be exercised during visits to inmates shall, subject to any express provision of these Rules, be in the discretion of the officer in charge.
 
-#### Section 232 — Diet
+#### Section 232
 
 Except as may be determined by the medical officer or the Commissioner, or as provided under Part VII, no inmates shall be allowed to have any food other than the normal diet provided by prison authorities.
 
-#### Section 233 — Clothing
+Diet
+
+#### Section 233
 
 All inmates shall wear special clothing as may be determined by the Commissioner.
 
-### PART XIX — MISCELLANEOUSPART XIX
+Clothing
+
+### PART XIX — MISCELLANEOUS
 
 MISCELLANEOUS
 
-#### Section 234 — Persons not to divulge information without authority
+#### Section 234
 
 No person who is authorised to visit a prison or work in prison shall, without the authority of the Commissioner, divulge to any person, otherwise than in the course of his duties, any information concerning the administration of prisons and the condition and treatment and affairs of prisoners.
+
+Persons not to divulge information without authority
 
 ## FIRST SCHEDULE
 

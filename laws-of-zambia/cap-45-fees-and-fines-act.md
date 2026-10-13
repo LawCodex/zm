@@ -59,11 +59,13 @@ a reference to another Act does not include a reference to any statutory instrum
 
 ### PART II — FEES AND FEE UNITS
 
-#### Section 3 — In any written law, unless the context otherwise requires, "fee unit" means one
+#### Section 3
 
 In any written law, unless the context otherwise requires, "fee unit" means one hundred and eighty kwacha.
 
-#### Section 4 — Where a provision in any Act imposes a fee and the fee is expressed as-
+#### Section 4
+
+Where a provision in any Act imposes a fee and the fee is expressed as-
 
 (a)
 
@@ -127,13 +129,13 @@ if it has never been so varied, the year in which that provision came into force
 
 ### PART III — FINES AND PENALTY UNITS
 
-#### Section 6 — In any written law, unless the context otherwise requires, "penalty unit" means
+#### Section 6
 
 In any written law, unless the context otherwise requires, "penalty unit" means one hundred and eighty kwacha.
 
 Penalty units
 
-#### Section 7 — Where any Act provides that a fine may be imposed for an offence and the
+#### Section 7
 
 Where any Act provides that a fine may be imposed for an offence and the amount of the fine, or the maximum amount of the fine, that may be so imposed is expressed as-
 

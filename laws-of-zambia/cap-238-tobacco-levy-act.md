@@ -107,9 +107,9 @@ An Act to provide for the imposition and control of a levy on tobacco grown in t
 
 This Act may be cited as the Tobacco Levy Act.
 
-### Section 2 — In this Act, unless the context otherwise requires-
+### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "Association" means the Tobacco Association of Zambia established pursuant to the Tobacco Act;
 

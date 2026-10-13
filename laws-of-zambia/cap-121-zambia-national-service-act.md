@@ -303,9 +303,9 @@ PART I PRELIMINARY
 
 This Act may be cited as the Zambia National Service Act.
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "appropriate authority" means the authority charged, in accordance with this Act, with responsibility for the matter in question:
 
@@ -365,7 +365,7 @@ Cap. 281
 
 "Serviceman" means a member of the Service enlisted or engaged under section five or eleven or appointed to the permanent staff under section six.
 
-### PART II — ESTABLISHMENT OF THE ZAMBIA NATIONAL SERVICEPART II
+### PART II — ESTABLISHMENT OF THE ZAMBIA NATIONAL SERVICE
 
 ESTABLISHMENT OF THE ZAMBIA NATIONAL SERVICE
 
@@ -575,7 +575,7 @@ An applicant for a postponement certificate or the renewal of a postponement cer
 
 The Minister may, by statutory instrument, exempt any person or any class of persons from liability under this Act to be called upon to serve in the Service.
 
-### PART V — SECONDMENT TO THE SERVICEPART V
+### PART V — SECONDMENT TO THE SERVICE
 
 SECONDMENT TO THE SERVICE
 
@@ -595,7 +595,7 @@ Notwithstanding the foregoing provisions of this Act but subject to the provisio
 
 The appropriate authority may, at any time during the term of an engagement or period of secondment, discharge a member of the Service or terminate his secondment, as the case may be, if, for any reason, his services are no longer required.
 
-### PART VI — UNITS, COMMANDANT AND RANKS OF THE SERVICEPART VI
+### PART VI — UNITS, COMMANDANT AND RANKS OF THE SERVICE
 
 UNITS, COMMANDANT AND RANKS OF THE SERVICE
 
@@ -639,7 +639,7 @@ may prescribe the authority or authorities in whom the power to make appointment
 
 (4) A Serviceman in charge of a branch, unit, sub-unit, camp or settlement shall carry out the orders of the Commandant in all matters including discipline, internal administration and training of the Servicemen under his command.
 
-### PART VII — DUTIES AND EMPLOYMENT OF THE SERVICEPART VII
+### PART VII — DUTIES AND EMPLOYMENT OF THE SERVICE
 
 DUTIES AND EMPLOYMENT OF THE SERVICE
 
@@ -687,7 +687,7 @@ Cap. 106
 
 (3) All the members of the Service serving outside the Republic under the provisions of this section shall be under the orders of their own superior officers, and shall, in so far as appertains to their terms and conditions of service and the maintenance of discipline, be subject to the provisions of this Act and shall, so far as is possible, perform duties of a like nature to those which they may be required to perform under this Act in Zambia, so however that, except as aforesaid, nothing in this section shall operate contrary to the general law for the time being in force in such friendly neighbouring State which shall apply to and be observed by such members of the Service.
 
-### PART VIII — EMPLOYER'S OBLIGATIONSPART VIII
+### PART VIII — EMPLOYER'S OBLIGATIONS
 
 EMPLOYER'S OBLIGATIONS
 
@@ -725,7 +725,7 @@ in a case where the employing authority is a body corporate, the individual or g
 
 in any other case, the individual who is empowered to terminate and has in fact terminated the employment of the employee. (As amended by Act No. 13 of 1994)
 
-### PART IX — DISCIPLINEPART IX
+### PART IX — DISCIPLINE
 
 DISCIPLINE
 
@@ -1071,7 +1071,7 @@ Active participation in trade union forbidden
 
 Cap. 269
 
-### PART X — MISCELLANEOUS OFFENCESPART X
+### PART X — MISCELLANEOUS OFFENCES
 
 MISCELLANEOUS OFFENCES
 
@@ -1141,7 +1141,7 @@ Nothing in this Act shall exempt any person from being proceeded against under a
 
 Provided that no person shall be punished twice for the same offence.
 
-### PART XI — ADVISORY COMMITTEEPART XI
+### PART XI — ADVISORY COMMITTEE
 
 ADVISORY COMMITTEE
 
@@ -1155,7 +1155,7 @@ Power to prosecute under other written law not affected
 
 (3) A member of the Advisory Committee shall be appointed by virtue of the office he holds and not in his individual capacity.
 
-### PART XII — FINANCEPART XII
+### PART XII — FINANCE
 
 FINANCE
 
@@ -1195,7 +1195,7 @@ then any such contract shall have effect and be enforceable in the same manner a
 
 (2) Different provisions may be made under subsection (1) for different classes of members.
 
-### PART XIII — PENSIONS AND GRATUITIESPART XIII
+### PART XIII — PENSIONS AND GRATUITIES
 
 PENSIONS AND GRATUITIES
 
@@ -1227,7 +1227,7 @@ Pensions and gratuities
 
 Cap. 260
 
-### PART XIV — MISCELLANEOUS PROVISIONSPART XIV
+### PART XIV — MISCELLANEOUS PROVISIONS
 
 MISCELLANEOUS PROVISIONS
 
@@ -1301,15 +1301,15 @@ the distribution, posting, transfer, attachment and inspection of personnel; and
 
 the description, supply, use and disposal of arms, accoutre-ments, clothing, uniforms and other stores.
 
-### PART XV — DISSOLUTION OF ZAMBIA YOUTH SERVICE BOARDPART XV
+### PART XV — DISSOLUTION OF ZAMBIA YOUTH SERVICE BOARD
 
 DISSOLUTION OF ZAMBIA YOUTH SERVICE BOARD
 
-#### Section 51 — In this Part, unless the context otherwise requires-
+#### Section 51 — Interpretation
+
+In this Part, unless the context otherwise requires-
 
 "Board" means the Zambia Youth Service Board established under section four of the Zambia Youth Service Act.
-
-Interpretation
 
 Cap. 143
 
@@ -1325,7 +1325,9 @@ Cap. 143
 
 (4) When the Minister is satisfied that all necessary agreements and arrangements have been made for the winding up of the Board so that it may be dissolved, he may, by statutory instrument, order that the Board shall be dissolved on such date as may be appointed in the statutory instrument (in this Part referred to as "the appointed date").
 
-#### Section 53 — Upon the dissolution of the Board pursuant to section fifty-two-
+#### Section 53 — Vesting of lands and personal property in, and transfer of contractual and other
+
+Upon the dissolution of the Board pursuant to section fifty-two-
 
 (a)
 
@@ -1409,7 +1411,7 @@ THE NATIONAL SERVICE (GENERAL) REGULATIONS
 
 ARRANGEMENT OF REGULATIONS
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -1421,7 +1423,7 @@ Title
 
 Interpretation
 
-### PART II — REGISTRATIONPART II
+### PART II — REGISTRATION
 
 REGISTRATION
 
@@ -1429,7 +1431,7 @@ REGISTRATION
 
 National Service register
 
-### PART III — ENLISTMENT NOTICEPART III
+### PART III — ENLISTMENT NOTICE
 
 ENLISTMENT NOTICE
 
@@ -1445,7 +1447,7 @@ Postponement certificate
 
 Appeal to the Minister
 
-### PART IV — NATIONAL SERVICE HARDSHIP COMMITTEESPART IV
+### PART IV — NATIONAL SERVICE HARDSHIP COMMITTEES
 
 NATIONAL SERVICE HARDSHIP COMMITTEES
 
@@ -1453,7 +1455,7 @@ NATIONAL SERVICE HARDSHIP COMMITTEES
 
 National Service Hardship Committees
 
-### PART V — TRAINING IN SERVICEPART V
+### PART V — TRAINING IN SERVICE
 
 TRAINING IN SERVICE
 
@@ -1469,7 +1471,7 @@ Leadership course
 
 Period not counted as service
 
-### PART VI — GENERAL PROVISIONSPART VI
+### PART VI — GENERAL PROVISIONS
 
 GENERAL PROVISIONS
 
@@ -1489,7 +1491,7 @@ Proportion of monthly total earning prescribed under section 5 (4)
 
 Registrar's duty to notify the Commander of the Home Guard
 
-### PART VII — BRANCHES, CAMPS, UNITS AND RANKS IN THE SERVICEPART VII
+### PART VII — BRANCHES, CAMPS, UNITS AND RANKS IN THE SERVICE
 
 BRANCHES, CAMPS, UNITS AND RANKS IN THE SERVICE
 
@@ -1501,7 +1503,7 @@ Branches and units of the Service
 
 Ranks in the Service
 
-### PART VIII — UNIFORMS, WEAPONS AND OTHER MILITARY STORESPART VIII
+### PART VIII — UNIFORMS, WEAPONS AND OTHER MILITARY STORES
 
 UNIFORMS, WEAPONS AND OTHER MILITARY STORES
 
@@ -1513,7 +1515,7 @@ Interpretation
 
 Uniforms, weapons, etc.
 
-### PART IX — STAFF REGULATIONSPART IX
+### PART IX — STAFF REGULATIONS
 
 STAFF REGULATIONS
 
@@ -1549,7 +1551,7 @@ Medical treatment
 
 Seconded members
 
-### PART X — PREPARATION OF A CHARGE SHEETPART X
+### PART X — PREPARATION OF A CHARGE SHEET
 
 PREPARATION OF A CHARGE SHEET
 
@@ -1569,13 +1571,13 @@ Joinder of two or more accused in one charge
 
 Procedure rules in dealing with charges summarily
 
-### PART XI — TRIAL PROCEDUREPART XI
+### PART XI — TRIAL PROCEDURE
 
 TRIAL PROCEDURE 31.
 
 Trial procedure
 
-### PART XII — ADVISORY COMMITTEEPART XII
+### PART XII — ADVISORY COMMITTEE
 
 ADVISORY COMMITTEE
 
@@ -1603,7 +1605,7 @@ SECTION 50-THE NATIONAL SERVICE (GENERAL) REGULATIONS Regulations by the Ministe
 
 Statutory Instrument 2 of 1973 128 of 1985
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -1629,7 +1631,7 @@ Cap. 121
 
 "register" means the National Service register required to be kept by the Registrar under the provisions of section eight of the Act.
 
-### PART II — REGISTRATIONPART II
+### PART II — REGISTRATION
 
 REGISTRATION
 
@@ -1651,7 +1653,7 @@ National Service register
 
 (7) The Secretary of the Bursaries Committee of the Government and the Director of Civil Service Training shall furnish to the Registrar the names of, and such other particulars as may be required by the Registrar relating to, the students on the list of students receiving bursaries and studying outside Zambia.
 
-### PART III — ENLISTMENT NOTICEPART III
+### PART III — ENLISTMENT NOTICE
 
 ENLISTMENT NOTICE
 
@@ -1673,7 +1675,7 @@ Appeal to the Minister
 
 6\. A person aggrieved by the determination of a Hardship Committee may appeal to the Minister in the form prescribed in the Fourth Schedule hereto.
 
-### PART IV — NATIONAL SERVICE HARDSHIP COMMITTEESPART IV
+### PART IV — NATIONAL SERVICE HARDSHIP COMMITTEES
 
 NATIONAL SERVICE HARDSHIP COMMITTEES
 
@@ -1717,7 +1719,7 @@ serving a sentence of imprisonment or is in detention;
 
 shall during the period of any of the disabilities mentioned in paragraphs (a) to (d), be exempt from liability under the Act to be called up for the Service.
 
-### PART V — TRAINING IN SERVICEPART V
+### PART V — TRAINING IN SERVICE
 
 TRAINING IN SERVICE
 
@@ -1813,7 +1815,7 @@ before he first presents himself pursuant to an enlistment notice.
 
 Period not counted as service
 
-### PART VI — GENERAL PROVISIONSPART VI
+### PART VI — GENERAL PROVISIONS
 
 GENERAL PROVISIONS
 
@@ -1863,7 +1865,7 @@ Proportion of monthly total earning prescribed under section 5 (4)
 
 Registrar's duty to notify the Commander of the Home Guard
 
-### PART VII — BRANCHES, CAMPS, UNITS AND RANKS IN THE SERVICEPART VII
+### PART VII — BRANCHES, CAMPS, UNITS AND RANKS IN THE SERVICE
 
 BRANCHES, CAMPS, UNITS AND RANKS IN THE SERVICE
 
@@ -2007,7 +2009,7 @@ Serviceman.
 
 (3) Appointments, promotion or demotion of an officer of the Service to a rank of Chief Prefect or below shall be made by the Minister on the recommendation of the Commandant.
 
-### PART VIII — UNIFORMS, WEAPONS AND OTHER MILITARY STORESPART VIII
+### PART VIII — UNIFORMS, WEAPONS AND OTHER MILITARY STORES
 
 UNIFORMS, WEAPONS AND OTHER MILITARY STORES
 
@@ -2033,7 +2035,7 @@ when he is permitted or required by his superior officer to wear clothes other t
 
 (4) A Serviceman shall be issued with an identity card bearing his photograph.
 
-### PART IX — STAFF REGULATIONSPART IX
+### PART IX — STAFF REGULATIONS
 
 STAFF REGULATIONS
 
@@ -2301,7 +2303,7 @@ Seconded members
 
 (5) Where a seconded person occupies his own house he will continue to receive housing allowance at the rate at which he would have got if he were not seconded.
 
-### PART X — PREPARATION OF A CHARGE SHEETPART X
+### PART X — PREPARATION OF A CHARGE SHEET
 
 PREPARATION OF A CHARGE SHEET
 
@@ -2353,7 +2355,7 @@ Cap. 121
 
 (5) When transmitting the record of proceedings to the Commandant as required by the Act, it shall be necessary to accompany it with the Form Z specified in the Fifth Schedule hereto.
 
-### PART XI — TRIAL PROCEDUREPART XI
+### PART XI — TRIAL PROCEDURE
 
 TRIAL PROCEDURE
 
@@ -2387,7 +2389,7 @@ Trial procedure
 
 (5) If the accused pleads guilty or is found guilty, he shall be permitted to give a plea in mitigation or bring character witnesses.
 
-### PART XII — ADVISORY COMMITTEEPART XII
+### PART XII — ADVISORY COMMITTEE
 
 ADVISORY COMMITTEE
 

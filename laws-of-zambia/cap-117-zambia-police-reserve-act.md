@@ -97,9 +97,9 @@ Act No. 28 of 1985 13 of 1990
 
 This Act may be cited as the Zambia Police Reserve Act.
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "arms" includes firearms;
 
@@ -115,7 +115,7 @@ Interpretation
 
 The is hereby established a police force reserve, which shall be known as the Zambia Police Reserve.
 
-### PART II — ZAMBIA POLICE RESERVEPART II
+### PART II — ZAMBIA POLICE RESERVE
 
 ZAMBIA POLICE RESERVE
 
@@ -191,7 +191,7 @@ Every Reserve police officer enrolled under the provisions of this Act shall ser
 
 (2) Where any police officer for the time being in charge of the Zambia Police Force in any Police Division, or any police officer of or above the rank of Superintendent, considers that any imminent danger has arisen or is likely to arise with which he cannot efficiently deal by use of the police officers under his control, he may call out all or any of the Reserve police officers resident in the area under his jurisdiction, and in such case he shall, as soon as practicable, report to the Inspector-General the action he has taken and his reasons for such action. (As amended by No. 26 of 1985)
 
-#### Section 10 — The Reserve shall be issued with such uniform, arms, ammunition and
+#### Section 10
 
 The Reserve shall be issued with such uniform, arms, ammunition and equipment as may be approved by the Minister.
 
@@ -293,7 +293,7 @@ THE ZAMBIA POLICE RESERVE REGULATIONS
 
 ARRANGEMENT OF REGULATIONS
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -305,7 +305,7 @@ Title
 
 Interpretation
 
-### PART II — ORGANISATIONPART II
+### PART II — ORGANISATION
 
 ORGANISATION
 
@@ -317,7 +317,7 @@ Organisation
 
 Ranks and establishment
 
-### PART III — ENROLMENT, RELEASE AND RE-ENGAGEMENTPART III
+### PART III — ENROLMENT, RELEASE AND RE-ENGAGEMENT
 
 ENROLMENT, RELEASE AND RE-ENGAGEMENT
 
@@ -355,7 +355,7 @@ Retention of services
 
 Delivery up of arms, etc.
 
-### PART IV — DISCIPLINEPART IV
+### PART IV — DISCIPLINE
 
 DISCIPLINE
 
@@ -363,7 +363,7 @@ DISCIPLINE
 
 Offences
 
-### PART V — TRAININGPART V
+### PART V — TRAINING
 
 TRAINING
 
@@ -375,7 +375,7 @@ Inspector-General to control training
 
 Exemption from annual training
 
-### PART VI — PAY AND ALLOWANCESPART VI
+### PART VI — PAY AND ALLOWANCES
 
 PAY AND ALLOWANCES
 
@@ -383,7 +383,7 @@ Regulation 16.
 
 Rate of pay and allowances
 
-### PART VII — GENERAL MANAGEMENT OF RESERVEPART VII
+### PART VII — GENERAL MANAGEMENT OF RESERVE
 
 GENERAL MANAGEMENT OF RESERVE
 
@@ -419,7 +419,7 @@ SECTION 14-THE ZAMBIA POLICE RESERVE REGULATIONS Regulations by the Minister
 
 Statutory Instruments 198 of 1966 331 of 1968 Act No. 26 of 1985 13 of 1994
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -447,7 +447,7 @@ Interpretation
 
 "superior officer" means a Reserve police officer of or above the rank of Reserve Assistant Superintendent. (As amended by Act No. 26 of 1985)
 
-### PART II — ORGANISATIONPART II
+### PART II — ORGANISATION
 
 ORGANISATION
 
@@ -497,7 +497,7 @@ Equivalent rank Reserve in the Force
 
 (3) The precedence of superior officers of the same rank in the Reserve shall be determined among themselves by the order in which their names appear in the Reserve Orders of the Force periodically published by the Inspector-General. (As amended by Act No. 26 of 1985)
 
-### PART III — ENROLMENT, RELEASE AND RE-ENGAGEMENTPART III
+### PART III — ENROLMENT, RELEASE AND RE-ENGAGEMENT
 
 ENROLMENT, RELEASE AND RE-ENGAGEMENT
 
@@ -557,7 +557,7 @@ Retention of services
 
 Delivery up of arms, etc.
 
-### PART IV — DISCIPLINEPART IV
+### PART IV — DISCIPLINE
 
 DISCIPLINE
 
@@ -591,7 +591,7 @@ Provided that the Inspector-General shall not confirm, vary or quash the award u
 
 Provided that no proceedings shall be taken against any Reserve police officer under the provisions of this regulation in respect of any offence for which he has already been punished. (As amended by Act No. 26 of 1985 and No. 13 of 1994)
 
-### PART V — TRAININGPART V
+### PART V — TRAINING
 
 TRAINING
 
@@ -599,55 +599,67 @@ TRAINING
 
 Inspector-General to control training
 
-#### Section 15 — Exemption from annual training
+#### Section 15
 
 Every District Commandant may, in his discretion, exempt any Reserve
 
+Exemption from annual training
+
 police officer in his District from carrying out the whole or any portion of annual training but every such exemption shall be reported to the Divisional Commandant. (As amended by Act No. 26 of 1985)
 
-### PART VI — PAY AND ALLOWANCESPART VI
+### PART VI — PAY AND ALLOWANCES
 
 PAY AND ALLOWANCES
 
-#### Section 16 — Rate of pay and allowances
+#### Section 16
 
 (1) Reserve police officers, when undergoing training, or when called upon or called out shall be entitled to pay at the rate set out in the Second Schedule.
+
+Rate of pay and allowances
 
 (2) There shall be paid to Reserve police officers such allowances, in respect of travelling or other expenses necessarily incurred in the performance of their duties, as the Inspector-General may, with the approval of the Minister, prescribe.
 
 (3) Reserve police officers shall be entitled to free medical attention from Government medical officers in respect of injuries sustained or illness contracted on duty. If any question arises as to whether an injury or illness was so sustained or contracted, the decision of the Inspector-General thereon shall be final. (As amended by Act No. 26 of 1985)
 
-### PART VII — GENERAL MANAGEMENT OF RESERVEPART VII
+### PART VII — GENERAL MANAGEMENT OF RESERVE
 
 GENERAL MANAGEMENT OF RESERVE
 
-#### Section 17 — Care of arms, etc
+#### Section 17
 
 Arms, ammunition, equipment, clothing and other stores issued to any Reserve police officer shall be used for police purposes only and every Reserve police officer to whom they are issued shall produce them in good condition, fair wear and tear excepted, whenever called upon to do so by an officer authorised so to do by the Inspector-General.
 
+Care of arms, etc.
+
 (As amended by Act No. 26 of 1985)
 
-#### Section 18 — Control of expenditure
+#### Section 18
 
 (1) The Commissioner shall be responsible for all moneys allotted for the establishment, upkeep and training of the Reserve and such moneys shall be administered by the Inspector-General.
 
 (2) Any grant of money by the Inspector-General shall be expended on the particular service for which it is granted, and proper books of account and vouchers dealing with the expenditure thereof shall be kept and shall be available at all times for inspection by the Inspector-General or by the Auditor-General or his duly authorised representative.
 
+Control of expenditure
+
 (3) Reserve police officers shall submit to the Inspector-General such accounts and returns connected with the administration and training of the Reserve as the Commissioner may require. (As amended by Act No. 26 of 1985)
 
-#### Section 19 — Loss of documents
+#### Section 19
 
 Any loss or deficiency in secret or confidential documents shall be reported to the Inspector-General as soon as the loss or deficiency is observed.
 
+Loss of documents
+
 (As amended by Act No. 26 of 1985)
 
-#### Section 20 — Report of injury or death
+#### Section 20
 
 Whenever injury to or the death of a Reserve police officer occurs on or arising out of his duty, his Divisional Commandant shall report such fact to the Inspector-General, and give a written report to the Inspector-General of the circumstances under which such injury or death was caused. A medical certificate shall, whenever possible, accompany such report.
 
+Report of injury or death
+
 (As amended by Act No. 26 of 1985)
 
-#### Section 21 — Compensation for injury or death
+#### Section 21
 
 (1) The compensation, gratuity or pension payable to a Reserve police officer under subsection (1), and the pension or allowances payable to the dependants of such officer under sub-section (2) of section twelve of the Act shall be equal to the compensation which would be payable in the circumstances set out in that section under the Workers' Compensation Act if such officer were a worker within the meaning of such latter Act.
 
@@ -663,11 +675,13 @@ the monthly earnings of a Reserve police officer shall be deemed to be either hi
 
 any earnings in excess of two thousand four hundred kwacha a year shall be disregarded.
 
-#### Section 22 — Revocation and savings
+#### Section 22
 
 (1) The Zambia Police Reserve Regulations, under Chapter 39 of the 1964 Edition of the Laws, are hereby revoked.
 
 (2) Notwithstanding the revocation of the said Zambia Police Reserve Regulations-
+
+Revocation and savings
 
 (a)
 

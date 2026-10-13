@@ -121,9 +121,9 @@ SHERIFFS An Act to make provision for the appointment of Sheriffs and other offi
 
 This Act may be cited as the Sheriffs Act.
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "bailiwick" means an area specified under the provisions of section six;
 

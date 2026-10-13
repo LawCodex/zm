@@ -165,7 +165,7 @@ NATIONAL YOUTH DEVELOPMENT COUNCIL
 
 An Act to establish the National Youth Development Council; to define the functions and powers of the Council; to provide for the registration of youth organisations; and to provide for matters connected with or incidental to the foregoing. [21st April, 1986]
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -173,9 +173,9 @@ PRELIMINARY
 
 This Act may be cited as the National Youth Development Council Act.
 
-#### Section 2 — In this Act, unless the context otherwise requires-
+#### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "Chairman" means the person appointed Chairman of the Council under section five;
 
@@ -189,7 +189,7 @@ Interpretation
 
 "Vice-Chairman" means the person appointed Vice-Chairman of the Council under section five.
 
-### PART II — NATIONAL YOUTH DEVELOPMENT COUNCILPART II
+### PART II — NATIONAL YOUTH DEVELOPMENT COUNCIL
 
 NATIONAL YOUTH DEVELOPMENT COUNCIL
 
@@ -345,7 +345,7 @@ No action or other proceedings shall lie or be instituted against any member, me
 
 (3) If any person having information which to his knowledge has been published or disclosed in contravention of subsection (1) unlawfully publishes or communicates any such information to any other person, he shall be guilty of an offence and shall be liable, upon conviction, to a fine not exceeding six thousand two hundred and fifty penalty units or to imprisonment for a term not exceeding three years, or to both. (As amended by Act No. 13 of 1994)
 
-### PART III — REGISTRATION OF YOUTH ORGANISATIONSPART III
+### PART III — REGISTRATION OF YOUTH ORGANISATIONS
 
 REGISTRATION OF YOUTH ORGANISATIONS
 
@@ -449,7 +449,7 @@ Cancellation of registration
 
 (3) On any appeal made under subsection (1), the Minister may confirm, set aside or vary the notice of the Secretary, and the decision of the Minister shall be final.
 
-### PART IV — FINANCIAL PROVISIONSPART IV
+### PART IV — FINANCIAL PROVISIONS
 
 FINANCIAL PROVISIONS
 
@@ -537,7 +537,7 @@ such other information as the Minister may require.
 
 (3) The Minister shall, not later than seven days after the first sitting of the National Assembly next after the receipt of the report referred to in subsection (1), lay it before the National Assembly.
 
-### PART V — MISCELLANEOUS PROVISIONSPART V
+### PART V — MISCELLANEOUS PROVISIONS
 
 MISCELLANEOUS PROVISIONS
 

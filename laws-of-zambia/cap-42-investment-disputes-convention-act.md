@@ -69,9 +69,9 @@ An Act to give effect to the Convention on the Settlement of Investment Disputes
 
 This Act may be cited as the Investment Disputes Convention Act.
 
-### Section 2 — In this Act, unless the context otherwise requires-
+### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "award" means an award rendered pursuant to the Convention and includes any decision interpreting, revising or annulling an award, being a decision pursuant to the Convention;
 

@@ -219,7 +219,7 @@ Cap. 305
 
 any woman who is or has been married shall be deemed to be of full age.
 
-### PART II — CITIZENSHIP BOARDPART II
+### PART II — CITIZENSHIP BOARD
 
 CITIZENSHIP BOARD
 
@@ -363,7 +363,7 @@ The Board shall ordinarily meet for the transaction of business at such times as
 
 (4) The Board may act notwithstanding a vacancy in its membership.
 
-### PART III — CITIZENSHIP BY ADOPTIONPART III
+### PART III — CITIZENSHIP BY ADOPTION
 
 CITIZENSHIP BY ADOPTION
 
@@ -375,7 +375,7 @@ A child adopted under the provisions of the Adoption Act shall, if he was not a 
 
 Citizenship by adoption. Cap. 54
 
-### PART IV — CITIZENSHIP BY REGISTRATIONPART IV
+### PART IV — CITIZENSHIP BY REGISTRATION
 
 CITIZENSHIP BY REGISTRATION
 
@@ -461,7 +461,7 @@ Period to count as period of residence Cap. 1
 
 (As amended by No. 17 of 1986
 
-### PART V — CESSER, DEPRIVATION AND RENUNCIATION OF CITIZENSHIPPART V
+### PART V — CESSER, DEPRIVATION AND RENUNCIATION OF CITIZENSHIP
 
 CESSER, DEPRIVATION AND RENUNCIATION OF CITIZENSHIP
 
@@ -567,7 +567,7 @@ may, in such manner as may be prescribed, make a declaration of renunciation of 
 
 (5) Where a citizen who has satisfied the Board as provided in paragraph (b) of subsection (2) does not thereafter become a citizen of another country within six months from the date of registration of his declaration of renunciation, he shall be, and be deemed to have remained, a citizen of Zambia, notwithstanding the registration of his declaration of renunciation.
 
-### PART VI — SUPPLEMENTALPART VI
+### PART VI — SUPPLEMENTAL
 
 SUPPLEMENTAL
 
@@ -749,7 +749,7 @@ CITIZENSHIP OF ZAMBIA THE CITIZENSHIP OF ZAMBIA REGULATIONS
 
 ARRANGEMENT OF REGULATIONS
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -765,7 +765,7 @@ Interpretation
 
 Appointment and duties of Citizenship Officer
 
-### PART II — APPLICATION FOR REGISTRATION AS A CITIZEN OF ZAMBIAPART II
+### PART II — APPLICATION FOR REGISTRATION AS A CITIZEN OF ZAMBIA
 
 APPLICATION FOR REGISTRATION AS A CITIZEN OF ZAMBIA
 
@@ -831,7 +831,7 @@ Prescription of languages
 
 Evidence in support of application
 
-### PART III — LOSS OF CITIZENSHIPPART III
+### PART III — LOSS OF CITIZENSHIP
 
 LOSS OF CITIZENSHIP
 
@@ -847,7 +847,7 @@ Procedure for deprivation of citizenship
 
 Surrender of certificate of registration
 
-### PART IV — MISCELLANEOUSPART IV
+### PART IV — MISCELLANEOUS
 
 MISCELLANEOUS
 
@@ -883,7 +883,7 @@ SECTION 33-THE CITIZENSHIP OF ZAMBIA REGULATIONS Regulations by the Citizenship 
 
 Statutory Instrument 56 of 1977 Act No. 13 of 1994 38 of 1997
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -923,7 +923,7 @@ Cap. 123
 
 Appointment and duties of Citizenship Officer
 
-### PART II — APPLICATION FOR REGISTRATION AS A CITIZEN OF ZAMBIAPART II
+### PART II — APPLICATION FOR REGISTRATION AS A CITIZEN OF ZAMBIA
 
 APPLICATION FOR REGISTRATION AS A CITIZEN OF ZAMBIA
 
@@ -1021,7 +1021,7 @@ any statement concerning particulars of citizenship shall be supported by a pass
 
 (6) Any certificate, declaration, or affidavit issued or, as the case may be, sworn before the advocate of the applicant shall not be valid for the purposes of these Regulations.
 
-### PART III — LOSS OF CITIZENSHIPPART III
+### PART III — LOSS OF CITIZENSHIP
 
 LOSS OF CITIZENSHIP
 
@@ -1059,7 +1059,7 @@ Provided that the Board may in special circumstances at any time extend the time
 
 21\. Where an order has been made depriving a person of his citizenship of Zambia, his name shall be removed from the register of citizens and, if required by notice in writing given by the Board, such person or any other person who is in possession of the relevant certificate of registration shall deliver up the same to such person and within such time as may be specified in the notice, and the said certificate shall be cancelled.
 
-### PART IV — MISCELLANEOUSPART IV
+### PART IV — MISCELLANEOUS
 
 MISCELLANEOUS
 

@@ -65,9 +65,9 @@ An Act to provide for the establishment of the office of the Clerk of the Nation
 
 This Act may be cited as the National Assembly Staff Act.
 
-### Section 2 — In this Act, unless the context otherwise requires-
+### Section 2 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "Clerk" means the person appointed Clerk of the National Assembly under section three.
 

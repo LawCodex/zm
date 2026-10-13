@@ -169,7 +169,7 @@ STATE PROCEEDINGS
 
 An Act to provide for civil proceedings by and against the State and the civil liabilities and rights of the State and its servants; and for purposes connected with the aforesaid matters. [4th June, 1965]
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -203,7 +203,7 @@ Cap. 25 Cap. 27 Cap. 28
 
 Provided that the State shall not, for the purposes of Part IV or V, be deemed to be a party to any proceedings by reason only that they are brought by the Attorney-General upon the relation of some other person. (As amended by No. 38 of 1970)
 
-### PART II — SUBSTANTIVE LAWPART II
+### PART II — SUBSTANTIVE LAW
 
 SUBSTANTIVE LAW
 
@@ -333,7 +333,7 @@ Provisions relating to Defence Force
 
 (1), the President or a Minister authorised by him may, if satisfied that the act or omission was necessary for any such purpose, issue a certificate to the effect that the act or omission was necessary for that purpose; and the certificate shall, in those proceedings, be conclusive as to the matter so certified.
 
-### PART III — JURISDICTION AND PROCEDUREPART III
+### PART III — JURISDICTION AND PROCEDURE
 
 JURISDICTION AND PROCEDURE
 
@@ -451,7 +451,7 @@ proceedings brought by the Attorney-General on the relation of some other person
 
 proceedings relating to charitable trusts by or against the Attorney-General.
 
-### PART IV — JUDGMENTS AND EXECUTIONPART IV
+### PART IV — JUDGMENTS AND EXECUTION
 
 JUDGMENTS AND EXECUTION
 
@@ -503,7 +503,7 @@ any money payable by the State to any person on account of a deposit in the Post
 
 (2) The provisions of subsection (1) shall, so far as they relate to forms of relief falling within the jurisdiction of a subordinate court, have effect in relation to subordinate courts as they have effect in relation to the High Court.
 
-### PART V — MISCELLANEOUS AND SUPPLEMENTALPART V
+### PART V — MISCELLANEOUS AND SUPPLEMENTAL
 
 MISCELLANEOUS AND SUPPLEMENTAL
 

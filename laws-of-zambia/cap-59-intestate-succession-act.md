@@ -233,7 +233,7 @@ Act No. 5 of 1989 13 of 1994
 
 [19th May, 1989
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -261,9 +261,9 @@ property which immediately before the death of the intestate was institutionalis
 
 family property.
 
-#### Section 3 — In this Act, unless the context otherwise requires-
+#### Section 3 — Interpretation
 
-Interpretation
+In this Act, unless the context otherwise requires-
 
 "administrator" means a person to whom a grant of letters of administration has been made and includes the Administrator-General;
 
@@ -325,7 +325,7 @@ Cap. 28
 
 "syndic" means a person deputed to represent and transact the affairs of a corporation.
 
-### PART II — SUCCESSIONPART II
+### PART II — SUCCESSION
 
 SUCCESSION
 
@@ -363,7 +363,9 @@ Cap. 60
 
 (2) In respect of a minor, the mother, father or guardian shall hold his share of the estate in trust until he ceases to be a minor.
 
-#### Section 6 — Where an intestate leaves-
+#### Section 6 — Distribution where intestate survived by no spouse, etc
+
+Where an intestate leaves-
 
 (a)
 
@@ -385,7 +387,9 @@ no spouse, children, parents, or dependants, the estate shall be distributed to 
 
 no spouse, children, parents, dependants or near relatives, the estate shall be bona vacantia and shall devolve upon the State;
 
-#### Section 7 — Where an intestate leaves-
+#### Section 7 — Distribution where intestate survived by spouse, etc
+
+Where an intestate leaves-
 
 (a)
 
@@ -489,7 +493,7 @@ otherwise unlawfully interferes with the use by any person of any property refer
 
 shall be guilty of an offence and liable on conviction to a fine not exceeding seven hundred and fifty penalty units or imprisonment not exceeding two years, or both. (As amended by Act No. 13 of 1994)
 
-### PART III — ADMINISTRATION OF ESTATESPART III
+### PART III — ADMINISTRATION OF ESTATES
 
 ADMINISTRATION OF ESTATES
 
@@ -657,7 +661,7 @@ provide for the vesting in the successor of any property belonging to the estate
 
 (2) A person who wilfully and without sufficient cause fails to deliver up the letters of administration, in accordance with subsection (1), shall be guilty of an offence and liable upon conviction to a fine not exceeding one hundred and twenty-five penalty units or to imprisonment not exceeding three months, or both. (As amended by Act No. 13 of 1994)
 
-### PART IV — GENERALPART IV
+### PART IV — GENERAL
 
 GENERAL
 

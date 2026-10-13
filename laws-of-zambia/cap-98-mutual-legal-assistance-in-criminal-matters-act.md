@@ -41,7 +41,9 @@ Section
 
 #### Section 7 — Administrative arrangements
 
-#### Section 8 — Assistance may be provided subject to conditions
+#### Section 8
+
+Assistance may be provided subject to conditions
 
 #### Section 9 — Requests by Zambia
 
@@ -105,7 +107,7 @@ OFOFFENDERSPART II FOREIGN INVESTIGATIONS OR OTHER PROCEEDINGS IN RESPECT OF OFF
 
 #### Section 37 — Appeal on question of law
 
-### PART III — ADMISSIBILITY IN ZAMBIA OF EVIDENCE OBTAINED ABROADPART III
+### PART III — ADMISSIBILITY IN ZAMBIA OF EVIDENCE OBTAINED ABROAD
 
 ADMISSIBILITY IN ZAMBIA OF EVIDENCE OBTAINED ABROAD
 
@@ -135,7 +137,7 @@ Act No. 19 of 1993.
 
 An Act to provide for the implementation of treaties for mutual legal assistance in criminal matters and to provide for matters connected with or incidental to the foregoing. [30th April, 1993
 
-### PART I — PRELIMINARYPART I
+### PART I — PRELIMINARY
 
 PRELIMINARY
 
@@ -733,7 +735,7 @@ Presumption of continuity
 
 Appeal on question of law Cap. 88
 
-### PART III — ADMISSIBILITY IN ZAMBIA OF EVIDENCE OBTAINED ABROADPART III
+### PART III — ADMISSIBILITY IN ZAMBIA OF EVIDENCE OBTAINED ABROAD
 
 ADMISSIBILITY IN ZAMBIA OF EVIDENCE OBTAINED ABROAD
 
