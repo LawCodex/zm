@@ -25,6 +25,57 @@ def clean_title(t):
     return t
 
 
+def toc_titles(lines):
+    """Section titles from the "ARRANGEMENT OF SECTIONS": "12." + next line, or "12. Title" (first occurrence)."""
+    titles = {}
+    for i, x in enumerate(lines):
+        m = re.match(r"^(\d{1,3}[A-Z]?)\.\s*(.*)$", x)
+        if not m:
+            continue
+        t = m.group(2).strip()
+        if not t:
+            j = i + 1
+            while j < len(lines) and j <= i + 3 and not lines[j]:
+                j += 1
+            t = lines[j].strip() if j < len(lines) else ""
+        if t and len(t) < 150 and not re.match(r"^\(?\d", t) and t[:1].isupper() and m.group(1) not in titles:
+            titles[m.group(1)] = t.rstrip(".")
+    return titles
+
+
+def add_titles(body, titles):
+    """'Section N' headings get the title from the arrangement of sections; the marginal note repeating the title
+    a few lines below the heading is removed."""
+    out = list(body)
+    for i, x in enumerate(out):
+        if x is None:
+            continue
+        m = re.match(r"^(#+ Section )(\d{1,3}[A-Z]?)$", x)
+        if not m or m.group(2) not in titles:
+            continue
+        t = titles[m.group(2)]
+        out[i] = "%s%s — %s" % (m.group(1), m.group(2), t)
+        for j in range(i + 1, min(i + 14, len(out))):
+            if out[j] is None:
+                continue
+            if out[j].startswith("#"):
+                break
+            if out[j].strip() == t or out[j].strip() == t + ".":
+                out[j] = None
+                break
+            if out[j].endswith(" " + t):
+                out[j] = out[j][: -len(t)].rstrip()
+                break
+    res = []
+    for x in out:
+        if x is None:
+            continue
+        if x == "" and res and res[-1] == "":
+            continue
+        res.append(x)
+    return res
+
+
 def main(repo):
     items = json.load(open(os.path.join(RAW, "index.json")))
     n = skipped = missing = 0
@@ -45,7 +96,17 @@ def main(repo):
             continue
         title = clean_title(it["title"])
         head = "\n".join(full.splitlines()[:80])
-        if it["collection"] == "constitution":
+        if k == "680":  # Volume 1 PDF: chronological tables and index, then Chapter 1 (Constitution of Zambia Act)
+            idx = next((i for i, pg in enumerate(pages) if re.search(r"CHAPTER 1\s+THE CONSTITUTION OF ZAMBIA ACT", pg[:800])), None)
+            if idx is None:
+                continue
+            pages = pages[idx:]
+            title = "Constitution of Zambia Act (Cap. 1)"
+            path = os.path.join(repo, "constitution", "cap-1-constitution-of-zambia-act.md")
+            meta = {"title": title, "identifier": "Cap. 1", "type": "constitution", "volume": "Volume 1",
+                    "note": "Laws of Zambia revised edition text (Constitution of 1991 as amended in 1996); "
+                            "substantially amended by the Constitution of Zambia (Amendment) Act No. 2 of 2016"}
+        elif it["collection"] == "constitution":
             path = os.path.join(repo, "constitution", "constitution-of-zambia-amendment-act-2016.md")
             meta = {"title": "Constitution of Zambia (Amendment) Act, 2016", "identifier": "Act No. 2 of 2016",
                     "type": "constitution", "year": "2016"}
@@ -76,7 +137,10 @@ def main(repo):
                      "source": "https://www.parliament.gov.zm/node/%s" % k, "file": pdfs[0], "retrieved": TODAY})
         if it.get("summary"):
             meta["summary"] = it["summary"][:500]
-        write_md(path, meta, title, structure(clean_pages(pages), "en"))
+        lines = [x for x in clean_pages(pages) if "Copyright Ministry of Legal Affairs" not in x and x != "The Laws of Zambia"]
+        body = structure(lines, "en")
+        body = add_titles(body, toc_titles(lines))
+        write_md(path, meta, title, body)
         n += 1
     print("written", n, "skipped", skipped, "not downloaded yet", missing)
 
